@@ -343,8 +343,9 @@
     <button class="back-btn" id="album-back-btn">← Back</button>
     <div class="breadcrumb" id="album-breadcrumb"></div>
   </nav>
-  <div class="album-view-header" id="album-header"></div>
-  <div class="track-list" id="track-list"></div>
+<div class="album-view-header" id="album-header"></div>
+<div class="album-context" id="album-context"></div>   ← ADD THIS
+<div class="track-list" id="track-list"></div>
 </div>
 
 <!-- ═══════════ SONG VIEW ═══════════ -->
@@ -763,7 +764,7 @@ const ALBUMS = [
       '走，一起去看日出吧','向阳而生',
       '点燃银河尽头的篝火','当全世界忘了我','虚幻与现实'
     ]
-  }
+  },
   {
     id: 'liangbian',
     title: '量变临界点',
@@ -777,6 +778,7 @@ const ALBUMS = [
       '温暖的房子','不重逢','人之爱','晨光里有你'
     ]
   }
+  ];
   function renderAlbumContext(album) {
   const contextEl = document.getElementById('album-context');
   if (!contextEl) return;
