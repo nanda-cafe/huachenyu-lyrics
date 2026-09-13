@@ -311,6 +311,111 @@
     .album-grid{grid-template-columns:repeat(auto-fill, minmax(150px, 1fr));gap:14px;}
     .album-view-header .avh-top{flex-direction:column;align-items:center;text-align:center;}
   }
+  /* ═══════════ Sing Along toggle ═══════════ */
+.song-view-toggles{
+  display:flex;justify-content:center;align-items:center;gap:14px;
+  flex-wrap:wrap;margin-bottom:16px;
+}
+.sing-along-btn{
+  padding:6px 18px;border-radius:20px;border:none;
+  background:linear-gradient(135deg,#d32f2f,#b22222);color:#fff;
+  font-size:0.82rem;font-family:inherit;font-weight:600;cursor:pointer;
+  letter-spacing:0.3px;
+  box-shadow:0 3px 10px rgba(178,34,34,0.28);
+  transition:transform 0.14s, box-shadow 0.16s;
+}
+.sing-along-btn:hover{transform:translateY(-1px);
+  box-shadow:0 5px 14px rgba(178,34,34,0.4);}
+.sing-along-btn:active{transform:translateY(0) scale(0.98);}
+
+/* ═══════════ Sync view ═══════════ */
+.sync-bar{position:sticky;top:0;z-index:50;background:var(--card);
+  border-radius:12px;padding:14px 18px;margin-bottom:24px;
+  box-shadow:0 4px 16px rgba(0,0,0,0.08);border:1px solid #eee;}
+.sync-row{display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
+.sync-start{padding:10px 22px;border-radius:24px;border:none;
+  background:linear-gradient(135deg,#d32f2f,#b22222);color:#fff;
+  font-size:0.85rem;font-weight:700;cursor:pointer;font-family:inherit;
+  display:inline-flex;align-items:center;gap:8px;
+  box-shadow:0 4px 12px rgba(178,34,34,0.3);
+  transition:transform 0.12s, box-shadow 0.15s;letter-spacing:0.3px;}
+.sync-start:hover{transform:translateY(-1px);
+  box-shadow:0 6px 16px rgba(178,34,34,0.4);}
+.sync-start:active{transform:translateY(0) scale(0.98);}
+.sync-icon-btn{width:38px;height:38px;border-radius:50%;
+  border:1.5px solid #ddd;background:#fff;color:#555;font-size:0.95rem;
+  cursor:pointer;display:flex;align-items:center;justify-content:center;
+  transition:all 0.15s;font-family:inherit;}
+.sync-icon-btn:hover{border-color:var(--accent);color:var(--accent);}
+.sync-time{font-variant-numeric:tabular-nums;font-size:0.82rem;
+  color:#444;font-weight:600;min-width:100px;text-align:center;}
+.sync-offset-group{display:flex;align-items:center;gap:5px;
+  font-size:0.72rem;color:#888;margin-left:auto;}
+.sync-offset-btn{border:1px solid #ddd;background:#fff;border-radius:6px;
+  padding:3px 8px;cursor:pointer;font-family:inherit;font-size:0.72rem;
+  color:#666;font-variant-numeric:tabular-nums;}
+.sync-offset-btn:hover{border-color:var(--accent);color:var(--accent);}
+.sync-offset-value{font-variant-numeric:tabular-nums;min-width:42px;
+  text-align:center;color:#444;font-weight:600;}
+.sync-progress-wrap{width:100%;height:6px;background:#eee;border-radius:3px;
+  overflow:hidden;cursor:pointer;margin-top:12px;}
+.sync-progress-fill{height:100%;width:0%;background:var(--accent);
+  transition:width 0.1s linear;}
+
+.sync-streaming{background:#fafafa;border:1px solid #eee;border-radius:12px;
+  padding:12px 16px;margin-bottom:14px;}
+.sync-streaming-label{font-size:0.7rem;color:#888;text-transform:uppercase;
+  letter-spacing:1.2px;font-weight:700;margin-bottom:8px;}
+.sync-streaming-links{display:flex;flex-wrap:wrap;gap:8px;}
+.sync-stream-btn{display:inline-flex;align-items:center;gap:6px;
+  padding:7px 14px;border-radius:20px;font-size:0.78rem;font-weight:600;
+  text-decoration:none;color:#fff;transition:transform 0.12s;
+  box-shadow:0 2px 6px rgba(0,0,0,0.08);}
+.sync-stream-btn:hover{transform:translateY(-1px);}
+.sync-stream-btn.spotify{background:#1DB954;}
+.sync-stream-btn.ytmusic{background:#FF0000;}
+.sync-stream-btn.deezer{background:#A238FF;}
+.sync-stream-btn.qq{background:#31C27C;}
+.sync-stream-btn.netease{background:#C20C0C;}
+
+#sync-lyrics{padding:8px 0;}
+.sync-line{padding:20px 16px;margin:0 -8px 10px;
+  border-left:5px solid transparent;border-radius:0 14px 14px 0;
+  transition:background 0.4s ease, border-color 0.4s ease,
+             opacity 0.4s ease;
+  opacity:0.32;position:relative;overflow:hidden;}
+.sync-line.active{
+  opacity:1;
+  background:linear-gradient(to right,#fffdf0 0%,transparent 80%);
+  border-left-color:#f9d76e;
+  box-shadow:inset 0 0 0 1px rgba(249,215,110,0.3);}
+.sync-line.past{opacity:0.16;}
+.sync-line.active .sync-karaoke-progress{
+  position:absolute;left:0;bottom:0;height:3px;
+  background:linear-gradient(90deg,#b22222,#e05a5a);
+  border-radius:0 2px 2px 0;
+  transition:width 0.08s linear;
+  box-shadow:0 0 8px rgba(178,34,34,0.4);}
+.sync-words{display:flex;flex-wrap:wrap;gap:20px;
+  align-items:flex-end;position:relative;z-index:1;}
+.sync-word{display:flex;flex-direction:column;align-items:center;
+  cursor:pointer;transform-origin:center bottom;}
+.sync-pinyin{font-size:0.92rem;color:#777;font-weight:500;
+  letter-spacing:0.4px;line-height:1.2;margin-bottom:3px;
+  white-space:nowrap;}
+.sync-hz{font-size:1.65rem;font-weight:600;color:#444;
+  line-height:1.25;white-space:nowrap;}
+.sync-hz a{color:inherit;text-decoration:none;cursor:pointer;}
+.sync-hz a:hover{color:var(--accent);}
+.sync-tip{font-size:0.72rem;color:#aaa;text-align:center;
+  margin-top:24px;letter-spacing:0.3px;line-height:1.7;}
+
+@media (max-width:700px){
+  .sync-words{gap:12px;}
+  .sync-pinyin{font-size:0.78rem;}
+  .sync-hz{font-size:1.3rem;}
+  .sync-offset-group{margin-left:0;width:100%;justify-content:flex-end;}
+}
 </style>
 </head>
 <body>
@@ -354,6 +459,52 @@
     <nav class="song-nav">
       <button class="back-btn" id="song-back-btn">← Back</button>
       <div class="breadcrumb" id="song-breadcrumb"></div>
+      <!-- ═══════════ SYNC VIEW ═══════════ -->
+<div class="view" id="sync-view" hidden>
+  <div class="main-page">
+    <nav class="song-nav">
+      <button class="back-btn" id="sync-back-btn">← Back to lyrics</button>
+      <div class="breadcrumb" id="sync-breadcrumb"></div>
+    </nav>
+
+    <header class="song-header">
+      <h1 id="sync-title"></h1>
+      <div class="pinyin-title" id="sync-title-pinyin"></div>
+      <div class="artist" id="sync-artist"></div>
+      <div class="song-meta" id="sync-meta"></div>
+    </header>
+
+    <div class="sync-streaming" id="sync-streaming" hidden>
+      <div class="sync-streaming-label">🎵 Listen on another device or tab</div>
+      <div class="sync-streaming-links" id="sync-streaming-links"></div>
+    </div>
+
+    <div class="sync-bar">
+      <div class="sync-row">
+        <button class="sync-start" id="sync-start">▶ Start at first line</button>
+        <button class="sync-icon-btn" id="sync-reset" title="Reset">⟲</button>
+        <div class="sync-time">
+          <span id="sync-cur">0:00.0</span> / <span id="sync-tot">0:00.0</span>
+        </div>
+        <div class="sync-offset-group">
+          <span>nudge</span>
+          <button class="sync-offset-btn" id="sync-minus">−0.5s</button>
+          <span class="sync-offset-value" id="sync-offset">0.0s</span>
+          <button class="sync-offset-btn" id="sync-plus">+0.5s</button>
+        </div>
+      </div>
+      <div class="sync-progress-wrap" id="sync-progress">
+        <div class="sync-progress-fill" id="sync-fill"></div>
+      </div>
+    </div>
+
+    <div id="sync-lyrics"></div>
+
+    <div class="sync-tip">
+      Click any character for MDBG · Space = play/pause · S = restart
+    </div>
+  </div>
+</div>
     </nav>
 
     <header class="song-header">
@@ -363,11 +514,16 @@
       <div class="song-meta" id="song-meta"></div>
     </header>
 
-    <div class="lang-toggle" id="lang-toggle">
-      <button data-lang="en" class="active">🇬🇧 English</button>
-      <button data-lang="pt">🇧🇷 Português (BR)</button>
-    </div>
-
+   <div class="song-view-toggles">
+  <div class="lang-toggle" id="lang-toggle">
+    <button data-lang="en" class="active">🇬🇧 English</button>
+    <button data-lang="pt">🇧🇷 Português (BR)</button>
+  </div>
+  <button class="sing-along-btn" id="sing-along-btn" hidden>
+    🎤 Sing Along
+  </button>
+</div>
+    
     <div class="legend">
       <div class="legend-group">
         <h4>HSK</h4>
@@ -882,11 +1038,312 @@ const ALBUMS = [
    SONG DATABASE — Hua Chenyu (华晨宇)
    ═══════════════════════════════════════════════════════════ */
 const SONGS_DB = [
+
   
   /* ═══════════════════════════════════════════════════════════
-     ALBUM: H (2017)
+     ALBUM: 卡西莫多的礼物 (2014)
      ═══════════════════════════════════════════════════════════ */
 
+{
+  id:'yan-huo',
+  title:'烟火里的尘埃',
+  titlePinyin:'Yān Huǒ Lǐ De Chén Āi',
+  artist:'华晨宇 · Hua Chenyu',
+  meta:'2014 · Album "卡西莫多的礼物" · Track 4',
+  streaming:{
+    spotify:'https://open.spotify.com/search/' + encodeURIComponent('烟火里的尘埃 华晨宇'),
+    ytmusic:'https://music.youtube.com/search?q=' + encodeURIComponent('烟火里的尘埃 华晨宇'),
+    deezer: 'https://www.deezer.com/search/' + encodeURIComponent('烟火里的尘埃 华晨宇')
+  },
+  lines:[
+    { time:'00:05.230', translation:{en:'Watching the dancing dust fall down',pt:'Vendo a poeira dançante cair'},
+      words:[
+        {hz:'看着',py:'kàn zhe',gloss:'watching',hsk:1,pos:'verb',posName:'v.'},
+        {hz:'飞舞',py:'fēi wǔ',gloss:'dancing',hsk:6,pos:'verb',posName:'v.'},
+        {hz:'的',py:'de',gloss:'of',hsk:1,pos:'part',posName:'part.'},
+        {hz:'尘埃',py:'chén āi',gloss:'dust',hsk:6,pos:'noun',posName:'n.'},
+        {hz:'掉下来',py:'diào xià lái',gloss:'fall down',hsk:4,pos:'verb',posName:'v.'}
+      ]},
+    { time:'00:15.400', translation:{en:'No one notices it exists',pt:'Ninguém percebe que ela existe'},
+      words:[
+        {hz:'没人',py:'méi rén',gloss:'no one',hsk:3,pos:'pron',posName:'pron.'},
+        {hz:'发现',py:'fā xiàn',gloss:'notice',hsk:3,pos:'verb',posName:'v.'},
+        {hz:'它',py:'tā',gloss:'it',hsk:2,pos:'pron',posName:'pron.'},
+        {hz:'存在',py:'cún zài',gloss:'exist',hsk:5,pos:'verb',posName:'v.'}
+      ]},
+    { time:'00:19.150', translation:{en:'So free and easy',pt:'Tão livre e despreocupado'},
+      words:[
+        {hz:'多',py:'duō',gloss:'so',hsk:1,pos:'adv',posName:'adv.'},
+        {hz:'自由自在',py:'zì yóu zì zài',gloss:'free and easy',hsk:6,pos:'adj',posName:'adj.'}
+      ]},
+    { time:'00:23.840', translation:{en:'But the world loves noise and bustle',pt:'Mas o mundo ama o barulho e a agitação'},
+      words:[
+        {hz:'可',py:'kě',gloss:'but',hsk:4,pos:'conj',posName:'conj.'},
+        {hz:'世界',py:'shì jiè',gloss:'world',hsk:3,pos:'noun',posName:'n.'},
+        {hz:'都',py:'dōu',gloss:'all',hsk:1,pos:'adv',posName:'adv.'},
+        {hz:'爱',py:'ài',gloss:'love',hsk:1,pos:'verb',posName:'v.'},
+        {hz:'热热闹闹',py:'rè rè nao nao',gloss:'lively',hsk:6,pos:'adj',posName:'adj.'}
+      ]},
+    { time:'00:28.150', translation:{en:"It can't hold my idle boredom",pt:'Não cabe meu tédio ocioso'},
+      words:[
+        {hz:'容不下',py:'róng bù xià',gloss:'cannot hold',hsk:6,pos:'verb',posName:'v.'},
+        {hz:'我',py:'wǒ',gloss:'me',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'百无聊赖',py:'bǎi wú liáo lài',gloss:'bored',hsk:6,pos:'adj',posName:'adj.'}
+      ]},
+    { time:'00:34.660', translation:{en:"Shouldn't zone out alone",pt:'Não deveria ficar sozinho'},
+      words:[
+        {hz:'不应该',py:'bù yīng gāi',gloss:"shouldn't",hsk:4,pos:'adv',posName:'adv.'},
+        {hz:'一个人',py:'yī gè rén',gloss:'alone',hsk:2,pos:'noun',posName:'n.'},
+        {hz:'发呆',py:'fā dāi',gloss:'zone out',hsk:5,pos:'verb',posName:'v.'}
+      ]},
+    { time:'00:45.130', translation:{en:'Only I guard the quiet desert',pt:'Só eu guardo o deserto silencioso'},
+      words:[
+        {hz:'只有',py:'zhǐ yǒu',gloss:'only',hsk:4,pos:'adv',posName:'adv.'},
+        {hz:'我',py:'wǒ',gloss:'I',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'守着',py:'shǒu zhe',gloss:'guarding',hsk:5,pos:'verb',posName:'v.'},
+        {hz:'安静',py:'ān jìng',gloss:'quiet',hsk:3,pos:'adj',posName:'adj.'},
+        {hz:'的',py:'de',gloss:'of',hsk:1,pos:'part',posName:'part.'},
+        {hz:'沙漠',py:'shā mò',gloss:'desert',hsk:5,pos:'noun',posName:'n.'}
+      ]},
+    { time:'00:49.850', translation:{en:'Waiting for the flowers to bloom',pt:'Esperando as flores desabrocharem'},
+      words:[
+        {hz:'等待',py:'děng dài',gloss:'waiting',hsk:4,pos:'verb',posName:'v.'},
+        {hz:'着',py:'zhe',gloss:'(continuous)',hsk:2,pos:'part',posName:'part.'},
+        {hz:'花开',py:'huā kāi',gloss:'flowers bloom',hsk:5,pos:'verb',posName:'v.'}
+      ]},
+    { time:'00:55.470', translation:{en:"Only I watch others' happiness",pt:'Só eu vejo a felicidade dos outros'},
+      words:[
+        {hz:'只有',py:'zhǐ yǒu',gloss:'only',hsk:4,pos:'adv',posName:'adv.'},
+        {hz:'我',py:'wǒ',gloss:'I',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'看着',py:'kàn zhe',gloss:'watching',hsk:1,pos:'verb',posName:'v.'},
+        {hz:'别人',py:'bié rén',gloss:'others',hsk:3,pos:'pron',posName:'pron.'},
+        {hz:'的',py:'de',gloss:'of',hsk:1,pos:'part',posName:'part.'},
+        {hz:'快乐',py:'kuài lè',gloss:'happiness',hsk:2,pos:'noun',posName:'n.'}
+      ]},
+    { time:'01:00.130', translation:{en:'And unexpectedly sigh',pt:'E inesperadamente suspiro'},
+      words:[
+        {hz:'竟然',py:'jìng rán',gloss:'unexpectedly',hsk:6,pos:'adv',posName:'adv.'},
+        {hz:'会',py:'huì',gloss:'will',hsk:2,pos:'verb',posName:'v.'},
+        {hz:'感慨',py:'gǎn kǎi',gloss:'sigh',hsk:6,pos:'verb',posName:'v.'}
+      ]},
+    { time:'01:05.820', translation:{en:'Just let me hear the grandest reasoning',pt:'Deixe-me ouvir o maior dos raciocínios'},
+      words:[
+        {hz:'就',py:'jiù',gloss:'just',hsk:2,pos:'adv',posName:'adv.'},
+        {hz:'让',py:'ràng',gloss:'let',hsk:2,pos:'verb',posName:'v.'},
+        {hz:'我',py:'wǒ',gloss:'me',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'听',py:'tīng',gloss:'hear',hsk:1,pos:'verb',posName:'v.'},
+        {hz:'着',py:'zhe',gloss:'(continuous)',hsk:2,pos:'part',posName:'part.'},
+        {hz:'天大的',py:'tiān dà de',gloss:'enormous',hsk:6,pos:'adj',posName:'adj.'},
+        {hz:'道理',py:'dào lǐ',gloss:'reasoning',hsk:5,pos:'noun',posName:'n.'}
+      ]},
+    { time:'01:10.900', translation:{en:'Unwilling to understand',pt:'Sem vontade de entender'},
+      words:[
+        {hz:'不愿意',py:'bù yuàn yì',gloss:'unwilling',hsk:4,pos:'verb',posName:'v.'},
+        {hz:'明白',py:'míng bái',gloss:'understand',hsk:3,pos:'verb',posName:'v.'}
+      ]},
+    { time:'01:16.060', translation:{en:"What is 'should' and 'should not'",pt:'O que é "deveria" e "não deveria"'},
+      words:[
+        {hz:'有什么',py:'yǒu shén me',gloss:'what',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'是',py:'shì',gloss:'is',hsk:1,pos:'verb',posName:'v.'},
+        {hz:'应该',py:'yīng gāi',gloss:'should',hsk:3,pos:'verb',posName:'v.'},
+        {hz:'不应该',py:'bù yīng gāi',gloss:"shouldn't",hsk:4,pos:'adv',posName:'adv.'}
+      ]},
+    { time:'01:47.450', translation:{en:'Inside my heart lives an aged child',pt:'Dentro do meu coração vive uma criança envelhecida'},
+      words:[
+        {hz:'我的',py:'wǒ de',gloss:'my',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'心里',py:'xīn lǐ',gloss:'heart',hsk:3,pos:'noun',posName:'n.'},
+        {hz:'住着',py:'zhù zhe',gloss:'lives',hsk:3,pos:'verb',posName:'v.'},
+        {hz:'一个',py:'yī gè',gloss:'a',hsk:1,pos:'num',posName:'num.'},
+        {hz:'苍老的',py:'cāng lǎo de',gloss:'aged',hsk:6,pos:'adj',posName:'adj.'},
+        {hz:'小孩',py:'xiǎo hái',gloss:'child',hsk:1,pos:'noun',posName:'n.'}
+      ]},
+    { time:'01:57.360', translation:{en:"If the world can't hear clearly",pt:'Se o mundo não consegue ouvir claramente'},
+      words:[
+        {hz:'如果',py:'rú guǒ',gloss:'if',hsk:3,pos:'conj',posName:'conj.'},
+        {hz:'世界',py:'shì jiè',gloss:'world',hsk:3,pos:'noun',posName:'n.'},
+        {hz:'听',py:'tīng',gloss:'hear',hsk:1,pos:'verb',posName:'v.'},
+        {hz:'不明白',py:'bù míng bái',gloss:'cannot understand',hsk:3,pos:'verb',posName:'v.'}
+      ]},
+    { time:'02:01.100', translation:{en:'Confess to the shadow',pt:'Confessar à sombra'},
+      words:[
+        {hz:'对',py:'duì',gloss:'to',hsk:2,pos:'prep',posName:'prep.'},
+        {hz:'影子',py:'yǐng zi',gloss:'shadow',hsk:5,pos:'noun',posName:'n.'},
+        {hz:'表白',py:'biǎo bái',gloss:'confess',hsk:6,pos:'verb',posName:'v.'}
+      ]},
+    { time:'02:05.860', translation:{en:'Is it only me who still asks',pt:'Sou só eu que ainda pergunto'},
+      words:[
+        {hz:'是不是',py:'shì bù shì',gloss:'is it',hsk:3,pos:'verb',posName:'v.'},
+        {hz:'只有',py:'zhǐ yǒu',gloss:'only',hsk:4,pos:'adv',posName:'adv.'},
+        {hz:'我',py:'wǒ',gloss:'I',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'还',py:'hái',gloss:'still',hsk:2,pos:'adv',posName:'adv.'},
+        {hz:'在',py:'zài',gloss:'(cont.)',hsk:1,pos:'adv',posName:'adv.'},
+        {hz:'问',py:'wèn',gloss:'ask',hsk:1,pos:'verb',posName:'v.'}
+      ]},
+    { time:'02:09.400', translation:{en:'Why tomorrow is even more brilliant',pt:'Por que o amanhã é ainda mais brilhante'},
+      words:[
+        {hz:'为什么',py:'wèi shén me',gloss:'why',hsk:2,pos:'adv',posName:'adv.'},
+        {hz:'明天',py:'míng tiān',gloss:'tomorrow',hsk:1,pos:'noun',posName:'n.'},
+        {hz:'更',py:'gèng',gloss:'more',hsk:3,pos:'adv',posName:'adv.'},
+        {hz:'精彩',py:'jīng cǎi',gloss:'brilliant',hsk:4,pos:'adj',posName:'adj.'}
+      ]},
+    { time:'02:16.570', translation:{en:'No trace of innocence found in the fireworks',pt:'Nenhum traço de inocência nos fogos'},
+      words:[
+        {hz:'烟火',py:'yān huǒ',gloss:'fireworks',hsk:6,pos:'noun',posName:'n.'},
+        {hz:'里',py:'lǐ',gloss:'inside',hsk:1,pos:'noun',posName:'n.'},
+        {hz:'找不到',py:'zhǎo bù dào',gloss:'cannot find',hsk:4,pos:'verb',posName:'v.'},
+        {hz:'童真',py:'tóng zhēn',gloss:'innocence',hsk:6,pos:'noun',posName:'n.'},
+        {hz:'的',py:'de',gloss:'of',hsk:1,pos:'part',posName:'part.'},
+        {hz:'残骸',py:'cán hái',gloss:'remains',hsk:6,pos:'noun',posName:'n.'}
+      ]},
+    { time:'02:26.830', translation:{en:'Only I guard the quiet desert',pt:'Só eu guardo o deserto silencioso'},
+      words:[
+        {hz:'只有',py:'zhǐ yǒu',gloss:'only',hsk:4,pos:'adv',posName:'adv.'},
+        {hz:'我',py:'wǒ',gloss:'I',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'守着',py:'shǒu zhe',gloss:'guarding',hsk:5,pos:'verb',posName:'v.'},
+        {hz:'安静',py:'ān jìng',gloss:'quiet',hsk:3,pos:'adj',posName:'adj.'},
+        {hz:'的',py:'de',gloss:'of',hsk:1,pos:'part',posName:'part.'},
+        {hz:'沙漠',py:'shā mò',gloss:'desert',hsk:5,pos:'noun',posName:'n.'}
+      ]},
+    { time:'02:31.100', translation:{en:'Waiting for the flowers to bloom',pt:'Esperando as flores desabrocharem'},
+      words:[
+        {hz:'等待',py:'děng dài',gloss:'waiting',hsk:4,pos:'verb',posName:'v.'},
+        {hz:'着',py:'zhe',gloss:'(continuous)',hsk:2,pos:'part',posName:'part.'},
+        {hz:'花开',py:'huā kāi',gloss:'flowers bloom',hsk:5,pos:'verb',posName:'v.'}
+      ]},
+    { time:'02:36.820', translation:{en:"Only I watch others' happiness",pt:'Só eu vejo a felicidade dos outros'},
+      words:[
+        {hz:'只有',py:'zhǐ yǒu',gloss:'only',hsk:4,pos:'adv',posName:'adv.'},
+        {hz:'我',py:'wǒ',gloss:'I',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'看着',py:'kàn zhe',gloss:'watching',hsk:1,pos:'verb',posName:'v.'},
+        {hz:'别人',py:'bié rén',gloss:'others',hsk:3,pos:'pron',posName:'pron.'},
+        {hz:'的',py:'de',gloss:'of',hsk:1,pos:'part',posName:'part.'},
+        {hz:'快乐',py:'kuài lè',gloss:'happiness',hsk:2,pos:'noun',posName:'n.'}
+      ]},
+    { time:'02:41.300', translation:{en:'And unexpectedly sigh',pt:'E inesperadamente suspiro'},
+      words:[
+        {hz:'竟然',py:'jìng rán',gloss:'unexpectedly',hsk:6,pos:'adv',posName:'adv.'},
+        {hz:'会',py:'huì',gloss:'will',hsk:2,pos:'verb',posName:'v.'},
+        {hz:'感慨',py:'gǎn kǎi',gloss:'sigh',hsk:6,pos:'verb',posName:'v.'}
+      ]},
+    { time:'02:46.930', translation:{en:'Just let me hear the grandest reasoning',pt:'Deixe-me ouvir o maior dos raciocínios'},
+      words:[
+        {hz:'就',py:'jiù',gloss:'just',hsk:2,pos:'adv',posName:'adv.'},
+        {hz:'让',py:'ràng',gloss:'let',hsk:2,pos:'verb',posName:'v.'},
+        {hz:'我',py:'wǒ',gloss:'me',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'听',py:'tīng',gloss:'hear',hsk:1,pos:'verb',posName:'v.'},
+        {hz:'着',py:'zhe',gloss:'(continuous)',hsk:2,pos:'part',posName:'part.'},
+        {hz:'天大的',py:'tiān dà de',gloss:'enormous',hsk:6,pos:'adj',posName:'adj.'},
+        {hz:'道理',py:'dào lǐ',gloss:'reasoning',hsk:5,pos:'noun',posName:'n.'}
+      ]},
+    { time:'02:52.100', translation:{en:'Unwilling to understand',pt:'Sem vontade de entender'},
+      words:[
+        {hz:'不愿意',py:'bù yuàn yì',gloss:'unwilling',hsk:4,pos:'verb',posName:'v.'},
+        {hz:'明白',py:'míng bái',gloss:'understand',hsk:3,pos:'verb',posName:'v.'}
+      ]},
+    { time:'02:57.160', translation:{en:'Only I am me — so strange',pt:'Só eu sou eu — tão estranho'},
+      words:[
+        {hz:'只有',py:'zhǐ yǒu',gloss:'only',hsk:4,pos:'adv',posName:'adv.'},
+        {hz:'我',py:'wǒ',gloss:'I',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'就是',py:'jiù shì',gloss:'is exactly',hsk:2,pos:'adv',posName:'adv.'},
+        {hz:'我',py:'wǒ',gloss:'me',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'好奇怪',py:'hǎo qí guài',gloss:'so strange',hsk:4,pos:'adj',posName:'adj.'}
+      ]},
+    { time:'03:02.400', translation:{en:'I am still sighing',pt:'Eu ainda estou suspirando'},
+      words:[
+        {hz:'我',py:'wǒ',gloss:'I',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'还',py:'hái',gloss:'still',hsk:2,pos:'adv',posName:'adv.'},
+        {hz:'在',py:'zài',gloss:'(cont.)',hsk:1,pos:'adv',posName:'adv.'},
+        {hz:'感慨',py:'gǎn kǎi',gloss:'sigh',hsk:6,pos:'verb',posName:'v.'}
+      ]},
+    { time:'03:13.570', translation:{en:'Wind blows over in gusts — why not come back',pt:'O vento sopra em rajadas — por que não volta'},
+      words:[
+        {hz:'风',py:'fēng',gloss:'wind',hsk:3,pos:'noun',posName:'n.'},
+        {hz:'阵阵',py:'zhèn zhèn',gloss:'gusts',hsk:6,pos:'mw',posName:'m.w.'},
+        {hz:'吹过来',py:'chuī guò lái',gloss:'blow over',hsk:4,pos:'verb',posName:'v.'},
+        {hz:'为何',py:'wèi hé',gloss:'why',hsk:6,pos:'adv',posName:'adv.'},
+        {hz:'不',py:'bù',gloss:'not',hsk:1,pos:'adv',posName:'adv.'},
+        {hz:'回来',py:'huí lái',gloss:'come back',hsk:1,pos:'verb',posName:'v.'}
+      ]},
+    { time:'03:23.560', translation:{en:"Once the wind goes it never returns — isn't that sad",pt:'Uma vez que o vento vai, nunca volta — não é triste'},
+      words:[
+        {hz:'风',py:'fēng',gloss:'wind',hsk:3,pos:'noun',posName:'n.'},
+        {hz:'一去',py:'yī qù',gloss:'once gone',hsk:5,pos:'adv',posName:'adv.'},
+        {hz:'不',py:'bù',gloss:'not',hsk:1,pos:'adv',posName:'adv.'},
+        {hz:'回来',py:'huí lái',gloss:'come back',hsk:1,pos:'verb',posName:'v.'},
+        {hz:'悲不悲哀',py:'bēi bù bēi āi',gloss:'sad or not',hsk:6,pos:'adj',posName:'adj.'}
+      ]},
+    { time:'03:33.780', translation:{en:'Growing numb so fast — is that right',pt:'Adormecendo tão rápido — isso é certo'},
+      words:[
+        {hz:'麻木',py:'má mù',gloss:'numb',hsk:6,pos:'adj',posName:'adj.'},
+        {hz:'得',py:'de',gloss:'(adverbial)',hsk:2,pos:'part',posName:'part.'},
+        {hz:'那么',py:'nà me',gloss:'so',hsk:2,pos:'adv',posName:'adv.'},
+        {hz:'快',py:'kuài',gloss:'fast',hsk:2,pos:'adj',posName:'adj.'},
+        {hz:'应该',py:'yīng gāi',gloss:'should',hsk:3,pos:'verb',posName:'v.'},
+        {hz:'不应该',py:'bù yīng gāi',gloss:"shouldn't",hsk:4,pos:'adv',posName:'adv.'}
+      ]},
+    { time:'03:43.790', translation:{en:'Can it slow down',pt:'Pode desacelerar'},
+      words:[
+        {hz:'能不能',py:'néng bù néng',gloss:'can or cannot',hsk:3,pos:'verb',posName:'v.'},
+        {hz:'慢下来',py:'màn xià lái',gloss:'slow down',hsk:4,pos:'verb',posName:'v.'}
+      ]},
+    { time:'03:49.180', translation:{en:'Laugh out loud, cry with candor',pt:'Rir alto, chorar com franqueza'},
+      words:[
+        {hz:'笑',py:'xiào',gloss:'laugh',hsk:2,pos:'verb',posName:'v.'},
+        {hz:'得',py:'de',gloss:'(adverbial)',hsk:2,pos:'part',posName:'part.'},
+        {hz:'开怀',py:'kāi huái',gloss:'joyfully',hsk:6,pos:'adj',posName:'adj.'},
+        {hz:'哭',py:'kū',gloss:'cry',hsk:3,pos:'verb',posName:'v.'},
+        {hz:'得',py:'de',gloss:'(adverbial)',hsk:2,pos:'part',posName:'part.'},
+        {hz:'坦率',py:'tǎn shuài',gloss:'frankly',hsk:6,pos:'adj',posName:'adj.'}
+      ]},
+    { time:'03:53.980', translation:{en:'Why should the world arrange our expressions',pt:'Por que o mundo deveria arranjar nossas expressões'},
+      words:[
+        {hz:'为何',py:'wèi hé',gloss:'why',hsk:6,pos:'adv',posName:'adv.'},
+        {hz:'表情',py:'biǎo qíng',gloss:'expression',hsk:5,pos:'noun',posName:'n.'},
+        {hz:'要',py:'yào',gloss:'want',hsk:2,pos:'verb',posName:'v.'},
+        {hz:'让',py:'ràng',gloss:'let',hsk:2,pos:'verb',posName:'v.'},
+        {hz:'这',py:'zhè',gloss:'this',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'世界',py:'shì jiè',gloss:'world',hsk:3,pos:'noun',posName:'n.'},
+        {hz:'安排',py:'ān pái',gloss:'arrange',hsk:4,pos:'verb',posName:'v.'}
+      ]},
+    { time:'03:59.210', translation:{en:'I am me, I am only me',pt:'Eu sou eu, eu sou apenas eu'},
+      words:[
+        {hz:'我',py:'wǒ',gloss:'I',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'就是',py:'jiù shì',gloss:'is exactly',hsk:2,pos:'adv',posName:'adv.'},
+        {hz:'我',py:'wǒ',gloss:'me',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'我',py:'wǒ',gloss:'I',hsk:1,pos:'pron',posName:'pron.'},
+        {hz:'只是',py:'zhǐ shì',gloss:'only',hsk:4,pos:'adv',posName:'adv.'},
+        {hz:'我',py:'wǒ',gloss:'me',hsk:1,pos:'pron',posName:'pron.'}
+      ]},
+    { time:'04:03.530', translation:{en:'Just a speck of dust from fireworks falling',pt:'Apenas um grão de poeira dos fogos caindo'},
+      words:[
+        {hz:'只是',py:'zhǐ shì',gloss:'just',hsk:4,pos:'adv',posName:'adv.'},
+        {hz:'一场',py:'yī chǎng',gloss:'a',hsk:2,pos:'num',posName:'num.'},
+        {hz:'烟火',py:'yān huǒ',gloss:'fireworks',hsk:6,pos:'noun',posName:'n.'},
+        {hz:'散落',py:'sàn luò',gloss:'scattered',hsk:6,pos:'verb',posName:'v.'},
+        {hz:'的',py:'de',gloss:'of',hsk:1,pos:'part',posName:'part.'},
+        {hz:'尘埃',py:'chén āi',gloss:'dust',hsk:6,pos:'noun',posName:'n.'}
+      ]},
+    { time:'04:21.950', translation:{en:'Wind blows over',pt:'O vento sopra'},
+      words:[
+        {hz:'风',py:'fēng',gloss:'wind',hsk:3,pos:'noun',posName:'n.'},
+        {hz:'阵阵',py:'zhèn zhèn',gloss:'gusts',hsk:6,pos:'mw',posName:'m.w.'},
+        {hz:'吹过来',py:'chuī guò lái',gloss:'blow over',hsk:4,pos:'verb',posName:'v.'}
+      ]},
+    { time:'04:31.790', translation:{en:'Once the wind goes it never returns',pt:'Uma vez que o vento vai, nunca volta'},
+      words:[
+        {hz:'风',py:'fēng',gloss:'wind',hsk:3,pos:'noun',posName:'n.'},
+        {hz:'一去',py:'yī qù',gloss:'once gone',hsk:5,pos:'adv',posName:'adv.'},
+        {hz:'不',py:'bù',gloss:'not',hsk:1,pos:'adv',posName:'adv.'},
+        {hz:'回来',py:'huí lái',gloss:'come back',hsk:1,pos:'verb',posName:'v.'}
+      ]},
+    { time:'04:52.100', translation:{en:'Can it slow down',pt:'Pode desacelerar'},
+      words:[
+        {hz:'能不能',py:'néng bù néng',gloss:'can or cannot',hsk:3,pos:'verb',posName:'v.'},
+        {hz:'慢下来',py:'màn xià lái',gloss:'slow down',hsk:4,pos:'verb',posName:'v.'}
+      ]}
+  ]
+}
+  
   {
     id: 'ju-lu',
     title: '巨鹿',
@@ -13661,6 +14118,7 @@ function showView(name){
   homeView.hidden  = name !== 'home';
   albumView.hidden = name !== 'album';
   songView.hidden  = name !== 'song';
+  document.getElementById('sync-view').hidden = name !== 'sync';
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
@@ -13670,6 +14128,7 @@ function route(){
   const [type, id] = hash.split('/');
   if(type === 'album' && id) showAlbum(id);
   else if(type === 'song' && id) showSong(id);
+  else if(type === 'sync' && id) showSync(id);
   else showHome();
 }
 
@@ -13858,6 +14317,10 @@ function renderSong(song){
   if(song.meta){ metaEl.textContent = song.meta; metaEl.style.display = ''; }
   else { metaEl.style.display = 'none'; }
   document.title = `${song.title} · 华晨宇歌词库`;
+    /* Sing Along button — only for songs with LRC timing */
+  const saBtn = document.getElementById('sing-along-btn');
+  const hasTiming = song.lines.some(l => l.time);
+  saBtn.hidden = !hasTiming;
 
   let html = '';
   song.lines.forEach(line => {
@@ -13893,7 +14356,12 @@ function renderSong(song){
     });
   });
 }
-
+  /* Sing Along button — only for songs with LRC timing */
+  const saBtn = document.getElementById('sing-along-btn');
+  const hasTiming = song.lines.some(l => l.time);
+  saBtn.hidden = !hasTiming;
+  saBtn.onclick = () => navigate('sync/' + song.id);
+  
 /* ═══════════════════════════════════════════════════════════════
    SEARCH ENGINE
    ═══════════════════════════════════════════════════════════════ */
@@ -14022,7 +14490,277 @@ document.getElementById('lang-toggle').addEventListener('click', (e) => {
 /* ═══════════════════════════════════════════════════════════════
    BOOT
    ═══════════════════════════════════════════════════════════════ */
-window.addEventListener('hashchange', route);
+/* ═══════════════════════════════════════════════════════════════
+   SYNC VIEW — sentence-level karaoke
+   ═══════════════════════════════════════════════════════════════ */
+const syncView = document.getElementById('sync-view');
+const syncLyricsEl = document.getElementById('sync-lyrics');
+
+const syncState = {
+  song:null, playing:false, time:0, offset:0,
+  total:0, curLine:-1, rafId:null, lastTick:0,
+  lines:[]
+};
+
+function parseTimecode(tc){
+  if(!tc) return null;
+  const m = String(tc).match(/^(\d+):(\d+)(?:[.:](\d+))?$/);
+  if(!m) return null;
+  const frac = m[3] ? parseInt(m[3].padEnd(3,'0'),10) : 0;
+  return parseInt(m[1],10)*60 + parseInt(m[2],10) + frac/1000;
+}
+function fmtTime(s){
+  s = Math.max(0, s);
+  const m = Math.floor(s/60);
+  const sec = Math.floor(s%60);
+  const dec = Math.floor((s%1)*10);
+  return `${m}:${String(sec).padStart(2,'0')}.${dec}`;
+}
+function mdbgLink(hz){
+  return `https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=${encodeURIComponent(hz)}`;
+}
+
+function showSync(songId){
+  const song = SONGS_DB.find(s => s.id === songId);
+  if(!song){ navigate(''); return; }
+
+  /* Stop any previous run */
+  stopSyncLoop();
+
+  syncState.song = song;
+  syncState.time = 0;
+  syncState.offset = 0;
+  syncState.curLine = -1;
+  syncState.playing = false;
+
+  showView('sync');
+  document.title = `${song.title} · Sing Along`;
+
+  /* Breadcrumb */
+  const albumName = (song.meta || '').match(/"([^"]+)"/);
+  const albumObj = albumName ? ALBUMS.find(a => a.title === albumName[1]) : null;
+  let crumb = `<a data-action="home">华晨宇歌词库</a>`;
+  if(albumObj) crumb += `<span class="sep">/</span><a data-action="album" data-album="${albumObj.id}">${albumObj.title}</a>`;
+  crumb += `<span class="sep">/</span><a data-action="song" data-song="${song.id}">${song.title}</a>`;
+  crumb += `<span class="sep">/</span><span class="current">Sing Along</span>`;
+  document.getElementById('sync-breadcrumb').innerHTML = crumb;
+
+  /* Header */
+  document.getElementById('sync-title').textContent = song.title;
+  document.getElementById('sync-title-pinyin').textContent = song.titlePinyin;
+  document.getElementById('sync-artist').textContent = song.artist;
+  document.getElementById('sync-meta').textContent = song.meta || '';
+
+  /* Streaming links */
+  const streamingBox = document.getElementById('sync-streaming');
+  const streamingLinks = document.getElementById('sync-streaming-links');
+  if(song.streaming && Object.keys(song.streaming).length){
+    const labels = {spotify:'Spotify',ytmusic:'YouTube Music',deezer:'Deezer',qq:'QQ 音乐',netease:'网易云'};
+    const icons  = {spotify:'🟢',ytmusic:'🔴',deezer:'🟣',qq:'🟢',netease:'🔴'};
+    streamingLinks.innerHTML = Object.entries(song.streaming).map(([k,u]) =>
+      `<a class="sync-stream-btn ${k}" href="${u}" target="_blank" rel="noopener noreferrer">
+        ${icons[k] || '🎵'} ${labels[k] || k}</a>`).join('');
+    streamingBox.hidden = false;
+  } else {
+    streamingBox.hidden = true;
+  }
+
+  /* Build line data + DOM */
+  buildSyncLines(song);
+
+  /* Reset controls */
+  document.getElementById('sync-cur').textContent = '0:00.0';
+  document.getElementById('sync-tot').textContent = fmtTime(syncState.total);
+  document.getElementById('sync-offset').textContent = '0.0s';
+  document.getElementById('sync-fill').style.width = '0%';
+  document.getElementById('sync-start').textContent = '▶ Start at first line';
+
+  startSyncLoop();
+}
+
+function buildSyncLines(song){
+  syncLyricsEl.innerHTML = '';
+  syncState.lines = [];
+
+  const times = song.lines.map(l => parseTimecode(l.time) ?? 0);
+  const lastStart = times[times.length - 1];
+  syncState.total = lastStart + 8;
+
+  const html = song.lines.map((line, li) => {
+    const t = times[li];
+    syncState.lines.push({ time: t, el: null, progress: null });
+
+    const wordsHtml = line.words.map(w => {
+      const isHanzi = /[\u4e00-\u9fff]/.test(w.hz);
+      const inner = isHanzi
+        ? `<a href="${mdbgLink(w.hz)}" target="_blank" rel="noopener noreferrer"
+              title="${w.gloss}">${w.hz}</a>`
+        : w.hz;
+      return `<div class="sync-word">
+        <div class="sync-pinyin">${w.py}</div>
+        <div class="sync-hz">${inner}</div>
+      </div>`;
+    }).join('');
+
+    return `<div class="sync-line" data-line="${li}" data-time="${t}">
+      <div class="sync-words">${wordsHtml}</div>
+      <div class="sync-karaoke-progress" style="width:0%"></div>
+    </div>`;
+  }).join('');
+
+  syncLyricsEl.innerHTML = html;
+
+  Array.from(syncLyricsEl.querySelectorAll('.sync-line')).forEach((el, i) => {
+    syncState.lines[i].el = el;
+    syncState.lines[i].progress = el.querySelector('.sync-karaoke-progress');
+  });
+}
+
+function startSyncLoop(){
+  if(syncState.rafId) cancelAnimationFrame(syncState.rafId);
+  syncState.lastTick = performance.now();
+  const loop = now => {
+    if(syncState.playing){
+      syncState.time += (now - syncState.lastTick) / 1000;
+    }
+    syncState.lastTick = now;
+    updateSyncDisplay();
+    syncState.rafId = requestAnimationFrame(loop);
+  };
+  syncState.rafId = requestAnimationFrame(loop);
+}
+
+function stopSyncLoop(){
+  if(syncState.rafId) cancelAnimationFrame(syncState.rafId);
+  syncState.rafId = null;
+  syncState.playing = false;
+}
+
+function updateSyncDisplay(){
+  const t = syncState.time + syncState.offset;
+  document.getElementById('sync-cur').textContent = fmtTime(t);
+  document.getElementById('sync-fill').style.width =
+    Math.min(100, (t/syncState.total)*100) + '%';
+
+  /* Binary-search the active line */
+  let lo = 0, hi = syncState.lines.length - 1, idx = -1;
+  while(lo <= hi){
+    const mid = (lo + hi) >> 1;
+    if(syncState.lines[mid].time <= t){ idx = mid; lo = mid + 1; }
+    else hi = mid - 1;
+  }
+
+  if(idx !== syncState.curLine){
+    syncState.curLine = idx;
+    syncState.lines.forEach((l, i) => {
+      l.el.classList.toggle('active', i === idx);
+      l.el.classList.toggle('past', i < idx);
+    });
+    if(idx >= 0){
+      syncState.lines[idx].el.scrollIntoView({behavior:'smooth', block:'center'});
+    }
+  }
+
+  /* Karaoke bar under the active line */
+  syncState.lines.forEach((l, i) => {
+    if(i === idx && idx >= 0){
+      const lineStart = syncState.lines[idx].time;
+      const lineEnd = idx < syncState.lines.length - 1
+        ? syncState.lines[idx+1].time
+        : syncState.total;
+      const pct = Math.max(0, Math.min(100,
+        ((t - lineStart) / (lineEnd - lineStart)) * 100));
+      l.progress.style.width = pct + '%';
+    } else {
+      l.progress.style.width = '0%';
+    }
+  });
+}
+
+/* Controls */
+document.getElementById('sync-start').addEventListener('click', () => {
+  const first = syncState.lines[0]?.time ?? 0;
+  syncState.time = first - syncState.offset;
+  syncState.curLine = -1;
+  syncState.playing = true;
+  syncState.lastTick = performance.now();
+  document.getElementById('sync-start').textContent = '▶ Playing…';
+});
+
+document.getElementById('sync-reset').addEventListener('click', () => {
+  syncState.playing = false;
+  syncState.time = 0;
+  syncState.curLine = -1;
+  document.getElementById('sync-start').textContent = '▶ Start at first line';
+  updateSyncDisplay();
+});
+
+document.getElementById('sync-minus').addEventListener('click', () => {
+  syncState.offset = Math.round((syncState.offset - 0.5)*10)/10;
+  document.getElementById('sync-offset').textContent =
+    (syncState.offset >= 0 ? '+' : '') + syncState.offset.toFixed(1) + 's';
+  updateSyncDisplay();
+});
+document.getElementById('sync-plus').addEventListener('click', () => {
+  syncState.offset = Math.round((syncState.offset + 0.5)*10)/10;
+  document.getElementById('sync-offset').textContent =
+    (syncState.offset >= 0 ? '+' : '') + syncState.offset.toFixed(1) + 's';
+  updateSyncDisplay();
+});
+
+document.getElementById('sync-progress').addEventListener('click', e => {
+  const rect = e.currentTarget.getBoundingClientRect();
+  const ratio = (e.clientX - rect.left) / rect.width;
+  syncState.time = ratio * syncState.total - syncState.offset;
+  syncState.curLine = -1;
+  updateSyncDisplay();
+});
+
+syncLyricsEl.addEventListener('click', e => {
+  if(e.target.closest('.sync-hz a')) return;
+  const lineEl = e.target.closest('.sync-line');
+  if(!lineEl) return;
+  const t = parseFloat(lineEl.dataset.time);
+  syncState.time = t - syncState.offset;
+  syncState.curLine = -1;
+  updateSyncDisplay();
+});
+
+document.getElementById('sync-back-btn').onclick = () => {
+  const s = syncState.song;
+  stopSyncLoop();
+  navigate(s ? 'song/' + s.id : '');
+};
+
+document.getElementById('sync-breadcrumb').onclick = e => {
+  const a = e.target.closest('a[data-action]');
+  if(!a) return;
+  stopSyncLoop();
+  if(a.dataset.action === 'home') navigate('');
+  else if(a.dataset.action === 'album') navigate('album/' + a.dataset.album);
+  else if(a.dataset.action === 'song') navigate('song/' + a.dataset.song);
+};
+
+document.addEventListener('keydown', e => {
+  if(syncView.hidden) return;
+  if(e.target.matches('input, textarea')) return;
+  if(e.code === 'Space'){
+    e.preventDefault();
+    const btn = document.getElementById('sync-start');
+    if(syncState.playing){
+      syncState.playing = false;
+      btn.textContent = '▶ Resume';
+    } else {
+      syncState.playing = true;
+      syncState.lastTick = performance.now();
+      btn.textContent = '▶ Playing…';
+    }
+  } else if(e.key === 's' || e.key === 'S'){
+    e.preventDefault();
+    document.getElementById('sync-start').click();
+  }
+});
+  window.addEventListener('hashchange', route);
 route();
 </script>
 
