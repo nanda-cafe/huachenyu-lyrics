@@ -459,14 +459,7 @@
     <nav class="song-nav">
       <button class="back-btn" id="song-back-btn">← Back</button>
       <div class="breadcrumb" id="song-breadcrumb"></div>
-      <!-- ═══════════ SYNC VIEW ═══════════ -->
-<div class="view" id="sync-view" hidden>
-  <div class="main-page">
-    <nav class="song-nav">
-      <button class="back-btn" id="sync-back-btn">← Back to lyrics</button>
-      <div class="breadcrumb" id="sync-breadcrumb"></div>
-    </nav>
-
+      
     <header class="song-header">
       <h1 id="sync-title"></h1>
       <div class="pinyin-title" id="sync-title-pinyin"></div>
@@ -555,6 +548,14 @@
 
     <div id="lyrics-container"></div>
   </div>
+</div>
+      <div id="lyrics-container"></div>
+  </div>
+</div>
+
+<!-- ═══════════ SYNC VIEW ═══════════ -->
+<div class="view" id="sync-view" hidden>
+  ...
 </div>
 
 <script>
@@ -14316,12 +14317,12 @@ function renderSong(song){
   const metaEl = document.getElementById('song-meta');
   if(song.meta){ metaEl.textContent = song.meta; metaEl.style.display = ''; }
   else { metaEl.style.display = 'none'; }
-  document.title = `${song.title} · 华晨宇歌词库`;
+    document.title = `${song.title} · 华晨宇歌词库`;
     /* Sing Along button — only for songs with LRC timing */
   const saBtn = document.getElementById('sing-along-btn');
   const hasTiming = song.lines.some(l => l.time);
   saBtn.hidden = !hasTiming;
-
+  saBtn.onclick = () => navigate('sync/' + song.id);
   let html = '';
   song.lines.forEach(line => {
     html += `<div class="line"><div class="words">`;
@@ -14356,11 +14357,6 @@ function renderSong(song){
     });
   });
 }
-  /* Sing Along button — only for songs with LRC timing */
-  const saBtn = document.getElementById('sing-along-btn');
-  const hasTiming = song.lines.some(l => l.time);
-  saBtn.hidden = !hasTiming;
-  saBtn.onclick = () => navigate('sync/' + song.id);
   
 /* ═══════════════════════════════════════════════════════════════
    SEARCH ENGINE
