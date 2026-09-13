@@ -157,7 +157,32 @@
     background:#f0f0f0;color:#999;flex-shrink:0;
   }
   .track-badge.available{background:#e8f5e9;color:#2a7d2a;}
-
+.album-context {
+  max-width: 960px;
+  margin: 0 auto 24px;
+  padding: 18px 22px;
+  background: var(--card);
+  border-radius: 14px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  border: 1px solid #eee;
+}
+.album-context-text {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.7;
+  margin: 0;
+  text-align: justify;
+}
+.album-context-text a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.75rem;
+  vertical-align: super;
+}
+.album-context-text a:hover {
+  text-decoration: underline;
+}
   /* ═══════════ Song view ═══════════ */
   .main-page{
     background:var(--card);padding:24px 30px;border-radius:14px;
@@ -696,18 +721,35 @@ const ALBUMS = [
     ]
   },
   {
-    id: 'newworld',
-    title: '新世界 NEW WORLD',
-    pinyin: 'Xīn Shì Jiè NEW WORLD',
-    english: 'New World',
-    year: 2020,
-    cover: 'https://cdn-images.dzcdn.net/images/cover/e906c5cf6f6cb62344b436b4d18c8ff8/0x1900-000000-80-0-0.jpg',
-    tracks: [
-      '斗牛','好想爱这个世界啊','疯人院',
-      '与火星的孩子对话','七重人格','神树',
-      '降临','新世界'
-    ]
+  id: 'newworld',
+  title: '新世界 NEW WORLD',
+  pinyin: 'Xīn Shì Jiè NEW WORLD',
+  english: 'New World',
+  year: 2020,
+  cover: 'https://cdn-images.dzcdn.net/images/cover/e906c5cf6f6cb62344b436b4d18c8ff8/0x1900-000000-80-0-0.jpg',
+  context: {
+    en: `The concept for "New World" originated from Hua Chenyu's new understanding of life in his fifth year since debut. He felt that his previous music was all about expressing himself, but after more than five years of growth, he found he had more spiritual expectations and a sense of responsibility to guide people toward goodness. Through this album, he aimed to convey his "New Three Views" of music: a View of Goodness, a View of Great Love, and a Worldview. The album is anchored by the "Mars Trilogy," a three-part narrative about fighting depression and finding healing, preceded by "Seven Personalities" as its conceptual "Track Zero." It also features the "Twin Souls" pair, "God Tree" and "Descent," which symbolize destruction and rebirth respectively.`,
+    pt: `O conceito de "New World" originou-se da nova compreensão de vida de Hua Chenyu em seu quinto ano desde a estreia. Ele sentiu que sua música anterior era toda sobre se expressar, mas após mais de cinco anos de crescimento, descobriu que tinha mais expectativas espirituais e um senso de responsabilidade de guiar as pessoas para o bem. Através deste álbum, ele visava transmitir suas "Novas Três Visões" da música: uma Visão do Bem, uma Visão do Grande Amor e uma Visão de Mundo. O álbum é ancorado pela "Trilogia de Marte", uma narrativa em três partes sobre lutar contra a depressão e encontrar a cura, precedida por "Sete Personalidades" como sua "Faixa Zero" conceitual. Ele também apresenta o par de "Almas Gêmeas", "Árvore Divina" e "Descida", que simbolizam destruição e renascimento, respectivamente.`
   },
+  tracks: [
+    '斗牛',
+    '好想爱这个世界啊 🔥',      // Part 1
+    '疯人院 🔥',                // Part 2
+    '与火星的孩子对话 🔥',      // Part 3
+    '七重人格 🎭',              // Track Zero
+    '神树 🌊',                  // Twin Souls - Destruction
+    '降临 🌱',                  // Twin Souls - Rebirth
+    '新世界'
+  ],
+  references: [
+    { id: 1, text: 'Baidu Baike - 新世界NEW WORLD', url: 'https://wapbaike.baidu.com/item/新世界NEW WORLD/49770039' },
+    { id: 2, text: 'WeChat Article - 华晨宇新专辑预售20分钟破50万张', url: 'https://mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=100078711&idx=1&sn=9f6f092a76267a8b7da0fac487d9d63b' },
+    { id: 3, text: 'Bandwagon Asia - Hua Chenyu and his New World', url: 'https://www.bandwagon.asia/articles/hua-chenyu-mandopop-bandwagon-asia-interview-album-new-world-2020' },
+    { id: 4, text: 'NetEase Radio - 在火星谈火星三部曲', url: 'https://openapi.music.163.com/program?id=2066597576' },
+    { id: 5, text: 'Douban Review - 华晨宇：昔日少年已成王 | 封神之专', url: 'https://music.douban.com/review/14568809/' },
+    { id: 6, text: 'Bilibili Article - 华晨宇：《神树》《降临》，阴阳双生，衍生希望', url: 'https://m.bilibili.com' }
+  ]
+},
   {
     id: 'hope',
     title: '希忘Hope',
@@ -721,7 +763,7 @@ const ALBUMS = [
       '走，一起去看日出吧','向阳而生',
       '点燃银河尽头的篝火','当全世界忘了我','虚幻与现实'
     ]
-  },
+  }
   {
     id: 'liangbian',
     title: '量变临界点',
@@ -735,6 +777,24 @@ const ALBUMS = [
       '温暖的房子','不重逢','人之爱','晨光里有你'
     ]
   }
+  function renderAlbumContext(album) {
+  const contextEl = document.getElementById('album-context');
+  if (!contextEl) return;
+  
+  // Set text based on current language
+  const contextText = album.context ? album.context[currentLang] || album.context.en : '';
+  const referencesHtml = album.references 
+    ? album.references.map(ref => 
+        `[<a href="${ref.url}" target="_blank" rel="noopener noreferrer">${ref.id}</a>]`
+      ).join(' ')
+    : '';
+
+  contextEl.innerHTML = `
+    <p class="album-context-text">
+      ${contextText} ${referencesHtml}
+    </p>
+  `;
+}
 ];
 
 /* ═══════════════════════════════════════════════════════════════
@@ -9979,7 +10039,8 @@ function showAlbum(albumId){
         <div class="avh-meta">${album.year} · ${available} / ${total} tracks in database</div>
       </div>
     </div>`;
-
+  // Render album context
+  renderAlbumContext(album);
   // Track list
   const list = document.getElementById('track-list');
   list.innerHTML = album.tracks.map((title, i) => {
