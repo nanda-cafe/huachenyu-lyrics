@@ -765,19 +765,35 @@ const ALBUMS = [
       '点燃银河尽头的篝火','当全世界忘了我','虚幻与现实'
     ]
   },
-  {
-    id: 'liangbian',
-    title: '量变临界点',
-    pinyin: 'Liàng Biàn Lín Jiè Diǎn',
-    english: 'Critical Point of Quantitative Change',
-    year: 2025,
-    cover: 'https://cdn-images.dzcdn.net/images/cover/c3e1a6b20c09aa945dfe4c541254e306/500x500.jpg',
-    tracks: [
-      '风之海','普通到不普通的人生','那些我尚未知道的美丽',
-      '永不熄灭的火焰','忒修斯的船','怪诞心理学',
-      '温暖的房子','不重逢','人之爱','晨光里有你'
-    ]
-  }
+ {
+  id: 'liangbian',
+  title: '量变临界点',
+  pinyin: 'Liàng Biàn Lín Jiè Diǎn',
+  english: 'Tipping Point',
+  year: 2025,
+  cover: 'https://cdn-images.dzcdn.net/images/cover/c3e1a6b20c09aa945dfe4c541254e306/500x500.jpg',
+  context: {
+    en: `The Tipping Point is Hua Chenyu's sixth studio album. Its core concept explores the idea that life's essence is constant change and forward movement. The "tipping point" is a state of complete clarity reached after accumulating countless small changes. In a noisy world where people acquire much but lose sight of this fundamental truth, Hua Chenyu chose to "break out of his shell" once more, embracing the "tipping point" where sadness, pain, warmth, and happiness are all understood as necessary parts of the journey. The album features a "Tear-Jerking Trilogy" (温暖的房子, 人之爱, 不重逢) that deals with the inevitable bitterness of life: irrecoverable family, imperfect love, and uncontrollable fate. This album follows the narrative arc of his previous two albums: while 新世界 NEW WORLD and 希忘Hope asked questions of the world, 量变临界点 turns inward to "ask the heart".`,
+    pt: `The Tipping Point é o sexto álbum de estúdio de Hua Chenyu. Seu conceito central explora a ideia de que a essência da vida é a mudança constante e o movimento para frente. O "ponto de inflexão" é um estado de clareza total alcançado após acumular inúmeras pequenas mudanças. Em um mundo barulhento onde as pessoas adquirem muito, mas perdem de vista essa verdade fundamental, Hua Chenyu escolheu "sair da casca" mais uma vez, abraçando o "ponto de inflexão" onde tristeza, dor, calor e felicidade são todos entendidos como partes necessárias da jornada. O álbum apresenta uma "Trilogia de Lágrimas" (温暖的房子, 人之爱, 不重逢) que lida com a amargura inevitável da vida: família irrecuperável, amor imperfeito e destino incontrolável. Este álbum segue o arco narrativo de seus dois álbuns anteriores: enquanto 新世界 NEW WORLD e 希忘Hope faziam perguntas ao mundo, 量变临界点 se volta para dentro para "perguntar ao coração".`
+  },
+  tracks: [
+    '风之海',
+    '普通到不普通的人生',
+    '那些我尚未知道的美丽',
+    '永不熄灭的火焰',
+    '忒修斯的船',
+    '怪诞心理学',
+    '温暖的房子 💧',
+    '不重逢 💧',
+    '人之爱 💧',
+    '晨光里有你'
+  ],
+  references: [
+    { id: 1, text: 'Baidu Baike — 量变临界点', url: 'https://baike.baidu.com/item/量变临界点' },
+    { id: 2, text: 'Sohu — 华晨宇六专《量变临界点》终于来了', url: 'https://m.sohu.com/coo/sg/846490493_122179394' },
+    { id: 3, text: 'Wikipedia — 量变临界点', url: 'https://zh.wikipedia.org/zh/量变临界点' }
+  ]
+}
   ];
   function renderAlbumContext(album) {
   const contextEl = document.getElementById('album-context');
@@ -4482,7 +4498,314 @@ const SONGS_DB = [
       }
     ]
   },
-
+  {
+    id: 'xiao-zhen-li-de-hua-min-yue-ban',
+    title: '小镇里的花（民乐版）',
+    titlePinyin: 'Xiǎo Zhèn Lǐ De Huā (Mín Yuè Bǎn)',
+    artist: '华晨宇 · Hua Chenyu',
+    meta: '2022 · Album "希忘Hope" · Track 3',
+    lines: [
+      {
+        translation: { en: "Mountain~ please walk a little slower toward me", pt: "Montanha~ por favor caminhe um pouco mais devagar em minha direção" },
+        words: [
+          { hz:'山', py:'shān', gloss:'mountain', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'请你', py:'qǐng nǐ', gloss:'please', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'慢些', py:'màn xiē', gloss:'a little slower', hsk:4, pos:'adv', posName:'adv.' },
+          { hz:'走向', py:'zǒu xiàng', gloss:'walk toward', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "Cross the river — don't wake the fisherman", pt: "Atravesse o rio — não acorde o pescador" },
+        words: [
+          { hz:'跨过', py:'kuà guò', gloss:'cross', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'河流', py:'hé liú', gloss:'river', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'别', py:'bié', gloss:"don't", hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'惊醒', py:'jīng xǐng', gloss:'wake', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'了', py:'le', gloss:'(perfective)', hsk:1, pos:'part', posName:'part.' },
+          { hz:'渔人', py:'yú rén', gloss:'fisherman', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Wind~ rolls the clouds into several banners", pt: "Vento~ enrola as nuvens em várias bandeiras" },
+        words: [
+          { hz:'风', py:'fēng', gloss:'wind', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'将', py:'jiāng', gloss:'will', hsk:4, pos:'prep', posName:'prep.' },
+          { hz:'云', py:'yún', gloss:'clouds', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'卷成', py:'juǎn chéng', gloss:'roll into', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'几张', py:'jǐ zhāng', gloss:'several', hsk:2, pos:'num', posName:'num.' },
+          { hz:'幡', py:'fān', gloss:'banners', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "That flying bird then carries the distant dusk", pt: "Aquele pássaro voador então carrega o crepúsculo distante" },
+        words: [
+          { hz:'那', py:'nà', gloss:'that', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'飞鸟', py:'fēi niǎo', gloss:'flying bird', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'就', py:'jiù', gloss:'then', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'衔来', py:'xián lái', gloss:'carry in beak', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'天边', py:'tiān biān', gloss:'distant sky', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'黄昏', py:'huáng hūn', gloss:'dusk', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Sea~ cannot contain this curved moon", pt: "Mar~ não consegue conter esta lua curva" },
+        words: [
+          { hz:'海', py:'hǎi', gloss:'sea', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'盛不下', py:'chéng bù xià', gloss:'cannot contain', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'这', py:'zhè', gloss:'this', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'一弯', py:'yī wān', gloss:'a curved', hsk:5, pos:'num', posName:'num.' },
+          { hz:'月', py:'yuè', gloss:'moon', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "Overflowing from the brow — looking back is full of dust", pt: "Transbordando da testa — olhar para trás é cheio de poeira" },
+        words: [
+          { hz:'溢出', py:'yì chū', gloss:'overflow', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'眉头', py:'méi tóu', gloss:'brow', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'回首', py:'huí shǒu', gloss:'look back', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'满是', py:'mǎn shì', gloss:'full of', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'风尘', py:'fēng chén', gloss:'dust', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Fire~ burns the stars — cannot be extinguished", pt: "Fogo~ queima as estrelas — não pode ser extinto" },
+        words: [
+          { hz:'火', py:'huǒ', gloss:'fire', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'烧着', py:'shāo zhe', gloss:'burning', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'星辰', py:'xīng chén', gloss:'stars', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'熄不灭', py:'xī bù miè', gloss:'cannot extinguish', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "High-rises — hiding innocent romance", pt: "Arranha-céus — escondendo romance inocente" },
+        words: [
+          { hz:'万丈', py:'wàn zhàng', gloss:'high', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'高楼', py:'gāo lóu', gloss:'high-rise', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'藏着', py:'cáng zhe', gloss:'hiding', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'烂漫', py:'làn màn', gloss:'innocent', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'天真', py:'tiān zhēn', gloss:'romance', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "That fire burned out the gullies of people's hearts", pt: "Aquele fogo queimou as ravinas dos corações das pessoas" },
+        words: [
+          { hz:'那场', py:'nà chǎng', gloss:'that', hsk:2, pos:'pron', posName:'pron.' },
+          { hz:'火', py:'huǒ', gloss:'fire', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'烧出', py:'shāo chū', gloss:'burn out', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'人心', py:'rén xīn', gloss:'people\'s hearts', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'道道', py:'dào dào', gloss:'each', hsk:6, pos:'mw', posName:'m.w.' },
+          { hz:'沟壑', py:'gōu hè', gloss:'gullies', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "The flower sways and blooms right in the sea of fire", pt: "A flor balança e floresce bem no mar de fogo" },
+        words: [
+          { hz:'花', py:'huā', gloss:'flower', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'就', py:'jiù', gloss:'right', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'在', py:'zài', gloss:'in', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'火海', py:'huǒ hǎi', gloss:'sea of fire', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'里', py:'lǐ', gloss:'inside', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'摇曳', py:'yáo yè', gloss:'sway', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'开着', py:'kāi zhe', gloss:'blooming', hsk:2, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Ai ya ai ya — the flower in the small town", pt: "Ai ya ai ya — a flor na pequena cidade" },
+        words: [
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'小镇', py:'xiǎo zhèn', gloss:'small town', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'里', py:'lǐ', gloss:'inside', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'花', py:'huā', gloss:'flower', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "Ai ya ai ya — gorgeous and delicate", pt: "Ai ya ai ya — linda e delicada" },
+        words: [
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'艳丽', py:'yàn lì', gloss:'gorgeous', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'又', py:'yòu', gloss:'and', hsk:3, pos:'adv', posName:'adv.' },
+          { hz:'娇美', py:'jiāo měi', gloss:'delicate', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "Ai ya ai ya — always cannot be found", pt: "Ai ya ai ya — sempre não pode ser encontrada" },
+        words: [
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'总也', py:'zǒng yě', gloss:'always', hsk:5, pos:'adv', posName:'adv.' },
+          { hz:'寻不得', py:'xún bù dé', gloss:'cannot be found', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Yo ei hey yo — yo ei hey yo", pt: "Yo ei hey yo — yo ei hey yo" },
+        words: [
+          { hz:'哟诶嘿哟', py:'yo ei hēi yo', gloss:'yo ei hey yo', hsk:6, pos:'intj', posName:'intj.' },
+          { hz:'哟诶嘿哟', py:'yo ei hēi yo', gloss:'yo ei hey yo', hsk:6, pos:'intj', posName:'intj.' }
+        ]
+      },
+      {
+        translation: { en: "Words~ fluctuate right at the lips", pt: "Palavras~ oscilam bem nos lábios" },
+        words: [
+          { hz:'话', py:'huà', gloss:'words', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'就', py:'jiù', gloss:'right', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'在', py:'zài', gloss:'at', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'嘴里', py:'zuǐ lǐ', gloss:'lips', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'边', py:'biān', gloss:'side', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'跌宕', py:'diē dàng', gloss:'fluctuate', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "Once spoken it transforms into steep mountains and rivers", pt: "Uma vez falado, transforma-se em montanhas íngremes e rios" },
+        words: [
+          { hz:'说出来', py:'shuō chū lái', gloss:'speak out', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'就', py:'jiù', gloss:'then', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'化作', py:'huà zuò', gloss:'transform into', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'陡峭', py:'dǒu qiào', gloss:'steep', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'山河', py:'shān hé', gloss:'mountains and rivers', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Heart~ separated by several layers of Nayuta", pt: "Coração~ separado por várias camadas de Nayuta" },
+        words: [
+          { hz:'心', py:'xīn', gloss:'heart', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'隔着', py:'gé zhe', gloss:'separated by', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'几重', py:'jǐ chóng', gloss:'several layers', hsk:6, pos:'num', posName:'num.' },
+          { hz:'那由他', py:'nà yóu tā', gloss:'Nayuta', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "My joys and sorrows all only exchange for this silent wildfire", pt: "Minhas alegrias e tristezas só trocam por este fogo selvagem silencioso" },
+        words: [
+          { hz:'我', py:'wǒ', gloss:'my', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'悲喜', py:'bēi xǐ', gloss:'joys and sorrows', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'都', py:'dōu', gloss:'all', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'只', py:'zhǐ', gloss:'only', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'换来', py:'huàn lái', gloss:'exchange for', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'这场', py:'zhè chǎng', gloss:'this', hsk:2, pos:'pron', posName:'pron.' },
+          { hz:'无声', py:'wú shēng', gloss:'silent', hsk:5, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'野火', py:'yě huǒ', gloss:'wildfire', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "That fire burned out the indestructible one — that statue is me", pt: "Aquele fogo queimou o indestrutível — aquela estátua sou eu" },
+        words: [
+          { hz:'那场', py:'nà chǎng', gloss:'that', hsk:2, pos:'pron', posName:'pron.' },
+          { hz:'火', py:'huǒ', gloss:'fire', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'烧出', py:'shāo chū', gloss:'burn out', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'不坏', py:'bù huài', gloss:'indestructible', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'那尊', py:'nà zūn', gloss:'that statue', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'是', py:'shì', gloss:'is', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' }
+        ]
+      },
+      {
+        translation: { en: "The flower blooms brilliantly right in the sea of fire", pt: "A flor floresce brilhantemente bem no mar de fogo" },
+        words: [
+          { hz:'花', py:'huā', gloss:'flower', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'就', py:'jiù', gloss:'right', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'在', py:'zài', gloss:'in', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'火海', py:'huǒ hǎi', gloss:'sea of fire', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'里', py:'lǐ', gloss:'inside', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'灿烂', py:'càn làn', gloss:'brilliantly', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'开着', py:'kāi zhe', gloss:'blooming', hsk:2, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Ai ya ai ya — the flower in the small town", pt: "Ai ya ai ya — a flor na pequena cidade" },
+        words: [
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'小镇', py:'xiǎo zhèn', gloss:'small town', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'里', py:'lǐ', gloss:'inside', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'花', py:'huā', gloss:'flower', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "Ai ya ai ya — gorgeous and delicate", pt: "Ai ya ai ya — linda e delicada" },
+        words: [
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'艳丽', py:'yàn lì', gloss:'gorgeous', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'又', py:'yòu', gloss:'and', hsk:3, pos:'adv', posName:'adv.' },
+          { hz:'娇美', py:'jiāo měi', gloss:'delicate', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "Ai ya ai ya — always cannot be found", pt: "Ai ya ai ya — sempre não pode ser encontrada" },
+        words: [
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'总也', py:'zǒng yě', gloss:'always', hsk:5, pos:'adv', posName:'adv.' },
+          { hz:'寻不得', py:'xún bù dé', gloss:'cannot be found', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Yo ei hey yo — yo ei hey yo", pt: "Yo ei hey yo — yo ei hey yo" },
+        words: [
+          { hz:'哟诶嘿哟', py:'yo ei hēi yo', gloss:'yo ei hey yo', hsk:6, pos:'intj', posName:'intj.' },
+          { hz:'哟诶嘿哟', py:'yo ei hēi yo', gloss:'yo ei hey yo', hsk:6, pos:'intj', posName:'intj.' }
+        ]
+      },
+      {
+        translation: { en: "Ai ya ai ya — the flower in the small town", pt: "Ai ya ai ya — a flor na pequena cidade" },
+        words: [
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'小镇', py:'xiǎo zhèn', gloss:'small town', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'里', py:'lǐ', gloss:'inside', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'花', py:'huā', gloss:'flower', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "Ai ya ai ya — gorgeous and delicate", pt: "Ai ya ai ya — linda e delicada" },
+        words: [
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'艳丽', py:'yàn lì', gloss:'gorgeous', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'又', py:'yòu', gloss:'and', hsk:3, pos:'adv', posName:'adv.' },
+          { hz:'娇美', py:'jiāo měi', gloss:'delicate', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'呀', py:'ya', gloss:'(particle)', hsk:3, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "Ai ya ai ya — drifting clouds open a flower", pt: "Ai ya ai ya — nuvens à deriva abrem uma flor" },
+        words: [
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'哎呀', py:'āi yā', gloss:'ai ya', hsk:3, pos:'intj', posName:'intj.' },
+          { hz:'流云', py:'liú yún', gloss:'drifting clouds', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'开', py:'kāi', gloss:'open', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'一朵', py:'yī duǒ', gloss:'a (m.w.)', hsk:1, pos:'num', posName:'num.' }
+        ]
+      },
+      {
+        translation: { en: "Yo ei hey yo — yo ei hey yo", pt: "Yo ei hey yo — yo ei hey yo" },
+        words: [
+          { hz:'哟诶嘿哟', py:'yo ei hēi yo', gloss:'yo ei hey yo', hsk:6, pos:'intj', posName:'intj.' },
+          { hz:'哟诶嘿哟', py:'yo ei hēi yo', gloss:'yo ei hey yo', hsk:6, pos:'intj', posName:'intj.' }
+        ]
+      }
+    ]
+  },
   {
     id: 'hei-bai-yi-shu-jia',
     title: '黑白艺术家',
@@ -5681,7 +6004,1010 @@ const SONGS_DB = [
       }
     ]
   },
-  
+    {
+    id: 'dian-ran-yin-he-jin-tou-de-gou-huo',
+    title: '点燃银河尽头的篝火',
+    titlePinyin: 'Diǎn Rán Yín Hé Jìn Tóu De Gōu Huǒ',
+    artist: '华晨宇 · Hua Chenyu',
+    meta: '2022 · Album "希忘Hope" · Track 9',
+    lines: [
+      {
+        translation: { en: "Forget the worries that surround you", pt: "Esqueça as preocupações que o cercam" },
+        words: [
+          { hz:'忘掉', py:'wàng diào', gloss:'forget', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'天空', py:'tiān kōng', gloss:'sky', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'烦扰', py:'fán rǎo', gloss:'worries', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Let's pick up the pace and run towards the enchanting beauty of the galaxy", pt: "Vamos acelerar o passo e correr em direção à beleza encantadora da galáxia" },
+        words: [
+          { hz:'跑起来', py:'pǎo qǐ lái', gloss:'pick up the pace', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'吧', py:'ba', gloss:'(particle)', hsk:1, pos:'part', posName:'part.' },
+          { hz:'奔向', py:'bēn xiàng', gloss:'run towards', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'星河', py:'xīng hé', gloss:'galaxy', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'绮丽', py:'qǐ lì', gloss:'enchanting beauty', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Wohh～Ohh～ Laughing freely we throw ourselves into infinite time", pt: "Wohh～Ohh～ Rindo livremente, nos lançamos no tempo infinito" },
+        words: [
+          { hz:'Wohh～Ohh～', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'放肆', py:'fàng sì', gloss:'freely', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'地', py:'de', gloss:'(adverbial)', hsk:3, pos:'part', posName:'part.' },
+          { hz:'欢笑', py:'huān xiào', gloss:'laughing', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'撞进', py:'zhuàng jìn', gloss:'throw into', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'亿万', py:'yì wàn', gloss:'infinite', hsk:6, pos:'num', posName:'num.' },
+          { hz:'岁月', py:'suì yuè', gloss:'time', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'里', py:'lǐ', gloss:'inside', hsk:1, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Becoming a lazy star in the sky", pt: "Tornando-se uma estrela preguiçosa no céu" },
+        words: [
+          { hz:'做', py:'zuò', gloss:'become', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'颗', py:'kē', gloss:'(m.w.)', hsk:5, pos:'mw', posName:'m.w.' },
+          { hz:'悠然', py:'yōu rán', gloss:'lazy', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'星宿', py:'xīng xiù', gloss:'star', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Dancing on the outskirts of town", pt: "Dançando nos arredores da cidade" },
+        words: [
+          { hz:'荒郊', py:'huāng jiāo', gloss:'outskirts of town', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'之中', py:'zhī zhōng', gloss:'in', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'舞蹈', py:'wǔ dǎo', gloss:'dancing', hsk:5, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Stars and grass make up this boundless space", pt: "Estrelas e grama compõem este espaço sem limites" },
+        words: [
+          { hz:'星辰', py:'xīng chén', gloss:'stars', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'野草', py:'yě cǎo', gloss:'grass', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'造处', py:'zào chù', gloss:'make up', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'无边', py:'wú biān', gloss:'boundless', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'天地', py:'tiān dì', gloss:'space', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Wohh～Ohh～ The earth is so small, like a lonely island", pt: "Wohh～Ohh～ A Terra é tão pequena, como uma ilha solitária" },
+        words: [
+          { hz:'Wohh～Ohh～', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'这', py:'zhè', gloss:'this', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'地球', py:'dì qiú', gloss:'earth', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'太', py:'tài', gloss:'too', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'小', py:'xiǎo', gloss:'small', hsk:1, pos:'adj', posName:'adj.' },
+          { hz:'像', py:'xiàng', gloss:'like', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'座', py:'zuò', gloss:'(m.w.)', hsk:3, pos:'mw', posName:'m.w.' },
+          { hz:'环行', py:'huán xíng', gloss:'circling', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'孤岛', py:'gū dǎo', gloss:'lonely island', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Who would want to grow old here?", pt: "Quem iria querer envelhecer aqui?" },
+        words: [
+          { hz:'谁', py:'shéi', gloss:'who', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'会', py:'huì', gloss:'would', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'在', py:'zài', gloss:'at', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'这儿', py:'zhèr', gloss:'here', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'终老', py:'zhōng lǎo', gloss:'grow old', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "When mankind forever contentedly floats in space", pt: "Quando a humanidade flutua contente para sempre no espaço" },
+        words: [
+          { hz:'当', py:'dāng', gloss:'when', hsk:3, pos:'prep', posName:'prep.' },
+          { hz:'人类', py:'rén lèi', gloss:'mankind', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'悬浮', py:'xuán fú', gloss:'float', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'到', py:'dào', gloss:'to', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'不朽', py:'bù xiǔ', gloss:'forever', hsk:6, pos:'adj', posName:'adj.' }
+        ]
+      },
+      {
+        translation: { en: "Who will take the chance to drift away and chase a comet?", pt: "Quem aproveitará a chance de vagar e perseguir um cometa?" },
+        words: [
+          { hz:'有', py:'yǒu', gloss:'have', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'谁', py:'shéi', gloss:'who', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'愿', py:'yuàn', gloss:'willing', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'追随', py:'zhuī suí', gloss:'chase', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'彗星', py:'huì xīng', gloss:'comet', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'漂流', py:'piāo liú', gloss:'drift', hsk:5, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "That bonfire at the end of the Milky Way ignites the whole universe", pt: "Aquela fogueira no fim da Via Láctea acende todo o universo" },
+        words: [
+          { hz:'那', py:'nà', gloss:'that', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'篝火', py:'gōu huǒ', gloss:'bonfire', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'在', py:'zài', gloss:'at', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'银河', py:'yín hé', gloss:'Milky Way', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'尽头', py:'jìn tóu', gloss:'end', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'点燃', py:'diǎn rán', gloss:'ignite', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'宇宙', py:'yǔ zhòu', gloss:'universe', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Ohh～Ohh～Ohh～ Let's... Dance, in this enormous galaxy", pt: "Ohh～Ohh～Ohh～ Vamos... Dançar, nesta enorme galáxia" },
+        words: [
+          { hz:'Ohh～Ohh～Ohh～', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'我们', py:'wǒ men', gloss:'us', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'跳吧', py:'tiào ba', gloss:'dance', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'在', py:'zài', gloss:'in', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'无比', py:'wú bǐ', gloss:'enormous', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'宏大', py:'hóng dà', gloss:'vast', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'星系', py:'xīng xì', gloss:'galaxy', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Ohh HU HA HEI HOO Drink, losing ourselves in the magnitude of this beauty", pt: "Ohh HU HA HEI HOO Beba, perdendo-nos na magnitude desta beleza" },
+        words: [
+          { hz:'Ohh HU HA HEI HOO', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'喝吧', py:'hē ba', gloss:'drink', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'要', py:'yào', gloss:'want to', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'沉迷', py:'chén mí', gloss:'lose oneself in', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'洪荒', py:'hóng huāng', gloss:'primordial', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'美丽', py:'měi lì', gloss:'beauty', hsk:4, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Ohh HU HA HEI HOO Fly, in search of a red shooting star", pt: "Ohh HU HA HEI HOO Voar, em busca de uma estrela cadente vermelha" },
+        words: [
+          { hz:'Ohh HU HA HEI HOO', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'飞吧', py:'fēi ba', gloss:'fly', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'去', py:'qù', gloss:'go', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'寻觅', py:'xún mì', gloss:'search', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'红色', py:'hóng sè', gloss:'red', hsk:3, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'流星', py:'liú xīng', gloss:'shooting star', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Let's... laugh Stars ignite all at once", pt: "Vamos... rir Estrelas acendem de uma só vez" },
+        words: [
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'我们', py:'wǒ men', gloss:'us', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'笑吧', py:'xiào ba', gloss:'laugh', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'繁星', py:'fán xīng', gloss:'stars', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'一瞬', py:'yī shùn', gloss:'all at once', hsk:5, pos:'adv', posName:'adv.' },
+          { hz:'燃烧', py:'rán shāo', gloss:'ignite', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Reminding us to leave this silent planet", pt: "Lembrando-nos de deixar este planeta silencioso" },
+        words: [
+          { hz:'提醒', py:'tí xǐng', gloss:'remind', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'我们', py:'wǒ men', gloss:'us', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'告别', py:'gào bié', gloss:'leave', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'沉寂', py:'chén jì', gloss:'silent', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'天体', py:'tiān tǐ', gloss:'celestial body', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Wohh～Ohh～ Even in the midst of a throng of people", pt: "Wohh～Ohh～ Mesmo no meio de uma multidão" },
+        words: [
+          { hz:'Wohh～Ohh～', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'在', py:'zài', gloss:'in', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'拥挤', py:'yōng jǐ', gloss:'throng', hsk:5, pos:'adj', posName:'adj.' },
+          { hz:'人潮', py:'rén cháo', gloss:'crowd', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "I can see clearly... A bright and sparkling universe", pt: "Eu posso ver claramente... Um universo brilhante e cintilante" },
+        words: [
+          { hz:'我', py:'wǒ', gloss:'I', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'也', py:'yě', gloss:'also', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'清晰', py:'qīng xī', gloss:'clearly', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'地', py:'de', gloss:'(adverbial)', hsk:3, pos:'part', posName:'part.' },
+          { hz:'看到', py:'kàn dào', gloss:'see', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'一座', py:'yī zuò', gloss:'a', hsk:3, pos:'num', posName:'num.' },
+          { hz:'斑斓', py:'bān lán', gloss:'sparkling', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'宇宙', py:'yǔ zhòu', gloss:'universe', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Allow our hearts to lift off from the surface so we can find the energy to rise higher", pt: "Permita que nossos corações decolem da superfície para que possamos encontrar a energia para subir mais alto" },
+        words: [
+          { hz:'让', py:'ràng', gloss:'allow', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'心', py:'xīn', gloss:'heart', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'离开', py:'lí kāi', gloss:'lift off', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'地表', py:'dì biǎo', gloss:'surface', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'才能', py:'cái néng', gloss:'so we can', hsk:4, pos:'adv', posName:'adv.' },
+          { hz:'找到', py:'zhǎo dào', gloss:'find', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'盘旋', py:'pán xuán', gloss:'rise', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'爬升', py:'pá shēng', gloss:'climb', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'动力', py:'dòng lì', gloss:'energy', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Wohh～Ohh～ Making friends may feel awkward, but it's better than traveling alone", pt: "Wohh～Ohh～ Fazer amigos pode ser estranho, mas é melhor do que viajar sozinho" },
+        words: [
+          { hz:'Wohh～Ohh～', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'夸张', py:'kuā zhāng', gloss:'awkward', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'些', py:'xiē', gloss:'some', hsk:1, pos:'num', posName:'num.' },
+          { hz:'拥抱', py:'yōng bào', gloss:'embrace', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'好过', py:'hǎo guò', gloss:'better than', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'孤单', py:'gū dān', gloss:'alone', hsk:5, pos:'adj', posName:'adj.' },
+          { hz:'地', py:'de', gloss:'(adverbial)', hsk:3, pos:'part', posName:'part.' },
+          { hz:'旅行', py:'lǚ xíng', gloss:'travel', hsk:4, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Don't allow stubbornness to follow you into old age", pt: "Não permita que a teimosia o siga até a velhice" },
+        words: [
+          { hz:'别再', py:'bié zài', gloss:"don't", hsk:3, pos:'adv', posName:'adv.' },
+          { hz:'固执', py:'gù zhí', gloss:'stubbornness', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'到老', py:'dào lǎo', gloss:'into old age', hsk:5, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Although mankind revolves around this planet", pt: "Embora a humanidade gire em torno deste planeta" },
+        words: [
+          { hz:'但', py:'dàn', gloss:'although', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'人类', py:'rén lèi', gloss:'mankind', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'都', py:'dōu', gloss:'all', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'环绕', py:'huán rào', gloss:'revolve around', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'星球', py:'xīng qiú', gloss:'planet', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "I would rather drift away and chase a comet", pt: "Eu prefiro vagar e perseguir um cometa" },
+        words: [
+          { hz:'我', py:'wǒ', gloss:'I', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'更', py:'gèng', gloss:'rather', hsk:3, pos:'adv', posName:'adv.' },
+          { hz:'愿', py:'yuàn', gloss:'prefer', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'追随', py:'zhuī suí', gloss:'chase', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'彗星', py:'huì xīng', gloss:'comet', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'漂流', py:'piāo liú', gloss:'drift', hsk:5, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "That bonfire at the end of the Milky Way ignites the whole universe", pt: "Aquela fogueira no fim da Via Láctea acende todo o universo" },
+        words: [
+          { hz:'那', py:'nà', gloss:'that', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'篝火', py:'gōu huǒ', gloss:'bonfire', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'在', py:'zài', gloss:'at', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'银河', py:'yín hé', gloss:'Milky Way', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'尽头', py:'jìn tóu', gloss:'end', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'点燃', py:'diǎn rán', gloss:'ignite', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'宇宙', py:'yǔ zhòu', gloss:'universe', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Ohh～Ohh～Ohh～ Let's... Dance, in this enormous galaxy", pt: "Ohh～Ohh～Ohh～ Vamos... Dançar, nesta enorme galáxia" },
+        words: [
+          { hz:'Ohh～Ohh～Ohh～', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'我们', py:'wǒ men', gloss:'us', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'跳吧', py:'tiào ba', gloss:'dance', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'在', py:'zài', gloss:'in', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'无比', py:'wú bǐ', gloss:'enormous', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'宏大', py:'hóng dà', gloss:'vast', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'星系', py:'xīng xì', gloss:'galaxy', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Ohh HU HA HEI HOO Drink, losing ourselves in the magnitude of this beauty", pt: "Ohh HU HA HEI HOO Beba, perdendo-nos na magnitude desta beleza" },
+        words: [
+          { hz:'Ohh HU HA HEI HOO', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'喝吧', py:'hē ba', gloss:'drink', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'要', py:'yào', gloss:'want to', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'沉迷', py:'chén mí', gloss:'lose oneself in', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'洪荒', py:'hóng huāng', gloss:'primordial', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'美丽', py:'měi lì', gloss:'beauty', hsk:4, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Ohh HU HA HEI HOO Fly, in search of a red shooting star", pt: "Ohh HU HA HEI HOO Voar, em busca de uma estrela cadente vermelha" },
+        words: [
+          { hz:'Ohh HU HA HEI HOO', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'飞吧', py:'fēi ba', gloss:'fly', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'去', py:'qù', gloss:'go', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'寻觅', py:'xún mì', gloss:'search', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'红色', py:'hóng sè', gloss:'red', hsk:3, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'流星', py:'liú xīng', gloss:'shooting star', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Let's... laugh Dance, in this enormous galaxy", pt: "Vamos... rir Dançar, nesta enorme galáxia" },
+        words: [
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'我们', py:'wǒ men', gloss:'us', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'笑吧', py:'xiào ba', gloss:'laugh', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'跳吧', py:'tiào ba', gloss:'dance', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'在', py:'zài', gloss:'in', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'无比', py:'wú bǐ', gloss:'enormous', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'宏大', py:'hóng dà', gloss:'vast', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'星系', py:'xīng xì', gloss:'galaxy', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Ohh HU HA HEI HOO Drink, losing ourselves in the magnitude of this beauty", pt: "Ohh HU HA HEI HOO Beba, perdendo-nos na magnitude desta beleza" },
+        words: [
+          { hz:'Ohh HU HA HEI HOO', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'喝吧', py:'hē ba', gloss:'drink', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'要', py:'yào', gloss:'want to', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'沉迷', py:'chén mí', gloss:'lose oneself in', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'洪荒', py:'hóng huāng', gloss:'primordial', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'美丽', py:'měi lì', gloss:'beauty', hsk:4, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Ohh HU HA HEI HOO Fly, in search of a red shooting star", pt: "Ohh HU HA HEI HOO Voar, em busca de uma estrela cadente vermelha" },
+        words: [
+          { hz:'Ohh HU HA HEI HOO', py:'', gloss:'', pos:'intj', posName:'intj.' },
+          { hz:'飞吧', py:'fēi ba', gloss:'fly', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'去', py:'qù', gloss:'go', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'寻觅', py:'xún mì', gloss:'search', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'红色', py:'hóng sè', gloss:'red', hsk:3, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'流星', py:'liú xīng', gloss:'shooting star', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Let's... dream", pt: "Vamos... sonhar" },
+        words: [
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'我们', py:'wǒ men', gloss:'us', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'梦吧', py:'mèng ba', gloss:'dream', hsk:4, pos:'verb', posName:'v.' }
+        ]
+      }
+    ]
+  },
+
+  {
+    id: 'dang-quan-shi-jie-wang-le-wo',
+    title: '当全世界忘了我',
+    titlePinyin: 'Dāng Quán Shì Jiè Wàng Le Wǒ',
+    artist: '华晨宇 · Hua Chenyu',
+    meta: '2022 · Album "希忘Hope" · Track 10',
+    lines: [
+      {
+        translation: { en: "If I could, I would hush the world so it wouldn't wake me from my dream", pt: "Se eu pudesse, silenciaria o mundo para que não me acordasse do meu sonho" },
+        words: [
+          { hz:'假如', py:'jiǎ rú', gloss:'if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'可以', py:'kě yǐ', gloss:'could', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'世界', py:'shì jiè', gloss:'world', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'沉默', py:'chén mò', gloss:'silent', hsk:5, pos:'adj', posName:'adj.' },
+          { hz:'别', py:'bié', gloss:"don't", hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'吵醒', py:'chǎo xǐng', gloss:'wake', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'我的', py:'wǒ de', gloss:'my', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'梦', py:'mèng', gloss:'dream', hsk:4, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "If I could, I would pause the music ah, ah, ah ~ so you would listen to me", pt: "Se eu pudesse, pausaria a música ah, ah, ah ~ para que você me ouvisse" },
+        words: [
+          { hz:'假如', py:'jiǎ rú', gloss:'if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'可以', py:'kě yǐ', gloss:'could', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'音乐', py:'yīn yuè', gloss:'music', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'停下', py:'tíng xià', gloss:'pause', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'来', py:'lái', gloss:'come', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'啊啊啊', py:'a a a', gloss:'ah ah ah', hsk:1, pos:'intj', posName:'intj.' },
+          { hz:'倾听', py:'qīng tīng', gloss:'listen', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' }
+        ]
+      },
+      {
+        translation: { en: "If I could, I would go back in time so I could sing my favorite song once more", pt: "Se eu pudesse, voltaria no tempo para poder cantar minha música favorita mais uma vez" },
+        words: [
+          { hz:'假如', py:'jiǎ rú', gloss:'if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'可以', py:'kě yǐ', gloss:'could', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'回到', py:'huí dào', gloss:'go back', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'那', py:'nà', gloss:'that', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'一刻', py:'yī kè', gloss:'moment', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'再', py:'zài', gloss:'again', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'唱', py:'chàng', gloss:'sing', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'一遍', py:'yī biàn', gloss:'once', hsk:4, pos:'num', posName:'num.' },
+          { hz:'最爱', py:'zuì ài', gloss:'favorite', hsk:4, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'那首歌', py:'nà shǒu gē', gloss:'that song', hsk:3, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "If that passion could live on I would not give in till the very end", pt: "Se essa paixão pudesse continuar, eu não cederia até o fim" },
+        words: [
+          { hz:'假如', py:'jiǎ rú', gloss:'if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'能', py:'néng', gloss:'could', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'延续', py:'yán xù', gloss:'live on', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'那', py:'nà', gloss:'that', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'一份', py:'yī fèn', gloss:'a', hsk:2, pos:'num', posName:'num.' },
+          { hz:'热烈', py:'rè liè', gloss:'passion', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'就', py:'jiù', gloss:'then', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'固执', py:'gù zhí', gloss:'give in', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'到', py:'dào', gloss:'until', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'结果', py:'jié guǒ', gloss:'end', hsk:4, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Cheers surround me for yet another instant", pt: "Aplausos me cercam por mais um instante" },
+        words: [
+          { hz:'多', py:'duō', gloss:'more', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'一秒', py:'yī miǎo', gloss:'one second', hsk:4, pos:'num', posName:'num.' },
+          { hz:'欢呼声', py:'huān hū shēng', gloss:'cheers', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'将', py:'jiāng', gloss:'will', hsk:4, pos:'prep', posName:'prep.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'包围', py:'bāo wéi', gloss:'surround', hsk:5, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "I must immerse myself in this moment and forget myself", pt: "Devo me imergir neste momento e me esquecer" },
+        words: [
+          { hz:'在', py:'zài', gloss:'at', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'此刻', py:'cǐ kè', gloss:'this moment', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'要', py:'yào', gloss:'must', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'沉醉', py:'chén zuì', gloss:'immerse', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'忘我', py:'wàng wǒ', gloss:'forget myself', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Screams remind me that yet again the name being showered in love is mine", pt: "Gritos me lembram que mais uma vez o nome sendo coberto de amor é o meu" },
+        words: [
+          { hz:'多', py:'duō', gloss:'more', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'一声', py:'yī shēng', gloss:'one sound', hsk:2, pos:'num', posName:'num.' },
+          { hz:'尖叫', py:'jiān jiào', gloss:'screams', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'呐喊', py:'nà hǎn', gloss:'shouts', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'让', py:'ràng', gloss:'make', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'想起', py:'xiǎng qǐ', gloss:'remind', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'被爱着', py:'bèi ài zhe', gloss:'being loved', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'那一个', py:'nà yī gè', gloss:'that one', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'名字', py:'míng zì', gloss:'name', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'是', py:'shì', gloss:'is', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' }
+        ]
+      },
+      {
+        translation: { en: "If that spotlight has to keep chasing me could I please be decently lit?", pt: "Se aquele holofote tem que continuar me perseguindo, poderia eu, por favor, ser decentemente iluminado?" },
+        words: [
+          { hz:'假如', py:'jiǎ rú', gloss:'if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'那', py:'nà', gloss:'that', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'追光', py:'zhuī guāng', gloss:'spotlight', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'追赶', py:'zhuī gǎn', gloss:'chase', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'着', py:'zhe', gloss:'(continuous)', hsk:2, pos:'part', posName:'part.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'能否', py:'néng fǒu', gloss:'could', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'请', py:'qǐng', gloss:'please', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'它', py:'tā', gloss:'it', hsk:2, pos:'pron', posName:'pron.' },
+          { hz:'真正', py:'zhēn zhèng', gloss:'decently', hsk:4, pos:'adv', posName:'adv.' },
+          { hz:'地', py:'de', gloss:'(adverbial)', hsk:3, pos:'part', posName:'part.' },
+          { hz:'照亮', py:'zhào liàng', gloss:'light', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' }
+        ]
+      },
+      {
+        translation: { en: "If fireworks light up and fall to the ground I hope they don't harm me as they rain down", pt: "Se fogos de artifício acendem e caem no chão, espero que não me machuquem enquanto chovem" },
+        words: [
+          { hz:'假如', py:'jiǎ rú', gloss:'if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'那', py:'nà', gloss:'that', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'烟火', py:'yān huǒ', gloss:'fireworks', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'燃尽', py:'rán jìn', gloss:'light up', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'后', py:'hòu', gloss:'after', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'陨落', py:'yǔn luò', gloss:'fall', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'别', py:'bié', gloss:"don't", hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'在', py:'zài', gloss:'at', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'散落', py:'sàn luò', gloss:'rain down', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'间', py:'jiān', gloss:'between', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'划伤', py:'huá shāng', gloss:'harm', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' }
+        ]
+      },
+      {
+        translation: { en: "If I alone remained on the stage singing at the top of my lungs to all the lonely souls that fill each seat", pt: "Se eu sozinho permanecesse no palco cantando a plenos pulmões para todas as almas solitárias que preenchem cada assento" },
+        words: [
+          { hz:'假如', py:'jiǎ rú', gloss:'if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'舞台', py:'wǔ tái', gloss:'stage', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'上', py:'shàng', gloss:'on', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'剩', py:'shèng', gloss:'remain', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'一个', py:'yī gè', gloss:'one', hsk:1, pos:'num', posName:'num.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'声嘶力竭', py:'shēng sī lì jié', gloss:'at the top of my lungs', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'台下', py:'tái xià', gloss:'below the stage', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'孤独', py:'gū dú', gloss:'lonely', hsk:5, pos:'adj', posName:'adj.' },
+          { hz:'满座', py:'mǎn zuò', gloss:'full house', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "If this place becomes too desolate after the crowd departs may I have a mirror so that I can keep me company", pt: "Se este lugar ficar muito desolado depois que a multidão partir, posso ter um espelho para que eu possa me fazer companhia" },
+        words: [
+          { hz:'假如', py:'jiǎ rú', gloss:'if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'人群', py:'rén qún', gloss:'crowd', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'散去', py:'sàn qù', gloss:'depart', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'后', py:'hòu', gloss:'after', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'太', py:'tài', gloss:'too', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'落寞', py:'luò mò', gloss:'desolate', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'能不能', py:'néng bù néng', gloss:'may I', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'给', py:'gěi', gloss:'give', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'一面', py:'yī miàn', gloss:'a', hsk:3, pos:'num', posName:'num.' },
+          { hz:'镜子', py:'jìng zi', gloss:'mirror', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'陪', py:'péi', gloss:'accompany', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' }
+        ]
+      },
+      {
+        translation: { en: "Joy would embrace me and then turn its back on me", pt: "A alegria me abraçaria e depois me viraria as costas" },
+        words: [
+          { hz:'所有', py:'suǒ yǒu', gloss:'all', hsk:4, pos:'pron', posName:'pron.' },
+          { hz:'快乐', py:'kuài lè', gloss:'joy', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'拥抱', py:'yōng bào', gloss:'embrace', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'后', py:'hòu', gloss:'then', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'背向', py:'bèi xiàng', gloss:'turn back on', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' }
+        ]
+      },
+      {
+        translation: { en: "It tells me to forget each beautiful scene", pt: "Ele me diz para esquecer cada cena bonita" },
+        words: [
+          { hz:'叫', py:'jiào', gloss:'tell', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'忘了', py:'wàng le', gloss:'forget', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'艳丽', py:'yàn lì', gloss:'beautiful', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'段落', py:'duàn luò', gloss:'scene', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "When I turn around, I search for clues of happiness in vain", pt: "Quando me viro, procuro em vão pistas de felicidade" },
+        words: [
+          { hz:'当', py:'dāng', gloss:'when', hsk:3, pos:'prep', posName:'prep.' },
+          { hz:'我', py:'wǒ', gloss:'I', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'回头', py:'huí tóu', gloss:'turn around', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'妄想', py:'wàng xiǎng', gloss:'in vain', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'找到', py:'zhǎo dào', gloss:'search', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'幸福', py:'xìng fú', gloss:'happiness', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'线索', py:'xiàn suǒ', gloss:'clues', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "The spotlight lengthens my shadow as it flees", pt: "O holofote alonga minha sombra enquanto foge" },
+        words: [
+          { hz:'那', py:'nà', gloss:'that', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'束', py:'shù', gloss:'beam of', hsk:6, pos:'mw', posName:'m.w.' },
+          { hz:'光', py:'guāng', gloss:'light', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'拉长', py:'lā cháng', gloss:'lengthen', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'我的', py:'wǒ de', gloss:'my', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'影子', py:'yǐng zi', gloss:'shadow', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'逃离', py:'táo lí', gloss:'flee', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' }
+        ]
+      },
+      {
+        translation: { en: "Those years that passed by came to know me, then walked away leaving behind a song that's rebuking me", pt: "Aqueles anos que passaram vieram me conhecer, depois foram embora deixando para trás uma música que está me repreendendo" },
+        words: [
+          { hz:'所有', py:'suǒ yǒu', gloss:'all', hsk:4, pos:'pron', posName:'pron.' },
+          { hz:'过往', py:'guò wǎng', gloss:'years that passed', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'看透', py:'kàn tòu', gloss:'know', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'后', py:'hòu', gloss:'then', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'背弃', py:'bèi qì', gloss:'walk away', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'留下', py:'liú xià', gloss:'leave behind', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'一首', py:'yī shǒu', gloss:'a', hsk:2, pos:'num', posName:'num.' },
+          { hz:'痛斥', py:'tòng chì', gloss:'rebuke', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'我的', py:'wǒ de', gloss:'my', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'歌', py:'gē', gloss:'song', hsk:1, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "This world can just forget that I've ever existed", pt: "Este mundo pode simplesmente esquecer que eu já existi" },
+        words: [
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'这', py:'zhè', gloss:'this', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'世界', py:'shì jiè', gloss:'world', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'就此', py:'jiù cǐ', gloss:'just', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'忘了', py:'wàng le', gloss:'forget', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'I', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'曾', py:'céng', gloss:'ever', hsk:4, pos:'adv', posName:'adv.' },
+          { hz:'存在', py:'cún zài', gloss:'exist', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'过', py:'guò', gloss:'(experiential)', hsk:2, pos:'part', posName:'part.' }
+        ]
+      },
+      {
+        translation: { en: "Please don't try again to save me", pt: "Por favor, não tente novamente me salvar" },
+        words: [
+          { hz:'请', py:'qǐng', gloss:'please', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'别', py:'bié', gloss:"don't", hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'想要', py:'xiǎng yào', gloss:'try', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'再', py:'zài', gloss:'again', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'拯救', py:'zhěng jiù', gloss:'save', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' }
+        ]
+      },
+      {
+        translation: { en: "If I could, I would hush the world so it wouldn't wake me from this dream", pt: "Se eu pudesse, silenciaria o mundo para que não me acordasse deste sonho" },
+        words: [
+          { hz:'假如', py:'jiǎ rú', gloss:'if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'可以', py:'kě yǐ', gloss:'could', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'让', py:'ràng', gloss:'let', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'世界', py:'shì jiè', gloss:'world', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'沉默', py:'chén mò', gloss:'silent', hsk:5, pos:'adj', posName:'adj.' },
+          { hz:'别', py:'bié', gloss:"don't", hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'吵醒', py:'chǎo xǐng', gloss:'wake', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'这个', py:'zhè gè', gloss:'this', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'梦', py:'mèng', gloss:'dream', hsk:4, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "If the curtain needs to drop on this show after the house empties, I, too, will forget me", pt: "Se a cortina precisa cair neste show depois que a casa esvaziar, eu também me esquecerei de mim" },
+        words: [
+          { hz:'假如', py:'jiǎ rú', gloss:'if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'这场', py:'zhè chǎng', gloss:'this', hsk:2, pos:'pron', posName:'pron.' },
+          { hz:'演出', py:'yǎn chū', gloss:'show', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'也', py:'yě', gloss:'also', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'要', py:'yào', gloss:'needs to', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'落幕', py:'luò mù', gloss:'drop the curtain', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'散场', py:'sàn chǎng', gloss:'house empties', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'之后', py:'zhī hòu', gloss:'after', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'我', py:'wǒ', gloss:'I', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'也', py:'yě', gloss:'too', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'会', py:'huì', gloss:'will', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'忘了', py:'wàng le', gloss:'forget', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' }
+        ]
+      }
+    ]
+  },
+
+  {
+    id: 'xu-huan-yu-xian-shi',
+    title: '虚幻与现实',
+    titlePinyin: 'Xū Huàn Yǔ Xiàn Shí',
+    artist: '华晨宇 · Hua Chenyu',
+    meta: '2022 · Album "希忘Hope" · Track 11',
+    lines: [
+      {
+        translation: { en: "As a naive child who hates the ebbs and flows of tides", pt: "Como uma criança ingênua que odeia o fluxo e refluxo das marés" },
+        words: [
+          { hz:'做', py:'zuò', gloss:'as', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'讨厌', py:'tǎo yàn', gloss:'hate', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'潮汐', py:'cháo xī', gloss:'tides', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'稚童', py:'zhì tóng', gloss:'naive child', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "I pray for the moon to disappear", pt: "Eu rezo para a lua desaparecer" },
+        words: [
+          { hz:'祈祷', py:'qí dǎo', gloss:'pray', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'月球', py:'yuè qiú', gloss:'moon', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'失踪', py:'shī zōng', gloss:'disappear', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Tossing and turning incessantly till I'm weightless", pt: "Revirando-se incessantemente até ficar sem peso" },
+        words: [
+          { hz:'昼夜', py:'zhòu yè', gloss:'incessantly', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'辗转', py:'zhǎn zhuǎn', gloss:'tossing and turning', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'到', py:'dào', gloss:'till', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'失重', py:'shī zhòng', gloss:'weightless', hsk:6, pos:'adj', posName:'adj.' }
+        ]
+      },
+      {
+        translation: { en: "The mattress collapses into a black hole", pt: "O colchão desmorona em um buraco negro" },
+        words: [
+          { hz:'床垫', py:'chuáng diàn', gloss:'mattress', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'塌陷', py:'tā xiàn', gloss:'collapse', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'成', py:'chéng', gloss:'into', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'黑洞', py:'hēi dòng', gloss:'black hole', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Look at the endless space, how charming it is", pt: "Olhe para o espaço infinito, quão encantador é" },
+        words: [
+          { hz:'一望无际', py:'yī wàng wú jì', gloss:'endless space', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'多', py:'duō', gloss:'how', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'迷人', py:'mí rén', gloss:'charming', hsk:6, pos:'adj', posName:'adj.' }
+        ]
+      },
+      {
+        translation: { en: "In this space-time of self-embellishment, nakedness is more solemn", pt: "Neste espaço-tempo de autoenfeite, a nudez é mais solene" },
+        words: [
+          { hz:'在', py:'zài', gloss:'in', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'粉墨', py:'fěn mò', gloss:'self-embellishment', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'自我', py:'zì wǒ', gloss:'self', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'时空', py:'shí kōng', gloss:'space-time', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'赤裸', py:'chì luǒ', gloss:'nakedness', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'才', py:'cái', gloss:'only then', hsk:3, pos:'adv', posName:'adv.' },
+          { hz:'更', py:'gèng', gloss:'more', hsk:3, pos:'adv', posName:'adv.' },
+          { hz:'庄重', py:'zhuāng zhòng', gloss:'solemn', hsk:6, pos:'adj', posName:'adj.' }
+        ]
+      },
+      {
+        translation: { en: "Yet, the world continues undisturbed – heavy makeup is innate", pt: "No entanto, o mundo continua tranquilo – a maquiagem pesada é inata" },
+        words: [
+          { hz:'但', py:'dàn', gloss:'yet', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'世界', py:'shì jiè', gloss:'world', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'一派从容', py:'yī pài cóng róng', gloss:'undisturbed', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'浓妆艳抹', py:'nóng zhuāng yàn mǒ', gloss:'heavy makeup', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'是', py:'shì', gloss:'is', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'天生', py:'tiān shēng', gloss:'innate', hsk:5, pos:'adj', posName:'adj.' }
+        ]
+      },
+      {
+        translation: { en: "Perhaps more than one person, from noble to despicably disguised, then calmly accepts", pt: "Talvez mais de uma pessoa, de nobre a desprezivelmente disfarçada, então aceita calmamente" },
+        words: [
+          { hz:'也许', py:'yě xǔ', gloss:'perhaps', hsk:4, pos:'adv', posName:'adv.' },
+          { hz:'不止', py:'bù zhǐ', gloss:'more than', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'一个人', py:'yī gè rén', gloss:'one person', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'高尚', py:'gāo shàng', gloss:'noble', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'到', py:'dào', gloss:'to', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'卑劣', py:'bēi liè', gloss:'despicable', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'地', py:'de', gloss:'(adverbial)', hsk:3, pos:'part', posName:'part.' },
+          { hz:'伪装', py:'wěi zhuāng', gloss:'disguise', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'再', py:'zài', gloss:'then', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'坦然', py:'tǎn rán', gloss:'calmly', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'地', py:'de', gloss:'(adverbial)', hsk:3, pos:'part', posName:'part.' },
+          { hz:'接受', py:'jiē shòu', gloss:'accept', hsk:4, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "How many people have fantasized about being saved", pt: "Quantas pessoas fantasiaram em ser salvas" },
+        words: [
+          { hz:'多少人', py:'duō shǎo rén', gloss:'how many people', hsk:3, pos:'pron', posName:'pron.' },
+          { hz:'曾', py:'céng', gloss:'have', hsk:4, pos:'adv', posName:'adv.' },
+          { hz:'幻想', py:'huàn xiǎng', gloss:'fantasized', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'被', py:'bèi', gloss:'being', hsk:3, pos:'prep', posName:'prep.' },
+          { hz:'拯救', py:'zhěng jiù', gloss:'saved', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Growing wildly in a gorgeous dreamland", pt: "Crescendo descontroladamente em uma terra dos sonhos deslumbrante" },
+        words: [
+          { hz:'疯长', py:'fēng zhǎng', gloss:'growing wildly', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'在', py:'zài', gloss:'in', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'华丽', py:'huá lì', gloss:'gorgeous', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'梦乡', py:'mèng xiāng', gloss:'dreamland', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "But when sleepless, only an emptiness remains in the chest", pt: "Mas quando sem dormir, apenas um vazio permanece no peito" },
+        words: [
+          { hz:'但', py:'dàn', gloss:'but', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'无眠', py:'wú mián', gloss:'sleepless', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'时候', py:'shí hou', gloss:'when', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'徒留', py:'tú liú', gloss:'only remains', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'一个', py:'yī gè', gloss:'an', hsk:1, pos:'num', posName:'num.' },
+          { hz:'空洞', py:'kōng dòng', gloss:'emptiness', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'在', py:'zài', gloss:'in', hsk:1, pos:'prep', posName:'prep.' },
+          { hz:'胸口', py:'xiōng kǒu', gloss:'chest', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Dreams will wither, after all, the night has an end", pt: "Sonhos murcharão, afinal, a noite tem um fim" },
+        words: [
+          { hz:'梦', py:'mèng', gloss:'dreams', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'会', py:'huì', gloss:'will', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'枯', py:'kū', gloss:'wither', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'毕竟', py:'bì jìng', gloss:'after all', hsk:5, pos:'conj', posName:'conj.' },
+          { hz:'夜', py:'yè', gloss:'night', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'有', py:'yǒu', gloss:'has', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'尽头', py:'jìn tóu', gloss:'end', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "After waking up, joyfully enjoy the decay", pt: "Depois de acordar, desfrute alegremente da decadência" },
+        words: [
+          { hz:'醒来', py:'xǐng lái', gloss:'waking up', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'后', py:'hòu', gloss:'after', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'开怀', py:'kāi huái', gloss:'joyfully', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'享受', py:'xiǎng shòu', gloss:'enjoy', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'腐朽', py:'fǔ xiǔ', gloss:'decay', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Every day a part of me turns into nothingness", pt: "Todos os dias uma parte de mim se transforma em nada" },
+        words: [
+          { hz:'每天', py:'měi tiān', gloss:'every day', hsk:1, pos:'noun', posName:'n.' },
+          { hz:'都', py:'dōu', gloss:'all', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'有个', py:'yǒu gè', gloss:'a', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'化', py:'huà', gloss:'turn into', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'作', py:'zuò', gloss:'into', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'乌有', py:'wū yǒu', gloss:'nothingness', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Reminding of those baptisms, those few greetings, that tenderness was not pretended", pt: "Lembrando daqueles batismos, daqueles poucos cumprimentos, aquela ternura não foi fingida" },
+        words: [
+          { hz:'提醒', py:'tí xǐng', gloss:'reminding', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'着', py:'zhe', gloss:'(continuous)', hsk:2, pos:'part', posName:'part.' },
+          { hz:'那些', py:'nà xiē', gloss:'those', hsk:3, pos:'pron', posName:'pron.' },
+          { hz:'洗礼', py:'xǐ lǐ', gloss:'baptisms', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'那', py:'nà', gloss:'those', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'几句', py:'jǐ jù', gloss:'a few', hsk:2, pos:'num', posName:'num.' },
+          { hz:'问候', py:'wèn hòu', gloss:'greetings', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'那份', py:'nà fèn', gloss:'that', hsk:2, pos:'pron', posName:'pron.' },
+          { hz:'温柔', py:'wēn róu', gloss:'tenderness', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'没', py:'méi', gloss:'not', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'作伪', py:'zuò wěi', gloss:'pretended', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Look, here flowers bloom, and vegetation never withers", pt: "Olhe, aqui as flores desabrocham, e a vegetação nunca murcha" },
+        words: [
+          { hz:'看', py:'kàn', gloss:'look', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'这里', py:'zhè lǐ', gloss:'here', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'鲜花', py:'xiān huā', gloss:'flowers', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'盛开', py:'shèng kāi', gloss:'bloom', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'草木', py:'cǎo mù', gloss:'vegetation', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'从', py:'cóng', gloss:'never', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'不会', py:'bù huì', gloss:'never', hsk:3, pos:'adv', posName:'adv.' },
+          { hz:'枯萎', py:'kū wěi', gloss:'wither', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "Look, might as well gift you a few to cover up some ugliness", pt: "Olhe, é melhor lhe presentear com algumas para encobrir um pouco da feiura" },
+        words: [
+          { hz:'看', py:'kàn', gloss:'look', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'不如', py:'bù rú', gloss:'might as well', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'赠', py:'zèng', gloss:'gift', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'你', py:'nǐ', gloss:'you', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'几朵', py:'jǐ duǒ', gloss:'a few', hsk:2, pos:'num', posName:'num.' },
+          { hz:'遮一遮', py:'zhē yī zhē', gloss:'cover up', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'丑陋', py:'chǒu lòu', gloss:'ugliness', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "There has never been any wilderness that can compare to this paradise", pt: "Nunca houve nenhum deserto que possa se comparar a este paraíso" },
+        words: [
+          { hz:'从来', py:'cóng lái', gloss:'never', hsk:4, pos:'adv', posName:'adv.' },
+          { hz:'没有', py:'méi yǒu', gloss:'there has never been', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'任何', py:'rèn hé', gloss:'any', hsk:4, pos:'pron', posName:'pron.' },
+          { hz:'蛮荒', py:'mán huāng', gloss:'wilderness', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'之地', py:'zhī dì', gloss:'place', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'能', py:'néng', gloss:'can', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'与', py:'yǔ', gloss:'compare to', hsk:4, pos:'prep', posName:'prep.' },
+          { hz:'这', py:'zhè', gloss:'this', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'桃源', py:'táo yuán', gloss:'paradise', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'媲美', py:'pì měi', gloss:'compare', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      },
+      {
+        translation: { en: "And there absolutely exists no beast covered in mud, fleeing in panic", pt: "E absolutamente não existe nenhuma besta coberta de lama, fugindo em pânico" },
+        words: [
+          { hz:'也', py:'yě', gloss:'and', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'绝不', py:'jué bù', gloss:'absolutely not', hsk:5, pos:'adv', posName:'adv.' },
+          { hz:'存在', py:'cún zài', gloss:'exist', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'满身', py:'mǎn shēn', gloss:'covered in', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'泥泞', py:'ní nìng', gloss:'mud', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'仓皇', py:'cāng huáng', gloss:'fleeing in panic', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'野兽', py:'yě shòu', gloss:'beast', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "How many people are born pure and perfect, their hearts never stained with darkness", pt: "Quantas pessoas nascem puras e perfeitas, seus corações nunca manchados pela escuridão" },
+        words: [
+          { hz:'多少人', py:'duō shǎo rén', gloss:'how many people', hsk:3, pos:'pron', posName:'pron.' },
+          { hz:'都', py:'dōu', gloss:'all', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'生来', py:'shēng lái', gloss:'born', hsk:5, pos:'adv', posName:'adv.' },
+          { hz:'纯洁', py:'chún jié', gloss:'pure', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'完美', py:'wán měi', gloss:'perfect', hsk:5, pos:'adj', posName:'adj.' },
+          { hz:'心底', py:'xīn dǐ', gloss:'hearts', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'从', py:'cóng', gloss:'never', hsk:2, pos:'adv', posName:'adv.' },
+          { hz:'不', py:'bù', gloss:'not', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'染', py:'rǎn', gloss:'stained', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'漆黑', py:'qī hēi', gloss:'darkness', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Only then becoming a radiant, sincere singer", pt: "Só então se tornando um cantor radiante e sincero" },
+        words: [
+          { hz:'才', py:'cái', gloss:'only then', hsk:3, pos:'adv', posName:'adv.' },
+          { hz:'成为', py:'chéng wéi', gloss:'becoming', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'光芒四射', py:'guāng máng sì shè', gloss:'radiant', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'真挚', py:'zhēn zhì', gloss:'sincere', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'歌手', py:'gē shǒu', gloss:'singer', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Even if no one can clearly see that brilliant stamen", pt: "Mesmo que ninguém possa ver claramente aquele estame brilhante" },
+        words: [
+          { hz:'就算', py:'jiù suàn', gloss:'even if', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'没有', py:'méi yǒu', gloss:'no', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'任何人', py:'rèn hé rén', gloss:'anyone', hsk:4, pos:'pron', posName:'pron.' },
+          { hz:'能', py:'néng', gloss:'can', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'看清', py:'kàn qīng', gloss:'clearly see', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'那株', py:'nà zhū', gloss:'that', hsk:6, pos:'pron', posName:'pron.' },
+          { hz:'灿烂', py:'càn làn', gloss:'brilliant', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'花蕊', py:'huā ruǐ', gloss:'stamen', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "One should still sing praises loudly for the bright red rose", pt: "Ainda se deve cantar louvores em voz alta pela rosa vermelha brilhante" },
+        words: [
+          { hz:'也', py:'yě', gloss:'still', hsk:1, pos:'adv', posName:'adv.' },
+          { hz:'应该', py:'yīng gāi', gloss:'should', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'放声', py:'fàng shēng', gloss:'loudly', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'歌颂', py:'gē sòng', gloss:'sing praises', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'赞美', py:'zàn měi', gloss:'praise', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'鲜红', py:'xiān hóng', gloss:'bright red', hsk:6, pos:'adj', posName:'adj.' },
+          { hz:'的', py:'de', gloss:'of', hsk:1, pos:'part', posName:'part.' },
+          { hz:'玫瑰', py:'méi guī', gloss:'rose', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "The dream has not withered, even though the night has an end", pt: "O sonho não murchou, mesmo que a noite tenha um fim" },
+        words: [
+          { hz:'梦', py:'mèng', gloss:'dream', hsk:4, pos:'noun', posName:'n.' },
+          { hz:'未', py:'wèi', gloss:'not', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'枯', py:'kū', gloss:'withered', hsk:6, pos:'verb', posName:'v.' },
+          { hz:'就算', py:'jiù suàn', gloss:'even though', hsk:4, pos:'conj', posName:'conj.' },
+          { hz:'夜', py:'yè', gloss:'night', hsk:3, pos:'noun', posName:'n.' },
+          { hz:'有', py:'yǒu', gloss:'has', hsk:1, pos:'verb', posName:'v.' },
+          { hz:'尽头', py:'jìn tóu', gloss:'end', hsk:5, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "After waking up, joyfully enjoy all", pt: "Depois de acordar, desfrute alegremente de tudo" },
+        words: [
+          { hz:'醒来', py:'xǐng lái', gloss:'waking up', hsk:4, pos:'verb', posName:'v.' },
+          { hz:'后', py:'hòu', gloss:'after', hsk:2, pos:'noun', posName:'n.' },
+          { hz:'开怀', py:'kāi huái', gloss:'joyfully', hsk:6, pos:'adv', posName:'adv.' },
+          { hz:'享受', py:'xiǎng shòu', gloss:'enjoy', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'所有', py:'suǒ yǒu', gloss:'all', hsk:4, pos:'pron', posName:'pron.' }
+        ]
+      },
+      {
+        translation: { en: "That persistence, at a certain moment, turns into nothingness", pt: "Essa persistência, em um certo momento, se transforma em nada" },
+        words: [
+          { hz:'那', py:'nà', gloss:'that', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'坚守', py:'jiān shǒu', gloss:'persistence', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'某一刻', py:'mǒu yī kè', gloss:'at a certain moment', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'化', py:'huà', gloss:'turns into', hsk:5, pos:'verb', posName:'v.' },
+          { hz:'作', py:'zuò', gloss:'into', hsk:3, pos:'verb', posName:'v.' },
+          { hz:'乌有', py:'wū yǒu', gloss:'nothingness', hsk:6, pos:'noun', posName:'n.' }
+        ]
+      },
+      {
+        translation: { en: "Yet there are still those baptisms, that tenderness that will save a certain me", pt: "Ainda existem aqueles batismos, aquela ternura que salvará um certo eu" },
+        words: [
+          { hz:'却', py:'què', gloss:'yet', hsk:4, pos:'adv', posName:'adv.' },
+          { hz:'还有', py:'hái yǒu', gloss:'still there are', hsk:2, pos:'verb', posName:'v.' },
+          { hz:'那些', py:'nà xiē', gloss:'those', hsk:3, pos:'pron', posName:'pron.' },
+          { hz:'洗礼', py:'xǐ lǐ', gloss:'baptisms', hsk:6, pos:'noun', posName:'n.' },
+          { hz:'那', py:'nà', gloss:'that', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'几句', py:'jǐ jù', gloss:'a few', hsk:2, pos:'num', posName:'num.' },
+          { hz:'问候', py:'wèn hòu', gloss:'greetings', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'那份', py:'nà fèn', gloss:'that', hsk:2, pos:'pron', posName:'pron.' },
+          { hz:'温柔', py:'wēn róu', gloss:'tenderness', hsk:5, pos:'noun', posName:'n.' },
+          { hz:'将', py:'jiāng', gloss:'will', hsk:4, pos:'prep', posName:'prep.' },
+          { hz:'某个', py:'mǒu gè', gloss:'a certain', hsk:4, pos:'pron', posName:'pron.' },
+          { hz:'我', py:'wǒ', gloss:'me', hsk:1, pos:'pron', posName:'pron.' },
+          { hz:'拯救', py:'zhěng jiù', gloss:'save', hsk:6, pos:'verb', posName:'v.' }
+        ]
+      }
+    ]
+  }
   /* ═══════════════════════════════════════════════════════════
      ALBUM: 量变临界点 (2025) — 10 tracks, fully annotated
      ═══════════════════════════════════════════════════════════ */
