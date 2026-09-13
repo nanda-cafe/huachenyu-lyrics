@@ -665,22 +665,22 @@ const ALBUMS = [
     year: 2014,
     cover: 'https://cdn-images.dzcdn.net/images/cover/c15736479fc73fdcbd6efa6432818243/500x500-000000-80-0-0.jpg',
     tracks: [
-      '卡西莫多的礼物','我们都是孤独的','微光','Let You Go',
-      '蜉蝣','不朽','一人饮酒醉','烟火里的尘埃',
-      '我离孤独几公里','地球之盐','小星星'
+      'Why Nobody Fights','微光','Let You Go','烟火里的尘埃',
+      '拆弹专家','环游','我们都是孤独的','不朽',
+      '卡西莫多的礼物','枕边故事'
     ]
   },
   {
     id: 'yilei',
-    title: '異類',
-    pinyin: 'Yì L  èi',
+    title: '异类',
+    pinyin: 'Yì Lèi',
     english: 'Misfit',
     year: 2015,
     cover: 'https://cdn-images.dzcdn.net/images/cover/f32d32c94b66777f038d27e4840e81ac/500x500-000000-80-0-0.jpg',
     tracks: [
-      '异类','造物者','巨鹿','癌','流浪记',
-      '拆弹专家','逃离乌托邦','世界是个动物园',
-      '写给未来的孩子','忧伤的巨人'
+      '我管你','国王与乞丐','异类','反义词','蜉蝣',
+      '地球之盐','写给未来的孩子','逃离乌托邦',
+      '世界是个动物园','变相怪杰','忧伤的巨人'
     ]
   },
   {
@@ -691,9 +691,8 @@ const ALBUMS = [
     year: 2017,
     cover: 'https://cdn-images.dzcdn.net/images/cover/b2159429b61d99d92f2d32a56deee40c/500x500-000000-80-0-0.jpg',
     tracks: [
-      'Here We Are','齐天','我管你','微光',
-      '横冲直撞','烟火里的尘埃','巨鹿','卡西莫多的礼物',
-      '我离孤独几公里','不朽','我们都是孤独的','To Be Free'
+      '巨鹿','造物者','Here We Are','To Be Free',
+      'For Forever','消失的昨天','我离孤单几公里','我的滑板鞋2016'
     ]
   },
   {
@@ -705,8 +704,8 @@ const ALBUMS = [
     cover: 'https://cdn-images.dzcdn.net/images/cover/e906c5cf6f6cb62344b436b4d18c8ff8/0x1900-000000-80-0-0.jpg',
     tracks: [
       '斗牛','好想爱这个世界啊','疯人院',
-      '与火星的孩子对话','神树','降临',
-      '新世界','七重人格'
+      '与火星的孩子对话','七重人格','神树',
+      '降临','新世界'
     ]
   },
   {
@@ -717,11 +716,10 @@ const ALBUMS = [
     year: 2022,
     cover: 'https://cdn-images.dzcdn.net/images/cover/3f3903ca5cbed2e804ff63481d6fb569/500x500-000000-80-0-0.jpg',
     tracks: [
-      '向阳而生','飞行模式','小镇里的花','黑白艺术家',
-      '美好的事可不可以发生在我身上','虚幻与现实',
-      '点燃银河尽头的篝火','当全世界忘了我',
-      '普通到不普通的人生','花落时相遇',
-      '走，一起去看日出吧','希忘Hope'
+      '飞行模式','小镇里的花','小镇里的花（民乐版）',
+      '黑白艺术家','好想我回来啊','花落时相遇',
+      '走，一起去看日出吧！','向阳而生',
+      '点燃银河尽头的篝火','当全世界忘了我','虚幻与现实'
     ]
   },
   {
@@ -740,22 +738,6 @@ const ALBUMS = [
 ];
 
 /* ═══════════════════════════════════════════════════════════════
-   SONG DATABASE — PASTE YOUR FULL ANNOTATED DATABASE HERE
-   ─────────────────────────────────────────────────────────────
-   Each song object shape:
-   {
-     id: 'feng-zhi-hai',
-     title: '风之海',
-     titlePinyin: 'Fēng Zhī Hǎi',
-     artist: '华晨宇 · Hua Chenyu',
-     meta: '2025 · Album "量变临界点" · Track 1',
-     lines: [
-       { translation: { en: "...", pt: "..." },
-         words: [ { hz:'摘', py:'zhāi', gloss:'pick', hsk:6, pos:'verb', posName:'v.' }, ... ] },
-       ...
-     ]
-   }
-   /* ═══════════════════════════════════════════════════════════════
    SONG DATABASE — Hua Chenyu (华晨宇)
    ═══════════════════════════════════════════════════════════════ */
 const SONGS_DB = [
@@ -9934,9 +9916,11 @@ function showHome(){
 
   // Stats
   const statEl = document.getElementById('db-stats');
-  statEl.textContent = SONGS_DB.length === 0
-    ? 'Database empty — paste songs into SONGS_DB'
-    : `${SONGS_DB.length} song${SONGS_DB.length === 1 ? '' : 's'} in database`;
+  const totalSongs = SONGS_DB.length;
+const totalAlbums = ALBUMS.length;
+statEl.textContent = totalSongs === 0
+  ? 'Database empty — paste songs into SONGS_DB'
+  : `${totalSongs} song${totalSongs === 1 ? '' : 's'} · ${totalAlbums} album${totalAlbums === 1 ? '' : 's'}`;
 
   // Album grid
   const grid = document.getElementById('album-grid');
