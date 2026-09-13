@@ -683,42 +683,90 @@ const HSK_DB = (() => {
    When ALL tracks are present, the album card shows as "complete".
    ═══════════════════════════════════════════════════════════════ */
 const ALBUMS = [
-  {
+    {
     id: 'kaximoduo',
     title: '卡西莫多的礼物',
     pinyin: 'Kǎ Xī Mò Duō De Lǐ Wù',
     english: "Quasimodo's Gift",
     year: 2014,
     cover: 'https://cdn-images.dzcdn.net/images/cover/c15736479fc73fdcbd6efa6432818243/500x500-000000-80-0-0.jpg',
+    context: {
+      en: `Hua Chenyu's debut studio album, released in 2014 on the heels of his victory on Super Boy 2013. The title 卡西莫多的礼物 (Quasimodo's Gift) takes its name from Victor Hugo's bell-ringer of Notre-Dame — a figure outwardly monstrous but inwardly luminous, a metaphor Hua has repeatedly invoked for his own experience of being judged by appearance rather than by soul. Across ten tracks the album lays out the vocabulary that would define his career: the anthemic defiance of "Why Nobody Fights," the gothic grandeur of the self-composed title track, the elegiac "烟火里的尘埃" (Dust in the Fireworks) with lyrics by the legendary Hong Kong lyricist 林夕, and a restless genre-blurring that moves between stadium rock, electronic textures, and confessional balladry. What holds it together is a single question the young Hua keeps circling: what is left of a person once the world has already decided what they are? Rather than answering, the album turns the question into a gift — the Quasimodo's gift of finding beauty exactly in the place the crowd has agreed not to look.`,
+      pt: `O álbum de estreia de Hua Chenyu, lançado em 2014 logo após sua vitória no Super Boy 2013. O título 卡西莫多的礼物 (O Presente de Quasímodo) toma seu nome do sineiro de Notre-Dame de Victor Hugo — uma figura exteriormente monstruosa mas interiormente luminosa, uma metáfora que Hua invocou repetidamente para sua própria experiência de ser julgado pela aparência e não pela alma. Ao longo de dez faixas o álbum estabelece o vocabulário que definiria sua carreira: o desafio antifônico de "Why Nobody Fights", a grandiosidade gótica da faixa-título (composta por ele mesmo), a elegíaca "烟火里的尘埃" (Poeira nos Fogos de Artifício) com letra do lendário letrista de Hong Kong 林夕, e uma inquieta mistura de gêneros que transita entre rock de estádio, texturas eletrônicas e baladas confessionais. O que o mantém unido é uma única pergunta que o jovem Hua não para de circundar: o que resta de uma pessoa quando o mundo já decidiu o que ela é? Em vez de responder, o álbum transforma a pergunta em um presente — o presente de Quasímodo de encontrar beleza exatamente no lugar onde a multidão concordou em não olhar.`
+    },
     tracks: [
-      'Why Nobody Fights','微光','Let You Go','烟火里的尘埃',
-      '拆弹专家','环游','我们都是孤独的','不朽',
-      '卡西莫多的礼物','枕边故事'
+      'Why Nobody Fights',
+      '微光',
+      'Let You Go',
+      '烟火里的尘埃',
+      '拆弹专家',
+      '环游',
+      '我们都是孤独的',
+      '不朽',
+      '卡西莫多的礼物',
+      '枕边故事'
+    ],
+    references: [
+      { id: 1, text: 'Baidu Baike — 卡西莫多的礼物', url: 'https://baike.baidu.com/item/卡西莫多的礼物' },
+      { id: 2, text: 'Wikipedia — 卡西莫多的礼物', url: 'https://zh.wikipedia.org/zh/卡西莫多的礼物' },
+      { id: 3, text: 'NetEase Music — 卡西莫多的礼物', url: 'https://music.163.com/#/search/m/?s=卡西莫多的礼物' }
     ]
   },
- {
-  id: 'yilei',
-  title: '異類',
-  pinyin: 'Yì Lèi',
-  english: 'Misfit',
-  year: 2015,
-  cover: 'https://cdn-images.dzcdn.net/images/cover/f32d32c94b66777f038d27e4840e81ac/500x500-000000-80-0-0.jpg',
-  tracks: [
-    '我管你','国王与乞丐','異類','反义词','蜉蝣',
-    '地球之盐','写给未来的孩子','逃离乌托邦',
-    '世界是个动物园','变相怪杰','忧伤的巨人'
-  ]
-},
   {
+    id: 'yilei',
+    title: '異類',
+    pinyin: 'Yì Lèi',
+    english: 'Misfit',
+    year: 2015,
+    cover: 'https://cdn-images.dzcdn.net/images/cover/f32d32c94b66777f038d27e4840e81ac/500x500-000000-80-0-0.jpg',
+    context: {
+      en: `Hua Chenyu's second studio album, released in 2015, and the record that turned his debut's quiet question — "what is left of a person once the world has decided what they are?" — into a loud, deliberate answer. 異類 (Yì Lèi) is usually translated as "Misfit" or "Alien Species," and the title track became one of his signature anthems: a full-throated refusal to apologize for being the odd one out. Where 卡西莫多的礼物 asked to be understood, 異類 stops asking. The album ranges from the arena-sized defiance of "我管你" (I Don't Care About You) and the title track, to the doomed-romance duet "国王与乞丐" (The King and the Beggar) with 杨宗纬, to the melancholy drift of "蜉蝣" (Mayfly) and the ecological lament "地球之盐" (Salt of the Earth). Stylistically it pushes harder than the debut into rock, electronic, and theatrical territory, but the through-line is thematic rather than sonic: every song is about a self that has been labelled by others and is deciding, one track at a time, not to accept the label.`,
+      pt: `O segundo álbum de estúdio de Hua Chenyu, lançado em 2015, e o disco que transformou a pergunta silenciosa de sua estreia — "o que resta de uma pessoa quando o mundo já decidiu o que ela é?" — em uma resposta alta e deliberada. 異類 (Yì Lèi) costuma ser traduzido como "Inadaptado" ou "Espécie Alienígena", e a faixa-título se tornou um de seus hinos característicos: uma recusa em voz plena de pedir desculpas por ser o diferente. Onde 卡西莫多的礼物 pedia para ser compreendido, 異類 para de pedir. O álbum vai do desafio em escala de arena de "我管你" (Não Me Importo Com Você) e da faixa-título, ao dueto de romance fadado "国王与乞丐" (O Rei e o Mendigo) com 杨宗纬, à deriva melancólica de "蜉蝣" (Efeméride) e ao lamento ecológico "地球之盐" (Sal da Terra). Estilisticamente, avança com mais força que a estreia para o território do rock, do eletrônico e do teatral, mas o fio condutor é mais temático que sonoro: cada canção trata de um eu que foi rotulado pelos outros e que decide, faixa a faixa, não aceitar o rótulo.`
+    },
+    tracks: [
+      '我管你',
+      '国王与乞丐',
+      '異類',
+      '反义词',
+      '蜉蝣',
+      '地球之盐',
+      '写给未来的孩子',
+      '逃离乌托邦',
+      '世界是个动物园',
+      '变相怪杰',
+      '忧伤的巨人'
+    ],
+    references: [
+      { id: 1, text: 'Baidu Baike — 異類', url: 'https://baike.baidu.com/item/异类/18672789' },
+      { id: 2, text: 'Wikipedia — 異類', url: 'https://zh.wikipedia.org/zh/異類_(華晨宇專輯)' },
+      { id: 3, text: 'NetEase Music — 異類 album page', url: 'https://music.163.com/#/album?id=3114017' }
+    ]
+  },
+    {
     id: 'h',
     title: 'H',
     pinyin: 'H',
     english: 'H',
     year: 2017,
     cover: 'https://cdn-images.dzcdn.net/images/cover/b2159429b61d99d92f2d32a56deee40c/500x500-000000-80-0-0.jpg',
+    context: {
+      en: `Hua Chenyu's third studio album, released in 2017. Where the debut 卡西莫多的礼物 asked to be understood and the second album 異類 refused to apologize, H simply signs its name — a single letter that is at once his initial, his signature, and a stripped-down assertion of identity. The record is his most introspective to date and marks a deliberate turn away from the theatrical grandeur of the previous two albums toward something quieter and more internal. Its centerpiece is "巨鹿" (Giant Deer), a song Hua has said came to him from a dream of an enormous deer moving through a forest — it became one of his most beloved compositions and a fixture of his live shows, functioning as a kind of spiritual overture. Around it the album gathers a run of English-titled tracks — "Here We Are," "To Be Free," "For Forever" — that read like a set of personal declarations rather than anthems, alongside Mandarin reflections on loneliness, memory, and self-invention. The closing track, "我的滑板鞋2016," is a full reimagining of 约瑟翰·庞麦郎's viral internet song of the same name: Hua takes what was a meme and turns it into a slow, aching art-rock confession, a gesture that neatly encapsulates the album's whole project — taking what the world hands you and refusing to leave it as it is.`,
+      pt: `O terceiro álbum de estúdio de Hua Chenyu, lançado em 2017. Onde a estreia 卡西莫多的礼物 pedia para ser compreendida e o segundo álbum 異類 se recusava a pedir desculpas, H simplesmente assina seu nome — uma única letra que é ao mesmo tempo sua inicial, sua assinatura e uma afirmação despojada de identidade. É o disco mais introspectivo do artista até então e marca um afastamento deliberado da grandiosidade teatral dos dois álbuns anteriores em direção a algo mais silencioso e interior. Sua peça central é "巨鹿" (Cervo Gigante), uma canção que Hua disse ter vindo de um sonho com um cervo enorme atravessando uma floresta — tornou-se uma de suas composições mais amadas e presença fixa em seus shows, funcionando como uma espécie de abertura espiritual. Ao redor dela, o álbum reúne uma sequência de faixas com títulos em inglês — "Here We Are", "To Be Free", "For Forever" — que soam como declarações pessoais mais do que como hinos, ao lado de reflexões em mandarim sobre solidão, memória e autoinvenção. A faixa de encerramento, "我的滑板鞋2016", é uma reimaginação completa da canção viral da internet de 约瑟翰·庞麦郎 com o mesmo nome: Hua pega o que era um meme e o transforma em uma confissão lenta e dolorosa de art-rock, um gesto que resume com precisão todo o projeto do álbum — pegar o que o mundo te entrega e recusar-se a deixá-lo como está.`
+    },
     tracks: [
-      '巨鹿','造物者','Here We Are','To Be Free',
-      'For Forever','消失的昨天','我离孤单几公里','我的滑板鞋2016'
+      '巨鹿',
+      '造物者',
+      'Here We Are',
+      'To Be Free',
+      'For Forever',
+      '消失的昨天',
+      '我离孤单几公里',
+      '我的滑板鞋2016'
+    ],
+    references: [
+      { id: 1, text: 'Baidu Baike — H', url: 'https://baike.baidu.com/item/H/20862660' },
+      { id: 2, text: 'Wikipedia — H (華晨宇專輯)', url: 'https://zh.wikipedia.org/zh/H_(華晨宇專輯)' },
+      { id: 3, text: 'NetEase Music — H album page', url: 'https://music.163.com/#/album?id=35255490' }
     ]
   },
   {
@@ -751,18 +799,34 @@ const ALBUMS = [
     { id: 6, text: 'Bilibili Article - 华晨宇：《神树》《降临》，阴阳双生，衍生希望', url: 'https://m.bilibili.com' }
   ]
 },
-  {
+   {
     id: 'hope',
     title: '希忘Hope',
     pinyin: 'Xī Wàng Hope',
     english: 'Hope',
     year: 2022,
     cover: 'https://cdn-images.dzcdn.net/images/cover/3f3903ca5cbed2e804ff63481d6fb569/500x500-000000-80-0-0.jpg',
+    context: {
+      en: `The title 希忘Hope is a deliberate bilingual wordplay: it fuses 希望 (xīwàng, "hope") with 遗忘 (yíwàng, "to forget"), pointing to a state in which hope and forgetting must coexist. Conceived during the pandemic years, the album turns inward to examine the psychological cost of modern life — loneliness, social anxiety, creative burnout, and the pressure to perform happiness — while refusing to surrender to despair. It opens with the healing overture "向阳而生" (Born Toward the Sun) and closes with the meta-meditation "虚幻与现实" (Illusion and Reality), framing the record as a journey from outward brightness to inward reckoning. Along the way, "好想我回来啊" confronts suicidal ideation in the third person, "黑白艺术家" and "飞行模式" lampoon public opinion and digital-age escapism with caustic humor, and the folksy "小镇里的花" together with its 民乐版 counterpart pays tribute to Hua's late mother — the "flower of a small town" — making the album his most personal and emotionally naked work to date.`,
+      pt: `O título 希忘Hope é um trocadilho bilíngue deliberado: funde 希望 (xīwàng, "esperança") com 遗忘 (yíwàng, "esquecer"), apontando para um estado em que esperança e esquecimento precisam coexistir. Concebido durante os anos da pandemia, o álbum se volta para dentro para examinar o custo psicológico da vida moderna — solidão, ansiedade social, esgotamento criativo e a pressão de parecer feliz — sem se render ao desespero. Abre com a abertura curativa "向阳而生" (Nascido Voltado para o Sol) e fecha com a meta-meditação "虚幻与现实" (Ilusão e Realidade), enquadrando o disco como uma jornada da luminosidade exterior ao acerto de contas interior. Ao longo do caminho, "好想我回来啊" confronta a ideação suicida em terceira pessoa, "黑白艺术家" e "飞行模式" satirizam a opinião pública e o escapismo digital com humor cáustico, e a folk "小镇里的花" junto com sua contraparte em 民乐版 presta homenagem à falecida mãe de Hua — a "flor de uma pequena cidade" — tornando o álbum seu trabalho mais pessoal e emocionalmente nu até hoje.`
+    },
     tracks: [
-      '飞行模式','小镇里的花','小镇里的花（民乐版）',
-      '黑白艺术家','好想我回来啊','花落时相遇',
-      '走，一起去看日出吧','向阳而生',
-      '点燃银河尽头的篝火','当全世界忘了我','虚幻与现实'
+      '向阳而生',
+      '飞行模式',
+      '小镇里的花',
+      '小镇里的花（民乐版）',
+      '黑白艺术家',
+      '好想我回来啊',
+      '花落时相遇',
+      '走，一起去看日出吧',
+      '点燃银河尽头的篝火',
+      '当全世界忘了我',
+      '虚幻与现实'
+    ],
+    references: [
+      { id: 1, text: 'Baidu Baike — 希忘Hope', url: 'https://baike.baidu.com/item/希忘Hope' },
+      { id: 2, text: 'Wikipedia — 希忘Hope', url: 'https://zh.wikipedia.org/zh/希忘Hope' },
+      { id: 3, text: 'NetEase Music — 希忘Hope album page', url: 'https://music.163.com/#/album?id=150179990' }
     ]
   },
  {
