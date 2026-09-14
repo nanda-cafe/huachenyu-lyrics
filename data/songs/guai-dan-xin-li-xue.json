@@ -1,0 +1,1944 @@
+{
+  "id": "guai-dan-xin-li-xue",
+  "title": "怪诞心理学",
+  "titlePinyin": "Guài Dàn Xīn Lǐ Xué",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2025 · Album \"量变临界点\" · Track 6",
+  "lines": [
+    {
+      "translation": {
+        "en": "Don't fear my fangs and claws and my display",
+        "pt": "Não tema minhas presas e garras e minha demonstração"
+      },
+      "words": [
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "害怕",
+          "py": "hài pà",
+          "gloss": "fear",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "尖牙利齿",
+          "py": "jiān yá lì chǐ",
+          "gloss": "fangs and claws",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "示威",
+          "py": "shì wēi",
+          "gloss": "display",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I just want to help the sheep scare away the wolves in the dark",
+        "pt": "Eu só quero ajudar a ovelha a assustar os lobos no escuro"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "帮",
+          "py": "bāng",
+          "gloss": "help",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "绵羊",
+          "py": "mián yáng",
+          "gloss": "sheep",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "暗处",
+          "py": "àn chù",
+          "gloss": "dark place",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "豺狼",
+          "py": "chái láng",
+          "gloss": "wolves",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "吓退",
+          "py": "xià tuì",
+          "gloss": "scare away",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't judge my long fur and smell",
+        "pt": "Não julgue minha pelagem longa e cheiro"
+      },
+      "words": [
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "评头论足",
+          "py": "píng tóu lùn zú",
+          "gloss": "judge",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "长毛",
+          "py": "cháng máo",
+          "gloss": "long fur",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "气味",
+          "py": "qì wèi",
+          "gloss": "smell",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I cry, I also laugh — I'm just not good at pretending",
+        "pt": "Eu choro, eu também rio — só não sou bom em fingir"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "哭",
+          "py": "kū",
+          "gloss": "cry",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "笑",
+          "py": "xiào",
+          "gloss": "laugh",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "只是",
+          "py": "zhǐ shì",
+          "gloss": "just",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "擅长",
+          "py": "shàn cháng",
+          "gloss": "be good at",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "作伪",
+          "py": "zuò wěi",
+          "gloss": "pretend",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Look — carnivores eating grass, how peaceful and beautiful the world is",
+        "pt": "Olhe — carnívoros comendo grama, quão pacífico e belo é o mundo"
+      },
+      "words": [
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "look",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "食肉动物",
+          "py": "shí ròu dòng wù",
+          "gloss": "carnivore",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "吃草",
+          "py": "chī cǎo",
+          "gloss": "eat grass",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "和平",
+          "py": "hé píng",
+          "gloss": "peaceful",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "美好",
+          "py": "měi hǎo",
+          "gloss": "beautiful",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Being misunderstood is fine — no need to create new monsters",
+        "pt": "Ser mal interpretado está bem — não precisa criar novos monstros"
+      },
+      "words": [
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "误解",
+          "py": "wù jiě",
+          "gloss": "misunderstand",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "hsk": 1,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "需要",
+          "py": "xū yào",
+          "gloss": "need",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "创造",
+          "py": "chuàng zào",
+          "gloss": "create",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "新的",
+          "py": "xīn de",
+          "gloss": "new",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "怪物",
+          "py": "guài wù",
+          "gloss": "monster",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "One Two Three Four — put on top hat, ridiculous, see who shows their true colors",
+        "pt": "One Two Three Four — coloque a cartola, ridículo, veja quem mostra suas verdadeiras cores"
+      },
+      "words": [
+        {
+          "hz": "One Two Three Four",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "戴上",
+          "py": "dài shàng",
+          "gloss": "put on",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "礼帽",
+          "py": "lǐ mào",
+          "gloss": "top hat",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "可笑",
+          "py": "kě xiào",
+          "gloss": "ridiculous",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "露出",
+          "py": "lù chū",
+          "gloss": "reveal",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "马脚",
+          "py": "mǎ jiǎo",
+          "gloss": "clue",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Upright horns — ridiculous, pierce through the noble coat",
+        "pt": "Chifres erguidos — ridículo, perfure o casaco nobre"
+      },
+      "words": [
+        {
+          "hz": "直立",
+          "py": "zhí lì",
+          "gloss": "upright",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "角",
+          "py": "jiǎo",
+          "gloss": "horn",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "可笑",
+          "py": "kě xiào",
+          "gloss": "ridiculous",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "戳破",
+          "py": "chuō pò",
+          "gloss": "pierce",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "高尚",
+          "py": "gāo shàng",
+          "gloss": "noble",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "外套",
+          "py": "wài tào",
+          "gloss": "coat",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A monster is Wohh — right Wohh, don't condemn",
+        "pt": "Um monstro é Wohh — certo Wohh, não condene"
+      },
+      "words": [
+        {
+          "hz": "怪物",
+          "py": "guài wù",
+          "gloss": "monster",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "对的",
+          "py": "duì de",
+          "gloss": "right",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "声讨",
+          "py": "shēng tǎo",
+          "gloss": "condemn",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't force me to find the upright-walking kindred",
+        "pt": "Não me force a encontrar os afins que andam eretos"
+      },
+      "words": [
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "逼",
+          "py": "bī",
+          "gloss": "force",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "找出",
+          "py": "zhǎo chū",
+          "gloss": "find out",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "直立",
+          "py": "zhí lì",
+          "gloss": "upright",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "行走",
+          "py": "xíng zǒu",
+          "gloss": "walk",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "同类",
+          "py": "tóng lèi",
+          "gloss": "kindred",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The zebra, he will always have black-and-white barriers",
+        "pt": "A zebra, ele sempre terá barreiras em preto e branco"
+      },
+      "words": [
+        {
+          "hz": "斑马",
+          "py": "bān mǎ",
+          "gloss": "zebra",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "总会",
+          "py": "zǒng huì",
+          "gloss": "always will",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "黑白",
+          "py": "hēi bái",
+          "gloss": "black and white",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "相间",
+          "py": "xiāng jiàn",
+          "gloss": "alternating",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "壁垒",
+          "py": "bì lěi",
+          "gloss": "barrier",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't tell children that I am a dangerous demon",
+        "pt": "Não diga às crianças que sou um demônio perigoso"
+      },
+      "words": [
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "告诉",
+          "py": "gào su",
+          "gloss": "tell",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "孩子",
+          "py": "hái zi",
+          "gloss": "child",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "am",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "危险",
+          "py": "wēi xiǎn",
+          "gloss": "dangerous",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "魔鬼",
+          "py": "mó guǐ",
+          "gloss": "demon",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The angel, he never saves all humans",
+        "pt": "O anjo, ele nunca salva todos os humanos"
+      },
+      "words": [
+        {
+          "hz": "天使",
+          "py": "tiān shǐ",
+          "gloss": "angel",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不会",
+          "py": "bù huì",
+          "gloss": "never",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "拯救",
+          "py": "zhěng jiù",
+          "gloss": "save",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人类",
+          "py": "rén lèi",
+          "gloss": "humans",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When gentle animals are purged, bloodstains are all wiped away",
+        "pt": "Quando animais gentis são expurgados, todas as manchas de sangue são apagadas"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "温顺",
+          "py": "wēn shùn",
+          "gloss": "gentle",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "动物",
+          "py": "dòng wù",
+          "gloss": "animal",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "清剿",
+          "py": "qīng jiǎo",
+          "gloss": "purge",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "血渍",
+          "py": "xuè zì",
+          "gloss": "bloodstain",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "统统",
+          "py": "tǒng tǒng",
+          "gloss": "all",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "抹掉",
+          "py": "mǒ diào",
+          "gloss": "wipe away",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Disturbed by misunderstanding, I have no choice but to become a real monster",
+        "pt": "Perturbado pela incompreensão, não tenho escolha senão me tornar um monstro real"
+      },
+      "words": [
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "误解",
+          "py": "wù jiě",
+          "gloss": "misunderstanding",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "惊扰",
+          "py": "jīng rǎo",
+          "gloss": "disturb",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "只好",
+          "py": "zhǐ hǎo",
+          "gloss": "have no choice",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "成为",
+          "py": "chéng wéi",
+          "gloss": "become",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "真的",
+          "py": "zhēn de",
+          "gloss": "real",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "怪物",
+          "py": "guài wù",
+          "gloss": "monster",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "One Two Three Four — put on top hat, ridiculous, see who shows their true colors",
+        "pt": "One Two Three Four — coloque a cartola, ridículo, veja quem mostra suas verdadeiras cores"
+      },
+      "words": [
+        {
+          "hz": "One Two Three Four",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "戴上",
+          "py": "dài shàng",
+          "gloss": "put on",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "礼帽",
+          "py": "lǐ mào",
+          "gloss": "top hat",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "可笑",
+          "py": "kě xiào",
+          "gloss": "ridiculous",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "露出",
+          "py": "lù chū",
+          "gloss": "reveal",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "马脚",
+          "py": "mǎ jiǎo",
+          "gloss": "clue",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Upright horns — ridiculous, pierce through the noble coat",
+        "pt": "Chifres erguidos — ridículo, perfure o casaco nobre"
+      },
+      "words": [
+        {
+          "hz": "直立",
+          "py": "zhí lì",
+          "gloss": "upright",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "角",
+          "py": "jiǎo",
+          "gloss": "horn",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "可笑",
+          "py": "kě xiào",
+          "gloss": "ridiculous",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "戳破",
+          "py": "chuō pò",
+          "gloss": "pierce",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "高尚",
+          "py": "gāo shàng",
+          "gloss": "noble",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "外套",
+          "py": "wài tào",
+          "gloss": "coat",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A monster is Wohh — right Wohh, don't condemn",
+        "pt": "Um monstro é Wohh — certo Wohh, não condene"
+      },
+      "words": [
+        {
+          "hz": "怪物",
+          "py": "guài wù",
+          "gloss": "monster",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "对的",
+          "py": "duì de",
+          "gloss": "right",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "声讨",
+          "py": "shēng tǎo",
+          "gloss": "condemn",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When I wipe away my fur's brand and symbols",
+        "pt": "Quando eu apago a marca e os símbolos da minha pele"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "抹去",
+          "py": "mǒ qù",
+          "gloss": "wipe away",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "皮毛",
+          "py": "pí máo",
+          "gloss": "fur",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "烙印",
+          "py": "lào yìn",
+          "gloss": "brand",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "符号",
+          "py": "fú hào",
+          "gloss": "symbol",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Blending into a corner of the human world",
+        "pt": "Misturando-me num canto do mundo humano"
+      },
+      "words": [
+        {
+          "hz": "融入",
+          "py": "róng rù",
+          "gloss": "blend into",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人世间",
+          "py": "rén shì jiān",
+          "gloss": "human world",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一角",
+          "py": "yī jiǎo",
+          "gloss": "a corner",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I give up all strength and pride",
+        "pt": "Eu abandono toda força e orgulho"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "舍弃",
+          "py": "shě qì",
+          "gloss": "give up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "强大",
+          "py": "qiáng dà",
+          "gloss": "strength",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "骄傲",
+          "py": "jiāo ào",
+          "gloss": "pride",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only so that I can be seen for my true appearance",
+        "pt": "Só para que eu possa ser visto na minha verdadeira aparência"
+      },
+      "words": [
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "看到",
+          "py": "kàn dào",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "真实",
+          "py": "zhēn shí",
+          "gloss": "true",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "样貌",
+          "py": "yàng mào",
+          "gloss": "appearance",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "They all salute me and smile",
+        "pt": "Todos eles me saúdam e sorriem"
+      },
+      "words": [
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "对",
+          "py": "duì",
+          "gloss": "to",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "致意",
+          "py": "zhì yì",
+          "gloss": "salute",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "微笑",
+          "py": "wēi xiào",
+          "gloss": "smile",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Does it count as showing approval?",
+        "pt": "Isso conta como demonstração de aprovação?"
+      },
+      "words": [
+        {
+          "hz": "算",
+          "py": "suàn",
+          "gloss": "count as",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "算",
+          "py": "suàn",
+          "gloss": "count as",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "认可",
+          "py": "rèn kě",
+          "gloss": "approval",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "示好",
+          "py": "shì hǎo",
+          "gloss": "show goodwill",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The monster's psychology — I finally understand it now",
+        "pt": "A psicologia do monstro — eu finalmente entendo agora"
+      },
+      "words": [
+        {
+          "hz": "怪物",
+          "py": "guài wù",
+          "gloss": "monster",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "心理",
+          "py": "xīn lǐ",
+          "gloss": "psychology",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "终于",
+          "py": "zhōng yú",
+          "gloss": "finally",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "明了",
+          "py": "míng liǎo",
+          "gloss": "understand",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The more I long to escape trouble, the more troubled I become",
+        "pt": "Quanto mais anseio escapar do problema, mais perturbado fico"
+      },
+      "words": [
+        {
+          "hz": "越",
+          "py": "yuè",
+          "gloss": "the more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "渴望",
+          "py": "kě wàng",
+          "gloss": "long for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "远离",
+          "py": "yuǎn lí",
+          "gloss": "escape from",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "困扰",
+          "py": "kùn rǎo",
+          "gloss": "trouble",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "困扰",
+          "py": "kùn rǎo",
+          "gloss": "troubled",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "One Two Three Four — take off the top hat, laugh, this atmosphere is just right",
+        "pt": "One Two Three Four — tire a cartola, ria, esta atmosfera está perfeita"
+      },
+      "words": [
+        {
+          "hz": "One Two Three Four",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "脱掉",
+          "py": "tuō diào",
+          "gloss": "take off",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "礼帽",
+          "py": "lǐ mào",
+          "gloss": "top hat",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "大笑",
+          "py": "dà xiào",
+          "gloss": "laugh",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "气氛",
+          "py": "qì fēn",
+          "gloss": "atmosphere",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "刚刚好",
+          "py": "gāng gāng hǎo",
+          "gloss": "just right",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Upright horns — roar, who is beyond cure",
+        "pt": "Chifres erguidos — rugir, quem está além da cura"
+      },
+      "words": [
+        {
+          "hz": "直立",
+          "py": "zhí lì",
+          "gloss": "upright",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "角",
+          "py": "jiǎo",
+          "gloss": "horn",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "咆哮",
+          "py": "páo xiào",
+          "gloss": "roar",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "无可救药",
+          "py": "wú kě jiù yào",
+          "gloss": "beyond cure",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Nature's Wohh — rules Wohh, is to forget",
+        "pt": "Da natureza Wohh — regras Wohh, é esquecer"
+      },
+      "words": [
+        {
+          "hz": "自然",
+          "py": "zì rán",
+          "gloss": "nature",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "规则",
+          "py": "guī zé",
+          "gloss": "rules",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "忘掉",
+          "py": "wàng diào",
+          "gloss": "forget",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

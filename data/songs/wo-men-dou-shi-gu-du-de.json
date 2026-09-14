@@ -1,0 +1,1249 @@
+{
+  "id": "wo-men-dou-shi-gu-du-de",
+  "title": "我们都是孤独的",
+  "titlePinyin": "Wǒ Men Dōu Shì Gū Dú De",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2014 · Album \"卡西莫多的礼物\" · Track 7",
+  "lines": [
+    {
+      "translation": {
+        "en": "He forgot the way home",
+        "pt": "Ele esqueceu o caminho de casa"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "忘记",
+          "py": "wàng jì",
+          "gloss": "forget",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "回家",
+          "py": "huí jiā",
+          "gloss": "home",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "路",
+          "py": "lù",
+          "gloss": "way",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "On the street only he is left — wandering",
+        "pt": "Na rua só ele resta — vagando"
+      },
+      "words": [
+        {
+          "hz": "街上",
+          "py": "jiē shang",
+          "gloss": "on the street",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "只剩",
+          "py": "zhǐ shèng",
+          "gloss": "only left",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一个人",
+          "py": "yī gè rén",
+          "gloss": "one person",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "游荡",
+          "py": "yóu dàng",
+          "gloss": "wandering",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He has embraced — in life — those met then lost",
+        "pt": "Ele abraçou — na vida — aqueles que conheceu e depois perdeu"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拥抱",
+          "py": "yōng bào",
+          "gloss": "embrace",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "过",
+          "py": "guò",
+          "gloss": "(experiential)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "生命",
+          "py": "shēng mìng",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "相遇",
+          "py": "xiāng yù",
+          "gloss": "meet",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "错失",
+          "py": "cuò shī",
+          "gloss": "lost",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "person",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sorrow — rain — falling — falling — all night long",
+        "pt": "Tristeza — chuva — caindo — caindo — a noite toda"
+      },
+      "words": [
+        {
+          "hz": "悲伤",
+          "py": "bēi shāng",
+          "gloss": "sorrow",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "雨",
+          "py": "yǔ",
+          "gloss": "rain",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在下",
+          "py": "zài xià",
+          "gloss": "falling",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在下",
+          "py": "zài xià",
+          "gloss": "falling",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一整夜",
+          "py": "yī zhěng yè",
+          "gloss": "all night",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He makes no sound — makes no sound",
+        "pt": "Ele não faz som — não faz som"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不作声",
+          "py": "bù zuò shēng",
+          "gloss": "makes no sound",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不作声",
+          "py": "bù zuò shēng",
+          "gloss": "makes no sound",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "His pain — who can understand",
+        "pt": "Sua dor — quem pode entender"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "his",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "痛",
+          "py": "tòng",
+          "gloss": "pain",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "懂",
+          "py": "dǒng",
+          "gloss": "understand",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "His dream — no one asks about it",
+        "pt": "Seu sonho — ninguém pergunta sobre ele"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "his",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无人",
+          "py": "wú rén",
+          "gloss": "no one",
+          "hsk": 5,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "过问",
+          "py": "guò wèn",
+          "gloss": "ask about",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How he longs — how he longs — for stability",
+        "pt": "Como ele anseia — como ele anseia — por estabilidade"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "long for",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "long for",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "安稳",
+          "py": "ān wěn",
+          "gloss": "stability",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He is tired of it — so he lives inside his own world — innocent",
+        "pt": "Ele está cansado disso — então ele vive dentro do seu próprio mundo — inocente"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "厌倦",
+          "py": "yàn juàn",
+          "gloss": "tired of",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "所以",
+          "py": "suǒ yǐ",
+          "gloss": "so",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "活在",
+          "py": "huó zài",
+          "gloss": "live in",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "自己",
+          "py": "zì jǐ",
+          "gloss": "own",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里面",
+          "py": "lǐ miàn",
+          "gloss": "inside",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "天真",
+          "py": "tiān zhēn",
+          "gloss": "innocent",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He understands — God closes a window for him — opens another door — waiting",
+        "pt": "Ele entende — Deus fecha uma janela para ele — abre outra porta — esperando"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "明白",
+          "py": "míng bái",
+          "gloss": "understand",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "上帝",
+          "py": "shàng dì",
+          "gloss": "God",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "关上",
+          "py": "guān shàng",
+          "gloss": "close",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "窗",
+          "py": "chuāng",
+          "gloss": "window",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "另",
+          "py": "lìng",
+          "gloss": "another",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "开",
+          "py": "kāi",
+          "gloss": "open",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一扇",
+          "py": "yī shàn",
+          "gloss": "a",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "门",
+          "py": "mén",
+          "gloss": "door",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "等",
+          "py": "děng",
+          "gloss": "waiting",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Rain — falling — falling — all night long",
+        "pt": "Chuva — caindo — caindo — a noite toda"
+      },
+      "words": [
+        {
+          "hz": "雨",
+          "py": "yǔ",
+          "gloss": "rain",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在下",
+          "py": "zài xià",
+          "gloss": "falling",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在下",
+          "py": "zài xià",
+          "gloss": "falling",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一整夜",
+          "py": "yī zhěng yè",
+          "gloss": "all night",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He makes no sound — makes no sound",
+        "pt": "Ele não faz som — não faz som"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不作声",
+          "py": "bù zuò shēng",
+          "gloss": "makes no sound",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不作声",
+          "py": "bù zuò shēng",
+          "gloss": "makes no sound",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "His pain — who can understand",
+        "pt": "Sua dor — quem pode entender"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "his",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "痛",
+          "py": "tòng",
+          "gloss": "pain",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "懂",
+          "py": "dǒng",
+          "gloss": "understand",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "His dream — no one asks about it",
+        "pt": "Seu sonho — ninguém pergunta sobre ele"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "his",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无人",
+          "py": "wú rén",
+          "gloss": "no one",
+          "hsk": 5,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "过问",
+          "py": "guò wèn",
+          "gloss": "ask about",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How he longs — how he longs — for stability",
+        "pt": "Como ele anseia — como ele anseia — por estabilidade"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "long for",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "long for",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "安稳",
+          "py": "ān wěn",
+          "gloss": "stability",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How he longs — how he longs — for stability",
+        "pt": "Como ele anseia — como ele anseia — por estabilidade"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "long for",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "long for",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "安稳",
+          "py": "ān wěn",
+          "gloss": "stability",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Rain — falling — falling — all night long",
+        "pt": "Chuva — caindo — caindo — a noite toda"
+      },
+      "words": [
+        {
+          "hz": "雨",
+          "py": "yǔ",
+          "gloss": "rain",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在下",
+          "py": "zài xià",
+          "gloss": "falling",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在下",
+          "py": "zài xià",
+          "gloss": "falling",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一整夜",
+          "py": "yī zhěng yè",
+          "gloss": "all night",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He makes no sound — makes no sound",
+        "pt": "Ele não faz som — não faz som"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不作声",
+          "py": "bù zuò shēng",
+          "gloss": "makes no sound",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不作声",
+          "py": "bù zuò shēng",
+          "gloss": "makes no sound",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The pain in his heart — who can understand",
+        "pt": "A dor no seu coração — quem pode entender"
+      },
+      "words": [
+        {
+          "hz": "心里",
+          "py": "xīn lǐ",
+          "gloss": "in heart",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "痛",
+          "py": "tòng",
+          "gloss": "pain",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "懂",
+          "py": "dǒng",
+          "gloss": "understand",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Whose dream — no one asks about it",
+        "pt": "O sonho de quem — ninguém pergunta sobre ele"
+      },
+      "words": [
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "whose",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无人",
+          "py": "wú rén",
+          "gloss": "no one",
+          "hsk": 5,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "过问",
+          "py": "guò wèn",
+          "gloss": "ask about",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How he longs — how he longs — for stability",
+        "pt": "Como ele anseia — como ele anseia — por estabilidade"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "long for",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "long for",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "安稳",
+          "py": "ān wěn",
+          "gloss": "stability",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "We are all — all — lonely",
+        "pt": "Nós somos todos — todos — solitários"
+      },
+      "words": [
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都是",
+          "py": "dōu shì",
+          "gloss": "are all",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "都是",
+          "py": "dōu shì",
+          "gloss": "are all",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "孤独",
+          "py": "gū dú",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    }
+  ]
+}

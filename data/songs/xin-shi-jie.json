@@ -1,0 +1,345 @@
+{
+  "id": "xin-shi-jie",
+  "title": "新世界",
+  "titlePinyin": "Xīn Shì Jiè",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2020 · Album \"新世界NEW WORLD\" · Track 7",
+  "lines": [
+    {
+      "translation": {
+        "en": "After the harsh winter, how much of human affairs remains",
+        "pt": "Depois do inverno rigoroso, quanto dos assuntos humanos resta"
+      },
+      "words": [
+        {
+          "hz": "凛冬",
+          "py": "lǐn dōng",
+          "gloss": "harsh winter",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "过后",
+          "py": "guò hòu",
+          "gloss": "after",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "人事",
+          "py": "rén shì",
+          "gloss": "human affairs",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "剩",
+          "py": "shèng",
+          "gloss": "remain",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "几何",
+          "py": "jǐ hé",
+          "gloss": "how much",
+          "hsk": 6,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Welcoming and sending off the guests below the stage",
+        "pt": "Recebendo e despedindo os convidados abaixo do palco"
+      },
+      "words": [
+        {
+          "hz": "迎来送往",
+          "py": "yíng lái sòng wǎng",
+          "gloss": "welcome and send off",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "台下",
+          "py": "tái xià",
+          "gloss": "below the stage",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "宾客",
+          "py": "bīn kè",
+          "gloss": "guests",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who's there",
+        "pt": "Quem está aí"
+      },
+      "words": [
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "there",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Spring once clung to autumn",
+        "pt": "A primavera uma vez se agarrou ao outono"
+      },
+      "words": [
+        {
+          "hz": "春意",
+          "py": "chūn yì",
+          "gloss": "spring",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "曾",
+          "py": "céng",
+          "gloss": "once",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "执着",
+          "py": "zhí zhuó",
+          "gloss": "cling",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "于",
+          "py": "yú",
+          "gloss": "to",
+          "hsk": 5,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "秋",
+          "py": "qiū",
+          "gloss": "autumn",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Using up all I had to trade for what I sought",
+        "pt": "Esgotando tudo o que tinha para trocar pelo que busquei"
+      },
+      "words": [
+        {
+          "hz": "用尽",
+          "py": "yòng jìn",
+          "gloss": "use up",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "仅有",
+          "py": "jǐn yǒu",
+          "gloss": "only have",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "换",
+          "py": "huàn",
+          "gloss": "trade",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "所求",
+          "py": "suǒ qiú",
+          "gloss": "what is sought",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Earnest is only me",
+        "pt": "Sincero sou apenas eu"
+      },
+      "words": [
+        {
+          "hz": "认真",
+          "py": "rèn zhēn",
+          "gloss": "earnest",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "只是",
+          "py": "zhǐ shì",
+          "gloss": "only",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Looking at Taihang, through wind and frost — I advance alone and brave",
+        "pt": "Olhando Taihang, através do vento e da geada — avanço sozinho e bravo"
+      },
+      "words": [
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "look at",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "太行",
+          "py": "Tài háng",
+          "gloss": "Taihang",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "历",
+          "py": "lì",
+          "gloss": "experience",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "风霜",
+          "py": "fēng shuāng",
+          "gloss": "wind and frost",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "孤勇",
+          "py": "gū yǒng",
+          "gloss": "alone and brave",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "前进",
+          "py": "qián jìn",
+          "gloss": "advance",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ancient tunes — let me sing them",
+        "pt": "Melodias antigas — deixe-me cantá-las"
+      },
+      "words": [
+        {
+          "hz": "万古腔",
+          "py": "wàn gǔ qiāng",
+          "gloss": "ancient tunes",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "任",
+          "py": "rèn",
+          "gloss": "let",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "唱",
+          "py": "chàng",
+          "gloss": "sing",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

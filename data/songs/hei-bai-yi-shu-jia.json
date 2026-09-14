@@ -1,0 +1,2409 @@
+{
+  "id": "hei-bai-yi-shu-jia",
+  "title": "黑白艺术家",
+  "titlePinyin": "Hēi Bái Yì Shù Jiā",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2022 · Album \"希忘Hope\" · Track 4",
+  "lines": [
+    {
+      "translation": {
+        "en": "They say I'm a clown — even seriousness is comical",
+        "pt": "Eles dizem que sou um palhaço — até a seriedade é cômica"
+      },
+      "words": [
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "am",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "小丑",
+          "py": "xiǎo chǒu",
+          "gloss": "clown",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "严肃",
+          "py": "yán sù",
+          "gloss": "seriousness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "even",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "滑稽",
+          "py": "huá jī",
+          "gloss": "comical",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "So I HaHaHaHa",
+        "pt": "Então eu HaHaHaHa"
+      },
+      "words": [
+        {
+          "hz": "So I HaHaHaHa",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "They say being gifted is the public enemy of evolution",
+        "pt": "Eles dizem que ser talentoso é o inimigo público da evolução"
+      },
+      "words": [
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天赋异禀",
+          "py": "tiān fù yì bǐng",
+          "gloss": "gifted",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "进化",
+          "py": "jìn huà",
+          "gloss": "evolution",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "公敌",
+          "py": "gōng dí",
+          "gloss": "public enemy",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "So I HaHaHaHa",
+        "pt": "Então eu HaHaHaHa"
+      },
+      "words": [
+        {
+          "hz": "So I HaHaHaHa",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "They have eighteen kinds of martial arts — I just practice Tai Chi",
+        "pt": "Eles têm dezoito tipos de artes marciais — eu só pratico Tai Chi"
+      },
+      "words": [
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "十八般",
+          "py": "shí bā bān",
+          "gloss": "eighteen kinds",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "武艺",
+          "py": "wǔ yì",
+          "gloss": "martial arts",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "打打",
+          "py": "dǎ dǎ",
+          "gloss": "practice",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "太极",
+          "py": "tài jí",
+          "gloss": "Tai Chi",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "So I HaHaHaHa",
+        "pt": "Então eu HaHaHaHa"
+      },
+      "words": [
+        {
+          "hz": "So I HaHaHaHa",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "They have seamless heavenly garments — I think I'm clever",
+        "pt": "Eles têm vestes celestiais sem costura — eu me acho esperto"
+      },
+      "words": [
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "无缝",
+          "py": "wú fèng",
+          "gloss": "seamless",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "天衣",
+          "py": "tiān yī",
+          "gloss": "heavenly garment",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "自作聪明",
+          "py": "zì zuò cōng míng",
+          "gloss": "think oneself clever",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "So I HaHaHaHa",
+        "pt": "Então eu HaHaHaHa"
+      },
+      "words": [
+        {
+          "hz": "So I HaHaHaHa",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Every day there are ten thousand disputes — why must souls leave the body",
+        "pt": "Todos os dias há dez mil disputas — por que as almas devem sair do corpo"
+      },
+      "words": [
+        {
+          "hz": "每天",
+          "py": "měi tiān",
+          "gloss": "every day",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一万个",
+          "py": "yī wàn gè",
+          "gloss": "ten thousand",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "纷争",
+          "py": "fēn zhēng",
+          "gloss": "disputes",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "何必",
+          "py": "hé bì",
+          "gloss": "why must",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "非要",
+          "py": "fēi yào",
+          "gloss": "insist on",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "出窍",
+          "py": "chū qiào",
+          "gloss": "leave the body",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Fighting to the death — that appearance is exactly like a specimen",
+        "pt": "Lutando até a morte — essa aparência é exatamente como um espécime"
+      },
+      "words": [
+        {
+          "hz": "你死我活",
+          "py": "nǐ sǐ wǒ huó",
+          "gloss": "fight to the death",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "掰",
+          "py": "bāi",
+          "gloss": "fight",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "头",
+          "py": "tóu",
+          "gloss": "head",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "模样",
+          "py": "mú yàng",
+          "gloss": "appearance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "像极了",
+          "py": "xiàng jí le",
+          "gloss": "exactly like",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "标本",
+          "py": "biāo běn",
+          "gloss": "specimen",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Baring fangs and brandishing claws — yet having no scenes",
+        "pt": "Mostrando presas e garras — mas sem cenas"
+      },
+      "words": [
+        {
+          "hz": "张牙舞爪",
+          "py": "zhāng yá wǔ zhǎo",
+          "gloss": "bare fangs and claws",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "no",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "戏份",
+          "py": "xì fèn",
+          "gloss": "scenes",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Missing a needle makes them listless — head",
+        "pt": "Faltando uma agulha, eles ficam apáticos — cabeça"
+      },
+      "words": [
+        {
+          "hz": "少根针",
+          "py": "shǎo gēn zhēn",
+          "gloss": "missing a needle",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "even",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "没劲",
+          "py": "méi jìn",
+          "gloss": "listless",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "头",
+          "py": "tóu",
+          "gloss": "head",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I smile at~ these embarrassments~",
+        "pt": "Eu sorrio para~ esses embaraços~"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "笑对",
+          "py": "xiào duì",
+          "gloss": "smile at",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这些",
+          "py": "zhè xiē",
+          "gloss": "these",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "狼狈",
+          "py": "láng bèi",
+          "gloss": "embarrassments",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't nag endlessly",
+        "pt": "Não tagarele sem parar"
+      },
+      "words": [
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "唠唠叨叨",
+          "py": "láo lao dāo dāo",
+          "gloss": "nag endlessly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "没尽头",
+          "py": "méi jìn tóu",
+          "gloss": "endlessly",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "As you please — don't be picky",
+        "pt": "Como quiser — não seja exigente"
+      },
+      "words": [
+        {
+          "hz": "随你",
+          "py": "suí nǐ",
+          "gloss": "as you please",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "开心",
+          "py": "kāi xīn",
+          "gloss": "happy",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "挑肥拣瘦",
+          "py": "tiāo féi jiǎn shòu",
+          "gloss": "be picky",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "There are still many things to do — no time to accompany you in verbal or physical fights",
+        "pt": "Ainda há muitas coisas para fazer — sem tempo para acompanhá-lo em brigas verbais ou físicas"
+      },
+      "words": [
+        {
+          "hz": "还有",
+          "py": "hái yǒu",
+          "gloss": "still have",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "好多",
+          "py": "hǎo duō",
+          "gloss": "many",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "事情",
+          "py": "shì qíng",
+          "gloss": "things",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "没空",
+          "py": "méi kòng",
+          "gloss": "no time",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "陪你",
+          "py": "péi nǐ",
+          "gloss": "accompany you",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "文斗",
+          "py": "wén dòu",
+          "gloss": "verbal fight",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "或",
+          "py": "huò",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "武斗",
+          "py": "wǔ dòu",
+          "gloss": "physical fight",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Nobody insists on delusionally seeing how gentle this world is",
+        "pt": "Ninguém insiste em ver ilusoriamente quão gentil este mundo é"
+      },
+      "words": [
+        {
+          "hz": "没人",
+          "py": "méi rén",
+          "gloss": "nobody",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "非要",
+          "py": "fēi yào",
+          "gloss": "insist on",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "妄想",
+          "py": "wàng xiǎng",
+          "gloss": "delusionally",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "温柔",
+          "py": "wēn róu",
+          "gloss": "gentle",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How can ants in the soil understand seagulls at the horizon",
+        "pt": "Como formigas no solo podem entender gaivotas no horizonte"
+      },
+      "words": [
+        {
+          "hz": "泥土",
+          "py": "ní tǔ",
+          "gloss": "soil",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "蚂蚁",
+          "py": "mǎ yǐ",
+          "gloss": "ants",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "哪能",
+          "py": "nǎ néng",
+          "gloss": "how can",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "搞懂",
+          "py": "gǎo dǒng",
+          "gloss": "understand",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天边",
+          "py": "tiān biān",
+          "gloss": "horizon",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "海鸥",
+          "py": "hǎi ōu",
+          "gloss": "seagulls",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This truth doesn't require roaring",
+        "pt": "Esta verdade não requer rugidos"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "道理",
+          "py": "dào lǐ",
+          "gloss": "truth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "需要",
+          "py": "xū yào",
+          "gloss": "need",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "嘶吼",
+          "py": "sī hǒu",
+          "gloss": "roar",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "They say art is sacred — aliens don't understand",
+        "pt": "Eles dizem que a arte é sagrada — alienígenas não entendem"
+      },
+      "words": [
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "艺术",
+          "py": "yì shù",
+          "gloss": "art",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "神圣",
+          "py": "shén shèng",
+          "gloss": "sacred",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "外星人",
+          "py": "wài xīng rén",
+          "gloss": "aliens",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不懂",
+          "py": "bù dǒng",
+          "gloss": "not understand",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "So I HaHaHaHa",
+        "pt": "Então eu HaHaHaHa"
+      },
+      "words": [
+        {
+          "hz": "So I HaHaHaHa",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Their attainments are inborn — with noble bloodline",
+        "pt": "Suas realizações são inatas — com linhagem nobre"
+      },
+      "words": [
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "their",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "造诣",
+          "py": "zào yì",
+          "gloss": "attainments",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "天生",
+          "py": "tiān shēng",
+          "gloss": "inborn",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "高贵",
+          "py": "gāo guì",
+          "gloss": "noble",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "血统",
+          "py": "xuè tǒng",
+          "gloss": "bloodline",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "So I HaHaHaHa",
+        "pt": "Então eu HaHaHaHa"
+      },
+      "words": [
+        {
+          "hz": "So I HaHaHaHa",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "They say human progress relies entirely on their proof",
+        "pt": "Eles dizem que o progresso humano depende inteiramente de sua prova"
+      },
+      "words": [
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "人类",
+          "py": "rén lèi",
+          "gloss": "human",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "进步",
+          "py": "jìn bù",
+          "gloss": "progress",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全靠",
+          "py": "quán kào",
+          "gloss": "rely entirely on",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "their",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "论证",
+          "py": "lùn zhèng",
+          "gloss": "proof",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "So I HaHaHaHa",
+        "pt": "Então eu HaHaHaHa"
+      },
+      "words": [
+        {
+          "hz": "So I HaHaHaHa",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "They have the innocence of a child — I pretend to be profound",
+        "pt": "Eles têm a inocência de uma criança — eu finjo ser profundo"
+      },
+      "words": [
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "赤子",
+          "py": "chì zǐ",
+          "gloss": "child",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "天真",
+          "py": "tiān zhēn",
+          "gloss": "innocence",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "故作高深",
+          "py": "gù zuò gāo shēn",
+          "gloss": "pretend to be profound",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "So I HaHaHaHa",
+        "pt": "Então eu HaHaHaHa"
+      },
+      "words": [
+        {
+          "hz": "So I HaHaHaHa",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Every day there are ten thousand disputes — why must souls leave the body",
+        "pt": "Todos os dias há dez mil disputas — por que as almas devem sair do corpo"
+      },
+      "words": [
+        {
+          "hz": "每天",
+          "py": "měi tiān",
+          "gloss": "every day",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一万个",
+          "py": "yī wàn gè",
+          "gloss": "ten thousand",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "纷争",
+          "py": "fēn zhēng",
+          "gloss": "disputes",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "何必",
+          "py": "hé bì",
+          "gloss": "why must",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "非要",
+          "py": "fēi yào",
+          "gloss": "insist on",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "出窍",
+          "py": "chū qiào",
+          "gloss": "leave the body",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Fighting to the death — that appearance is exactly like a specimen",
+        "pt": "Lutando até a morte — essa aparência é exatamente como um espécime"
+      },
+      "words": [
+        {
+          "hz": "你死我活",
+          "py": "nǐ sǐ wǒ huó",
+          "gloss": "fight to the death",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "掰",
+          "py": "bāi",
+          "gloss": "fight",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "头",
+          "py": "tóu",
+          "gloss": "head",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "模样",
+          "py": "mú yàng",
+          "gloss": "appearance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "像极了",
+          "py": "xiàng jí le",
+          "gloss": "exactly like",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "标本",
+          "py": "biāo běn",
+          "gloss": "specimen",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Baring fangs and brandishing claws — yet having no scenes",
+        "pt": "Mostrando presas e garras — mas sem cenas"
+      },
+      "words": [
+        {
+          "hz": "张牙舞爪",
+          "py": "zhāng yá wǔ zhǎo",
+          "gloss": "bare fangs and claws",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "no",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "戏份",
+          "py": "xì fèn",
+          "gloss": "scenes",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Missing a needle makes them listless — head",
+        "pt": "Faltando uma agulha, eles ficam apáticos — cabeça"
+      },
+      "words": [
+        {
+          "hz": "少根针",
+          "py": "shǎo gēn zhēn",
+          "gloss": "missing a needle",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "even",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "没劲",
+          "py": "méi jìn",
+          "gloss": "listless",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "头",
+          "py": "tóu",
+          "gloss": "head",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I smile at~ who is more embarrassed~",
+        "pt": "Eu sorrio para~ quem está mais embaraçado~"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "笑对",
+          "py": "xiào duì",
+          "gloss": "smile at",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "狼狈",
+          "py": "láng bèi",
+          "gloss": "embarrassed",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't nag endlessly",
+        "pt": "Não tagarele sem parar"
+      },
+      "words": [
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "唠唠叨叨",
+          "py": "láo lao dāo dāo",
+          "gloss": "nag endlessly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "没尽头",
+          "py": "méi jìn tóu",
+          "gloss": "endlessly",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "As you please — don't be picky",
+        "pt": "Como quiser — não seja exigente"
+      },
+      "words": [
+        {
+          "hz": "随你",
+          "py": "suí nǐ",
+          "gloss": "as you please",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "开心",
+          "py": "kāi xīn",
+          "gloss": "happy",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "挑肥拣瘦",
+          "py": "tiāo féi jiǎn shòu",
+          "gloss": "be picky",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "There are still many things to do — no time to accompany you in verbal or physical fights",
+        "pt": "Ainda há muitas coisas para fazer — sem tempo para acompanhá-lo em brigas verbais ou físicas"
+      },
+      "words": [
+        {
+          "hz": "还有",
+          "py": "hái yǒu",
+          "gloss": "still have",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "好多",
+          "py": "hǎo duō",
+          "gloss": "many",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "事情",
+          "py": "shì qíng",
+          "gloss": "things",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "没空",
+          "py": "méi kòng",
+          "gloss": "no time",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "陪你",
+          "py": "péi nǐ",
+          "gloss": "accompany you",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "文斗",
+          "py": "wén dòu",
+          "gloss": "verbal fight",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "或",
+          "py": "huò",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "武斗",
+          "py": "wǔ dòu",
+          "gloss": "physical fight",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Nobody insists on delusionally seeing how gentle this world is",
+        "pt": "Ninguém insiste em ver ilusoriamente quão gentil este mundo é"
+      },
+      "words": [
+        {
+          "hz": "没人",
+          "py": "méi rén",
+          "gloss": "nobody",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "非要",
+          "py": "fēi yào",
+          "gloss": "insist on",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "妄想",
+          "py": "wàng xiǎng",
+          "gloss": "delusionally",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "温柔",
+          "py": "wēn róu",
+          "gloss": "gentle",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How can ants in the soil understand seagulls at the horizon",
+        "pt": "Como formigas no solo podem entender gaivotas no horizonte"
+      },
+      "words": [
+        {
+          "hz": "泥土",
+          "py": "ní tǔ",
+          "gloss": "soil",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "蚂蚁",
+          "py": "mǎ yǐ",
+          "gloss": "ants",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "哪能",
+          "py": "nǎ néng",
+          "gloss": "how can",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "搞懂",
+          "py": "gǎo dǒng",
+          "gloss": "understand",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天边",
+          "py": "tiān biān",
+          "gloss": "horizon",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "海鸥",
+          "py": "hǎi ōu",
+          "gloss": "seagulls",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This truth doesn't require roaring",
+        "pt": "Esta verdade não requer rugidos"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "道理",
+          "py": "dào lǐ",
+          "gloss": "truth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "需要",
+          "py": "xū yào",
+          "gloss": "need",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "嘶吼",
+          "py": "sī hǒu",
+          "gloss": "roar",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Long since not sharply angular — not knowing how to bow the head",
+        "pt": "Há muito não sou mais nitidamente angular — sem saber como abaixar a cabeça"
+      },
+      "words": [
+        {
+          "hz": "早",
+          "py": "zǎo",
+          "gloss": "long since",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不是",
+          "py": "bù shì",
+          "gloss": "is not",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "棱角分明",
+          "py": "léng jiǎo fēn míng",
+          "gloss": "sharply angular",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "不知",
+          "py": "bù zhī",
+          "gloss": "not know",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "低头",
+          "py": "dī tóu",
+          "gloss": "bow the head",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "All that is reasonable — I accept it all",
+        "pt": "Tudo o que é razoável — eu aceito tudo"
+      },
+      "words": [
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "言之有理",
+          "py": "yán zhī yǒu lǐ",
+          "gloss": "reasonable",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "接受",
+          "py": "jiē shòu",
+          "gloss": "accept",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Want to save the world — I cheer for you",
+        "pt": "Quer salvar o mundo — eu torço por você"
+      },
+      "words": [
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "want",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "拯救",
+          "py": "zhěng jiù",
+          "gloss": "save",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "加油",
+          "py": "jiā yóu",
+          "gloss": "cheer",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "As you please — going up to heaven or into the earth, no problem",
+        "pt": "Como quiser — subindo ao céu ou entrando na terra, sem problema"
+      },
+      "words": [
+        {
+          "hz": "随便",
+          "py": "suí biàn",
+          "gloss": "as you please",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "上天入地",
+          "py": "shàng tiān rù dì",
+          "gloss": "up to heaven or into the earth",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "没问题",
+          "py": "méi wèn tí",
+          "gloss": "no problem",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't nag endlessly",
+        "pt": "Não tagarele sem parar"
+      },
+      "words": [
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "唠唠叨叨",
+          "py": "láo lao dāo dāo",
+          "gloss": "nag endlessly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "没尽头",
+          "py": "méi jìn tóu",
+          "gloss": "endlessly",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "As you please — don't be picky",
+        "pt": "Como quiser — não seja exigente"
+      },
+      "words": [
+        {
+          "hz": "随你",
+          "py": "suí nǐ",
+          "gloss": "as you please",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "开心",
+          "py": "kāi xīn",
+          "gloss": "happy",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "挑肥拣瘦",
+          "py": "tiāo féi jiǎn shòu",
+          "gloss": "be picky",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "There are still many things to do — no time to accompany you in verbal or physical fights",
+        "pt": "Ainda há muitas coisas para fazer — sem tempo para acompanhá-lo em brigas verbais ou físicas"
+      },
+      "words": [
+        {
+          "hz": "还有",
+          "py": "hái yǒu",
+          "gloss": "still have",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "好多",
+          "py": "hǎo duō",
+          "gloss": "many",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "事情",
+          "py": "shì qíng",
+          "gloss": "things",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "没空",
+          "py": "méi kòng",
+          "gloss": "no time",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "陪你",
+          "py": "péi nǐ",
+          "gloss": "accompany you",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "文斗",
+          "py": "wén dòu",
+          "gloss": "verbal fight",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "或",
+          "py": "huò",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "武斗",
+          "py": "wǔ dòu",
+          "gloss": "physical fight",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Nobody insists on delusionally seeing how gentle this world is",
+        "pt": "Ninguém insiste em ver ilusoriamente quão gentil este mundo é"
+      },
+      "words": [
+        {
+          "hz": "没人",
+          "py": "méi rén",
+          "gloss": "nobody",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "非要",
+          "py": "fēi yào",
+          "gloss": "insist on",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "妄想",
+          "py": "wàng xiǎng",
+          "gloss": "delusionally",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "温柔",
+          "py": "wēn róu",
+          "gloss": "gentle",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How can ants in the soil understand seagulls at the horizon",
+        "pt": "Como formigas no solo podem entender gaivotas no horizonte"
+      },
+      "words": [
+        {
+          "hz": "泥土",
+          "py": "ní tǔ",
+          "gloss": "soil",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "蚂蚁",
+          "py": "mǎ yǐ",
+          "gloss": "ants",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "哪能",
+          "py": "nǎ néng",
+          "gloss": "how can",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "搞懂",
+          "py": "gǎo dǒng",
+          "gloss": "understand",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天边",
+          "py": "tiān biān",
+          "gloss": "horizon",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "海鸥",
+          "py": "hǎi ōu",
+          "gloss": "seagulls",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This truth doesn't require roaring",
+        "pt": "Esta verdade não requer rugidos"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "道理",
+          "py": "dào lǐ",
+          "gloss": "truth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "需要",
+          "py": "xū yào",
+          "gloss": "need",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "嘶吼",
+          "py": "sī hǒu",
+          "gloss": "roar",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

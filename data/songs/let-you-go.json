@@ -1,0 +1,751 @@
+{
+  "id": "let-you-go",
+  "title": "Let You Go",
+  "titlePinyin": "Let You Go",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2014 · Album \"卡西莫多的礼物\" · Track 3",
+  "lines": [
+    {
+      "translation": {
+        "en": "It's not yet the end — just let me keep wandering",
+        "pt": "Ainda não é o fim — apenas deixe-me continuar vagando"
+      },
+      "words": [
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不是",
+          "py": "bù shì",
+          "gloss": "is not",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "尽头",
+          "py": "jìn tóu",
+          "gloss": "end",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "继续",
+          "py": "jì xù",
+          "gloss": "continue",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "游走",
+          "py": "yóu zǒu",
+          "gloss": "wander",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Not yet at the end — just let me keep enduring",
+        "pt": "Ainda não no fim — apenas deixe-me continuar suportando"
+      },
+      "words": [
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "到",
+          "py": "dào",
+          "gloss": "reach",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "最后",
+          "py": "zuì hòu",
+          "gloss": "end",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "继续",
+          "py": "jì xù",
+          "gloss": "continue",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "忍受",
+          "py": "rěn shòu",
+          "gloss": "endure",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If the wild wind cannot carry away the thoughts remaining in my chest",
+        "pt": "Se o vento selvagem não consegue levar embora os pensamentos que restam no meu peito"
+      },
+      "words": [
+        {
+          "hz": "若是",
+          "py": "ruò shì",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "狂风",
+          "py": "kuáng fēng",
+          "gloss": "wild wind",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "带不走",
+          "py": "dài bù zǒu",
+          "gloss": "cannot carry away",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "残留",
+          "py": "cán liú",
+          "gloss": "remaining",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "胸口",
+          "py": "xiōng kǒu",
+          "gloss": "chest",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "念头",
+          "py": "niàn tóu",
+          "gloss": "thought",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Holding it as I sink into the torrent of time",
+        "pt": "Segurando-o enquanto afundo na torrente do tempo"
+      },
+      "words": [
+        {
+          "hz": "抱着",
+          "py": "bào zhe",
+          "gloss": "holding",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "沉入",
+          "py": "chén rù",
+          "gloss": "sink into",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "洪流",
+          "py": "hóng liú",
+          "gloss": "torrent",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If there's still happiness, bury it in the desert of forgetting",
+        "pt": "Se ainda há felicidade, enterre-a no deserto do esquecimento"
+      },
+      "words": [
+        {
+          "hz": "还有",
+          "py": "hái yǒu",
+          "gloss": "still have",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "快乐",
+          "py": "kuài lè",
+          "gloss": "happiness",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "埋进",
+          "py": "mái jìn",
+          "gloss": "bury into",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "遗忘",
+          "py": "yí wàng",
+          "gloss": "forgetting",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "沙漠",
+          "py": "shā mò",
+          "gloss": "desert",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If there's still sorrow, throw it down from the cliff of despair",
+        "pt": "Se ainda há tristeza, jogue-a do penhasco do desespero"
+      },
+      "words": [
+        {
+          "hz": "还有",
+          "py": "hái yǒu",
+          "gloss": "still have",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "哀愁",
+          "py": "āi chóu",
+          "gloss": "sorrow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "抛下",
+          "py": "pāo xià",
+          "gloss": "throw down",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "绝望",
+          "py": "jué wàng",
+          "gloss": "despair",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "山丘",
+          "py": "shān qiū",
+          "gloss": "cliff",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "What else hasn't been swept away? Leaving only a shadow is enough",
+        "pt": "O que mais não foi varrido? Deixar apenas uma sombra já basta"
+      },
+      "words": [
+        {
+          "hz": "还有",
+          "py": "hái yǒu",
+          "gloss": "what else",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "卷走",
+          "py": "juǎn zǒu",
+          "gloss": "sweep away",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "留下",
+          "py": "liú xià",
+          "gloss": "leave behind",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "影子",
+          "py": "yǐng zi",
+          "gloss": "shadow",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "足够",
+          "py": "zú gòu",
+          "gloss": "enough",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In loneliness, accompanying me",
+        "pt": "Na solidão, me acompanhando"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "孤独",
+          "py": "gū dú",
+          "gloss": "loneliness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里头",
+          "py": "lǐ tou",
+          "gloss": "inside",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "陪着",
+          "py": "péi zhe",
+          "gloss": "accompanying",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Let you go — don't come near me, I'm not a passively feeling shell",
+        "pt": "Let you go — não se aproxime de mim, não sou uma casca que sente passivamente"
+      },
+      "words": [
+        {
+          "hz": "Let you go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "靠近",
+          "py": "kào jìn",
+          "gloss": "come near",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不是",
+          "py": "bù shì",
+          "gloss": "am not",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "被动",
+          "py": "bèi dòng",
+          "gloss": "passively",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "感受",
+          "py": "gǎn shòu",
+          "gloss": "feel",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "躯壳",
+          "py": "qū qiào",
+          "gloss": "shell",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Nothing can take away my freedom",
+        "pt": "Nada pode tirar minha liberdade"
+      },
+      "words": [
+        {
+          "hz": "没什么",
+          "py": "méi shén me",
+          "gloss": "nothing",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "能够",
+          "py": "néng gòu",
+          "gloss": "can",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "夺走",
+          "py": "duó zǒu",
+          "gloss": "take away",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "自由",
+          "py": "zì yóu",
+          "gloss": "freedom",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Let you go — don't block me, I'm already walking on the path of eternity",
+        "pt": "Let you go — não me bloqueie, já estou andando no caminho da eternidade"
+      },
+      "words": [
+        {
+          "hz": "Let you go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "阻挡",
+          "py": "zǔ dǎng",
+          "gloss": "block",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "走在",
+          "py": "zǒu zài",
+          "gloss": "walking on",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "永恒",
+          "py": "yǒng héng",
+          "gloss": "eternity",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "路上",
+          "py": "lù shang",
+          "gloss": "path",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}

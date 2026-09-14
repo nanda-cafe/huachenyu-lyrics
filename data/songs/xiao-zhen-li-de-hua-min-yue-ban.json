@@ -1,0 +1,1505 @@
+{
+  "id": "xiao-zhen-li-de-hua-min-yue-ban",
+  "title": "小镇里的花（民乐版）",
+  "titlePinyin": "Xiǎo Zhèn Lǐ De Huā (Mín Yuè Bǎn)",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2022 · Album \"希忘Hope\" · Track 3",
+  "lines": [
+    {
+      "translation": {
+        "en": "Mountain~ please walk a little slower toward me",
+        "pt": "Montanha~ por favor caminhe um pouco mais devagar em minha direção"
+      },
+      "words": [
+        {
+          "hz": "山",
+          "py": "shān",
+          "gloss": "mountain",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "请你",
+          "py": "qǐng nǐ",
+          "gloss": "please",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "慢些",
+          "py": "màn xiē",
+          "gloss": "a little slower",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "走向",
+          "py": "zǒu xiàng",
+          "gloss": "walk toward",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Cross the river — don't wake the fisherman",
+        "pt": "Atravesse o rio — não acorde o pescador"
+      },
+      "words": [
+        {
+          "hz": "跨过",
+          "py": "kuà guò",
+          "gloss": "cross",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "河流",
+          "py": "hé liú",
+          "gloss": "river",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "惊醒",
+          "py": "jīng xǐng",
+          "gloss": "wake",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "渔人",
+          "py": "yú rén",
+          "gloss": "fisherman",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Wind~ rolls the clouds into several banners",
+        "pt": "Vento~ enrola as nuvens em várias bandeiras"
+      },
+      "words": [
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "云",
+          "py": "yún",
+          "gloss": "clouds",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "卷成",
+          "py": "juǎn chéng",
+          "gloss": "roll into",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "几张",
+          "py": "jǐ zhāng",
+          "gloss": "several",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幡",
+          "py": "fān",
+          "gloss": "banners",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That flying bird then carries the distant dusk",
+        "pt": "Aquele pássaro voador então carrega o crepúsculo distante"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "飞鸟",
+          "py": "fēi niǎo",
+          "gloss": "flying bird",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "衔来",
+          "py": "xián lái",
+          "gloss": "carry in beak",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天边",
+          "py": "tiān biān",
+          "gloss": "distant sky",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "黄昏",
+          "py": "huáng hūn",
+          "gloss": "dusk",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sea~ cannot contain this curved moon",
+        "pt": "Mar~ não consegue conter esta lua curva"
+      },
+      "words": [
+        {
+          "hz": "海",
+          "py": "hǎi",
+          "gloss": "sea",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "盛不下",
+          "py": "chéng bù xià",
+          "gloss": "cannot contain",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一弯",
+          "py": "yī wān",
+          "gloss": "a curved",
+          "hsk": 5,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "月",
+          "py": "yuè",
+          "gloss": "moon",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Overflowing from the brow — looking back is full of dust",
+        "pt": "Transbordando da testa — olhar para trás é cheio de poeira"
+      },
+      "words": [
+        {
+          "hz": "溢出",
+          "py": "yì chū",
+          "gloss": "overflow",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "眉头",
+          "py": "méi tóu",
+          "gloss": "brow",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "回首",
+          "py": "huí shǒu",
+          "gloss": "look back",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "满是",
+          "py": "mǎn shì",
+          "gloss": "full of",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "风尘",
+          "py": "fēng chén",
+          "gloss": "dust",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Fire~ burns the stars — cannot be extinguished",
+        "pt": "Fogo~ queima as estrelas — não pode ser extinto"
+      },
+      "words": [
+        {
+          "hz": "火",
+          "py": "huǒ",
+          "gloss": "fire",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "烧着",
+          "py": "shāo zhe",
+          "gloss": "burning",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "星辰",
+          "py": "xīng chén",
+          "gloss": "stars",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "熄不灭",
+          "py": "xī bù miè",
+          "gloss": "cannot extinguish",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "High-rises — hiding innocent romance",
+        "pt": "Arranha-céus — escondendo romance inocente"
+      },
+      "words": [
+        {
+          "hz": "万丈",
+          "py": "wàn zhàng",
+          "gloss": "high",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "高楼",
+          "py": "gāo lóu",
+          "gloss": "high-rise",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "藏着",
+          "py": "cáng zhe",
+          "gloss": "hiding",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "烂漫",
+          "py": "làn màn",
+          "gloss": "innocent",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "天真",
+          "py": "tiān zhēn",
+          "gloss": "romance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That fire burned out the gullies of people's hearts",
+        "pt": "Aquele fogo queimou as ravinas dos corações das pessoas"
+      },
+      "words": [
+        {
+          "hz": "那场",
+          "py": "nà chǎng",
+          "gloss": "that",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "火",
+          "py": "huǒ",
+          "gloss": "fire",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "烧出",
+          "py": "shāo chū",
+          "gloss": "burn out",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "人心",
+          "py": "rén xīn",
+          "gloss": "people's hearts",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "道道",
+          "py": "dào dào",
+          "gloss": "each",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "沟壑",
+          "py": "gōu hè",
+          "gloss": "gullies",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The flower sways and blooms right in the sea of fire",
+        "pt": "A flor balança e floresce bem no mar de fogo"
+      },
+      "words": [
+        {
+          "hz": "花",
+          "py": "huā",
+          "gloss": "flower",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "right",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "火海",
+          "py": "huǒ hǎi",
+          "gloss": "sea of fire",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "摇曳",
+          "py": "yáo yè",
+          "gloss": "sway",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "开着",
+          "py": "kāi zhe",
+          "gloss": "blooming",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ai ya ai ya — the flower in the small town",
+        "pt": "Ai ya ai ya — a flor na pequena cidade"
+      },
+      "words": [
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "小镇",
+          "py": "xiǎo zhèn",
+          "gloss": "small town",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "花",
+          "py": "huā",
+          "gloss": "flower",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ai ya ai ya — gorgeous and delicate",
+        "pt": "Ai ya ai ya — linda e delicada"
+      },
+      "words": [
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "艳丽",
+          "py": "yàn lì",
+          "gloss": "gorgeous",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "娇美",
+          "py": "jiāo měi",
+          "gloss": "delicate",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ai ya ai ya — always cannot be found",
+        "pt": "Ai ya ai ya — sempre não pode ser encontrada"
+      },
+      "words": [
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "总也",
+          "py": "zǒng yě",
+          "gloss": "always",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "寻不得",
+          "py": "xún bù dé",
+          "gloss": "cannot be found",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Yo ei hey yo — yo ei hey yo",
+        "pt": "Yo ei hey yo — yo ei hey yo"
+      },
+      "words": [
+        {
+          "hz": "哟诶嘿哟",
+          "py": "yo ei hēi yo",
+          "gloss": "yo ei hey yo",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哟诶嘿哟",
+          "py": "yo ei hēi yo",
+          "gloss": "yo ei hey yo",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Words~ fluctuate right at the lips",
+        "pt": "Palavras~ oscilam bem nos lábios"
+      },
+      "words": [
+        {
+          "hz": "话",
+          "py": "huà",
+          "gloss": "words",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "right",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "嘴里",
+          "py": "zuǐ lǐ",
+          "gloss": "lips",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "边",
+          "py": "biān",
+          "gloss": "side",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "跌宕",
+          "py": "diē dàng",
+          "gloss": "fluctuate",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Once spoken it transforms into steep mountains and rivers",
+        "pt": "Uma vez falado, transforma-se em montanhas íngremes e rios"
+      },
+      "words": [
+        {
+          "hz": "说出来",
+          "py": "shuō chū lái",
+          "gloss": "speak out",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "化作",
+          "py": "huà zuò",
+          "gloss": "transform into",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "陡峭",
+          "py": "dǒu qiào",
+          "gloss": "steep",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "山河",
+          "py": "shān hé",
+          "gloss": "mountains and rivers",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Heart~ separated by several layers of Nayuta",
+        "pt": "Coração~ separado por várias camadas de Nayuta"
+      },
+      "words": [
+        {
+          "hz": "心",
+          "py": "xīn",
+          "gloss": "heart",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "隔着",
+          "py": "gé zhe",
+          "gloss": "separated by",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "几重",
+          "py": "jǐ chóng",
+          "gloss": "several layers",
+          "hsk": 6,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "那由他",
+          "py": "nà yóu tā",
+          "gloss": "Nayuta",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "My joys and sorrows all only exchange for this silent wildfire",
+        "pt": "Minhas alegrias e tristezas só trocam por este fogo selvagem silencioso"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "悲喜",
+          "py": "bēi xǐ",
+          "gloss": "joys and sorrows",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "换来",
+          "py": "huàn lái",
+          "gloss": "exchange for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这场",
+          "py": "zhè chǎng",
+          "gloss": "this",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "无声",
+          "py": "wú shēng",
+          "gloss": "silent",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "野火",
+          "py": "yě huǒ",
+          "gloss": "wildfire",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That fire burned out the indestructible one — that statue is me",
+        "pt": "Aquele fogo queimou o indestrutível — aquela estátua sou eu"
+      },
+      "words": [
+        {
+          "hz": "那场",
+          "py": "nà chǎng",
+          "gloss": "that",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "火",
+          "py": "huǒ",
+          "gloss": "fire",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "烧出",
+          "py": "shāo chū",
+          "gloss": "burn out",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不坏",
+          "py": "bù huài",
+          "gloss": "indestructible",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "那尊",
+          "py": "nà zūn",
+          "gloss": "that statue",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The flower blooms brilliantly right in the sea of fire",
+        "pt": "A flor floresce brilhantemente bem no mar de fogo"
+      },
+      "words": [
+        {
+          "hz": "花",
+          "py": "huā",
+          "gloss": "flower",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "right",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "火海",
+          "py": "huǒ hǎi",
+          "gloss": "sea of fire",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "灿烂",
+          "py": "càn làn",
+          "gloss": "brilliantly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "开着",
+          "py": "kāi zhe",
+          "gloss": "blooming",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ai ya ai ya — the flower in the small town",
+        "pt": "Ai ya ai ya — a flor na pequena cidade"
+      },
+      "words": [
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "小镇",
+          "py": "xiǎo zhèn",
+          "gloss": "small town",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "花",
+          "py": "huā",
+          "gloss": "flower",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ai ya ai ya — gorgeous and delicate",
+        "pt": "Ai ya ai ya — linda e delicada"
+      },
+      "words": [
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "艳丽",
+          "py": "yàn lì",
+          "gloss": "gorgeous",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "娇美",
+          "py": "jiāo měi",
+          "gloss": "delicate",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ai ya ai ya — always cannot be found",
+        "pt": "Ai ya ai ya — sempre não pode ser encontrada"
+      },
+      "words": [
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "总也",
+          "py": "zǒng yě",
+          "gloss": "always",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "寻不得",
+          "py": "xún bù dé",
+          "gloss": "cannot be found",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Yo ei hey yo — yo ei hey yo",
+        "pt": "Yo ei hey yo — yo ei hey yo"
+      },
+      "words": [
+        {
+          "hz": "哟诶嘿哟",
+          "py": "yo ei hēi yo",
+          "gloss": "yo ei hey yo",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哟诶嘿哟",
+          "py": "yo ei hēi yo",
+          "gloss": "yo ei hey yo",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ai ya ai ya — the flower in the small town",
+        "pt": "Ai ya ai ya — a flor na pequena cidade"
+      },
+      "words": [
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "小镇",
+          "py": "xiǎo zhèn",
+          "gloss": "small town",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "花",
+          "py": "huā",
+          "gloss": "flower",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ai ya ai ya — gorgeous and delicate",
+        "pt": "Ai ya ai ya — linda e delicada"
+      },
+      "words": [
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "艳丽",
+          "py": "yàn lì",
+          "gloss": "gorgeous",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "娇美",
+          "py": "jiāo měi",
+          "gloss": "delicate",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ai ya ai ya — drifting clouds open a flower",
+        "pt": "Ai ya ai ya — nuvens à deriva abrem uma flor"
+      },
+      "words": [
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哎呀",
+          "py": "āi yā",
+          "gloss": "ai ya",
+          "hsk": 3,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "流云",
+          "py": "liú yún",
+          "gloss": "drifting clouds",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "开",
+          "py": "kāi",
+          "gloss": "open",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一朵",
+          "py": "yī duǒ",
+          "gloss": "a (m.w.)",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Yo ei hey yo — yo ei hey yo",
+        "pt": "Yo ei hey yo — yo ei hey yo"
+      },
+      "words": [
+        {
+          "hz": "哟诶嘿哟",
+          "py": "yo ei hēi yo",
+          "gloss": "yo ei hey yo",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哟诶嘿哟",
+          "py": "yo ei hēi yo",
+          "gloss": "yo ei hey yo",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    }
+  ]
+}

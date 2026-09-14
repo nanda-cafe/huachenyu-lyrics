@@ -1,0 +1,1321 @@
+{
+  "id": "guo-wang-yu-qi-gai",
+  "title": "国王与乞丐",
+  "titlePinyin": "Guó Wáng Yǔ Qǐ Gài",
+  "artist": "华晨宇 · Hua Chenyu (ft. 杨宗纬)",
+  "meta": "2015 · Album \"異類\" · Track 2",
+  "lines": [
+    {
+      "translation": {
+        "en": "What's wrong? What's wrong?",
+        "pt": "O que há de errado? O que há de errado?"
+      },
+      "words": [
+        {
+          "hz": "怎么",
+          "py": "zěn me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "怎么",
+          "py": "zěn me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A love has lost its luster",
+        "pt": "Um amor perdeu seu brilho"
+      },
+      "words": [
+        {
+          "hz": "一份",
+          "py": "yī fèn",
+          "gloss": "a",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "失去",
+          "py": "shī qù",
+          "gloss": "lost",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "光泽",
+          "py": "guāng zé",
+          "gloss": "luster",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Face to face, back to back — it hurts no matter how much I struggle",
+        "pt": "Cara a cara, costas com costas — dói não importa o quanto eu lute"
+      },
+      "words": [
+        {
+          "hz": "面对面",
+          "py": "miàn duì miàn",
+          "gloss": "face to face",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "背对背",
+          "py": "bèi duì bèi",
+          "gloss": "back to back",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "反复",
+          "py": "fǎn fù",
+          "gloss": "repeatedly",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "挣扎",
+          "py": "zhēng zhá",
+          "gloss": "struggle",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "怎么",
+          "py": "zěn me",
+          "gloss": "no matter how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "痛",
+          "py": "tòng",
+          "gloss": "hurt",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I thought that love is as strong as a rock — who knew it could shatter in a second",
+        "pt": "Pensei que o amor fosse forte como uma rocha — quem diria que poderia se estilhaçar em um segundo"
+      },
+      "words": [
+        {
+          "hz": "以为",
+          "py": "yǐ wéi",
+          "gloss": "thought",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "坚固",
+          "py": "jiān gù",
+          "gloss": "strong",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "石头",
+          "py": "shí tóu",
+          "gloss": "rock",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "谁知",
+          "py": "shéi zhī",
+          "gloss": "who knew",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一秒钟",
+          "py": "yī miǎo zhōng",
+          "gloss": "in a second",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "碎落",
+          "py": "suì luò",
+          "gloss": "shatter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Could it be that even heartaches need constant burnishing?",
+        "pt": "Será que até as dores de coração precisam de polimento constante?"
+      },
+      "words": [
+        {
+          "hz": "难道",
+          "py": "nán dào",
+          "gloss": "could it be that",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "心痛",
+          "py": "xīn tòng",
+          "gloss": "heartache",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "even",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "need",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不断",
+          "py": "bù duàn",
+          "gloss": "constantly",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "打磨",
+          "py": "dǎ mó",
+          "gloss": "burnish",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I, who held you tight, was wealthier than a king — how happy I once was",
+        "pt": "Eu, que te abracei forte, era mais rico que um rei — quão feliz eu era"
+      },
+      "words": [
+        {
+          "hz": "抱紧",
+          "py": "bào jǐn",
+          "gloss": "held tight",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "比",
+          "py": "bǐ",
+          "gloss": "than",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "国王",
+          "py": "guó wáng",
+          "gloss": "king",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "富有",
+          "py": "fù yǒu",
+          "gloss": "wealthy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "曾",
+          "py": "céng",
+          "gloss": "once",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快乐",
+          "py": "kuài lè",
+          "gloss": "happy",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I, who lost you, am poorer than a beggar — how deeply it hurts",
+        "pt": "Eu, que te perdi, sou mais pobre que um mendigo — quão profunda é a dor"
+      },
+      "words": [
+        {
+          "hz": "失去",
+          "py": "shī qù",
+          "gloss": "lost",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "比",
+          "py": "bǐ",
+          "gloss": "than",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "乞丐",
+          "py": "qǐ gài",
+          "gloss": "beggar",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "落魄",
+          "py": "luò pò",
+          "gloss": "poor",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "痛",
+          "py": "tòng",
+          "gloss": "hurts",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "深刻",
+          "py": "shēn kè",
+          "gloss": "deeply",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who is crying? Who is laughing? — one person is playing two roles",
+        "pt": "Quem está chorando? Quem está rindo? — uma pessoa interpretando dois papéis"
+      },
+      "words": [
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "哭",
+          "py": "kū",
+          "gloss": "cry",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "笑",
+          "py": "xiào",
+          "gloss": "laugh",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "一人",
+          "py": "yī rén",
+          "gloss": "one person",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "分饰",
+          "py": "fēn shì",
+          "gloss": "play separately",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "两个",
+          "py": "liǎng gè",
+          "gloss": "two",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "角色",
+          "py": "jué sè",
+          "gloss": "roles",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The more obsessed one is, the more he is tormented — memories are still fanning the flames",
+        "pt": "Quanto mais obcecado, mais atormentado — as memórias ainda estão atiçando o fogo"
+      },
+      "words": [
+        {
+          "hz": "越",
+          "py": "yuè",
+          "gloss": "the more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "执迷",
+          "py": "zhí mí",
+          "gloss": "obsessed",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "越",
+          "py": "yuè",
+          "gloss": "the more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "折磨",
+          "py": "zhé mó",
+          "gloss": "tormented",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "回忆",
+          "py": "huí yì",
+          "gloss": "memories",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "煽风点火",
+          "py": "shān fēng diǎn huǒ",
+          "gloss": "fan the flames",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Knowing that I would fall if I go forward — I return to loneliness with regret",
+        "pt": "Sabendo que eu cairia se fosse em frente — volto à solidão com arrependimento"
+      },
+      "words": [
+        {
+          "hz": "明知",
+          "py": "míng zhī",
+          "gloss": "knowing",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "往前",
+          "py": "wǎng qián",
+          "gloss": "go forward",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "坠落",
+          "py": "zhuì luò",
+          "gloss": "fall",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "抱着",
+          "py": "bào zhe",
+          "gloss": "holding",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "遗憾",
+          "py": "yí hàn",
+          "gloss": "regret",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "重返",
+          "py": "chóng fǎn",
+          "gloss": "return",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "寂寞",
+          "py": "jì mò",
+          "gloss": "loneliness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "What is left of love in the end?",
+        "pt": "O que resta do amor no final?"
+      },
+      "words": [
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "到",
+          "py": "dào",
+          "gloss": "to",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "最后",
+          "py": "zuì hòu",
+          "gloss": "in the end",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "究竟",
+          "py": "jiū jìng",
+          "gloss": "actually",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "剩",
+          "py": "shèng",
+          "gloss": "left",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When everything has ended, quietened down, and gone past — why is my heart still yearning for it?",
+        "pt": "Quando tudo terminou, silenciou e passou — por que meu coração ainda anseia por isso?"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "一切",
+          "py": "yī qiè",
+          "gloss": "everything",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "结束",
+          "py": "jié shù",
+          "gloss": "ended",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "安静",
+          "py": "ān jìng",
+          "gloss": "quietened",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "过去",
+          "py": "guò qù",
+          "gloss": "gone past",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "为什么",
+          "py": "wèi shén me",
+          "gloss": "why",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "拥有",
+          "py": "yōng yǒu",
+          "gloss": "have",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一万个",
+          "py": "yī wàn gè",
+          "gloss": "ten thousand",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "舍不得",
+          "py": "shě bù dé",
+          "gloss": "yearning",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who else can feel it?",
+        "pt": "Quem mais pode sentir isso?"
+      },
+      "words": [
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "else",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "感受",
+          "py": "gǎn shòu",
+          "gloss": "feel",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I, in memories, was wealthier than a king — in the luxury of happiness",
+        "pt": "Eu, nas memórias, era mais rico que um rei — no luxo da felicidade"
+      },
+      "words": [
+        {
+          "hz": "回忆",
+          "py": "huí yì",
+          "gloss": "memories",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "比",
+          "py": "bǐ",
+          "gloss": "than",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "国王",
+          "py": "guó wáng",
+          "gloss": "king",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "富有",
+          "py": "fù yǒu",
+          "gloss": "wealthy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "奢侈",
+          "py": "shē chǐ",
+          "gloss": "luxury",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "快乐",
+          "py": "kuài lè",
+          "gloss": "happiness",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "After losing you, I am poorer than a beggar — my heart aches as if slashed by a knife",
+        "pt": "Depois de te perder, sou mais pobre que um mendigo — meu coração dói como se cortado por uma faca"
+      },
+      "words": [
+        {
+          "hz": "失去",
+          "py": "shī qù",
+          "gloss": "losing",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "比",
+          "py": "bǐ",
+          "gloss": "than",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "乞丐",
+          "py": "qǐ gài",
+          "gloss": "beggar",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "落魄",
+          "py": "luò pò",
+          "gloss": "poor",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "心痛",
+          "py": "xīn tòng",
+          "gloss": "heartache",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "如",
+          "py": "rú",
+          "gloss": "like",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "刀割",
+          "py": "dāo gē",
+          "gloss": "slashed by knife",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I miss the times, when you were quietly by my side",
+        "pt": "Sinto falta dos tempos, quando você estava quieta ao meu lado"
+      },
+      "words": [
+        {
+          "hz": "怀念",
+          "py": "huái niàn",
+          "gloss": "miss",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "那时",
+          "py": "nà shí",
+          "gloss": "that time",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "安静",
+          "py": "ān jìng",
+          "gloss": "quietly",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "陪着",
+          "py": "péi zhe",
+          "gloss": "by side",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The most beautiful waste of tender time — how happy love was",
+        "pt": "O mais belo desperdício de tempo terno — quão feliz o amor foi"
+      },
+      "words": [
+        {
+          "hz": "柔软",
+          "py": "róu ruǎn",
+          "gloss": "tender",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "时光",
+          "py": "shí guāng",
+          "gloss": "time",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "美",
+          "py": "měi",
+          "gloss": "beautiful",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "挥霍",
+          "py": "huī huò",
+          "gloss": "waste",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "was",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快乐",
+          "py": "kuài lè",
+          "gloss": "happy",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How deep the pain is — how deep the pain is",
+        "pt": "Quão profunda é a dor — quão profunda é a dor"
+      },
+      "words": [
+        {
+          "hz": "痛",
+          "py": "tòng",
+          "gloss": "pain",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "深刻",
+          "py": "shēn kè",
+          "gloss": "deep",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "痛",
+          "py": "tòng",
+          "gloss": "pain",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "深刻",
+          "py": "shēn kè",
+          "gloss": "deep",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    }
+  ]
+}

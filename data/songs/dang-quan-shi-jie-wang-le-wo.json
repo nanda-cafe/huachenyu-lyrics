@@ -1,0 +1,1713 @@
+{
+  "id": "dang-quan-shi-jie-wang-le-wo",
+  "title": "当全世界忘了我",
+  "titlePinyin": "Dāng Quán Shì Jiè Wàng Le Wǒ",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2022 · Album \"希忘Hope\" · Track 10",
+  "lines": [
+    {
+      "translation": {
+        "en": "If I could, I would hush the world so it wouldn't wake me from my dream",
+        "pt": "Se eu pudesse, silenciaria o mundo para que não me acordasse do meu sonho"
+      },
+      "words": [
+        {
+          "hz": "假如",
+          "py": "jiǎ rú",
+          "gloss": "if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "可以",
+          "py": "kě yǐ",
+          "gloss": "could",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "沉默",
+          "py": "chén mò",
+          "gloss": "silent",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "吵醒",
+          "py": "chǎo xǐng",
+          "gloss": "wake",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If I could, I would pause the music ah, ah, ah ~ so you would listen to me",
+        "pt": "Se eu pudesse, pausaria a música ah, ah, ah ~ para que você me ouvisse"
+      },
+      "words": [
+        {
+          "hz": "假如",
+          "py": "jiǎ rú",
+          "gloss": "if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "可以",
+          "py": "kě yǐ",
+          "gloss": "could",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "停下",
+          "py": "tíng xià",
+          "gloss": "pause",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "来",
+          "py": "lái",
+          "gloss": "come",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "啊啊啊",
+          "py": "a a a",
+          "gloss": "ah ah ah",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "倾听",
+          "py": "qīng tīng",
+          "gloss": "listen",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If I could, I would go back in time so I could sing my favorite song once more",
+        "pt": "Se eu pudesse, voltaria no tempo para poder cantar minha música favorita mais uma vez"
+      },
+      "words": [
+        {
+          "hz": "假如",
+          "py": "jiǎ rú",
+          "gloss": "if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "可以",
+          "py": "kě yǐ",
+          "gloss": "could",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "回到",
+          "py": "huí dào",
+          "gloss": "go back",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一刻",
+          "py": "yī kè",
+          "gloss": "moment",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "唱",
+          "py": "chàng",
+          "gloss": "sing",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一遍",
+          "py": "yī biàn",
+          "gloss": "once",
+          "hsk": 4,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "最爱",
+          "py": "zuì ài",
+          "gloss": "favorite",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "那首歌",
+          "py": "nà shǒu gē",
+          "gloss": "that song",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If that passion could live on I would not give in till the very end",
+        "pt": "Se essa paixão pudesse continuar, eu não cederia até o fim"
+      },
+      "words": [
+        {
+          "hz": "假如",
+          "py": "jiǎ rú",
+          "gloss": "if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "could",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "延续",
+          "py": "yán xù",
+          "gloss": "live on",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一份",
+          "py": "yī fèn",
+          "gloss": "a",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "热烈",
+          "py": "rè liè",
+          "gloss": "passion",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "固执",
+          "py": "gù zhí",
+          "gloss": "give in",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "到",
+          "py": "dào",
+          "gloss": "until",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "结果",
+          "py": "jié guǒ",
+          "gloss": "end",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Cheers surround me for yet another instant",
+        "pt": "Aplausos me cercam por mais um instante"
+      },
+      "words": [
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "more",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "一秒",
+          "py": "yī miǎo",
+          "gloss": "one second",
+          "hsk": 4,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "欢呼声",
+          "py": "huān hū shēng",
+          "gloss": "cheers",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "包围",
+          "py": "bāo wéi",
+          "gloss": "surround",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I must immerse myself in this moment and forget myself",
+        "pt": "Devo me imergir neste momento e me esquecer"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "此刻",
+          "py": "cǐ kè",
+          "gloss": "this moment",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "沉醉",
+          "py": "chén zuì",
+          "gloss": "immerse",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "忘我",
+          "py": "wàng wǒ",
+          "gloss": "forget myself",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Screams remind me that yet again the name being showered in love is mine",
+        "pt": "Gritos me lembram que mais uma vez o nome sendo coberto de amor é o meu"
+      },
+      "words": [
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "more",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "一声",
+          "py": "yī shēng",
+          "gloss": "one sound",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "尖叫",
+          "py": "jiān jiào",
+          "gloss": "screams",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "呐喊",
+          "py": "nà hǎn",
+          "gloss": "shouts",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "make",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想起",
+          "py": "xiǎng qǐ",
+          "gloss": "remind",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "被爱着",
+          "py": "bèi ài zhe",
+          "gloss": "being loved",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "那一个",
+          "py": "nà yī gè",
+          "gloss": "that one",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "名字",
+          "py": "míng zì",
+          "gloss": "name",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If that spotlight has to keep chasing me could I please be decently lit?",
+        "pt": "Se aquele holofote tem que continuar me perseguindo, poderia eu, por favor, ser decentemente iluminado?"
+      },
+      "words": [
+        {
+          "hz": "假如",
+          "py": "jiǎ rú",
+          "gloss": "if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "追光",
+          "py": "zhuī guāng",
+          "gloss": "spotlight",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "追赶",
+          "py": "zhuī gǎn",
+          "gloss": "chase",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "能否",
+          "py": "néng fǒu",
+          "gloss": "could",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "请",
+          "py": "qǐng",
+          "gloss": "please",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "真正",
+          "py": "zhēn zhèng",
+          "gloss": "decently",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "照亮",
+          "py": "zhào liàng",
+          "gloss": "light",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If fireworks light up and fall to the ground I hope they don't harm me as they rain down",
+        "pt": "Se fogos de artifício acendem e caem no chão, espero que não me machuquem enquanto chovem"
+      },
+      "words": [
+        {
+          "hz": "假如",
+          "py": "jiǎ rú",
+          "gloss": "if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "烟火",
+          "py": "yān huǒ",
+          "gloss": "fireworks",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "燃尽",
+          "py": "rán jìn",
+          "gloss": "light up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "陨落",
+          "py": "yǔn luò",
+          "gloss": "fall",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "散落",
+          "py": "sàn luò",
+          "gloss": "rain down",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "间",
+          "py": "jiān",
+          "gloss": "between",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "划伤",
+          "py": "huá shāng",
+          "gloss": "harm",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If I alone remained on the stage singing at the top of my lungs to all the lonely souls that fill each seat",
+        "pt": "Se eu sozinho permanecesse no palco cantando a plenos pulmões para todas as almas solitárias que preenchem cada assento"
+      },
+      "words": [
+        {
+          "hz": "假如",
+          "py": "jiǎ rú",
+          "gloss": "if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "舞台",
+          "py": "wǔ tái",
+          "gloss": "stage",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "上",
+          "py": "shàng",
+          "gloss": "on",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "剩",
+          "py": "shèng",
+          "gloss": "remain",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "声嘶力竭",
+          "py": "shēng sī lì jié",
+          "gloss": "at the top of my lungs",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "台下",
+          "py": "tái xià",
+          "gloss": "below the stage",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "孤独",
+          "py": "gū dú",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "满座",
+          "py": "mǎn zuò",
+          "gloss": "full house",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If this place becomes too desolate after the crowd departs may I have a mirror so that I can keep me company",
+        "pt": "Se este lugar ficar muito desolado depois que a multidão partir, posso ter um espelho para que eu possa me fazer companhia"
+      },
+      "words": [
+        {
+          "hz": "假如",
+          "py": "jiǎ rú",
+          "gloss": "if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "人群",
+          "py": "rén qún",
+          "gloss": "crowd",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "散去",
+          "py": "sàn qù",
+          "gloss": "depart",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "太",
+          "py": "tài",
+          "gloss": "too",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "落寞",
+          "py": "luò mò",
+          "gloss": "desolate",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "能不能",
+          "py": "néng bù néng",
+          "gloss": "may I",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一面",
+          "py": "yī miàn",
+          "gloss": "a",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "镜子",
+          "py": "jìng zi",
+          "gloss": "mirror",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "陪",
+          "py": "péi",
+          "gloss": "accompany",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Joy would embrace me and then turn its back on me",
+        "pt": "A alegria me abraçaria e depois me viraria as costas"
+      },
+      "words": [
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "快乐",
+          "py": "kuài lè",
+          "gloss": "joy",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "拥抱",
+          "py": "yōng bào",
+          "gloss": "embrace",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "背向",
+          "py": "bèi xiàng",
+          "gloss": "turn back on",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It tells me to forget each beautiful scene",
+        "pt": "Ele me diz para esquecer cada cena bonita"
+      },
+      "words": [
+        {
+          "hz": "叫",
+          "py": "jiào",
+          "gloss": "tell",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "忘了",
+          "py": "wàng le",
+          "gloss": "forget",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "艳丽",
+          "py": "yàn lì",
+          "gloss": "beautiful",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "段落",
+          "py": "duàn luò",
+          "gloss": "scene",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When I turn around, I search for clues of happiness in vain",
+        "pt": "Quando me viro, procuro em vão pistas de felicidade"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "回头",
+          "py": "huí tóu",
+          "gloss": "turn around",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "妄想",
+          "py": "wàng xiǎng",
+          "gloss": "in vain",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "找到",
+          "py": "zhǎo dào",
+          "gloss": "search",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "幸福",
+          "py": "xìng fú",
+          "gloss": "happiness",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "线索",
+          "py": "xiàn suǒ",
+          "gloss": "clues",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The spotlight lengthens my shadow as it flees",
+        "pt": "O holofote alonga minha sombra enquanto foge"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "束",
+          "py": "shù",
+          "gloss": "beam of",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "光",
+          "py": "guāng",
+          "gloss": "light",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "拉长",
+          "py": "lā cháng",
+          "gloss": "lengthen",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "影子",
+          "py": "yǐng zi",
+          "gloss": "shadow",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "逃离",
+          "py": "táo lí",
+          "gloss": "flee",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Those years that passed by came to know me, then walked away leaving behind a song that's rebuking me",
+        "pt": "Aqueles anos que passaram vieram me conhecer, depois foram embora deixando para trás uma música que está me repreendendo"
+      },
+      "words": [
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "过往",
+          "py": "guò wǎng",
+          "gloss": "years that passed",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "看透",
+          "py": "kàn tòu",
+          "gloss": "know",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "背弃",
+          "py": "bèi qì",
+          "gloss": "walk away",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "留下",
+          "py": "liú xià",
+          "gloss": "leave behind",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一首",
+          "py": "yī shǒu",
+          "gloss": "a",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "痛斥",
+          "py": "tòng chì",
+          "gloss": "rebuke",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "歌",
+          "py": "gē",
+          "gloss": "song",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This world can just forget that I've ever existed",
+        "pt": "Este mundo pode simplesmente esquecer que eu já existi"
+      },
+      "words": [
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就此",
+          "py": "jiù cǐ",
+          "gloss": "just",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "忘了",
+          "py": "wàng le",
+          "gloss": "forget",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "曾",
+          "py": "céng",
+          "gloss": "ever",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "存在",
+          "py": "cún zài",
+          "gloss": "exist",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "过",
+          "py": "guò",
+          "gloss": "(experiential)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Please don't try again to save me",
+        "pt": "Por favor, não tente novamente me salvar"
+      },
+      "words": [
+        {
+          "hz": "请",
+          "py": "qǐng",
+          "gloss": "please",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "try",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "拯救",
+          "py": "zhěng jiù",
+          "gloss": "save",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If I could, I would hush the world so it wouldn't wake me from this dream",
+        "pt": "Se eu pudesse, silenciaria o mundo para que não me acordasse deste sonho"
+      },
+      "words": [
+        {
+          "hz": "假如",
+          "py": "jiǎ rú",
+          "gloss": "if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "可以",
+          "py": "kě yǐ",
+          "gloss": "could",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "沉默",
+          "py": "chén mò",
+          "gloss": "silent",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "吵醒",
+          "py": "chǎo xǐng",
+          "gloss": "wake",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这个",
+          "py": "zhè gè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If the curtain needs to drop on this show after the house empties, I, too, will forget me",
+        "pt": "Se a cortina precisa cair neste show depois que a casa esvaziar, eu também me esquecerei de mim"
+      },
+      "words": [
+        {
+          "hz": "假如",
+          "py": "jiǎ rú",
+          "gloss": "if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "这场",
+          "py": "zhè chǎng",
+          "gloss": "this",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "演出",
+          "py": "yǎn chū",
+          "gloss": "show",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "needs to",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "落幕",
+          "py": "luò mù",
+          "gloss": "drop the curtain",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "散场",
+          "py": "sàn chǎng",
+          "gloss": "house empties",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "之后",
+          "py": "zhī hòu",
+          "gloss": "after",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "too",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "忘了",
+          "py": "wàng le",
+          "gloss": "forget",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    }
+  ]
+}

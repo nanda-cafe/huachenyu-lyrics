@@ -1,0 +1,1779 @@
+{
+  "id": "here-we-are",
+  "title": "Here We Are",
+  "titlePinyin": "Here We Are",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2017 · Album \"H\" · Track 3",
+  "lines": [
+    {
+      "translation": {
+        "en": "The more at a loss I am, the more things go against my wishes",
+        "pt": "Quanto mais perdido estou, mais as coisas vão contra meus desejos"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "越",
+          "py": "yuè",
+          "gloss": "the more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "无所适从",
+          "py": "wú suǒ shì cóng",
+          "gloss": "at a loss",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "越",
+          "py": "yuè",
+          "gloss": "the more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "事与愿违",
+          "py": "shì yǔ yuàn wéi",
+          "gloss": "go against wishes",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In the interlaced space-time, the soul accelerates its fall",
+        "pt": "No espaço-tempo entrelaçado, a alma acelera sua queda"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "交错",
+          "py": "jiāo cuò",
+          "gloss": "interlaced",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "时空",
+          "py": "shí kōng",
+          "gloss": "space-time",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "加速",
+          "py": "jiā sù",
+          "gloss": "accelerate",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "下坠",
+          "py": "xià zhuì",
+          "gloss": "fall",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Here we are, here we are, here we are",
+        "pt": "Here we are, here we are, here we are"
+      },
+      "words": [
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Here we are, here we are, here we are",
+        "pt": "Here we are, here we are, here we are"
+      },
+      "words": [
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But the dream has no trace",
+        "pt": "Mas o sonho não tem vestígio"
+      },
+      "words": [
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "but",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "了无影踪",
+          "py": "liǎo wú yǐng zōng",
+          "gloss": "no trace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The dream transforms — in the reality of time and space",
+        "pt": "O sonho se transforma — na realidade do tempo e espaço"
+      },
+      "words": [
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "变换",
+          "py": "biàn huàn",
+          "gloss": "transform",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "时空",
+          "py": "shí kōng",
+          "gloss": "time and space",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "现实",
+          "py": "xiàn shí",
+          "gloss": "reality",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Flickering bright and dark, hard to touch",
+        "pt": "Oscilando claro e escuro, difícil de tocar"
+      },
+      "words": [
+        {
+          "hz": "忽明忽暗",
+          "py": "hū míng hū àn",
+          "gloss": "flickering",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "难以",
+          "py": "nán yǐ",
+          "gloss": "hard to",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "触碰",
+          "py": "chù pèng",
+          "gloss": "touch",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I stand at the very top of the mountain",
+        "pt": "Eu estou no topo da montanha"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "站在",
+          "py": "zhàn zài",
+          "gloss": "stand at",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "山",
+          "py": "shān",
+          "gloss": "mountain",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "顶端",
+          "py": "dǐng duān",
+          "gloss": "top",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Praying to the night sky — if there are gods",
+        "pt": "Rezando ao céu noturno — se houver deuses"
+      },
+      "words": [
+        {
+          "hz": "向",
+          "py": "xiàng",
+          "gloss": "toward",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "夜空",
+          "py": "yè kōng",
+          "gloss": "night sky",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "祈祷",
+          "py": "qí dǎo",
+          "gloss": "pray",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "如有",
+          "py": "rú yǒu",
+          "gloss": "if there are",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "神明",
+          "py": "shén míng",
+          "gloss": "gods",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This shooting star crosses the sky, after the rain clears, across the nebula",
+        "pt": "Esta estrela cadente cruza o céu, depois da chuva clarear, através da nebulosa"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "流星",
+          "py": "liú xīng",
+          "gloss": "shooting star",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "划过",
+          "py": "huá guò",
+          "gloss": "cross",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天际",
+          "py": "tiān jì",
+          "gloss": "sky",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "雨后放晴",
+          "py": "yǔ hòu fàng qíng",
+          "gloss": "after rain clears",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "跨过",
+          "py": "kuà guò",
+          "gloss": "cross over",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "星云",
+          "py": "xīng yún",
+          "gloss": "nebula",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Yet I cannot see",
+        "pt": "Mas eu não consigo ver"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "看不到",
+          "py": "kàn bù dào",
+          "gloss": "cannot see",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Not too many demands — may the earth be at peace, mani padme",
+        "pt": "Não muitas exigências — que a terra esteja em paz, mani padme"
+      },
+      "words": [
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "too many",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "诉求",
+          "py": "sù qiú",
+          "gloss": "demands",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "愿",
+          "py": "yuàn",
+          "gloss": "may",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "大地",
+          "py": "dà dì",
+          "gloss": "earth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和平",
+          "py": "hé píng",
+          "gloss": "peace",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "咪呢嘛呢",
+          "py": "mī ne ma ne",
+          "gloss": "mani padme",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The steel city never hears a moment of peace, in the roar",
+        "pt": "A cidade de aço nunca ouve um momento de paz, no rugido"
+      },
+      "words": [
+        {
+          "hz": "钢筋",
+          "py": "gāng jīn",
+          "gloss": "steel",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "城市",
+          "py": "chéng shì",
+          "gloss": "city",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "从不",
+          "py": "cóng bù",
+          "gloss": "never",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "听到",
+          "py": "tīng dào",
+          "gloss": "hear",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "片刻",
+          "py": "piàn kè",
+          "gloss": "a moment",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "安宁",
+          "py": "ān níng",
+          "gloss": "peace",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "轰鸣",
+          "py": "hōng míng",
+          "gloss": "roar",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This heart is abandoned, like a sore",
+        "pt": "Este coração é abandonado, como uma ferida"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "心灵",
+          "py": "xīn líng",
+          "gloss": "heart",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "遗弃",
+          "py": "yí qì",
+          "gloss": "abandoned",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "似",
+          "py": "sì",
+          "gloss": "like",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "疮痍",
+          "py": "chuāng yí",
+          "gloss": "sore",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But don't be冷漠 again — raise both hands",
+        "pt": "Mas não seja indiferente de novo — levante ambas as mãos"
+      },
+      "words": [
+        {
+          "hz": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "hsk": 2,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "再要",
+          "py": "zài yào",
+          "gloss": "again",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "冷漠",
+          "py": "lěng mò",
+          "gloss": "indifferent",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "举起",
+          "py": "jǔ qǐ",
+          "gloss": "raise",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "双手",
+          "py": "shuāng shǒu",
+          "gloss": "both hands",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Embrace passionately — don't stay too silent",
+        "pt": "Abrace apaixonadamente — não fique muito em silêncio"
+      },
+      "words": [
+        {
+          "hz": "热情",
+          "py": "rè qíng",
+          "gloss": "passionately",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "相拥",
+          "py": "xiāng yōng",
+          "gloss": "embrace",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "别再",
+          "py": "bié zài",
+          "gloss": "don't again",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "太",
+          "py": "tài",
+          "gloss": "too",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "沉默",
+          "py": "chén mò",
+          "gloss": "silent",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Unrelated to pros and cons or right and wrong",
+        "pt": "Sem relação com prós e contras ou certo e errado"
+      },
+      "words": [
+        {
+          "hz": "无关",
+          "py": "wú guān",
+          "gloss": "unrelated",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "利弊",
+          "py": "lì bì",
+          "gloss": "pros and cons",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "或",
+          "py": "huò",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "对错",
+          "py": "duì cuò",
+          "gloss": "right and wrong",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Courage has always been there",
+        "pt": "A coragem sempre esteve lá"
+      },
+      "words": [
+        {
+          "hz": "勇气",
+          "py": "yǒng qì",
+          "gloss": "courage",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一直",
+          "py": "yī zhí",
+          "gloss": "always",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "there",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Here we are, here we are, here we are",
+        "pt": "Here we are, here we are, here we are"
+      },
+      "words": [
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Here we are, here we are, here we are",
+        "pt": "Here we are, here we are, here we are"
+      },
+      "words": [
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But the dream has no trace",
+        "pt": "Mas o sonho não tem vestígio"
+      },
+      "words": [
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "but",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "了无影踪",
+          "py": "liǎo wú yǐng zōng",
+          "gloss": "no trace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Look ahead — the night is as solid as gold",
+        "pt": "Olhe para frente — a noite é sólida como ouro"
+      },
+      "words": [
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "look",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "前方",
+          "py": "qián fāng",
+          "gloss": "ahead",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "夜",
+          "py": "yè",
+          "gloss": "night",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "固若金汤",
+          "py": "gù ruò jīn tāng",
+          "gloss": "solid as gold",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Enduring panic, continuously growing",
+        "pt": "Suportando o pânico, crescendo continuamente"
+      },
+      "words": [
+        {
+          "hz": "饱受",
+          "py": "bǎo shòu",
+          "gloss": "enduring",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "惊慌",
+          "py": "jīng huāng",
+          "gloss": "panic",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "持续",
+          "py": "chí xù",
+          "gloss": "continuously",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "成长",
+          "py": "chéng zhǎng",
+          "gloss": "grow",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Very rapidly — a night passed",
+        "pt": "Muito rapidamente — uma noite passou"
+      },
+      "words": [
+        {
+          "hz": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "急速",
+          "py": "jí sù",
+          "gloss": "rapidly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "过了",
+          "py": "guò le",
+          "gloss": "passed",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一夜",
+          "py": "yī yè",
+          "gloss": "a night",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Spring breeze arrives — all things grow",
+        "pt": "A brisa da primavera chega — todas as coisas crescem"
+      },
+      "words": [
+        {
+          "hz": "春风",
+          "py": "chūn fēng",
+          "gloss": "spring breeze",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "来临",
+          "py": "lái lín",
+          "gloss": "arrive",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "万物",
+          "py": "wàn wù",
+          "gloss": "all things",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "生长",
+          "py": "shēng zhǎng",
+          "gloss": "grow",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Change the former recklessness and stubborn resistance",
+        "pt": "Mude a antiga imprudência e resistência teimosa"
+      },
+      "words": [
+        {
+          "hz": "改掉",
+          "py": "gǎi diào",
+          "gloss": "change",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "以前",
+          "py": "yǐ qián",
+          "gloss": "former",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "莽撞",
+          "py": "mǎng zhuàng",
+          "gloss": "reckless",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "固执",
+          "py": "gù zhí",
+          "gloss": "stubborn",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "抵抗",
+          "py": "dǐ kàng",
+          "gloss": "resist",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Insisting on enduring — the material ransom",
+        "pt": "Insistindo em suportar — o resgate material"
+      },
+      "words": [
+        {
+          "hz": "偏要",
+          "py": "piān yào",
+          "gloss": "insist on",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "承受",
+          "py": "chéng shòu",
+          "gloss": "endure",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "物质",
+          "py": "wù zhì",
+          "gloss": "material",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "绑票",
+          "py": "bǎng piào",
+          "gloss": "ransom",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Wanting to not forget the original intention",
+        "pt": "Querendo não esquecer a intenção original"
+      },
+      "words": [
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不忘初心",
+          "py": "bù wàng chū xīn",
+          "gloss": "not forget original intention",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The ideals I once had — still firmly believe",
+        "pt": "Os ideais que eu tinha — ainda acredito firmemente"
+      },
+      "words": [
+        {
+          "hz": "有过",
+          "py": "yǒu guò",
+          "gloss": "once had",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "理想",
+          "py": "lǐ xiǎng",
+          "gloss": "ideals",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "依然",
+          "py": "yī rán",
+          "gloss": "still",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "坚信",
+          "py": "jiān xìn",
+          "gloss": "firmly believe",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Very sad — the original preset",
+        "pt": "Muito triste — a predefinição original"
+      },
+      "words": [
+        {
+          "hz": "很难过",
+          "py": "hěn nán guò",
+          "gloss": "very sad",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "当初",
+          "py": "dāng chū",
+          "gloss": "original",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "预设",
+          "py": "yù shè",
+          "gloss": "preset",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "All the efforts, the promises made",
+        "pt": "Todos os esforços, as promessas feitas"
+      },
+      "words": [
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "努力",
+          "py": "nǔ lì",
+          "gloss": "efforts",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "做",
+          "py": "zuò",
+          "gloss": "made",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "承诺",
+          "py": "chéng nuò",
+          "gloss": "promises",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Yet reduced to — turned into wind, an empty dream",
+        "pt": "Mas reduzido a — transformado em vento, um sonho vazio"
+      },
+      "words": [
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "沦为",
+          "py": "lún wéi",
+          "gloss": "reduced to",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "化成风",
+          "py": "huà chéng fēng",
+          "gloss": "turned into wind",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一场空",
+          "py": "yī chǎng kōng",
+          "gloss": "empty dream",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Looking back — review once more",
+        "pt": "Olhando para trás — revise mais uma vez"
+      },
+      "words": [
+        {
+          "hz": "回头看",
+          "py": "huí tóu kàn",
+          "gloss": "look back",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "再次",
+          "py": "zài cì",
+          "gloss": "once more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "审阅",
+          "py": "shěn yuè",
+          "gloss": "review",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The scenery along the way",
+        "pt": "O cenário ao longo do caminho"
+      },
+      "words": [
+        {
+          "hz": "一路",
+          "py": "yī lù",
+          "gloss": "along the way",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "风景",
+          "py": "fēng jǐng",
+          "gloss": "scenery",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Make a correction until I'm satisfied",
+        "pt": "Faça uma correção até eu ficar satisfeito"
+      },
+      "words": [
+        {
+          "hz": "做个",
+          "py": "zuò gè",
+          "gloss": "make a",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "矫正",
+          "py": "jiǎo zhèng",
+          "gloss": "correction",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "直到",
+          "py": "zhí dào",
+          "gloss": "until",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "满意",
+          "py": "mǎn yì",
+          "gloss": "satisfied",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Heaven gave me encouragement",
+        "pt": "O céu me deu encorajamento"
+      },
+      "words": [
+        {
+          "hz": "老天",
+          "py": "lǎo tiān",
+          "gloss": "heaven",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "给我",
+          "py": "gěi wǒ",
+          "gloss": "gave me",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "鼓励",
+          "py": "gǔ lì",
+          "gloss": "encouragement",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Pouring out from the heart",
+        "pt": "Derramando do coração"
+      },
+      "words": [
+        {
+          "hz": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "内心",
+          "py": "nèi xīn",
+          "gloss": "heart",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "倾诉",
+          "py": "qīng sù",
+          "gloss": "pour out",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Here we are, here we are, here we are",
+        "pt": "Here we are, here we are, here we are"
+      },
+      "words": [
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Here we are, here we are, here we are",
+        "pt": "Here we are, here we are, here we are"
+      },
+      "words": [
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Here we are",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But the dream has no trace",
+        "pt": "Mas o sonho não tem vestígio"
+      },
+      "words": [
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "but",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "了无影踪",
+          "py": "liǎo wú yǐng zōng",
+          "gloss": "no trace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ooh ooh ooh (vocalise)",
+        "pt": "Ooh ooh ooh (vocalise)"
+      },
+      "words": [
+        {
+          "hz": "Ooh ooh ooh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ooh ooh ooh (vocalise)",
+        "pt": "Ooh ooh ooh (vocalise)"
+      },
+      "words": [
+        {
+          "hz": "Ooh ooh ooh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ooh ooh ooh (vocalise)",
+        "pt": "Ooh ooh ooh (vocalise)"
+      },
+      "words": [
+        {
+          "hz": "Ooh ooh ooh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ooh ooh ooh (vocalise)",
+        "pt": "Ooh ooh ooh (vocalise)"
+      },
+      "words": [
+        {
+          "hz": "Ooh ooh ooh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Cannot wander and wait anymore",
+        "pt": "Não posso mais vagar e esperar"
+      },
+      "words": [
+        {
+          "hz": "不能再",
+          "py": "bù néng zài",
+          "gloss": "cannot anymore",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "徘徊",
+          "py": "pái huái",
+          "gloss": "wander",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "等待",
+          "py": "děng dài",
+          "gloss": "wait",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

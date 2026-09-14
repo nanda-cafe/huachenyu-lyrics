@@ -1,0 +1,466 @@
+[
+  {
+    "id": "bian-xiang-guai-jie",
+    "title": "变相怪杰",
+    "titlePinyin": "Biàn Xiàng Guài Jié",
+    "meta": "2015 · Album \"異類\" · Track 8",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "bu-chong-feng",
+    "title": "不重逢",
+    "titlePinyin": "Bù Chóng Féng",
+    "meta": "2025 · Album \"量变临界点\" · Track 8",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "bu-xiu",
+    "title": "不朽",
+    "titlePinyin": "Bù Xiǔ",
+    "meta": "2014 · Album \"卡西莫多的礼物\" · Track 8",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "chai-dan-zhuan-jia",
+    "title": "拆弹专家",
+    "titlePinyin": "Chāi Dàn Zhuān Jiā",
+    "meta": "2014 · Album \"卡西莫多的礼物\" · Track 5",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "chen-guang-li-you-ni",
+    "title": "晨光里有你",
+    "titlePinyin": "Chén Guāng Lǐ Yǒu Nǐ",
+    "meta": "2025 · Album \"量变临界点\" · Track 10",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "dang-quan-shi-jie-wang-le-wo",
+    "title": "当全世界忘了我",
+    "titlePinyin": "Dāng Quán Shì Jiè Wàng Le Wǒ",
+    "meta": "2022 · Album \"希忘Hope\" · Track 10",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "di-qiu-zhi-yan",
+    "title": "地球之盐",
+    "titlePinyin": "Dì Qiú Zhī Yán",
+    "meta": "2015 · Album \"異類\" · Track 10",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "dian-ran-yin-he-jin-tou-de-gou-huo",
+    "title": "点燃银河尽头的篝火",
+    "titlePinyin": "Diǎn Rán Yín Hé Jìn Tóu De Gōu Huǒ",
+    "meta": "2022 · Album \"希忘Hope\" · Track 9",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "dou-niu",
+    "title": "斗牛",
+    "titlePinyin": "Dòu Niú",
+    "meta": "2020 · Album \"新世界NEW WORLD\" · Track 1",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "fan-yi-ci",
+    "title": "反义词",
+    "titlePinyin": "Fǎn Yì Cí",
+    "meta": "2015 · Album \"異類\" · Track 4",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "fei-xing-mo-shi",
+    "title": "飞行模式",
+    "titlePinyin": "Fēi Xíng Mó Shì",
+    "meta": "2022 · Album \"希忘Hope\" · Track 2",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "feng-ren-yuan",
+    "title": "疯人院",
+    "titlePinyin": "Fēng Rén Yuàn",
+    "meta": "2020 · Album \"新世界NEW WORLD\" · Track 3",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "feng-zhi-hai",
+    "title": "风之海",
+    "titlePinyin": "Fēng Zhī Hǎi",
+    "meta": "2025 · Album \"量变临界点\" · Track 1",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "for-forever",
+    "title": "For Forever",
+    "titlePinyin": "For Forever",
+    "meta": "2017 · Album \"H\" · Track 5",
+    "minHsk": null,
+    "single": false
+  },
+  {
+    "id": "fu-you",
+    "title": "蜉蝣",
+    "titlePinyin": "Fú Yóu",
+    "meta": "2015 · Album \"異類\" · Track 3",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "guai-dan-xin-li-xue",
+    "title": "怪诞心理学",
+    "titlePinyin": "Guài Dàn Xīn Lǐ Xué",
+    "meta": "2025 · Album \"量变临界点\" · Track 6",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "guo-wang-yu-qi-gai",
+    "title": "国王与乞丐",
+    "titlePinyin": "Guó Wáng Yǔ Qǐ Gài",
+    "meta": "2015 · Album \"異類\" · Track 2",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "hao-xiang-ai-zhe-ge-shi-jie-a",
+    "title": "好想爱这个世界啊",
+    "titlePinyin": "Hǎo Xiǎng Ài Zhè Ge Shì Jiè A",
+    "meta": "2020 · Album \"新世界NEW WORLD\" · Track 2",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "hao-xiang-wo-hui-lai-a",
+    "title": "好想我回来啊",
+    "titlePinyin": "Hǎo Xiǎng Wǒ Huí Lái A",
+    "meta": "2022 · Album \"希忘Hope\" · Track 5",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "hei-bai-yi-shu-jia",
+    "title": "黑白艺术家",
+    "titlePinyin": "Hēi Bái Yì Shù Jiā",
+    "meta": "2022 · Album \"希忘Hope\" · Track 4",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "here-we-are",
+    "title": "Here We Are",
+    "titlePinyin": "Here We Are",
+    "meta": "2017 · Album \"H\" · Track 3",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "hua-luo-shi-xiang-yu",
+    "title": "花落时相遇",
+    "titlePinyin": "Huā Luò Shí Xiāng Yù",
+    "meta": "2022 · Album \"希忘Hope\" · Track 6",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "huan-you",
+    "title": "环游",
+    "titlePinyin": "Huán Yóu",
+    "meta": "2014 · Album \"卡西莫多的礼物\" · Track 6",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "jiang-lin",
+    "title": "降临",
+    "titlePinyin": "Jiàng Lín",
+    "meta": "2020 · Album \"新世界NEW WORLD\" · Track 6",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "ju-lu",
+    "title": "巨鹿",
+    "titlePinyin": "Jù Lù",
+    "meta": "2017 · Album \"H\" · Track 1",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "ka-xi-mo-duo-de-li-wu",
+    "title": "卡西莫多的礼物",
+    "titlePinyin": "Kǎ Xī Mò Duō De Lǐ Wù",
+    "meta": "2014 · Album \"卡西莫多的礼物\" · Track 9",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "let-you-go",
+    "title": "Let You Go",
+    "titlePinyin": "Let You Go",
+    "meta": "2014 · Album \"卡西莫多的礼物\" · Track 3",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "na-xie-wo-shang-wei-zhi-dao-de-mei-li",
+    "title": "那些我尚未知道的美丽",
+    "titlePinyin": "Nà Xiē Wǒ Shàng Wèi Zhī Dào De Měi Lì",
+    "meta": "2025 · Album \"量变临界点\" · Track 3",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "pu-tong-dao-bu-pu-tong",
+    "title": "普通到不普通的人生",
+    "titlePinyin": "Pǔ Tōng Dào Bù Pǔ Tōng De Rén Shēng",
+    "meta": "2025 · Album \"量变临界点\" · Track 2",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "qi-zhong-ren-ge",
+    "title": "七重人格",
+    "titlePinyin": "Qī Chóng Rén Gé",
+    "meta": "2020 · Album \"新世界NEW WORLD\" · Track 8",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "ren-zhi-ai",
+    "title": "人之爱",
+    "titlePinyin": "Rén Zhī Ài",
+    "meta": "2025 · Album \"量变临界点\" · Track 9",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "shen-shu",
+    "title": "神树",
+    "titlePinyin": "Shén Shù",
+    "meta": "2020 · Album \"新世界NEW WORLD\" · Track 5",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "shi-jie-shi-ge-dong-wu-yuan",
+    "title": "世界是个动物园",
+    "titlePinyin": "Shì Jiè Shì Gè Dòng Wù Yuán",
+    "meta": "2015 · Album \"異類\" · Track 7",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "tao-li-wu-tuo-bang",
+    "title": "逃离乌托邦",
+    "titlePinyin": "Táo Lí Wū Tuō Bāng",
+    "meta": "2015 · Album \"異類\" · Track 6",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "te-xiu-si-de-chuan",
+    "title": "忒修斯的船",
+    "titlePinyin": "Tè Xiū Sī De Chuán",
+    "meta": "2025 · Album \"量变临界点\" · Track 5",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "to-be-free",
+    "title": "To Be Free",
+    "titlePinyin": "To Be Free",
+    "meta": "2017 · Album \"H\" · Track 4",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "wei-guang",
+    "title": "微光",
+    "titlePinyin": "Wēi Guāng",
+    "meta": "2014 · Album \"卡西莫多的礼物\" · Track 2",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "wen-nuan-de-fang-zi",
+    "title": "温暖的房子",
+    "titlePinyin": "Wēn Nuǎn De Fáng Zi",
+    "meta": "2025 · Album \"量变临界点\" · Track 7",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "why-nobody-fights",
+    "title": "Why Nobody Fights",
+    "titlePinyin": "Why Nobody Fights",
+    "meta": "2014 · Album \"卡西莫多的礼物\" · Track 1",
+    "minHsk": null,
+    "single": false
+  },
+  {
+    "id": "wo-de-hua-ban-xie-2016",
+    "title": "我的滑板鞋2016",
+    "titlePinyin": "Wǒ De Huá Bǎn Xié 2016",
+    "meta": "2017 · Album \"H\" · Track 8",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "wo-guan-ni",
+    "title": "我管你",
+    "titlePinyin": "Wǒ Guǎn Nǐ",
+    "meta": "2015 · Album \"異類\" · Track 1",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "wo-li-gu-dan-ji-gong-li",
+    "title": "我离孤单几公里",
+    "titlePinyin": "Wǒ Lí Gū Dān Jǐ Gōng Lǐ",
+    "meta": "2017 · Album \"H\" · Track 7",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "wo-men-dou-shi-gu-du-de",
+    "title": "我们都是孤独的",
+    "titlePinyin": "Wǒ Men Dōu Shì Gū Dú De",
+    "meta": "2014 · Album \"卡西莫多的礼物\" · Track 7",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "xiang-yang-er-sheng",
+    "title": "向阳而生",
+    "titlePinyin": "Xiàng Yáng Ér Shēng",
+    "meta": "2022 · Album \"希忘Hope\" · Track 1",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "xiao-shi-de-zuo-tian",
+    "title": "消失的昨天",
+    "titlePinyin": "Xiāo Shī De Zuó Tiān",
+    "meta": "2017 · Album \"H\" · Track 6",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "xiao-zhen-li-de-hua-min-yue-ban",
+    "title": "小镇里的花（民乐版）",
+    "titlePinyin": "Xiǎo Zhèn Lǐ De Huā (Mín Yuè Bǎn)",
+    "meta": "2022 · Album \"希忘Hope\" · Track 3",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "xiao-zhen-li-de-hua",
+    "title": "小镇里的花",
+    "titlePinyin": "Xiǎo Zhèn Lǐ De Huā",
+    "meta": "2022 · Album \"希忘Hope\" · Track 3",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "xie-gei-wei-lai-de-hai-zi",
+    "title": "写给未来的孩子",
+    "titlePinyin": "Xiě Gěi Wèi Lái De Háizi",
+    "meta": "2015 · Album \"異類\" · Track 9",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "xin-shi-jie",
+    "title": "新世界",
+    "titlePinyin": "Xīn Shì Jiè",
+    "meta": "2020 · Album \"新世界NEW WORLD\" · Track 7",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "xu-huan-yu-xian-shi",
+    "title": "虚幻与现实",
+    "titlePinyin": "Xū Huàn Yǔ Xiàn Shí",
+    "meta": "2022 · Album \"希忘Hope\" · Track 11",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "yan-huo-li-de-chen-ai",
+    "title": "烟火里的尘埃",
+    "titlePinyin": "Yān Huǒ Lǐ De Chén Āi",
+    "meta": "2014 · Album \"卡西莫多的礼物\" · Track 4",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "yi-lei",
+    "title": "異類",
+    "titlePinyin": "Yì Lèi",
+    "meta": "2015 · Album \"異類\" · Track 5",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "yong-bu-xi-mie-de-huo-yan",
+    "title": "永不熄灭的火焰",
+    "titlePinyin": "Yǒng Bù Xī Miè De Huǒ Yàn",
+    "meta": "2025 · Album \"量变临界点\" · Track 4",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "you-shang-de-ju-ren",
+    "title": "忧伤的巨人",
+    "titlePinyin": "Yōu Shāng De Jù Rén",
+    "meta": "2015 · Album \"異類\" · Track 11",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "yu-huo-xing-de-hai-zi-dui-hua",
+    "title": "与火星的孩子对话",
+    "titlePinyin": "Yǔ Huǒ Xīng De Háizi Duìhuà",
+    "meta": "2020 · Album \"新世界NEW WORLD\" · Track 4",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "zao-wu-zhe",
+    "title": "造物者",
+    "titlePinyin": "Zào Wù Zhě",
+    "meta": "2017 · Album \"H\" · Track 2",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "zhen-bian-gu-shi",
+    "title": "枕边故事",
+    "titlePinyin": "Zhěn Biān Gù Shì",
+    "meta": "2014 · Album \"卡西莫多的礼物\" · Track 10",
+    "minHsk": 1,
+    "single": false
+  },
+  {
+    "id": "zou-yi-qi-qu-kan-ri-chu-ba",
+    "title": "走，一起去看日出吧",
+    "titlePinyin": "Zǒu, Yī Qǐ Qù Kàn Rì Chū Ba",
+    "meta": "2022 · Album \"希忘Hope\" · Track 7",
+    "minHsk": 1,
+    "single": false
+  }
+]

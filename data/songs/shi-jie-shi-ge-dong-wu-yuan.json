@@ -1,0 +1,1652 @@
+{
+  "id": "shi-jie-shi-ge-dong-wu-yuan",
+  "title": "世界是个动物园",
+  "titlePinyin": "Shì Jiè Shì Gè Dòng Wù Yuán",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2015 · Album \"異類\" · Track 7",
+  "lines": [
+    {
+      "translation": {
+        "en": "Two snails in the convenience store are carrying their school bags and discussing math problems",
+        "pt": "Duas lesmas na loja de conveniência estão carregando suas mochilas e discutindo problemas de matemática"
+      },
+      "words": [
+        {
+          "hz": "便利店",
+          "py": "biàn lì diàn",
+          "gloss": "convenience store",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "两只",
+          "py": "liǎng zhī",
+          "gloss": "two",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "蜗牛",
+          "py": "wō niú",
+          "gloss": "snails",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "背着",
+          "py": "bēi zhe",
+          "gloss": "carrying",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "书包",
+          "py": "shū bāo",
+          "gloss": "school bag",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "讨论",
+          "py": "tǎo lùn",
+          "gloss": "discussing",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "数学",
+          "py": "shù xué",
+          "gloss": "math",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "题",
+          "py": "tí",
+          "gloss": "problems",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A Shar-Pei dog in the bar is confiding its secrets to a fox",
+        "pt": "Um cão Shar-Pei no bar está confidenciando seus segredos a uma raposa"
+      },
+      "words": [
+        {
+          "hz": "酒吧",
+          "py": "jiǔ bā",
+          "gloss": "bar",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "沙皮",
+          "py": "shā pí",
+          "gloss": "Shar-Pei",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "对",
+          "py": "duì",
+          "gloss": "to",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "狐狸",
+          "py": "hú li",
+          "gloss": "fox",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "倾诉",
+          "py": "qīng sù",
+          "gloss": "confiding",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "秘密",
+          "py": "mì mì",
+          "gloss": "secrets",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Many, many wonders are slowly being discovered — one two one two three go",
+        "pt": "Muitas, muitas maravilhas estão sendo lentamente descobertas — one two one two three go"
+      },
+      "words": [
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "too many",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "too many",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "惊奇",
+          "py": "jīng qí",
+          "gloss": "wonders",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "慢慢",
+          "py": "màn màn",
+          "gloss": "slowly",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "发现",
+          "py": "fā xiàn",
+          "gloss": "discovered",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "one",
+          "py": "",
+          "gloss": "",
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "two",
+          "py": "",
+          "gloss": "",
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "one",
+          "py": "",
+          "gloss": "",
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "two",
+          "py": "",
+          "gloss": "",
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "three",
+          "py": "",
+          "gloss": "",
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In the airport, where are Miss Ostrich and Miss Peacock going?",
+        "pt": "No aeroporto, para onde vão a Srta. Avestruz e a Srta. Pavão?"
+      },
+      "words": [
+        {
+          "hz": "航站楼",
+          "py": "háng zhàn lóu",
+          "gloss": "airport terminal",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "鸵鸟",
+          "py": "tuó niǎo",
+          "gloss": "ostrich",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "孔雀",
+          "py": "kǒng què",
+          "gloss": "peacock",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "小姐",
+          "py": "xiǎo jiě",
+          "gloss": "Miss",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "去",
+          "py": "qù",
+          "gloss": "go",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "哪里",
+          "py": "nǎ lǐ",
+          "gloss": "where",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In the gym, how many miles of laps does Mr. Frog swim?",
+        "pt": "Na academia, quantas milhas de voltas o Sr. Sapo nada?"
+      },
+      "words": [
+        {
+          "hz": "健身房",
+          "py": "jiàn shēn fáng",
+          "gloss": "gym",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "蛙",
+          "py": "wā",
+          "gloss": "frog",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "先生",
+          "py": "xiān sheng",
+          "gloss": "Mr.",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "来回",
+          "py": "lái huí",
+          "gloss": "back and forth",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "游",
+          "py": "yóu",
+          "gloss": "swim",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "几",
+          "py": "jǐ",
+          "gloss": "how many",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "公里",
+          "py": "gōng lǐ",
+          "gloss": "miles",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In the karaoke bar, pretty cats and handsome dogs are keen on all sorts of parties",
+        "pt": "No karaokê, gatos bonitos e cães bonitos são aficionados por todos os tipos de festas"
+      },
+      "words": [
+        {
+          "hz": "KTV",
+          "py": "",
+          "gloss": "karaoke bar",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "靓猫",
+          "py": "liàng māo",
+          "gloss": "pretty cats",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "帅狗",
+          "py": "shuài gǒu",
+          "gloss": "handsome dogs",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "热衷",
+          "py": "rè zhōng",
+          "gloss": "keen on",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "于",
+          "py": "yú",
+          "gloss": "on",
+          "hsk": 5,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "各种",
+          "py": "gè zhǒng",
+          "gloss": "all sorts",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "派对",
+          "py": "pài duì",
+          "gloss": "parties",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Everybody oiai oiai oiai aio — oiai oiai oiai aio",
+        "pt": "Everybody oiai oiai oiai aio — oiai oiai oiai aio"
+      },
+      "words": [
+        {
+          "hz": "Everybody",
+          "py": "",
+          "gloss": "",
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "aio",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "aio",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The world is like a zoo — a super, super big amusement park",
+        "pt": "O mundo é como um zoológico — um super, super grande parque de diversões"
+      },
+      "words": [
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "动物",
+          "py": "dòng wù",
+          "gloss": "animal",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "乐园",
+          "py": "lè yuán",
+          "gloss": "paradise",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那么",
+          "py": "nà me",
+          "gloss": "so",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "那么",
+          "py": "nà me",
+          "gloss": "so",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "大",
+          "py": "dà",
+          "gloss": "big",
+          "hsk": 1,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "超级",
+          "py": "chāo jí",
+          "gloss": "super",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "乐园",
+          "py": "lè yuán",
+          "gloss": "amusement park",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Your eyes will be opened wide — everything is here",
+        "pt": "Seus olhos se abrirão bem — tudo está aqui"
+      },
+      "words": [
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "大开眼界",
+          "py": "dà kāi yǎn jiè",
+          "gloss": "eyes opened wide",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这里",
+          "py": "zhè lǐ",
+          "gloss": "here",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "oiai oiai oiai aio",
+        "pt": "oiai oiai oiai aio"
+      },
+      "words": [
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "aio",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Going out during rush hour, you'll see subways and buses crowded with ants",
+        "pt": "Saindo na hora do rush, você verá metrôs e ônibus lotados de formigas"
+      },
+      "words": [
+        {
+          "hz": "高峰期",
+          "py": "gāo fēng qī",
+          "gloss": "rush hour",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "走出去",
+          "py": "zǒu chū qù",
+          "gloss": "going out",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "地铁",
+          "py": "dì tiě",
+          "gloss": "subway",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "巴士",
+          "py": "bā shì",
+          "gloss": "buses",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "挤满",
+          "py": "jǐ mǎn",
+          "gloss": "crowded with",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "蚂蚁",
+          "py": "mǎ yǐ",
+          "gloss": "ants",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A taxi door opens and a butterfly flies in",
+        "pt": "A porta de um táxi se abre e uma borboleta entra voando"
+      },
+      "words": [
+        {
+          "hz": "计程车",
+          "py": "jì chéng chē",
+          "gloss": "taxi",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "打开",
+          "py": "dǎ kāi",
+          "gloss": "opens",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "车门",
+          "py": "chē mén",
+          "gloss": "car door",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一只",
+          "py": "yī zhī",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "蝴蝶",
+          "py": "hú dié",
+          "gloss": "butterfly",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "飞进去",
+          "py": "fēi jìn qù",
+          "gloss": "flies in",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "An owl is directing when the red light should turn green",
+        "pt": "Uma coruja está dirigindo quando o sinal vermelho deve ficar verde"
+      },
+      "words": [
+        {
+          "hz": "猫头鹰",
+          "py": "māo tóu yīng",
+          "gloss": "owl",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "指挥",
+          "py": "zhǐ huī",
+          "gloss": "directing",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "红灯",
+          "py": "hóng dēng",
+          "gloss": "red light",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "该",
+          "py": "gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "何时",
+          "py": "hé shí",
+          "gloss": "when",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "变绿",
+          "py": "biàn lǜ",
+          "gloss": "turn green",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Counting one, two, three, go!",
+        "pt": "Contando one, two, three, go!"
+      },
+      "words": [
+        {
+          "hz": "数着",
+          "py": "shǔ zhe",
+          "gloss": "counting",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "one",
+          "py": "",
+          "gloss": "",
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "two",
+          "py": "",
+          "gloss": "",
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "three",
+          "py": "",
+          "gloss": "",
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The pony and the giraffe just broke up their love relationship",
+        "pt": "O pônei e a girafa acabaram de terminar o relacionamento amoroso"
+      },
+      "words": [
+        {
+          "hz": "矮脚马",
+          "py": "ǎi jiǎo mǎ",
+          "gloss": "pony",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "长颈鹿",
+          "py": "cháng jǐng lù",
+          "gloss": "giraffe",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "结束",
+          "py": "jié shù",
+          "gloss": "broke up",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "情侣",
+          "py": "qíng lǚ",
+          "gloss": "love relationship",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "关系",
+          "py": "guān xì",
+          "gloss": "relationship",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Foreign tourists are asking for directions but no one can understand them",
+        "pt": "Turistas estrangeiros estão pedindo informações mas ninguém consegue entendê-los"
+      },
+      "words": [
+        {
+          "hz": "外国",
+          "py": "wài guó",
+          "gloss": "foreign",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "游客",
+          "py": "yóu kè",
+          "gloss": "tourists",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "鸡同鸭讲",
+          "py": "jī tóng yā jiǎng",
+          "gloss": "no one can understand",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "问路",
+          "py": "wèn lù",
+          "gloss": "ask for directions",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "问到",
+          "py": "wèn dào",
+          "gloss": "asked",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "没人",
+          "py": "méi rén",
+          "gloss": "no one",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "理",
+          "py": "lǐ",
+          "gloss": "understand",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A polar bear is carrying a camera taking photos of people on the street",
+        "pt": "Um urso-polar está carregando uma câmera tirando fotos de pessoas na rua"
+      },
+      "words": [
+        {
+          "hz": "北极熊",
+          "py": "běi jí xióng",
+          "gloss": "polar bear",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "扛着",
+          "py": "káng zhe",
+          "gloss": "carrying",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "摄影机",
+          "py": "shè yǐng jī",
+          "gloss": "camera",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "for",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "街上",
+          "py": "jiē shang",
+          "gloss": "on the street",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "行人",
+          "py": "xíng rén",
+          "gloss": "people",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "拍照",
+          "py": "pāi zhào",
+          "gloss": "taking photos",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Everybody oiai oiai oiai aio — oiai oiai oiai aio",
+        "pt": "Everybody oiai oiai oiai aio — oiai oiai oiai aio"
+      },
+      "words": [
+        {
+          "hz": "Everybody",
+          "py": "",
+          "gloss": "",
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "aio",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "aio",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The world is like a zoo — a super, super big amusement park",
+        "pt": "O mundo é como um zoológico — um super, super grande parque de diversões"
+      },
+      "words": [
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "动物",
+          "py": "dòng wù",
+          "gloss": "animal",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "乐园",
+          "py": "lè yuán",
+          "gloss": "paradise",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那么",
+          "py": "nà me",
+          "gloss": "so",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "那么",
+          "py": "nà me",
+          "gloss": "so",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "大",
+          "py": "dà",
+          "gloss": "big",
+          "hsk": 1,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "超级",
+          "py": "chāo jí",
+          "gloss": "super",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "乐园",
+          "py": "lè yuán",
+          "gloss": "amusement park",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Your eyes will be opened wide — everything is here",
+        "pt": "Seus olhos se abrirão bem — tudo está aqui"
+      },
+      "words": [
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "大开眼界",
+          "py": "dà kāi yǎn jiè",
+          "gloss": "eyes opened wide",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这里",
+          "py": "zhè lǐ",
+          "gloss": "here",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "oiai oiai oiai aio",
+        "pt": "oiai oiai oiai aio"
+      },
+      "words": [
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "oiai",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "aio",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The pig wife stays at home from day to night",
+        "pt": "A esposa porca fica em casa de dia a noite"
+      },
+      "words": [
+        {
+          "hz": "全职",
+          "py": "quán zhí",
+          "gloss": "full-time",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "猪",
+          "py": "zhū",
+          "gloss": "pig",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "太太",
+          "py": "tài tai",
+          "gloss": "wife",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "从早到晚",
+          "py": "cóng zǎo dào wǎn",
+          "gloss": "from day to night",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "关",
+          "py": "guān",
+          "gloss": "stay",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "家里",
+          "py": "jiā lǐ",
+          "gloss": "home",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The macaw telephone operator speaks Mandarin like a foreign language",
+        "pt": "A operadora de telefone arara-macau fala mandarim como uma língua estrangeira"
+      },
+      "words": [
+        {
+          "hz": "话务员",
+          "py": "huà wù yuán",
+          "gloss": "telephone operator",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "金刚鹦鹉",
+          "py": "jīn gāng yīng wǔ",
+          "gloss": "macaw",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "普通话",
+          "py": "pǔ tōng huà",
+          "gloss": "Mandarin",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "外语",
+          "py": "wài yǔ",
+          "gloss": "foreign language",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The koala is too lazy to cook and always orders delivery",
+        "pt": "O coala é preguiçoso demais para cozinhar e sempre pede delivery"
+      },
+      "words": [
+        {
+          "hz": "树袋熊",
+          "py": "shù dài xióng",
+          "gloss": "koala",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "懒得",
+          "py": "lǎn de",
+          "gloss": "too lazy to",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "烹饪",
+          "py": "pēng rèn",
+          "gloss": "cook",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "总",
+          "py": "zǒng",
+          "gloss": "always",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "叫外卖",
+          "py": "jiào wài mài",
+          "gloss": "order delivery",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ah~, hello, I'd like a pizza",
+        "pt": "Ah~, olá, eu gostaria de uma pizza"
+      },
+      "words": [
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "ah",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "喂",
+          "py": "wèi",
+          "gloss": "hello",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "来",
+          "py": "lái",
+          "gloss": "I'd like",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "分",
+          "py": "fēn",
+          "gloss": "a portion",
+          "hsk": 3,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "pizza",
+          "py": "",
+          "gloss": "",
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}

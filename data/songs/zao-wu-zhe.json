@@ -1,0 +1,1613 @@
+{
+  "id": "zao-wu-zhe",
+  "title": "造物者",
+  "titlePinyin": "Zào Wù Zhě",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2017 · Album \"H\" · Track 2",
+  "lines": [
+    {
+      "translation": {
+        "en": "The cells inside the body are clamoring",
+        "pt": "As células dentro do corpo estão clamando"
+      },
+      "words": [
+        {
+          "hz": "体内",
+          "py": "tǐ nèi",
+          "gloss": "inside the body",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "细胞",
+          "py": "xì bāo",
+          "gloss": "cell",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "鼓噪",
+          "py": "gǔ zào",
+          "gloss": "clamor",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Resisting the surroundings of universal gravitation",
+        "pt": "Resistindo aos arredores da gravitação universal"
+      },
+      "words": [
+        {
+          "hz": "对抗",
+          "py": "duì kàng",
+          "gloss": "resist",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "万有引力",
+          "py": "wàn yǒu yǐn lì",
+          "gloss": "universal gravitation",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "周遭",
+          "py": "zhōu zāo",
+          "gloss": "surroundings",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who set up the flat perspective",
+        "pt": "Quem estabeleceu a perspectiva plana"
+      },
+      "words": [
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "设下",
+          "py": "shè xià",
+          "gloss": "set up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "平面",
+          "py": "píng miàn",
+          "gloss": "flat",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "视角",
+          "py": "shì jiǎo",
+          "gloss": "perspective",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Could the world just be a trap",
+        "pt": "Poderia o mundo ser apenas uma armadilha"
+      },
+      "words": [
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "难道",
+          "py": "nán dào",
+          "gloss": "could it be that",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "个",
+          "py": "gè",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "圈套",
+          "py": "quān tào",
+          "gloss": "trap",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "na na na na na na na",
+        "pt": "na na na na na na na"
+      },
+      "words": [
+        {
+          "hz": "na na na na na na na",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The theory of relativity suddenly fails",
+        "pt": "A teoria da relatividade falha de repente"
+      },
+      "words": [
+        {
+          "hz": "相对论",
+          "py": "xiāng duì lùn",
+          "gloss": "theory of relativity",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "突然间",
+          "py": "tū rán jiān",
+          "gloss": "suddenly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "失效",
+          "py": "shī xiào",
+          "gloss": "fail",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "na na na na na na na",
+        "pt": "na na na na na na na"
+      },
+      "words": [
+        {
+          "hz": "na na na na na na na",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mysterious brain holes arrive in a blink",
+        "pt": "Buracos cerebrais misteriosos chegam num piscar"
+      },
+      "words": [
+        {
+          "hz": "神秘",
+          "py": "shén mì",
+          "gloss": "mysterious",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "脑洞",
+          "py": "nǎo dòng",
+          "gloss": "brain hole (imagination)",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "转眼间",
+          "py": "zhuǎn yǎn jiān",
+          "gloss": "in a blink",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "驾到",
+          "py": "jià dào",
+          "gloss": "arrive",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The universe is burning — throw away all the ordinary",
+        "pt": "O universo está queimando — jogue fora tudo o que é comum"
+      },
+      "words": [
+        {
+          "hz": "宇宙",
+          "py": "yǔ zhòu",
+          "gloss": "universe",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "燃烧",
+          "py": "rán shāo",
+          "gloss": "burn",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "寻常",
+          "py": "xún cháng",
+          "gloss": "ordinary",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "统统",
+          "py": "tǒng tǒng",
+          "gloss": "all",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "扔掉",
+          "py": "rēng diào",
+          "gloss": "throw away",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hormones are burning, saving the heartbeat",
+        "pt": "Hormônios estão queimando, salvando os batimentos"
+      },
+      "words": [
+        {
+          "hz": "荷尔蒙",
+          "py": "hé ěr méng",
+          "gloss": "hormone",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "燃烧",
+          "py": "rán shāo",
+          "gloss": "burn",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "拯救",
+          "py": "zhěng jiù",
+          "gloss": "save",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "心跳",
+          "py": "xīn tiào",
+          "gloss": "heartbeat",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Youth boldly creates — youth just creates",
+        "pt": "A juventude cria ousadamente — a juventude apenas cria"
+      },
+      "words": [
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "大胆",
+          "py": "dà dǎn",
+          "gloss": "boldly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就要",
+          "py": "jiù yào",
+          "gloss": "just want to",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Youth just creates — youth just creates",
+        "pt": "A juventude apenas cria — a juventude apenas cria"
+      },
+      "words": [
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就要",
+          "py": "jiù yào",
+          "gloss": "just want to",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就要",
+          "py": "jiù yào",
+          "gloss": "just want to",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Two-dimensional coloring is just right",
+        "pt": "A coloração bidimensional está perfeita"
+      },
+      "words": [
+        {
+          "hz": "二次元",
+          "py": "èr cì yuán",
+          "gloss": "two-dimensional",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "着色",
+          "py": "zhuó sè",
+          "gloss": "coloring",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "刚刚好",
+          "py": "gāng gāng hǎo",
+          "gloss": "just right",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The trendy toy tribe screams loudly",
+        "pt": "A tribo dos brinquedos da moda grita alto"
+      },
+      "words": [
+        {
+          "hz": "潮玩",
+          "py": "cháo wán",
+          "gloss": "trendy toy",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "部落",
+          "py": "bù luò",
+          "gloss": "tribe",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "大声",
+          "py": "dà shēng",
+          "gloss": "loudly",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "尖叫",
+          "py": "jiān jiào",
+          "gloss": "scream",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Individual hairstyles and makeup absolutely won't be wiped off",
+        "pt": "Penteados e maquiagem individuais absolutamente não serão apagados"
+      },
+      "words": [
+        {
+          "hz": "个性",
+          "py": "gè xìng",
+          "gloss": "individual",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "妆发",
+          "py": "zhuāng fà",
+          "gloss": "hairstyle and makeup",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "绝不",
+          "py": "jué bù",
+          "gloss": "absolutely not",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "抹掉",
+          "py": "mǒ diào",
+          "gloss": "wipe off",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A Schrödinger's cat lives in the pet",
+        "pt": "Um gato de Schrödinger mora no animal de estimação"
+      },
+      "words": [
+        {
+          "hz": "宠物",
+          "py": "chǒng wù",
+          "gloss": "pet",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "住着",
+          "py": "zhù zhe",
+          "gloss": "lives",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "薛定谔",
+          "py": "Xuē dìng è",
+          "gloss": "Schrödinger",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "猫",
+          "py": "māo",
+          "gloss": "cat",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "na na na na na na na",
+        "pt": "na na na na na na na"
+      },
+      "words": [
+        {
+          "hz": "na na na na na na na",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Curious personality is my pride",
+        "pt": "Personalidade curiosa é meu orgulho"
+      },
+      "words": [
+        {
+          "hz": "好奇",
+          "py": "hào qí",
+          "gloss": "curious",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "个性",
+          "py": "gè xìng",
+          "gloss": "personality",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "骄傲",
+          "py": "jiāo ào",
+          "gloss": "pride",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "na na na na na na na",
+        "pt": "na na na na na na na"
+      },
+      "words": [
+        {
+          "hz": "na na na na na na na",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The playful nature — no matter how you try, you can't control it",
+        "pt": "A natureza brincalhona — não importa como você tente, não pode controlá-la"
+      },
+      "words": [
+        {
+          "hz": "爱玩",
+          "py": "ài wán",
+          "gloss": "playful",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "天性",
+          "py": "tiān xìng",
+          "gloss": "nature",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "任凭",
+          "py": "rèn píng",
+          "gloss": "no matter how",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "管",
+          "py": "guǎn",
+          "gloss": "control",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不了",
+          "py": "bù liǎo",
+          "gloss": "cannot",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Superpower unsheathed — throw away all that's familiar",
+        "pt": "Superpoder desembainhado — jogue fora tudo o que é familiar"
+      },
+      "words": [
+        {
+          "hz": "超能力",
+          "py": "chāo néng lì",
+          "gloss": "superpower",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "出鞘",
+          "py": "chū qiào",
+          "gloss": "unsheathed",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "见惯",
+          "py": "jiàn guàn",
+          "gloss": "familiar",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "统统",
+          "py": "tǒng tǒng",
+          "gloss": "all",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "扔掉",
+          "py": "rēng diào",
+          "gloss": "throw away",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hormones are burning, saving the heartbeat",
+        "pt": "Hormônios estão queimando, salvando os batimentos"
+      },
+      "words": [
+        {
+          "hz": "荷尔蒙",
+          "py": "hé ěr méng",
+          "gloss": "hormone",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "燃烧",
+          "py": "rán shāo",
+          "gloss": "burn",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "拯救",
+          "py": "zhěng jiù",
+          "gloss": "save",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "心跳",
+          "py": "xīn tiào",
+          "gloss": "heartbeat",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Youth boldly creates — youth just creates",
+        "pt": "A juventude cria ousadamente — a juventude apenas cria"
+      },
+      "words": [
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "大胆",
+          "py": "dà dǎn",
+          "gloss": "boldly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就要",
+          "py": "jiù yào",
+          "gloss": "just want to",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Youth just creates — youth just creates",
+        "pt": "A juventude apenas cria — a juventude apenas cria"
+      },
+      "words": [
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就要",
+          "py": "jiù yào",
+          "gloss": "just want to",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就要",
+          "py": "jiù yào",
+          "gloss": "just want to",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The tribe that belongs to us — we just want it to be real",
+        "pt": "A tribo que nos pertence — só queremos que seja real"
+      },
+      "words": [
+        {
+          "hz": "属于",
+          "py": "shǔ yú",
+          "gloss": "belong to",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "us",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "部落",
+          "py": "bù luò",
+          "gloss": "tribe",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "want",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "真实",
+          "py": "zhēn shí",
+          "gloss": "real",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就好",
+          "py": "jiù hǎo",
+          "gloss": "just fine",
+          "hsk": 4,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only drinking iced drinks, letting bad moods ferment",
+        "pt": "Só bebendo bebidas geladas, deixando os maus humores fermentarem"
+      },
+      "words": [
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "喝",
+          "py": "hē",
+          "gloss": "drink",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "冰过",
+          "py": "bīng guò",
+          "gloss": "iced",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "饮料",
+          "py": "yǐn liào",
+          "gloss": "drink",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "坏情绪",
+          "py": "huài qíng xù",
+          "gloss": "bad mood",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "发酵",
+          "py": "fā jiào",
+          "gloss": "ferment",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "We decide for ourselves what kind of coat to wear",
+        "pt": "Nós mesmos decidimos que tipo de casaco vestir"
+      },
+      "words": [
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "自己",
+          "py": "zì jǐ",
+          "gloss": "ourselves",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "主导",
+          "py": "zhǔ dǎo",
+          "gloss": "lead",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "决定",
+          "py": "jué dìng",
+          "gloss": "decide",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "穿",
+          "py": "chuān",
+          "gloss": "wear",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "哪种",
+          "py": "nǎ zhǒng",
+          "gloss": "what kind",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "外套",
+          "py": "wài tào",
+          "gloss": "coat",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "We have a专属 magnetic field mark — never compare",
+        "pt": "Temos uma marca de campo magnético exclusiva — nunca nos comparamos"
+      },
+      "words": [
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "专属",
+          "py": "zhuān shǔ",
+          "gloss": "exclusive",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "磁场",
+          "py": "cí chǎng",
+          "gloss": "magnetic field",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "记号",
+          "py": "jì hào",
+          "gloss": "mark",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "从不",
+          "py": "cóng bù",
+          "gloss": "never",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "做",
+          "py": "zuò",
+          "gloss": "do",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "比较",
+          "py": "bǐ jiào",
+          "gloss": "compare",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "We have identical brains but different pride",
+        "pt": "Temos cérebros idênticos mas orgulho diferente"
+      },
+      "words": [
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "相同",
+          "py": "xiāng tóng",
+          "gloss": "identical",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "大脑",
+          "py": "dà nǎo",
+          "gloss": "brain",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不一样",
+          "py": "bù yī yàng",
+          "gloss": "different",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "骄傲",
+          "py": "jiāo ào",
+          "gloss": "pride",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A whimsical carnival — mad to the point of no cure",
+        "pt": "Um carnaval fantasioso — louco ao ponto de não ter cura"
+      },
+      "words": [
+        {
+          "hz": "异想天开",
+          "py": "yì xiǎng tiān kāi",
+          "gloss": "whimsical",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "狂欢",
+          "py": "kuáng huān",
+          "gloss": "carnival",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "疯",
+          "py": "fēng",
+          "gloss": "mad",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "到",
+          "py": "dào",
+          "gloss": "to",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "无可救药",
+          "py": "wú kě jiù yào",
+          "gloss": "no cure",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hormones keep burning, saving the heartbeat",
+        "pt": "Hormônios continuam queimando, salvando os batimentos"
+      },
+      "words": [
+        {
+          "hz": "荷尔蒙",
+          "py": "hé ěr méng",
+          "gloss": "hormone",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "继续",
+          "py": "jì xù",
+          "gloss": "continue",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "燃烧",
+          "py": "rán shāo",
+          "gloss": "burn",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "拯救",
+          "py": "zhěng jiù",
+          "gloss": "save",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "心跳",
+          "py": "xīn tiào",
+          "gloss": "heartbeat",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Youth boldly creates — youth just creates",
+        "pt": "A juventude cria ousadamente — a juventude apenas cria"
+      },
+      "words": [
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "大胆",
+          "py": "dà dǎn",
+          "gloss": "boldly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就要",
+          "py": "jiù yào",
+          "gloss": "just want to",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Youth just creates — youth just creates",
+        "pt": "A juventude apenas cria — a juventude apenas cria"
+      },
+      "words": [
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就要",
+          "py": "jiù yào",
+          "gloss": "just want to",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就要",
+          "py": "jiù yào",
+          "gloss": "just want to",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "create",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

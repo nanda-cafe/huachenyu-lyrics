@@ -1,0 +1,1591 @@
+{
+  "id": "te-xiu-si-de-chuan",
+  "title": "忒修斯的船",
+  "titlePinyin": "Tè Xiū Sī De Chuán",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2025 · Album \"量变临界点\" · Track 5",
+  "lines": [
+    {
+      "translation": {
+        "en": "No need to use a bundle of spray to cover up the fish school's exaggerated praise",
+        "pt": "Não precisa usar um feixe de espuma para encobrir o elogio exagerado do cardume"
+      },
+      "words": [
+        {
+          "hz": "不必",
+          "py": "bù bì",
+          "gloss": "no need",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "束",
+          "py": "shù",
+          "gloss": "bundle",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "浪花",
+          "py": "làng huā",
+          "gloss": "spray",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "掩饰",
+          "py": "yǎn shì",
+          "gloss": "cover up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "鱼群",
+          "py": "yú qún",
+          "gloss": "school of fish",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "夸诞",
+          "py": "kuā dàn",
+          "gloss": "exaggerated",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "赞美",
+          "py": "zàn měi",
+          "gloss": "praise",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Wine brewed with wind and honey fills the cabin — freedom is the structure",
+        "pt": "Vinho fermentado com vento e mel enche a cabine — a liberdade é a estrutura"
+      },
+      "words": [
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "蜜酿",
+          "py": "mì niàng",
+          "gloss": "honey-brewed",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "酒",
+          "py": "jiǔ",
+          "gloss": "wine",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "塞满",
+          "py": "sāi mǎn",
+          "gloss": "stuff",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "船舱",
+          "py": "chuán cāng",
+          "gloss": "cabin",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "自由",
+          "py": "zì yóu",
+          "gloss": "freedom",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "结构",
+          "py": "jié gòu",
+          "gloss": "structure",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "And when the crew learns to pardon hidden reefs, I learn to piece things together",
+        "pt": "E quando a tripulação aprende a perdoar recifes ocultos, eu aprendo a juntar as peças"
+      },
+      "words": [
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "船员",
+          "py": "chuán yuán",
+          "gloss": "crew",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "学",
+          "py": "xué",
+          "gloss": "learn",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "赦免",
+          "py": "shè miǎn",
+          "gloss": "pardon",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "暗礁",
+          "py": "àn jiāo",
+          "gloss": "hidden reef",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "学",
+          "py": "xué",
+          "gloss": "learn",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "拼凑",
+          "py": "pīn còu",
+          "gloss": "piece together",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That newly built ship — is it still me?",
+        "pt": "Aquele navio recém-construído — ainda sou eu?"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "艘",
+          "py": "sōu",
+          "gloss": "(m.w. for ships)",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "新造",
+          "py": "xīn zào",
+          "gloss": "newly built",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "船",
+          "py": "chuán",
+          "gloss": "ship",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "仍旧",
+          "py": "réng jiù",
+          "gloss": "still",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ahh~ — it's silent, the sea of time submerges me",
+        "pt": "Ahh~ — ele está silencioso, o mar do tempo me submerge"
+      },
+      "words": [
+        {
+          "hz": "Ahh～",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "沉默",
+          "py": "chén mò",
+          "gloss": "silent",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "不语",
+          "py": "bù yǔ",
+          "gloss": "speechless",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之",
+          "py": "zhī",
+          "gloss": "of",
+          "hsk": 6,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "海",
+          "py": "hǎi",
+          "gloss": "sea",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "淹埋",
+          "py": "yān mái",
+          "gloss": "submerge",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "From birth to wreckage, coming against the wind — swaying or withering?",
+        "pt": "Do nascimento aos destroços, vindo contra o vento — balançando ou murchando?"
+      },
+      "words": [
+        {
+          "hz": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "降生",
+          "py": "jiàng shēng",
+          "gloss": "birth",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "到",
+          "py": "dào",
+          "gloss": "to",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "残骸",
+          "py": "cán hái",
+          "gloss": "wreckage",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "迎风",
+          "py": "yíng fēng",
+          "gloss": "against the wind",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "来",
+          "py": "lái",
+          "gloss": "come",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "摇曳",
+          "py": "yáo yè",
+          "gloss": "sway",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "或",
+          "py": "huò",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "枯萎",
+          "py": "kū wěi",
+          "gloss": "wither",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Burying the song of fate deep, leaving behind the pendulum of tides",
+        "pt": "Enterrando fundo a canção do destino, deixando para trás o pêndulo das marés"
+      },
+      "words": [
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之",
+          "py": "zhī",
+          "gloss": "of",
+          "hsk": 6,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "歌",
+          "py": "gē",
+          "gloss": "song",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "深埋",
+          "py": "shēn mái",
+          "gloss": "bury deep",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "遗留",
+          "py": "yí liú",
+          "gloss": "leave behind",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "潮汐",
+          "py": "cháo xī",
+          "gloss": "tides",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "钟摆",
+          "py": "zhōng bǎi",
+          "gloss": "pendulum",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Replacing the soul and reloading — scattering into fibers",
+        "pt": "Substituindo a alma e recarregando — espalhando-se em fibras"
+      },
+      "words": [
+        {
+          "hz": "更换",
+          "py": "gēng huàn",
+          "gloss": "replace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "装载",
+          "py": "zhuāng zài",
+          "gloss": "load",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "散落",
+          "py": "sàn luò",
+          "gloss": "scatter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "成",
+          "py": "chéng",
+          "gloss": "into",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "纤维",
+          "py": "xiān wéi",
+          "gloss": "fiber",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't listen to seagulls showing off — only when the sky is tame does a storm rise",
+        "pt": "Não escute as gaivotas se exibindo — só quando o céu está manso é que uma tempestade se ergue"
+      },
+      "words": [
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "听",
+          "py": "tīng",
+          "gloss": "listen",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "海鸥",
+          "py": "hǎi ōu",
+          "gloss": "seagull",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "炫耀",
+          "py": "xuàn yào",
+          "gloss": "show off",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "温驯",
+          "py": "wēn xùn",
+          "gloss": "tame",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "扬起",
+          "py": "yáng qǐ",
+          "gloss": "raise",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "风暴",
+          "py": "fēng bào",
+          "gloss": "storm",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Encountering cracks visiting, the hull shakes — praying in the nightfall",
+        "pt": "Encontrando rachaduras em visita, o casco treme — rezando no cair da noite"
+      },
+      "words": [
+        {
+          "hz": "偶遇",
+          "py": "ǒu yù",
+          "gloss": "encounter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "裂缝",
+          "py": "liè fèng",
+          "gloss": "crack",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "造访",
+          "py": "zào fǎng",
+          "gloss": "visit",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "船身",
+          "py": "chuán shēn",
+          "gloss": "hull",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "摇晃",
+          "py": "yáo huàng",
+          "gloss": "shake",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "夜幕",
+          "py": "yè mù",
+          "gloss": "nightfall",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "祈祷",
+          "py": "qí dǎo",
+          "gloss": "pray",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "And the sail, nakedly telling — drifting person, this is not the end",
+        "pt": "E a vela, nuamente contando — pessoa à deriva, este não é o fim"
+      },
+      "words": [
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "帆",
+          "py": "fān",
+          "gloss": "sail",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "赤裸",
+          "py": "chì luǒ",
+          "gloss": "naked",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "相告",
+          "py": "xiāng gào",
+          "gloss": "tell",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "漂流",
+          "py": "piāo liú",
+          "gloss": "drifting",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "person",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "并非",
+          "py": "bìng fēi",
+          "gloss": "is not",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "尽头",
+          "py": "jìn tóu",
+          "gloss": "end",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That mottled ship has been forgotten by whom?",
+        "pt": "Aquele navio manchado foi esquecido por quem?"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "艘",
+          "py": "sōu",
+          "gloss": "(m.w. for ships)",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "斑驳",
+          "py": "bān bó",
+          "gloss": "mottled",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "船",
+          "py": "chuán",
+          "gloss": "ship",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "已",
+          "py": "yǐ",
+          "gloss": "already",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "whom",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "遗忘",
+          "py": "yí wàng",
+          "gloss": "forgotten",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ahh~ — why don't you answer, the sea of time submerges me",
+        "pt": "Ahh~ — por que você não responde, o mar do tempo me submerge"
+      },
+      "words": [
+        {
+          "hz": "Ahh～",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "为何",
+          "py": "wèi hé",
+          "gloss": "why",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "作答",
+          "py": "zuò dá",
+          "gloss": "answer",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之",
+          "py": "zhī",
+          "gloss": "of",
+          "hsk": 6,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "海",
+          "py": "hǎi",
+          "gloss": "sea",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "淹埋",
+          "py": "yān mái",
+          "gloss": "submerge",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "From birth to wreckage, coming against the wind — swaying or withering?",
+        "pt": "Do nascimento aos destroços, vindo contra o vento — balançando ou murchando?"
+      },
+      "words": [
+        {
+          "hz": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "降生",
+          "py": "jiàng shēng",
+          "gloss": "birth",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "到",
+          "py": "dào",
+          "gloss": "to",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "残骸",
+          "py": "cán hái",
+          "gloss": "wreckage",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "迎风",
+          "py": "yíng fēng",
+          "gloss": "against the wind",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "来",
+          "py": "lái",
+          "gloss": "come",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "摇曳",
+          "py": "yáo yè",
+          "gloss": "sway",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "或",
+          "py": "huò",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "枯萎",
+          "py": "kū wěi",
+          "gloss": "wither",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Burying the song of fate deep, leaving behind the pendulum of tides",
+        "pt": "Enterrando fundo a canção do destino, deixando para trás o pêndulo das marés"
+      },
+      "words": [
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之",
+          "py": "zhī",
+          "gloss": "of",
+          "hsk": 6,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "歌",
+          "py": "gē",
+          "gloss": "song",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "深埋",
+          "py": "shēn mái",
+          "gloss": "bury deep",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "遗留",
+          "py": "yí liú",
+          "gloss": "leave behind",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "潮汐",
+          "py": "cháo xī",
+          "gloss": "tides",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "钟摆",
+          "py": "zhōng bǎi",
+          "gloss": "pendulum",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Replacing the soul and reloading",
+        "pt": "Substituindo a alma e recarregando"
+      },
+      "words": [
+        {
+          "hz": "更换",
+          "py": "gēng huàn",
+          "gloss": "replace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "装",
+          "py": "zhuāng",
+          "gloss": "load",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "载",
+          "py": "zài",
+          "gloss": "carry",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If boundless paleness tears me apart, from barren wood to dust",
+        "pt": "Se a palidez sem limites me despedaçar, de madeira estéril a poeira"
+      },
+      "words": [
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "无际",
+          "py": "wú jì",
+          "gloss": "boundless",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "苍白",
+          "py": "cāng bái",
+          "gloss": "pale",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "撕碎",
+          "py": "sī suì",
+          "gloss": "tear apart",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "由",
+          "py": "yóu",
+          "gloss": "from",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "荒木",
+          "py": "huāng mù",
+          "gloss": "barren wood",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "变",
+          "py": "biàn",
+          "gloss": "become",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "尘埃",
+          "py": "chén āi",
+          "gloss": "dust",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Coming against the wind, and cycling again — burying the song of fate deep",
+        "pt": "Vindo contra o vento, e ciclando novamente — enterrando fundo a canção do destino"
+      },
+      "words": [
+        {
+          "hz": "迎风",
+          "py": "yíng fēng",
+          "gloss": "against the wind",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "来",
+          "py": "lái",
+          "gloss": "come",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "周而复始",
+          "py": "zhōu ér fù shǐ",
+          "gloss": "cycle",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之",
+          "py": "zhī",
+          "gloss": "of",
+          "hsk": 6,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "歌",
+          "py": "gē",
+          "gloss": "song",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "深埋",
+          "py": "shēn mái",
+          "gloss": "bury deep",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Leaving behind the pendulum of tides, replacing the soul and reloading",
+        "pt": "Deixando para trás o pêndulo das marés, substituindo a alma e recarregando"
+      },
+      "words": [
+        {
+          "hz": "遗留",
+          "py": "yí liú",
+          "gloss": "leave behind",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "潮汐",
+          "py": "cháo xī",
+          "gloss": "tides",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "钟摆",
+          "py": "zhōng bǎi",
+          "gloss": "pendulum",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "更换",
+          "py": "gēng huàn",
+          "gloss": "replace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "装载",
+          "py": "zhuāng zài",
+          "gloss": "load",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Next time, it will be named?",
+        "pt": "Da próxima vez, será chamado?"
+      },
+      "words": [
+        {
+          "hz": "下",
+          "py": "xià",
+          "gloss": "next",
+          "hsk": 1,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "一次",
+          "py": "yī cì",
+          "gloss": "one time",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "名为",
+          "py": "míng wéi",
+          "gloss": "named",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

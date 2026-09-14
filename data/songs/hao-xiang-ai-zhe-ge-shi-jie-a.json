@@ -1,0 +1,1409 @@
+{
+  "id": "hao-xiang-ai-zhe-ge-shi-jie-a",
+  "title": "好想爱这个世界啊",
+  "titlePinyin": "Hǎo Xiǎng Ài Zhè Ge Shì Jiè A",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2020 · Album \"新世界NEW WORLD\" · Track 2",
+  "lines": [
+    {
+      "translation": {
+        "en": "Holding the sofa, drowsy eyes, messy hair",
+        "pt": "Segurando o sofá, olhos sonolentos, cabelo bagunçado"
+      },
+      "words": [
+        {
+          "hz": "抱",
+          "py": "bào",
+          "gloss": "hold",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "沙发",
+          "py": "shā fā",
+          "gloss": "sofa",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "睡眼",
+          "py": "shuì yǎn",
+          "gloss": "sleepy eyes",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "昏花",
+          "py": "hūn huā",
+          "gloss": "dim",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "凌乱",
+          "py": "líng luàn",
+          "gloss": "messy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "头发",
+          "py": "tóu fa",
+          "gloss": "hair",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Yet longing to be as dashing as a movie lead",
+        "pt": "Mas ansiando ser tão elegante quanto um protagonista de cinema"
+      },
+      "words": [
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "渴望",
+          "py": "kě wàng",
+          "gloss": "long for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "电影",
+          "py": "diàn yǐng",
+          "gloss": "movie",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "主角",
+          "py": "zhǔ jué",
+          "gloss": "protagonist",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一样",
+          "py": "yī yàng",
+          "gloss": "same as",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "潇洒",
+          "py": "xiāo sǎ",
+          "gloss": "dashing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Under the eaves, crows line up, dense and packed",
+        "pt": "Sob os beirais, corvos enfileirados, densos e apertados"
+      },
+      "words": [
+        {
+          "hz": "屋檐",
+          "py": "wū yán",
+          "gloss": "eaves",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "角下",
+          "py": "jiǎo xià",
+          "gloss": "under the corner",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "排",
+          "py": "pái",
+          "gloss": "line up",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "乌鸦",
+          "py": "wū yā",
+          "gloss": "crow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "密密麻麻",
+          "py": "mì mì má má",
+          "gloss": "dense",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Suppressed emotions, not knowing how to express them",
+        "pt": "Emoções reprimidas, sem saber como expressá-las"
+      },
+      "words": [
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "压抑",
+          "py": "yā yì",
+          "gloss": "suppress",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "情绪",
+          "py": "qíng xù",
+          "gloss": "emotion",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不知",
+          "py": "bù zhī",
+          "gloss": "not know",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "如何",
+          "py": "rú hé",
+          "gloss": "how",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "表达",
+          "py": "biǎo dá",
+          "gloss": "express",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "No matter where I am, here or there",
+        "pt": "Não importa onde eu esteja, aqui ou lá"
+      },
+      "words": [
+        {
+          "hz": "无论",
+          "py": "wú lùn",
+          "gloss": "no matter",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "这里",
+          "py": "zhè lǐ",
+          "gloss": "here",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "那里",
+          "py": "nà lǐ",
+          "gloss": "there",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Like a soulless insect chirping",
+        "pt": "Como um inseto sem alma chirriando"
+      },
+      "words": [
+        {
+          "hz": "仿佛",
+          "py": "fǎng fú",
+          "gloss": "as if",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "失魂",
+          "py": "shī hún",
+          "gloss": "soulless",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "虫鸣",
+          "py": "chóng míng",
+          "gloss": "insect chirp",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But knowing I should make some effort right now",
+        "pt": "Mas sabendo que deveria fazer algum esforço agora"
+      },
+      "words": [
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "明白",
+          "py": "míng bái",
+          "gloss": "understand",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "此刻",
+          "py": "cǐ kè",
+          "gloss": "this moment",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "应该",
+          "py": "yīng gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "做",
+          "py": "zuò",
+          "gloss": "do",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "些",
+          "py": "xiē",
+          "gloss": "some",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "努力",
+          "py": "nǔ lì",
+          "gloss": "effort",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The past that cannot be made up for",
+        "pt": "O passado que não pode ser compensado"
+      },
+      "words": [
+        {
+          "hz": "不能",
+          "py": "bù néng",
+          "gloss": "cannot",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "弥补",
+          "py": "mí bǔ",
+          "gloss": "make up for",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "过去",
+          "py": "guò qù",
+          "gloss": "past",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Every time I think of it, I blame myself endlessly",
+        "pt": "Toda vez que penso nisso, me culpo sem parar"
+      },
+      "words": [
+        {
+          "hz": "每",
+          "py": "měi",
+          "gloss": "every",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "想起",
+          "py": "xiǎng qǐ",
+          "gloss": "think of",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "自责",
+          "py": "zì zé",
+          "gloss": "blame oneself",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不已",
+          "py": "bù yǐ",
+          "gloss": "endlessly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Thought about leaving, to exist in this way",
+        "pt": "Pensei em partir, para existir deste jeito"
+      },
+      "words": [
+        {
+          "hz": "想过",
+          "py": "xiǎng guò",
+          "gloss": "thought about",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "离开",
+          "py": "lí kāi",
+          "gloss": "leave",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "以",
+          "py": "yǐ",
+          "gloss": "with",
+          "hsk": 5,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "这种",
+          "py": "zhè zhǒng",
+          "gloss": "this kind",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "方式",
+          "py": "fāng shì",
+          "gloss": "way",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "存在",
+          "py": "cún zài",
+          "gloss": "exist",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Because of those voiceovers, those postures, those hurts",
+        "pt": "Por causa daquelas narrações, aquelas posturas, aquelas feridas"
+      },
+      "words": [
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "因为",
+          "py": "yīn wèi",
+          "gloss": "because",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "旁白",
+          "py": "páng bái",
+          "gloss": "voiceover",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "姿态",
+          "py": "zī tài",
+          "gloss": "posture",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "伤害",
+          "py": "shāng hài",
+          "gloss": "hurt",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't want to leave, when you say you're still there",
+        "pt": "Não quero partir, quando você diz que ainda está aí"
+      },
+      "words": [
+        {
+          "hz": "不想",
+          "py": "bù xiǎng",
+          "gloss": "don't want",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "离开",
+          "py": "lí kāi",
+          "gloss": "leave",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "还有",
+          "py": "hái yǒu",
+          "gloss": "still have",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "here",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Suddenly I begin to inexplicably expect",
+        "pt": "De repente começo a esperar inexplicavelmente"
+      },
+      "words": [
+        {
+          "hz": "忽然",
+          "py": "hū rán",
+          "gloss": "suddenly",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "开始",
+          "py": "kāi shǐ",
+          "gloss": "begin",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "莫名",
+          "py": "mò míng",
+          "gloss": "inexplicably",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "期待",
+          "py": "qī dài",
+          "gloss": "expect",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sunset west, flipping through phone, no one to call",
+        "pt": "Sol poente, folheando o telefone, ninguém para ligar"
+      },
+      "words": [
+        {
+          "hz": "夕阳",
+          "py": "xī yáng",
+          "gloss": "sunset",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "西下",
+          "py": "xī xià",
+          "gloss": "sinking west",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "翻",
+          "py": "fān",
+          "gloss": "flip",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "电话",
+          "py": "diàn huà",
+          "gloss": "phone",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无人",
+          "py": "wú rén",
+          "gloss": "no one",
+          "hsk": 5,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拨打",
+          "py": "bō dǎ",
+          "gloss": "dial",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "What someone accustomed to loneliness deserves",
+        "pt": "O que alguém acostumado à solidão merece"
+      },
+      "words": [
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "习惯",
+          "py": "xí guàn",
+          "gloss": "accustomed",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "孤独",
+          "py": "gū dú",
+          "gloss": "loneliness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "该",
+          "py": "gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "得到",
+          "py": "dé dào",
+          "gloss": "get",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "吧",
+          "py": "ba",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The single-plank bridge — who must be pushed off to win",
+        "pt": "A ponte de tábua única — quem deve ser empurrado para vencer"
+      },
+      "words": [
+        {
+          "hz": "独木桥",
+          "py": "dú mù qiáo",
+          "gloss": "single-plank bridge",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "推",
+          "py": "tuī",
+          "gloss": "push",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "下",
+          "py": "xià",
+          "gloss": "down",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "算",
+          "py": "suàn",
+          "gloss": "count as",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "赢家",
+          "py": "yíng jiā",
+          "gloss": "winner",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "My silent resistance — when can it defeat it",
+        "pt": "Minha resistência silenciosa — quando poderá vencê-la"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "无声",
+          "py": "wú shēng",
+          "gloss": "silent",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "反抗",
+          "py": "fǎn kàng",
+          "gloss": "resistance",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "何时",
+          "py": "hé shí",
+          "gloss": "when",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "战胜",
+          "py": "zhàn shèng",
+          "gloss": "defeat",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Thought about leaving, when sunlight loses to haze",
+        "pt": "Pensei em partir, quando a luz do sol perde para a névoa"
+      },
+      "words": [
+        {
+          "hz": "想过",
+          "py": "xiǎng guò",
+          "gloss": "thought about",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "离开",
+          "py": "lí kāi",
+          "gloss": "leave",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "阳光",
+          "py": "yáng guāng",
+          "gloss": "sunlight",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "败给",
+          "py": "bài gěi",
+          "gloss": "lose to",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "阴霾",
+          "py": "yīn mái",
+          "gloss": "haze",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Never thought you'd desperately clear it away for me",
+        "pt": "Nunca pensei que você desesperadamente o afastaria por mim"
+      },
+      "words": [
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想到",
+          "py": "xiǎng dào",
+          "gloss": "think of",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "拼命",
+          "py": "pīn mìng",
+          "gloss": "desperately",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拨开",
+          "py": "bō kāi",
+          "gloss": "clear away",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't want to leave, when your smile blooms",
+        "pt": "Não quero partir, quando seu sorriso floresce"
+      },
+      "words": [
+        {
+          "hz": "不想",
+          "py": "bù xiǎng",
+          "gloss": "don't want",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "离开",
+          "py": "lí kāi",
+          "gloss": "leave",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你的",
+          "py": "nǐ de",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "笑容",
+          "py": "xiào róng",
+          "gloss": "smile",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "绽开",
+          "py": "zhàn kāi",
+          "gloss": "bloom",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This world suddenly fills with color",
+        "pt": "Este mundo de repente se enche de cor"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "突然",
+          "py": "tū rán",
+          "gloss": "suddenly",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "填满",
+          "py": "tián mǎn",
+          "gloss": "fill up",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "色彩",
+          "py": "sè cǎi",
+          "gloss": "color",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Holding the sofa, drowsy eyes, messy hair",
+        "pt": "Segurando o sofá, olhos sonolentos, cabelo bagunçado"
+      },
+      "words": [
+        {
+          "hz": "抱",
+          "py": "bào",
+          "gloss": "hold",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "沙发",
+          "py": "shā fā",
+          "gloss": "sofa",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "睡眼",
+          "py": "shuì yǎn",
+          "gloss": "sleepy eyes",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "昏花",
+          "py": "hūn huā",
+          "gloss": "dim",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "凌乱",
+          "py": "líng luàn",
+          "gloss": "messy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "头发",
+          "py": "tóu fa",
+          "gloss": "hair",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sunset west, phone connects — it's you",
+        "pt": "Sol poente, telefone conecta — é você"
+      },
+      "words": [
+        {
+          "hz": "夕阳",
+          "py": "xī yáng",
+          "gloss": "sunset",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "西下",
+          "py": "xī xià",
+          "gloss": "sinking west",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "接通",
+          "py": "jiē tōng",
+          "gloss": "connect",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "电话",
+          "py": "diàn huà",
+          "gloss": "phone",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "呀",
+          "py": "ya",
+          "gloss": "(particle)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    }
+  ]
+}

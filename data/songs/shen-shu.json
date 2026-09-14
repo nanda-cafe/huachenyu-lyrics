@@ -1,0 +1,1051 @@
+{
+  "id": "shen-shu",
+  "title": "神树",
+  "titlePinyin": "Shén Shù",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2020 · Album \"新世界NEW WORLD\" · Track 5",
+  "lines": [
+    {
+      "translation": {
+        "en": "Afraid of the murky sky",
+        "pt": "Com medo do céu turvo"
+      },
+      "words": [
+        {
+          "hz": "害怕",
+          "py": "hài pà",
+          "gloss": "afraid",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "浑浊",
+          "py": "hún zhuó",
+          "gloss": "murky",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Huge waves sweep up devastation — all in panic",
+        "pt": "Ondas enormes varrem devastação — todos em pânico"
+      },
+      "words": [
+        {
+          "hz": "巨浪",
+          "py": "jù làng",
+          "gloss": "huge waves",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "席卷",
+          "py": "xí juǎn",
+          "gloss": "sweep up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "狼藉",
+          "py": "láng jí",
+          "gloss": "devastation",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一片",
+          "py": "yī piàn",
+          "gloss": "a stretch of",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "惶恐",
+          "py": "huáng kǒng",
+          "gloss": "panic",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I fear the bone-piercing freeze",
+        "pt": "Eu temo o congelamento que atravessa os ossos"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "害怕",
+          "py": "hài pà",
+          "gloss": "fear",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "入髓",
+          "py": "rù suǐ",
+          "gloss": "bone-piercing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "冰冻",
+          "py": "bīng dòng",
+          "gloss": "freeze",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Too many lives spare none — all out of control",
+        "pt": "Vidas demais não poupam nenhuma — todas fora de controle"
+      },
+      "words": [
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "too many",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "生命",
+          "py": "shēng mìng",
+          "gloss": "lives",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无一幸免",
+          "py": "wú yī xìng miǎn",
+          "gloss": "none spared",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "失控",
+          "py": "shī kòng",
+          "gloss": "out of control",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Crash and cold",
+        "pt": "Crash and cold"
+      },
+      "words": [
+        {
+          "hz": "Crash and cold",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I fear lightning and thunder",
+        "pt": "Eu temo relâmpagos e trovões"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "害怕",
+          "py": "hài pà",
+          "gloss": "fear",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "电闪",
+          "py": "diàn shǎn",
+          "gloss": "lightning",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "雷轰",
+          "py": "léi hōng",
+          "gloss": "thunderclap",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Adults exiled, children trapped — all embracing each other",
+        "pt": "Adultos exilados, crianças presas — todos se abraçando"
+      },
+      "words": [
+        {
+          "hz": "大人",
+          "py": "dà rén",
+          "gloss": "adults",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "放逐",
+          "py": "fàng zhú",
+          "gloss": "exile",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "孩童",
+          "py": "hái tóng",
+          "gloss": "children",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被困",
+          "py": "bèi kùn",
+          "gloss": "trapped",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "相拥",
+          "py": "xiāng yōng",
+          "gloss": "embrace each other",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I fear darkness and pain",
+        "pt": "Eu temo a escuridão e a dor"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "害怕",
+          "py": "hài pà",
+          "gloss": "fear",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "黑暗",
+          "py": "hēi àn",
+          "gloss": "darkness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "伤痛",
+          "py": "shāng tòng",
+          "gloss": "pain",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Stepping on ruins, sinking deeper — all falls through",
+        "pt": "Pisando em ruínas, afundando mais — tudo cai por terra"
+      },
+      "words": [
+        {
+          "hz": "踩着",
+          "py": "cǎi zhe",
+          "gloss": "stepping on",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "废墟",
+          "py": "fèi xū",
+          "gloss": "ruins",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "越陷越深",
+          "py": "yuè xiàn yuè shēn",
+          "gloss": "sink deeper",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "落空",
+          "py": "luò kōng",
+          "gloss": "fall through",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Crash and cold",
+        "pt": "Crash and cold"
+      },
+      "words": [
+        {
+          "hz": "Crash and cold",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I'm drowned in the sound of ten thousand people",
+        "pt": "Estou afogado no som de dez mil pessoas"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "淹没",
+          "py": "yān mò",
+          "gloss": "drown",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "万人",
+          "py": "wàn rén",
+          "gloss": "ten thousand people",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "声响",
+          "py": "shēng xiǎng",
+          "gloss": "sound",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Tears can no longer cover the sorrow",
+        "pt": "As lágrimas já não conseguem cobrir a tristeza"
+      },
+      "words": [
+        {
+          "hz": "眼泪",
+          "py": "yǎn lèi",
+          "gloss": "tears",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "盖不住",
+          "py": "gài bù zhù",
+          "gloss": "cannot cover",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "哀伤",
+          "py": "āi shāng",
+          "gloss": "sorrow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Never give up",
+        "pt": "Never give up"
+      },
+      "words": [
+        {
+          "hz": "Never give up",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I sense the desolation of this tsunami",
+        "pt": "Eu sinto a desolação deste tsunami"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "感应",
+          "py": "gǎn yìng",
+          "gloss": "sense",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "海啸",
+          "py": "hǎi xiào",
+          "gloss": "tsunami",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "悲凉",
+          "py": "bēi liáng",
+          "gloss": "desolation",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Shattering this prison of myriad sounds",
+        "pt": "Estilhaçando esta prisão de miríades de sons"
+      },
+      "words": [
+        {
+          "hz": "拆碎",
+          "py": "chāi suì",
+          "gloss": "shatter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这座",
+          "py": "zhè zuò",
+          "gloss": "this",
+          "hsk": 3,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "万籁",
+          "py": "wàn lài",
+          "gloss": "myriad sounds",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "牢房",
+          "py": "láo fáng",
+          "gloss": "prison",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Never give up",
+        "pt": "Never give up"
+      },
+      "words": [
+        {
+          "hz": "Never give up",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I'm drowned in the sound of ten thousand people",
+        "pt": "Estou afogado no som de dez mil pessoas"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "淹没",
+          "py": "yān mò",
+          "gloss": "drown",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "万人",
+          "py": "wàn rén",
+          "gloss": "ten thousand people",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "声响",
+          "py": "shēng xiǎng",
+          "gloss": "sound",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Tears can no longer cover the sorrow",
+        "pt": "As lágrimas já não conseguem cobrir a tristeza"
+      },
+      "words": [
+        {
+          "hz": "眼泪",
+          "py": "yǎn lèi",
+          "gloss": "tears",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "盖不住",
+          "py": "gài bù zhù",
+          "gloss": "cannot cover",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "哀伤",
+          "py": "āi shāng",
+          "gloss": "sorrow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Never give up",
+        "pt": "Never give up"
+      },
+      "words": [
+        {
+          "hz": "Never give up",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I sense the desolation of this tsunami",
+        "pt": "Eu sinto a desolação deste tsunami"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "感应",
+          "py": "gǎn yìng",
+          "gloss": "sense",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "海啸",
+          "py": "hǎi xiào",
+          "gloss": "tsunami",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "悲凉",
+          "py": "bēi liáng",
+          "gloss": "desolation",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Shattering this prison of myriad sounds",
+        "pt": "Estilhaçando esta prisão de miríades de sons"
+      },
+      "words": [
+        {
+          "hz": "拆碎",
+          "py": "chāi suì",
+          "gloss": "shatter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这座",
+          "py": "zhè zuò",
+          "gloss": "this",
+          "hsk": 3,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "万籁",
+          "py": "wàn lài",
+          "gloss": "myriad sounds",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "牢房",
+          "py": "láo fáng",
+          "gloss": "prison",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Never give up",
+        "pt": "Never give up"
+      },
+      "words": [
+        {
+          "hz": "Never give up",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Afraid of the murky sky",
+        "pt": "Com medo do céu turvo"
+      },
+      "words": [
+        {
+          "hz": "害怕",
+          "py": "hài pà",
+          "gloss": "afraid",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "浑浊",
+          "py": "hún zhuó",
+          "gloss": "murky",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Huge waves sweep up devastation — all in panic",
+        "pt": "Ondas enormes varrem devastação — todos em pânico"
+      },
+      "words": [
+        {
+          "hz": "巨浪",
+          "py": "jù làng",
+          "gloss": "huge waves",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "席卷",
+          "py": "xí juǎn",
+          "gloss": "sweep up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "狼藉",
+          "py": "láng jí",
+          "gloss": "devastation",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一片",
+          "py": "yī piàn",
+          "gloss": "a stretch of",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "惶恐",
+          "py": "huáng kǒng",
+          "gloss": "panic",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I fear the bone-piercing freeze",
+        "pt": "Eu temo o congelamento que atravessa os ossos"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "害怕",
+          "py": "hài pà",
+          "gloss": "fear",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "入髓",
+          "py": "rù suǐ",
+          "gloss": "bone-piercing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "冰冻",
+          "py": "bīng dòng",
+          "gloss": "freeze",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Too many lives spare none — all out of control",
+        "pt": "Vidas demais não poupam nenhuma — todas fora de controle"
+      },
+      "words": [
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "too many",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "生命",
+          "py": "shēng mìng",
+          "gloss": "lives",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无一幸免",
+          "py": "wú yī xìng miǎn",
+          "gloss": "none spared",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "失控",
+          "py": "shī kòng",
+          "gloss": "out of control",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}
