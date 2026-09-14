@@ -1,0 +1,3153 @@
+{
+  "id": "dou-niu",
+  "title": "斗牛",
+  "titlePinyin": "Dòu Niú",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2020 · Album \"新世界NEW WORLD\" · Track 1",
+  "lines": [
+    {
+      "translation": {
+        "en": "Follow follow hey — lining up, taking on the title of matador",
+        "pt": "Follow follow hey — enfileirando-se, assumindo o título de toureiro"
+      },
+      "words": [
+        {
+          "hz": "Follow follow",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘿",
+          "py": "hēi",
+          "gloss": "hey",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "排着队",
+          "py": "pái zhe duì",
+          "gloss": "lining up",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "担起",
+          "py": "dān qǐ",
+          "gloss": "take on",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "斗士",
+          "py": "dòu shì",
+          "gloss": "matador",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "称谓",
+          "py": "chēng wèi",
+          "gloss": "title",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ladies and gentlemen, your nobility never fades",
+        "pt": "Senhoras e senhores, vossa nobreza nunca desvanece"
+      },
+      "words": [
+        {
+          "hz": "先生们",
+          "py": "xiān sheng men",
+          "gloss": "gentlemen",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "尊贵",
+          "py": "zūn guì",
+          "gloss": "noble",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "永不",
+          "py": "yǒng bù",
+          "gloss": "never",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "褪",
+          "py": "tuì",
+          "gloss": "fade",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The magnificence of Iberia",
+        "pt": "A magnificência da Ibéria"
+      },
+      "words": [
+        {
+          "hz": "伊比利亚",
+          "py": "Yī bǐ lì yà",
+          "gloss": "Iberia",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "壮美",
+          "py": "zhuàng měi",
+          "gloss": "magnificence",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The scorching sun tears the air apart — ten thousand dance and raise their cups",
+        "pt": "O sol escaldante rasga o ar — dez mil dançam e erguem suas taças"
+      },
+      "words": [
+        {
+          "hz": "烈日",
+          "py": "liè rì",
+          "gloss": "scorching sun",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "空气",
+          "py": "kōng qì",
+          "gloss": "air",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "撕碎",
+          "py": "sī suì",
+          "gloss": "tear apart",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "万人场",
+          "py": "wàn rén chǎng",
+          "gloss": "ten-thousand crowd",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "共舞",
+          "py": "gòng wǔ",
+          "gloss": "dance together",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "举杯",
+          "py": "jǔ bēi",
+          "gloss": "raise cup",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Conquering the battlefield monument — the hidden strategy is precious",
+        "pt": "Conquistando o monumento do campo de batalha — a estratégia oculta é preciosa"
+      },
+      "words": [
+        {
+          "hz": "攻克",
+          "py": "gōng kè",
+          "gloss": "conquer",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "下",
+          "py": "xià",
+          "gloss": "down",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "沙场",
+          "py": "shā chǎng",
+          "gloss": "battlefield",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "丰碑",
+          "py": "fēng bēi",
+          "gloss": "monument",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "暗藏",
+          "py": "àn cáng",
+          "gloss": "hidden",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "谋略",
+          "py": "móu lüè",
+          "gloss": "strategy",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "可贵",
+          "py": "kě guì",
+          "gloss": "precious",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mer, follow us — Mer",
+        "pt": "Mer, siga-nos — Mer"
+      },
+      "words": [
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "跟着",
+          "py": "gēn zhe",
+          "gloss": "follow",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "us",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Follow follow hey — waiting for whom",
+        "pt": "Follow follow hey — esperando por quem"
+      },
+      "words": [
+        {
+          "hz": "Follow follow",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘿",
+          "py": "hēi",
+          "gloss": "hey",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "等着",
+          "py": "děng zhe",
+          "gloss": "waiting for",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "whom",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Please line up at the bullpen — solemn and sacred, each holding the other in awe",
+        "pt": "Por favor, enfileirem-se no curral — solene e sagrado, cada um reverenciando o outro"
+      },
+      "words": [
+        {
+          "hz": "请",
+          "py": "qǐng",
+          "gloss": "please",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "牛栏",
+          "py": "niú lán",
+          "gloss": "bullpen",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "推列",
+          "py": "tuī liè",
+          "gloss": "line up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "出位",
+          "py": "chū wèi",
+          "gloss": "step out",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "庄严",
+          "py": "zhuāng yán",
+          "gloss": "solemn",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "神圣",
+          "py": "shén shèng",
+          "gloss": "sacred",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "彼此",
+          "py": "bǐ cǐ",
+          "gloss": "each other",
+          "hsk": 6,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "敬畏",
+          "py": "jìng wèi",
+          "gloss": "awe",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Raise the chest and bow, meeting each other",
+        "pt": "Erguer o peito e curvar-se, encontrando-se"
+      },
+      "words": [
+        {
+          "hz": "昂起",
+          "py": "áng qǐ",
+          "gloss": "raise",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "胸",
+          "py": "xiōng",
+          "gloss": "chest",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "鞠躬",
+          "py": "jū gōng",
+          "gloss": "bow",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "交会",
+          "py": "jiāo huì",
+          "gloss": "meet",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Silk red robe set with golden tassels — the side profile kills, piercing through light",
+        "pt": "Túnica de seda vermelha cravejada de borlas douradas — o perfil mata, perfurando a luz"
+      },
+      "words": [
+        {
+          "hz": "绸制",
+          "py": "chóu zhì",
+          "gloss": "silk-made",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "红衣",
+          "py": "hóng yī",
+          "gloss": "red robe",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "镶",
+          "py": "xiāng",
+          "gloss": "inlay",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "金穗",
+          "py": "jīn suì",
+          "gloss": "golden tassel",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "侧颜",
+          "py": "cè yán",
+          "gloss": "side profile",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "杀",
+          "py": "shā",
+          "gloss": "kill",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "刺透",
+          "py": "cì tòu",
+          "gloss": "pierce through",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "光锐",
+          "py": "guāng ruì",
+          "gloss": "sharp light",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Suddenly horns blast together — the arena sweeps up sand and dust",
+        "pt": "De repente as trombetas soam juntas — a arena varre areia e poeira"
+      },
+      "words": [
+        {
+          "hz": "猛然间",
+          "py": "měng rán jiān",
+          "gloss": "suddenly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "号角",
+          "py": "hào jiǎo",
+          "gloss": "horn",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "齐吹",
+          "py": "qí chuī",
+          "gloss": "blow together",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "竞技场",
+          "py": "jìng jì chǎng",
+          "gloss": "arena",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "席卷",
+          "py": "xí juǎn",
+          "gloss": "sweep up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "沙灰",
+          "py": "shā huī",
+          "gloss": "sand and dust",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mer, follow us — Mer",
+        "pt": "Mer, siga-nos — Mer"
+      },
+      "words": [
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "跟着",
+          "py": "gēn zhe",
+          "gloss": "follow",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "us",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Circling the ring, provoking it to gallop endlessly",
+        "pt": "Dando voltas na arena, provocando-o a galopar sem parar"
+      },
+      "words": [
+        {
+          "hz": "绕场",
+          "py": "rào chǎng",
+          "gloss": "circle the ring",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "引逗",
+          "py": "yǐn dòu",
+          "gloss": "provoke",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "飞奔",
+          "py": "fēi bēn",
+          "gloss": "gallop",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不休",
+          "py": "bù xiū",
+          "gloss": "endlessly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Fighting several rounds, the domineering spirit leaks out",
+        "pt": "Lutando vários rounds, o espírito dominador escapa"
+      },
+      "words": [
+        {
+          "hz": "战",
+          "py": "zhàn",
+          "gloss": "fight",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "上",
+          "py": "shàng",
+          "gloss": "up",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "几个",
+          "py": "jǐ gè",
+          "gloss": "several",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "回合",
+          "py": "huí hé",
+          "gloss": "rounds",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "霸气",
+          "py": "bà qì",
+          "gloss": "domineering spirit",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "泄露",
+          "py": "xiè lòu",
+          "gloss": "leak",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The lancer locks onto the rhythm",
+        "pt": "O lanceiro trava no ritmo"
+      },
+      "words": [
+        {
+          "hz": "长矛手",
+          "py": "cháng máo shǒu",
+          "gloss": "lancer",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "卡准",
+          "py": "kǎ zhǔn",
+          "gloss": "lock onto",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "节奏",
+          "py": "jié zòu",
+          "gloss": "rhythm",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mer, follow us — Mer",
+        "pt": "Mer, siga-nos — Mer"
+      },
+      "words": [
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "跟着",
+          "py": "gēn zhe",
+          "gloss": "follow",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "us",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The stab pierces the back — its blood vessels burst",
+        "pt": "A estocada perfura as costas — seus vasos sanguíneos estouram"
+      },
+      "words": [
+        {
+          "hz": "刺扎",
+          "py": "cì zhā",
+          "gloss": "stab",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "背部",
+          "py": "bèi bù",
+          "gloss": "back",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "its",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "血管",
+          "py": "xuè guǎn",
+          "gloss": "blood vessel",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "爆破",
+          "py": "bào pò",
+          "gloss": "burst",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "After being enraged it turns violent like an enemy",
+        "pt": "Depois de enfurecido, ele se torna violento como um inimigo"
+      },
+      "words": [
+        {
+          "hz": "激怒",
+          "py": "jī nù",
+          "gloss": "enrage",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "过后",
+          "py": "guò hòu",
+          "gloss": "afterwards",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "立刻",
+          "py": "lì kè",
+          "gloss": "immediately",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "凶暴",
+          "py": "xiōng bào",
+          "gloss": "violent",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "如",
+          "py": "rú",
+          "gloss": "like",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "仇",
+          "py": "chóu",
+          "gloss": "enemy",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The banderillero attaches the golden hook",
+        "pt": "O bandarilheiro prende o gancho dourado"
+      },
+      "words": [
+        {
+          "hz": "花镖手",
+          "py": "huā biāo shǒu",
+          "gloss": "banderillero",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "插上",
+          "py": "chā shàng",
+          "gloss": "attach",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "金钩",
+          "py": "jīn gōu",
+          "gloss": "golden hook",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mer, follow us — Mer",
+        "pt": "Mer, siga-nos — Mer"
+      },
+      "words": [
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "跟着",
+          "py": "gēn zhe",
+          "gloss": "follow",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "us",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Repeating the Veronica pass",
+        "pt": "Repetindo o movimento Verónica"
+      },
+      "words": [
+        {
+          "hz": "重复",
+          "py": "chóng fù",
+          "gloss": "repeat",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "贝罗尼卡",
+          "py": "Bèi luó ní kǎ",
+          "gloss": "Veronica",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "动作",
+          "py": "dòng zuò",
+          "gloss": "movement",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Wildness lays bare a pure soul — or acts recklessly",
+        "pt": "A selvageria expõe uma alma pura — ou age imprudentemente"
+      },
+      "words": [
+        {
+          "hz": "野性",
+          "py": "yě xìng",
+          "gloss": "wildness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "坦露",
+          "py": "tǎn lù",
+          "gloss": "lay bare",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "纯粹",
+          "py": "chún cuì",
+          "gloss": "pure",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "肆意",
+          "py": "sì yì",
+          "gloss": "wantonly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "妄为",
+          "py": "wàng wéi",
+          "gloss": "act recklessly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Until, having personally cultivated original sin",
+        "pt": "Até que, tendo cultivado pessoalmente o pecado original"
+      },
+      "words": [
+        {
+          "hz": "直到",
+          "py": "zhí dào",
+          "gloss": "until",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "亲手",
+          "py": "qīn shǒu",
+          "gloss": "personally",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "栽培",
+          "py": "zāi péi",
+          "gloss": "cultivate",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "原罪",
+          "py": "yuán zuì",
+          "gloss": "original sin",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only to destroy it again",
+        "pt": "Só para destruí-lo novamente"
+      },
+      "words": [
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "摧毁",
+          "py": "cuī huǐ",
+          "gloss": "destroy",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Follow follow hey — raise your brow",
+        "pt": "Follow follow hey — erga a sobrancelha"
+      },
+      "words": [
+        {
+          "hz": "Follow follow",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘿",
+          "py": "hēi",
+          "gloss": "hey",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "扬着眉",
+          "py": "yáng zhe méi",
+          "gloss": "raising brow",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Charging head-on with a forceful stab, until the heart stops and it returns",
+        "pt": "Avançando de frente com uma estocada forte, até o coração parar e ele voltar"
+      },
+      "words": [
+        {
+          "hz": "迎面",
+          "py": "yíng miàn",
+          "gloss": "head-on",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "冲",
+          "py": "chōng",
+          "gloss": "charge",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "用力",
+          "py": "yòng lì",
+          "gloss": "with force",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "刺怼",
+          "py": "cì duì",
+          "gloss": "stab at",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "直到",
+          "py": "zhí dào",
+          "gloss": "until",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "心脏",
+          "py": "xīn zàng",
+          "gloss": "heart",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "骤停",
+          "py": "zhòu tíng",
+          "gloss": "sudden stop",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "而归",
+          "py": "ér guī",
+          "gloss": "and return",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The cross sword reserves its equipment",
+        "pt": "A espada em cruz reserva seu equipamento"
+      },
+      "words": [
+        {
+          "hz": "十字剑",
+          "py": "shí zì jiàn",
+          "gloss": "cross sword",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "候补",
+          "py": "hòu bǔ",
+          "gloss": "substitute",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "装备",
+          "py": "zhuāng bèi",
+          "gloss": "equipment",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mixed with the aftertaste of celebration — no tears in the pool of blood",
+        "pt": "Misturado com o retrogosto da celebração — sem lágrimas na poça de sangue"
+      },
+      "words": [
+        {
+          "hz": "混合",
+          "py": "hùn hé",
+          "gloss": "mix",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "庆典",
+          "py": "qìng diǎn",
+          "gloss": "celebration",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "余味",
+          "py": "yú wèi",
+          "gloss": "aftertaste",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "血泊",
+          "py": "xuè pō",
+          "gloss": "pool of blood",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "no",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "眼泪",
+          "py": "yǎn lèi",
+          "gloss": "tears",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The bull is dragged back by the decorated float — its savagery in public view",
+        "pt": "O touro é arrastado de volta pela carruagem decorada — sua selvageria à vista de todos"
+      },
+      "words": [
+        {
+          "hz": "公牛",
+          "py": "gōng niú",
+          "gloss": "bull",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "花车",
+          "py": "huā chē",
+          "gloss": "decorated float",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "拖回",
+          "py": "tuō huí",
+          "gloss": "drag back",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "野蛮",
+          "py": "yě mán",
+          "gloss": "savagery",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "众目睽睽",
+          "py": "zhòng mù kuí kuí",
+          "gloss": "in public view",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mer, follow us — Mer",
+        "pt": "Mer, siga-nos — Mer"
+      },
+      "words": [
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "跟着",
+          "py": "gēn zhe",
+          "gloss": "follow",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "us",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Follow follow hey — grinning wide",
+        "pt": "Follow follow hey — sorrindo amplamente"
+      },
+      "words": [
+        {
+          "hz": "Follow follow",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘿",
+          "py": "hēi",
+          "gloss": "hey",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "咧着嘴",
+          "py": "liě zhe zuǐ",
+          "gloss": "grinning",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Intoxicated by the smell of corpses — white handkerchiefs wave wildly across the arena",
+        "pt": "Embriagado pelo cheiro de cadáveres — lenços brancos acenam loucamente pela arena"
+      },
+      "words": [
+        {
+          "hz": "尸首",
+          "py": "shī shǒu",
+          "gloss": "corpse",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "气味",
+          "py": "qì wèi",
+          "gloss": "smell",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "陶醉",
+          "py": "táo zuì",
+          "gloss": "intoxicated",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "白色",
+          "py": "bái sè",
+          "gloss": "white",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "手帕",
+          "py": "shǒu pà",
+          "gloss": "handkerchief",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全场",
+          "py": "quán chǎng",
+          "gloss": "whole arena",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "狂挥",
+          "py": "kuáng huī",
+          "gloss": "wave wildly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The bull's ear is carried back by the matador",
+        "pt": "A orelha do touro é carregada de volta pelo toureiro"
+      },
+      "words": [
+        {
+          "hz": "牛耳",
+          "py": "niú ěr",
+          "gloss": "bull's ear",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "斗士",
+          "py": "dòu shì",
+          "gloss": "matador",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "捧回",
+          "py": "pěng huí",
+          "gloss": "carry back",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The Prince's Gate calls it the greatest — so this was what he pursued his whole life",
+        "pt": "O Portão do Príncipe o chama de o maior — então era isso que ele perseguiu a vida toda"
+      },
+      "words": [
+        {
+          "hz": "王子门",
+          "py": "Wáng zǐ mén",
+          "gloss": "Prince's Gate",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "称为",
+          "py": "chēng wéi",
+          "gloss": "be called",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "之最",
+          "py": "zhī zuì",
+          "gloss": "the greatest",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "原来",
+          "py": "yuán lái",
+          "gloss": "turns out",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一生",
+          "py": "yī shēng",
+          "gloss": "whole life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "追",
+          "py": "zhuī",
+          "gloss": "pursue",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Paying reverence to life, no matter the status",
+        "pt": "Prestando reverência à vida, não importa o status"
+      },
+      "words": [
+        {
+          "hz": "对",
+          "py": "duì",
+          "gloss": "to",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "生命",
+          "py": "shēng mìng",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "致以",
+          "py": "zhì yǐ",
+          "gloss": "pay",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "敬畏",
+          "py": "jìng wèi",
+          "gloss": "reverence",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无论",
+          "py": "wú lùn",
+          "gloss": "no matter",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "地位",
+          "py": "dì wèi",
+          "gloss": "status",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mer, follow us — Mer",
+        "pt": "Mer, siga-nos — Mer"
+      },
+      "words": [
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "跟着",
+          "py": "gēn zhe",
+          "gloss": "follow",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "us",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "Mer",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Wildness lays bare a pure soul — or acts recklessly",
+        "pt": "A selvageria expõe uma alma pura — ou age imprudentemente"
+      },
+      "words": [
+        {
+          "hz": "野性",
+          "py": "yě xìng",
+          "gloss": "wildness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "坦露",
+          "py": "tǎn lù",
+          "gloss": "lay bare",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "纯粹",
+          "py": "chún cuì",
+          "gloss": "pure",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "肆意",
+          "py": "sì yì",
+          "gloss": "wantonly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "妄为",
+          "py": "wàng wéi",
+          "gloss": "act recklessly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Wildness lays bare a pure soul — or acts recklessly",
+        "pt": "A selvageria expõe uma alma pura — ou age imprudentemente"
+      },
+      "words": [
+        {
+          "hz": "野性",
+          "py": "yě xìng",
+          "gloss": "wildness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "坦露",
+          "py": "tǎn lù",
+          "gloss": "lay bare",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "纯粹",
+          "py": "chún cuì",
+          "gloss": "pure",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "肆意",
+          "py": "sì yì",
+          "gloss": "wantonly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "妄为",
+          "py": "wàng wéi",
+          "gloss": "act recklessly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Wildness lays bare a pure soul — or acts recklessly",
+        "pt": "A selvageria expõe uma alma pura — ou age imprudentemente"
+      },
+      "words": [
+        {
+          "hz": "野性",
+          "py": "yě xìng",
+          "gloss": "wildness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "坦露",
+          "py": "tǎn lù",
+          "gloss": "lay bare",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "纯粹",
+          "py": "chún cuì",
+          "gloss": "pure",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "肆意",
+          "py": "sì yì",
+          "gloss": "wantonly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "妄为",
+          "py": "wàng wéi",
+          "gloss": "act recklessly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Wildness lays bare a pure soul — or acts recklessly",
+        "pt": "A selvageria expõe uma alma pura — ou age imprudentemente"
+      },
+      "words": [
+        {
+          "hz": "野性",
+          "py": "yě xìng",
+          "gloss": "wildness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "坦露",
+          "py": "tǎn lù",
+          "gloss": "lay bare",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "纯粹",
+          "py": "chún cuì",
+          "gloss": "pure",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "肆意",
+          "py": "sì yì",
+          "gloss": "wantonly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "妄为",
+          "py": "wàng wéi",
+          "gloss": "act recklessly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Look closer — under the magnifying glass, people flee in panic",
+        "pt": "Olhe mais de perto — sob a lupa, as pessoas fogem em pânico"
+      },
+      "words": [
+        {
+          "hz": "近看",
+          "py": "jìn kàn",
+          "gloss": "look closely",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "放大镜",
+          "py": "fàng dà jìng",
+          "gloss": "magnifying glass",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "下",
+          "py": "xià",
+          "gloss": "under",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "逃窜",
+          "py": "táo cuàn",
+          "gloss": "flee in panic",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Humanity and nature can't stay balanced — decide with a paranoid face",
+        "pt": "Humanidade e natureza não conseguem se equilibrar — decida com uma face paranoica"
+      },
+      "words": [
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "humanity",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "自然",
+          "py": "zì rán",
+          "gloss": "nature",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "平衡",
+          "py": "píng héng",
+          "gloss": "balance",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不了",
+          "py": "bù liǎo",
+          "gloss": "cannot",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "偏执",
+          "py": "piān zhí",
+          "gloss": "paranoid",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "面",
+          "py": "miàn",
+          "gloss": "face",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "决断",
+          "py": "jué duàn",
+          "gloss": "decide",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Future trouble — every mass of hot blood here, once electrified",
+        "pt": "Problemas futuros — cada massa de sangue quente aqui, uma vez eletrificada"
+      },
+      "words": [
+        {
+          "hz": "后患",
+          "py": "hòu huàn",
+          "gloss": "future trouble",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "这里",
+          "py": "zhè lǐ",
+          "gloss": "here",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "每",
+          "py": "měi",
+          "gloss": "every",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "团",
+          "py": "tuán",
+          "gloss": "mass",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "热血",
+          "py": "rè xuè",
+          "gloss": "hot blood",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "通电",
+          "py": "tōng diàn",
+          "gloss": "electrify",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "过后",
+          "py": "guò hòu",
+          "gloss": "afterwards",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Vital signs are all as predicted — if not boiling, then not joyful",
+        "pt": "Os sinais vitais estão todos como previsto — se não ferve, não é alegre"
+      },
+      "words": [
+        {
+          "hz": "体征",
+          "py": "tǐ zhēng",
+          "gloss": "vital signs",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "预料",
+          "py": "yù liào",
+          "gloss": "prediction",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "内",
+          "py": "nèi",
+          "gloss": "inside",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "沸腾",
+          "py": "fèi téng",
+          "gloss": "boil",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不欢",
+          "py": "bù huān",
+          "gloss": "not joyful",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's a dream — achieving the art palace",
+        "pt": "É um sonho — alcançando o palácio da arte"
+      },
+      "words": [
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "梦幻",
+          "py": "mèng huàn",
+          "gloss": "dreamlike",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "成就",
+          "py": "chéng jiù",
+          "gloss": "achieve",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "艺术",
+          "py": "yì shù",
+          "gloss": "art",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "宫殿",
+          "py": "gōng diàn",
+          "gloss": "palace",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Exquisite and tragic, fused into one",
+        "pt": "Exquisito e trágico, fundidos em um"
+      },
+      "words": [
+        {
+          "hz": "致美",
+          "py": "zhì měi",
+          "gloss": "exquisite",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "惨烈",
+          "py": "cǎn liè",
+          "gloss": "tragic",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "合二为一",
+          "py": "hé èr wéi yī",
+          "gloss": "fuse into one",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "There's an aesthetic habit that can't be divided",
+        "pt": "Há um hábito estético que não pode ser dividido"
+      },
+      "words": [
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "无法",
+          "py": "wú fǎ",
+          "gloss": "cannot",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "分割",
+          "py": "fēn gē",
+          "gloss": "divide",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "审美",
+          "py": "shěn měi",
+          "gloss": "aesthetic",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "习惯",
+          "py": "xí guàn",
+          "gloss": "habit",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If we swap, we can't enter — the artist's brain convolutions",
+        "pt": "Se trocarmos, não podemos entrar — as circunvoluções cerebrais do artista"
+      },
+      "words": [
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "互换",
+          "py": "hù huàn",
+          "gloss": "swap",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "进不去",
+          "py": "jìn bù qù",
+          "gloss": "cannot enter",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "艺术家",
+          "py": "yì shù jiā",
+          "gloss": "artist",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "脑回旋",
+          "py": "nǎo huí xuán",
+          "gloss": "brain convolutions",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only half the chance to master the bravery",
+        "pt": "Apenas metade da chance de dominar a bravura"
+      },
+      "words": [
+        {
+          "hz": "只有",
+          "py": "zhǐ yǒu",
+          "gloss": "only",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "一半",
+          "py": "yī bàn",
+          "gloss": "half",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "机会",
+          "py": "jī huì",
+          "gloss": "chance",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "勇猛",
+          "py": "yǒng měng",
+          "gloss": "bravery",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "玩转",
+          "py": "wán zhuǎn",
+          "gloss": "master",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Probe — how sharp our shouts are",
+        "pt": "Sondar — quão agudos são nossos gritos"
+      },
+      "words": [
+        {
+          "hz": "试探",
+          "py": "shì tàn",
+          "gloss": "probe",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们的",
+          "py": "wǒ men de",
+          "gloss": "our",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "叫声",
+          "py": "jiào shēng",
+          "gloss": "shout",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "尖",
+          "py": "jiān",
+          "gloss": "sharp",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The decibels the ear can bear",
+        "pt": "Os decibéis que o ouvido pode suportar"
+      },
+      "words": [
+        {
+          "hz": "耳朵",
+          "py": "ěr duo",
+          "gloss": "ear",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "承受",
+          "py": "chéng shòu",
+          "gloss": "bear",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "分贝",
+          "py": "fēn bèi",
+          "gloss": "decibel",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How dangerous in a man-made environment",
+        "pt": "Quão perigoso num ambiente artificial"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "人为",
+          "py": "rén wéi",
+          "gloss": "man-made",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "环境",
+          "py": "huán jìng",
+          "gloss": "environment",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "险",
+          "py": "xiǎn",
+          "gloss": "dangerous",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Like electric shock — the turbulence of dopamine secretion",
+        "pt": "Como choque elétrico — a turbulência da secreção de dopamina"
+      },
+      "words": [
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "触电",
+          "py": "chù diàn",
+          "gloss": "electric shock",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多巴胺",
+          "py": "duō bā àn",
+          "gloss": "dopamine",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "分泌",
+          "py": "fēn mì",
+          "gloss": "secrete",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "动荡",
+          "py": "dòng dàng",
+          "gloss": "turbulence",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Inserted in every detail",
+        "pt": "Inserido em cada detalhe"
+      },
+      "words": [
+        {
+          "hz": "安插",
+          "py": "ān chā",
+          "gloss": "insert",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "每个",
+          "py": "měi gè",
+          "gloss": "every",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "细节",
+          "py": "xì jié",
+          "gloss": "detail",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Millions hype it up — life hangs by a thread",
+        "pt": "Milhões fazem hype — a vida por um fio"
+      },
+      "words": [
+        {
+          "hz": "万众",
+          "py": "wàn zhòng",
+          "gloss": "millions",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "炒捧",
+          "py": "chǎo pěng",
+          "gloss": "hype up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "命悬一线",
+          "py": "mìng xuán yī xiàn",
+          "gloss": "life hangs by a thread",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Too chaotic — life was always meant to cycle",
+        "pt": "Caótico demais — a vida sempre foi feita para ciclar"
+      },
+      "words": [
+        {
+          "hz": "太",
+          "py": "tài",
+          "gloss": "too",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "混乱",
+          "py": "hùn luàn",
+          "gloss": "chaotic",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "生命",
+          "py": "shēng mìng",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "本",
+          "py": "běn",
+          "gloss": "originally",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "该",
+          "py": "gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "循环",
+          "py": "xún huán",
+          "gloss": "cycle",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Pray to end the demon — imagine a light breeze and calm clouds",
+        "pt": "Rezar para acabar com o demônio — imaginar uma brisa leve e nuvens calmas"
+      },
+      "words": [
+        {
+          "hz": "祷告",
+          "py": "dǎo gào",
+          "gloss": "pray",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "恶魔",
+          "py": "è mó",
+          "gloss": "demon",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "终结",
+          "py": "zhōng jié",
+          "gloss": "end",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "假想",
+          "py": "jiǎ xiǎng",
+          "gloss": "imagine",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "出",
+          "py": "chū",
+          "gloss": "out",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "风轻云淡",
+          "py": "fēng qīng yún dàn",
+          "gloss": "light breeze and calm clouds",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Goodness of human nature is humanity's last pride and chance of victory",
+        "pt": "A bondade da natureza humana é o último orgulho e chance de vitória da humanidade"
+      },
+      "words": [
+        {
+          "hz": "性向善",
+          "py": "xìng xiàng shàn",
+          "gloss": "goodness of nature",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "人类",
+          "py": "rén lèi",
+          "gloss": "humanity",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "最后",
+          "py": "zuì hòu",
+          "gloss": "last",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "骄傲",
+          "py": "jiāo ào",
+          "gloss": "pride",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "胜算",
+          "py": "shèng suàn",
+          "gloss": "odds of victory",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}

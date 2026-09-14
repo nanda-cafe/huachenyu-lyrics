@@ -1,0 +1,945 @@
+{
+  "id": "wei-guang",
+  "title": "微光",
+  "titlePinyin": "Wēi Guāng",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2014 · Album \"卡西莫多的礼物\" · Track 2",
+  "lines": [
+    {
+      "translation": {
+        "en": "In the darkness, I turn into a spark",
+        "pt": "Na escuridão, eu me transformo numa faísca"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "黑暗",
+          "py": "hēi àn",
+          "gloss": "darkness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "inside",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "化作",
+          "py": "huà zuò",
+          "gloss": "turn into",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一颗",
+          "py": "yī kē",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "火种",
+          "py": "huǒ zhǒng",
+          "gloss": "spark",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Wanting to light up the whole starry sky for you",
+        "pt": "Querendo iluminar todo o céu estrelado para você"
+      },
+      "words": [
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "点亮",
+          "py": "diǎn liàng",
+          "gloss": "light up",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "整片",
+          "py": "zhěng piàn",
+          "gloss": "whole",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "星空",
+          "py": "xīng kōng",
+          "gloss": "starry sky",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Following the breeze, I move into a beautiful dream",
+        "pt": "Seguindo a brisa, eu me mudo para um belo sonho"
+      },
+      "words": [
+        {
+          "hz": "追随",
+          "py": "zhuī suí",
+          "gloss": "follow",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "微风",
+          "py": "wēi fēng",
+          "gloss": "breeze",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "住进",
+          "py": "zhù jìn",
+          "gloss": "move into",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "美梦",
+          "py": "měi mèng",
+          "gloss": "beautiful dream",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "You smile, hiding in my heart",
+        "pt": "Você sorri, escondendo-se no meu coração"
+      },
+      "words": [
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "笑",
+          "py": "xiào",
+          "gloss": "smile",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "躲",
+          "py": "duǒ",
+          "gloss": "hide",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "心中",
+          "py": "xīn zhōng",
+          "gloss": "in heart",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't want fireworks, don't want starlight — just ask the thoughts inside the heart",
+        "pt": "Não quero fogos de artifício, não quero luz das estrelas — apenas pergunte aos pensamentos dentro do coração"
+      },
+      "words": [
+        {
+          "hz": "不要",
+          "py": "bù yào",
+          "gloss": "don't want",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "烟火",
+          "py": "yān huǒ",
+          "gloss": "fireworks",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不要",
+          "py": "bù yào",
+          "gloss": "don't want",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "星光",
+          "py": "xīng guāng",
+          "gloss": "starlight",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "只要",
+          "py": "zhǐ yào",
+          "gloss": "just",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "问问",
+          "py": "wèn wèn",
+          "gloss": "ask",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "内心",
+          "py": "nèi xīn",
+          "gloss": "heart",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "想法",
+          "py": "xiǎng fǎ",
+          "gloss": "thoughts",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In my world, is there a corner — a distant place you've never understood?",
+        "pt": "No meu mundo, há um canto — um lugar distante que você nunca entendeu?"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "可",
+          "py": "kě",
+          "gloss": "(question)",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "个",
+          "py": "gè",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "角落",
+          "py": "jiǎo luò",
+          "gloss": "corner",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不曾",
+          "py": "bù céng",
+          "gloss": "never",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "懂",
+          "py": "dǒng",
+          "gloss": "understand",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "远方",
+          "py": "yuǎn fāng",
+          "gloss": "distant place",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Perhaps I am a faint light, yet I want to give you a brilliant radiance",
+        "pt": "Talvez eu seja uma luz fraca, mas quero te dar um brilho radiante"
+      },
+      "words": [
+        {
+          "hz": "也许",
+          "py": "yě xǔ",
+          "gloss": "perhaps",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "am",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一道",
+          "py": "yī dào",
+          "gloss": "a",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "微光",
+          "py": "wēi guāng",
+          "gloss": "faint light",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "灿烂",
+          "py": "càn làn",
+          "gloss": "brilliant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "光芒",
+          "py": "guāng máng",
+          "gloss": "radiance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Rather let me get hurt — in the dark night, quietly for you",
+        "pt": "Prefiro me machucar — na noite escura, silenciosamente por você"
+      },
+      "words": [
+        {
+          "hz": "宁愿",
+          "py": "nìng yuàn",
+          "gloss": "rather",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "受伤",
+          "py": "shòu shāng",
+          "gloss": "get hurt",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "黑暗",
+          "py": "hēi àn",
+          "gloss": "dark",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "夜晚",
+          "py": "yè wǎn",
+          "gloss": "night",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "静静地",
+          "py": "jìng jìng de",
+          "gloss": "quietly",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "To shine alone — just let me be a faint light",
+        "pt": "Brilhar sozinho — apenas deixe-me ser uma luz fraca"
+      },
+      "words": [
+        {
+          "hz": "去",
+          "py": "qù",
+          "gloss": "go",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "孤独",
+          "py": "gū dú",
+          "gloss": "alone",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "照亮",
+          "py": "zhào liàng",
+          "gloss": "shine",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "be",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一道",
+          "py": "yī dào",
+          "gloss": "a",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "微光",
+          "py": "wēi guāng",
+          "gloss": "faint light",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Let you possess a brilliant edge",
+        "pt": "Deixar você possuir um brilho afiado"
+      },
+      "words": [
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拥有",
+          "py": "yōng yǒu",
+          "gloss": "possess",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "灿烂",
+          "py": "càn làn",
+          "gloss": "brilliant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "锋芒",
+          "py": "fēng máng",
+          "gloss": "edge",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In lonely moments, no matter where I fly, I will still bloom",
+        "pt": "Em momentos solitários, não importa para onde eu voe, ainda florescerei"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "寂寞",
+          "py": "jì mò",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "时分",
+          "py": "shí fēn",
+          "gloss": "moment",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无论",
+          "py": "wú lùn",
+          "gloss": "no matter",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "飞向",
+          "py": "fēi xiàng",
+          "gloss": "fly toward",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "何方",
+          "py": "hé fāng",
+          "gloss": "where",
+          "hsk": 6,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "绽放",
+          "py": "zhàn fàng",
+          "gloss": "bloom",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Giving you infinite faint light",
+        "pt": "Dando a você luz fraca infinita"
+      },
+      "words": [
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "无限",
+          "py": "wú xiàn",
+          "gloss": "infinite",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "微光",
+          "py": "wēi guāng",
+          "gloss": "faint light",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}

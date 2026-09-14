@@ -1,0 +1,1537 @@
+{
+  "id": "di-qiu-zhi-yan",
+  "title": "地球之盐",
+  "titlePinyin": "Dì Qiú Zhī Yán",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2015 · Album \"異類\" · Track 10",
+  "lines": [
+    {
+      "translation": {
+        "en": "The wounds of the abandoned — does it see them?",
+        "pt": "As feridas dos abandonados — ele as vê?"
+      },
+      "words": [
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "遗弃",
+          "py": "yí qì",
+          "gloss": "abandoned",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "创伤",
+          "py": "chuāng shāng",
+          "gloss": "wounds",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看到",
+          "py": "kàn dào",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The overlooked sorrow — does it hear it?",
+        "pt": "A tristeza negligenciada — ele a ouve?"
+      },
+      "words": [
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "忽略",
+          "py": "hū lüè",
+          "gloss": "overlooked",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "悲恸",
+          "py": "bēi tòng",
+          "gloss": "sorrow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "听到",
+          "py": "tīng dào",
+          "gloss": "hear",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The silent prayers — does it know them?",
+        "pt": "As orações silenciosas — ele as conhece?"
+      },
+      "words": [
+        {
+          "hz": "无声",
+          "py": "wú shēng",
+          "gloss": "silent",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "祈求",
+          "py": "qí qiú",
+          "gloss": "prayers",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "知道",
+          "py": "zhī dào",
+          "gloss": "know",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The homeless children — does it care for them?",
+        "pt": "As crianças sem-teto — ele se importa com elas?"
+      },
+      "words": [
+        {
+          "hz": "无家",
+          "py": "wú jiā",
+          "gloss": "homeless",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "孩子",
+          "py": "hái zi",
+          "gloss": "children",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "眷顾",
+          "py": "juàn gù",
+          "gloss": "care for",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Does it understand? Does it experience? Does it comprehend? Who tells me?",
+        "pt": "Ele entende? Ele experimenta? Ele compreende? Quem me diz?"
+      },
+      "words": [
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "了解",
+          "py": "liǎo jiě",
+          "gloss": "understand",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "体会",
+          "py": "tǐ huì",
+          "gloss": "experience",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "明白",
+          "py": "míng bái",
+          "gloss": "comprehend",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "告诉",
+          "py": "gào su",
+          "gloss": "tell",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The trafficked lives — does it see them?",
+        "pt": "As vidas traficadas — ele as vê?"
+      },
+      "words": [
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "贩卖",
+          "py": "fàn mài",
+          "gloss": "trafficked",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "生命",
+          "py": "shēng mìng",
+          "gloss": "lives",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看到",
+          "py": "kàn dào",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The witnessed gunshots — does it hear them?",
+        "pt": "Os tiros testemunhados — ele os ouve?"
+      },
+      "words": [
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "目击",
+          "py": "mù jī",
+          "gloss": "witnessed",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "枪声",
+          "py": "qiāng shēng",
+          "gloss": "gunshots",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "听到",
+          "py": "tīng dào",
+          "gloss": "hear",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The tears of elephants — does it know them?",
+        "pt": "As lágrimas dos elefantes — ele as conhece?"
+      },
+      "words": [
+        {
+          "hz": "大象",
+          "py": "dà xiàng",
+          "gloss": "elephants",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "眼泪",
+          "py": "yǎn lèi",
+          "gloss": "tears",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "知道",
+          "py": "zhī dào",
+          "gloss": "know",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The cries of whales — does it feel them?",
+        "pt": "Os gritos das baleias — ele os sente?"
+      },
+      "words": [
+        {
+          "hz": "鲸鱼",
+          "py": "jīng yú",
+          "gloss": "whales",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "哀鸣",
+          "py": "āi míng",
+          "gloss": "cries",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "感受",
+          "py": "gǎn shòu",
+          "gloss": "feel",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Does it pity? Does it acquiesce? Does it respond?",
+        "pt": "Ele tem piedade? Ele aquiesce? Ele responde?"
+      },
+      "words": [
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "怜悯",
+          "py": "lián mǐn",
+          "gloss": "pity",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "默许",
+          "py": "mò xǔ",
+          "gloss": "acquiesce",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "回应",
+          "py": "huí yìng",
+          "gloss": "respond",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It — I want the world to have more joy, even if my heart is cut like a knife",
+        "pt": "Ele — quero que o mundo tenha mais alegria, mesmo que meu coração seja cortado como uma faca"
+      },
+      "words": [
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "拥有",
+          "py": "yōng yǒu",
+          "gloss": "have",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "更多",
+          "py": "gèng duō",
+          "gloss": "more",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "欢乐",
+          "py": "huān lè",
+          "gloss": "joy",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "哪怕",
+          "py": "nǎ pà",
+          "gloss": "even if",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "心",
+          "py": "xīn",
+          "gloss": "heart",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "如",
+          "py": "rú",
+          "gloss": "like",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "刀割",
+          "py": "dāo gē",
+          "gloss": "cut by knife",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to use my eyes to exchange for the colors of love",
+        "pt": "Quero usar meus olhos para trocar pelas cores do amor"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "双眼",
+          "py": "shuāng yǎn",
+          "gloss": "eyes",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "来",
+          "py": "lái",
+          "gloss": "to",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "换取",
+          "py": "huàn qǔ",
+          "gloss": "exchange for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "颜色",
+          "py": "yán sè",
+          "gloss": "colors",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to use my embrace to warm all the indifference",
+        "pt": "Quero usar meu abraço para aquecer toda a indiferença"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "怀抱",
+          "py": "huái bào",
+          "gloss": "embrace",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "冷漠",
+          "py": "lěng mò",
+          "gloss": "indifference",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "温热",
+          "py": "wēn rè",
+          "gloss": "warm",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want happiness to descend, even if it exceeds my capacity",
+        "pt": "Quero que a felicidade desça, mesmo que exceda minha capacidade"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "幸福",
+          "py": "xìng fú",
+          "gloss": "happiness",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "降临",
+          "py": "jiàng lín",
+          "gloss": "descend",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "哪怕",
+          "py": "nǎ pà",
+          "gloss": "even if",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "超出",
+          "py": "chāo chū",
+          "gloss": "exceed",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "负荷",
+          "py": "fù hè",
+          "gloss": "capacity",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to use my smile to mark happiness",
+        "pt": "Quero usar meu sorriso para marcar a felicidade"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "微笑",
+          "py": "wēi xiào",
+          "gloss": "smile",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "to",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "快乐",
+          "py": "kuài lè",
+          "gloss": "happiness",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "画上",
+          "py": "huà shàng",
+          "gloss": "mark",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "记号",
+          "py": "jì hào",
+          "gloss": "mark",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to use my tears to engrave coordinates for being moved",
+        "pt": "Quero usar minhas lágrimas para gravar coordenadas para ser tocado"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "眼泪",
+          "py": "yǎn lèi",
+          "gloss": "tears",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "to",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "感动",
+          "py": "gǎn dòng",
+          "gloss": "being moved",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "刻下",
+          "py": "kè xià",
+          "gloss": "engrave",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "坐标",
+          "py": "zuò biāo",
+          "gloss": "coordinates",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to use the rest of my life to exchange for the night sky's stars shining",
+        "pt": "Quero usar o resto da minha vida para trocar pelo brilho das estrelas do céu noturno"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "余生",
+          "py": "yú shēng",
+          "gloss": "rest of my life",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "换",
+          "py": "huàn",
+          "gloss": "exchange for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "夜空",
+          "py": "yè kōng",
+          "gloss": "night sky",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "繁星",
+          "py": "fán xīng",
+          "gloss": "stars",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "闪耀",
+          "py": "shǎn yào",
+          "gloss": "shining",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to open my arms and give the world a hug",
+        "pt": "Quero abrir meus braços e dar ao mundo um abraço"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "张开",
+          "py": "zhāng kāi",
+          "gloss": "open",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "双手",
+          "py": "shuāng shǒu",
+          "gloss": "arms",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "拥抱",
+          "py": "yōng bào",
+          "gloss": "hug",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want it to hear — I want it to hear my heartbeat, even if insignificant",
+        "pt": "Quero que ele ouça — quero que ele ouça meu batimento cardíaco, mesmo que insignificante"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "听到",
+          "py": "tīng dào",
+          "gloss": "hear",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "心跳",
+          "py": "xīn tiào",
+          "gloss": "heartbeat",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "哪怕",
+          "py": "nǎ pà",
+          "gloss": "even if",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "微不足道",
+          "py": "wēi bù zú dào",
+          "gloss": "insignificant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ah ah ah — I want the world to hear — I want the world to hear my heartbeat, even if insignificant",
+        "pt": "Ah ah ah — quero que o mundo ouça — quero que o mundo ouça meu batimento cardíaco, mesmo que insignificante"
+      },
+      "words": [
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "ah",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "ah",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "ah",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想要",
+          "py": "xiǎng yào",
+          "gloss": "want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "听到",
+          "py": "tīng dào",
+          "gloss": "hear",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "心跳",
+          "py": "xīn tiào",
+          "gloss": "heartbeat",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "哪怕",
+          "py": "nǎ pà",
+          "gloss": "even if",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "微不足道",
+          "py": "wēi bù zú dào",
+          "gloss": "insignificant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    }
+  ]
+}

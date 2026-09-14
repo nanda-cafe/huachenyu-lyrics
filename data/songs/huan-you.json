@@ -1,0 +1,1161 @@
+{
+  "id": "huan-you",
+  "title": "环游",
+  "titlePinyin": "Huán Yóu",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2014 · Album \"卡西莫多的礼物\" · Track 6",
+  "lines": [
+    {
+      "translation": {
+        "en": "I am at a crowded intersection, listening to the crowd argue endlessly",
+        "pt": "Estou num cruzamento movimentado, ouvindo a multidão discutir sem parar"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "拥挤",
+          "py": "yōng jǐ",
+          "gloss": "crowded",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "路口",
+          "py": "lù kǒu",
+          "gloss": "intersection",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "听",
+          "py": "tīng",
+          "gloss": "listen",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "人群",
+          "py": "rén qún",
+          "gloss": "crowd",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "争吵",
+          "py": "zhēng chǎo",
+          "gloss": "argue",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不休",
+          "py": "bù xiū",
+          "gloss": "endlessly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Arguing over meaningless excuses — arguing left, arguing right",
+        "pt": "Discutindo por desculpas sem sentido — discutindo esquerda, discutindo direita"
+      },
+      "words": [
+        {
+          "hz": "吵着",
+          "py": "chǎo zhe",
+          "gloss": "arguing",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "无谓",
+          "py": "wú wèi",
+          "gloss": "meaningless",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "借口",
+          "py": "jiè kǒu",
+          "gloss": "excuse",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "吵着",
+          "py": "chǎo zhe",
+          "gloss": "arguing",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "向左",
+          "py": "xiàng zuǒ",
+          "gloss": "to the left",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "向右",
+          "py": "xiàng yòu",
+          "gloss": "to the right",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I travel around this planet",
+        "pt": "Eu viajo ao redor deste planeta"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "环游",
+          "py": "huán yóu",
+          "gloss": "travel around",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "颗",
+          "py": "kē",
+          "gloss": "(m.w.)",
+          "hsk": 5,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "星球",
+          "py": "xīng qiú",
+          "gloss": "planet",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Watching time fiddle with the hourglass",
+        "pt": "Vendo o tempo mexer com a ampulheta"
+      },
+      "words": [
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "watch",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "摆弄",
+          "py": "bǎi nòng",
+          "gloss": "fiddle with",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "沙漏",
+          "py": "shā lòu",
+          "gloss": "hourglass",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I don't stay in place — I stride forward",
+        "pt": "Eu não fico no lugar — eu avanço a passos largos"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "原地",
+          "py": "yuán dì",
+          "gloss": "in place",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "停留",
+          "py": "tíng liú",
+          "gloss": "stay",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "大步",
+          "py": "dà bù",
+          "gloss": "stride",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "行走",
+          "py": "xíng zǒu",
+          "gloss": "walk",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Walk — out — bril — liant — both feet fly",
+        "pt": "Caminhe — para fora — bri — lhan — te — ambos os pés voam"
+      },
+      "words": [
+        {
+          "hz": "走",
+          "py": "zǒu",
+          "gloss": "walk",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "出",
+          "py": "chū",
+          "gloss": "out",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "精",
+          "py": "jīng",
+          "gloss": "brilliant",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "彩",
+          "py": "cǎi",
+          "gloss": "splendid",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "双脚",
+          "py": "shuāng jiǎo",
+          "gloss": "both feet",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "飞",
+          "py": "fēi",
+          "gloss": "fly",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "No fatigue — flying is a stubborn flower bud",
+        "pt": "Sem fadiga — voar é um botão de flor teimoso"
+      },
+      "words": [
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "no",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "疲惫",
+          "py": "pí bèi",
+          "gloss": "fatigue",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "飞翔",
+          "py": "fēi xiáng",
+          "gloss": "flying",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "倔强",
+          "py": "jué jiàng",
+          "gloss": "stubborn",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "花蕾",
+          "py": "huā lěi",
+          "gloss": "flower bud",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sunlight flies — no sorrow — the world is bright",
+        "pt": "A luz do sol voa — sem tristeza — o mundo é brilhante"
+      },
+      "words": [
+        {
+          "hz": "阳光",
+          "py": "yáng guāng",
+          "gloss": "sunlight",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "飞",
+          "py": "fēi",
+          "gloss": "fly",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "no",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "伤悲",
+          "py": "shāng bēi",
+          "gloss": "sorrow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "明媚",
+          "py": "míng mèi",
+          "gloss": "bright",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The other shore falls in love with searching — and the sky falls in love with running",
+        "pt": "A outra margem se apaixona por buscar — e o céu se apaixona por correr"
+      },
+      "words": [
+        {
+          "hz": "彼岸",
+          "py": "bǐ àn",
+          "gloss": "the other shore",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "爱上",
+          "py": "ài shàng",
+          "gloss": "fall in love with",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "寻找",
+          "py": "xún zhǎo",
+          "gloss": "searching",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "爱上",
+          "py": "ài shàng",
+          "gloss": "fall in love with",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "奔跑",
+          "py": "bēn pǎo",
+          "gloss": "running",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How dare we fall asleep — how dare we complain",
+        "pt": "Como ousamos adormecer — como ousamos reclamar"
+      },
+      "words": [
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "怎敢",
+          "py": "zěn gǎn",
+          "gloss": "how dare",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "睡着",
+          "py": "shuì zháo",
+          "gloss": "fall asleep",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "怎敢",
+          "py": "zěn gǎn",
+          "gloss": "how dare",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "牢骚",
+          "py": "láo sāo",
+          "gloss": "complain",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Life, this endless journey — what comes after is chasing",
+        "pt": "A vida, esta jornada sem fim — o que vem depois é perseguir"
+      },
+      "words": [
+        {
+          "hz": "生命",
+          "py": "shēng mìng",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "无休",
+          "py": "wú xiū",
+          "gloss": "endless",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "旅程",
+          "py": "lǚ chéng",
+          "gloss": "journey",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "然后",
+          "py": "rán hòu",
+          "gloss": "then",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "然后",
+          "py": "rán hòu",
+          "gloss": "then",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "追逐",
+          "py": "zhuī zhú",
+          "gloss": "chasing",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "See who will admit defeat — see who will stop",
+        "pt": "Veja quem vai admitir a derrota — veja quem vai parar"
+      },
+      "words": [
+        {
+          "hz": "看看",
+          "py": "kàn kàn",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "认输",
+          "py": "rèn shū",
+          "gloss": "admit defeat",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "停步",
+          "py": "tíng bù",
+          "gloss": "stop",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I will keep — you — com — pa — ny — bravely fly",
+        "pt": "Eu vou te — a — ca — nhar — corajosamente voar"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "路",
+          "py": "lù",
+          "gloss": "road",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "奉",
+          "py": "fèng",
+          "gloss": "accompany",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "陪",
+          "py": "péi",
+          "gloss": "accompany",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "勇敢",
+          "py": "yǒng gǎn",
+          "gloss": "bravely",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "飞",
+          "py": "fēi",
+          "gloss": "fly",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Kiss the rain — headwind makes soaring more precious",
+        "pt": "Beije a chuva — o vento contrário torna o voo mais precioso"
+      },
+      "words": [
+        {
+          "hz": "拥吻",
+          "py": "yōng wěn",
+          "gloss": "kiss",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "雨水",
+          "py": "yǔ shuǐ",
+          "gloss": "rain",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "逆风",
+          "py": "nì fēng",
+          "gloss": "headwind",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "make",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "翱翔",
+          "py": "áo xiáng",
+          "gloss": "soaring",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "珍贵",
+          "py": "zhēn guì",
+          "gloss": "precious",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Brilliantly fly — kiss intoxication — strong flower bud",
+        "pt": "Voe brilhantemente — beije a embriaguez — botão de flor forte"
+      },
+      "words": [
+        {
+          "hz": "灿烂",
+          "py": "càn làn",
+          "gloss": "brilliantly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "飞",
+          "py": "fēi",
+          "gloss": "fly",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "拥吻",
+          "py": "yōng wěn",
+          "gloss": "kiss",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "沉醉",
+          "py": "chén zuì",
+          "gloss": "intoxication",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "坚强",
+          "py": "jiān qiáng",
+          "gloss": "strong",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "花蕾",
+          "py": "huā lěi",
+          "gloss": "flower bud",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Flying flowers — the sky's fireworks",
+        "pt": "Flores voadoras — fogos de artifício do céu"
+      },
+      "words": [
+        {
+          "hz": "飞翔",
+          "py": "fēi xiáng",
+          "gloss": "flying",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "花朵",
+          "py": "huā duǒ",
+          "gloss": "flowers",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "焰火",
+          "py": "yàn huǒ",
+          "gloss": "fireworks",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "No need for many words — proud silence",
+        "pt": "Sem necessidade de muitas palavras — silêncio orgulhoso"
+      },
+      "words": [
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "no",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "too many",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "言说",
+          "py": "yán shuō",
+          "gloss": "words",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "骄傲",
+          "py": "jiāo ào",
+          "gloss": "proud",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "沉默",
+          "py": "chén mò",
+          "gloss": "silence",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If advancing without retreating — dreams will not fall",
+        "pt": "Se avançar sem recuar — os sonhos não cairão"
+      },
+      "words": [
+        {
+          "hz": "行进",
+          "py": "xíng jìn",
+          "gloss": "advancing",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "退缩",
+          "py": "tuì suō",
+          "gloss": "retreat",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不会",
+          "py": "bù huì",
+          "gloss": "will not",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "陨落",
+          "py": "yǔn luò",
+          "gloss": "fall",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Flying — self — bravely fly",
+        "pt": "Voando — eu — corajosamente voar"
+      },
+      "words": [
+        {
+          "hz": "飞翔",
+          "py": "fēi xiáng",
+          "gloss": "flying",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "自我",
+          "py": "zì wǒ",
+          "gloss": "self",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "勇敢",
+          "py": "yǒng gǎn",
+          "gloss": "bravely",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "飞",
+          "py": "fēi",
+          "gloss": "fly",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

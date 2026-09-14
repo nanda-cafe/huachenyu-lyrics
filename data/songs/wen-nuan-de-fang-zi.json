@@ -1,0 +1,1979 @@
+{
+  "id": "wen-nuan-de-fang-zi",
+  "title": "温暖的房子",
+  "titlePinyin": "Wēn Nuǎn De Fáng Zi",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2025 · Album \"量变临界点\" · Track 7",
+  "lines": [
+    {
+      "translation": {
+        "en": "The window is very old — open my eyes and I can see the hills",
+        "pt": "A janela é muito velha — abro os olhos e posso ver as colinas"
+      },
+      "words": [
+        {
+          "hz": "窗户",
+          "py": "chuāng hu",
+          "gloss": "window",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "很旧",
+          "py": "hěn jiù",
+          "gloss": "very old",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "睁开",
+          "py": "zhēng kāi",
+          "gloss": "open",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "眼",
+          "py": "yǎn",
+          "gloss": "eye",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "看得到",
+          "py": "kàn de dào",
+          "gloss": "can see",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "山丘",
+          "py": "shān qiū",
+          "gloss": "hills",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Beside the chimney there's a mischievous puppy rubbing my ankles",
+        "pt": "Ao lado da chaminé há um filhote travesso esfregando meus tornozelos"
+      },
+      "words": [
+        {
+          "hz": "烟囱",
+          "py": "yān cōng",
+          "gloss": "chimney",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "旁",
+          "py": "páng",
+          "gloss": "beside",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "磨蹭",
+          "py": "mó ceng",
+          "gloss": "rub",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "脚踝",
+          "py": "jiǎo huái",
+          "gloss": "ankle",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "淘气",
+          "py": "táo qì",
+          "gloss": "mischievous",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "小狗",
+          "py": "xiǎo gǒu",
+          "gloss": "puppy",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The milk is still hot, warm enough for my shallow chest",
+        "pt": "O leite ainda está quente, quente o suficiente para meu peito raso"
+      },
+      "words": [
+        {
+          "hz": "牛奶",
+          "py": "niú nǎi",
+          "gloss": "milk",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "依旧",
+          "py": "yī jiù",
+          "gloss": "still",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "很热",
+          "py": "hěn rè",
+          "gloss": "very hot",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "足够",
+          "py": "zú gòu",
+          "gloss": "enough",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "温暖",
+          "py": "wēn nuǎn",
+          "gloss": "warm",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "浅浅",
+          "py": "qiǎn qiǎn",
+          "gloss": "shallow",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "胸口",
+          "py": "xiōng kǒu",
+          "gloss": "chest",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The vastness on the rocking chair — perhaps only adults deserve to have it",
+        "pt": "A vastidão na cadeira de balanço — talvez só adultos mereçam tê-la"
+      },
+      "words": [
+        {
+          "hz": "摇椅",
+          "py": "yáo yǐ",
+          "gloss": "rocking chair",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "上",
+          "py": "shàng",
+          "gloss": "on",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "辽阔",
+          "py": "liáo kuò",
+          "gloss": "vastness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "也许",
+          "py": "yě xǔ",
+          "gloss": "perhaps",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "成年",
+          "py": "chéng nián",
+          "gloss": "adulthood",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "配",
+          "py": "pèi",
+          "gloss": "deserve",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "拥有",
+          "py": "yōng yǒu",
+          "gloss": "have",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The house is very old — so old that even sorrow is running away",
+        "pt": "A casa é muito velha — tão velha que até a tristeza está fugindo"
+      },
+      "words": [
+        {
+          "hz": "房子",
+          "py": "fáng zi",
+          "gloss": "house",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "很旧",
+          "py": "hěn jiù",
+          "gloss": "very old",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "旧",
+          "py": "jiù",
+          "gloss": "old",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "得",
+          "py": "de",
+          "gloss": "so that",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "连",
+          "py": "lián",
+          "gloss": "even",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "悲伤",
+          "py": "bēi shāng",
+          "gloss": "sorrow",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "逃走",
+          "py": "táo zǒu",
+          "gloss": "run away",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That attic — a bit naggy but very gentle",
+        "pt": "Aquele sótão — um pouco resmungão mas muito gentil"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "座",
+          "py": "zuò",
+          "gloss": "(m.w.)",
+          "hsk": 3,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "阁楼",
+          "py": "gé lóu",
+          "gloss": "attic",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有些",
+          "py": "yǒu xiē",
+          "gloss": "a bit",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "唠叨",
+          "py": "láo dao",
+          "gloss": "naggy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "但",
+          "py": "dàn",
+          "gloss": "but",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "温柔",
+          "py": "wēn róu",
+          "gloss": "gentle",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "There's still lots of bread — enough to comfort many waits",
+        "pt": "Ainda há muito pão — o suficiente para consolar muitas esperas"
+      },
+      "words": [
+        {
+          "hz": "面包",
+          "py": "miàn bāo",
+          "gloss": "bread",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "依旧",
+          "py": "yī jiù",
+          "gloss": "still",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "hsk": 1,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "慰藉",
+          "py": "wèi jiè",
+          "gloss": "comfort",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "好多",
+          "py": "hǎo duō",
+          "gloss": "many",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "次",
+          "py": "cì",
+          "gloss": "times",
+          "hsk": 2,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "等候",
+          "py": "děng hòu",
+          "gloss": "wait",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Childhood happiness is always outside of time",
+        "pt": "A felicidade da infância está sempre fora do tempo"
+      },
+      "words": [
+        {
+          "hz": "小时候",
+          "py": "xiǎo shí hou",
+          "gloss": "childhood",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "快乐",
+          "py": "kuài lè",
+          "gloss": "happiness",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就是",
+          "py": "jiù shì",
+          "gloss": "is exactly",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "永远",
+          "py": "yǒng yuǎn",
+          "gloss": "forever",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "外头",
+          "py": "wài tou",
+          "gloss": "outside",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ahh — forgot, slept, for how long",
+        "pt": "Ahh — esqueci, dormi, por quanto tempo"
+      },
+      "words": [
+        {
+          "hz": "Ahh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "忘了",
+          "py": "wàng le",
+          "gloss": "forgot",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "睡了",
+          "py": "shuì le",
+          "gloss": "slept",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多久",
+          "py": "duō jiǔ",
+          "gloss": "how long",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ahh — the dream again drives away sorrow",
+        "pt": "Ahh — o sonho novamente afasta a tristeza"
+      },
+      "words": [
+        {
+          "hz": "Ahh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "赶走",
+          "py": "gǎn zǒu",
+          "gloss": "drive away",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "忧愁",
+          "py": "yōu chóu",
+          "gloss": "sorrow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The sky full of stars won't understand either",
+        "pt": "O céu cheio de estrelas também não entenderá"
+      },
+      "words": [
+        {
+          "hz": "漫天",
+          "py": "màn tiān",
+          "gloss": "all over the sky",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "星",
+          "py": "xīng",
+          "gloss": "star",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不会",
+          "py": "bù huì",
+          "gloss": "will not",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "懂",
+          "py": "dǒng",
+          "gloss": "understand",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Even if the wind always leaves, even if the night falls",
+        "pt": "Mesmo que o vento sempre vá embora, mesmo que a noite caia"
+      },
+      "words": [
+        {
+          "hz": "就算",
+          "py": "jiù suàn",
+          "gloss": "even if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "总",
+          "py": "zǒng",
+          "gloss": "always",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "离开",
+          "py": "lí kāi",
+          "gloss": "leave",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "就算",
+          "py": "jiù suàn",
+          "gloss": "even if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "黑夜",
+          "py": "hēi yè",
+          "gloss": "night",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "降下来",
+          "py": "jiàng xià lái",
+          "gloss": "fall down",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "As long as I sleep in my warm house",
+        "pt": "Contanto que eu durma na minha casa quente"
+      },
+      "words": [
+        {
+          "hz": "只要",
+          "py": "zhǐ yào",
+          "gloss": "as long as",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "睡",
+          "py": "shuì",
+          "gloss": "sleep",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "温暖",
+          "py": "wēn nuǎn",
+          "gloss": "warm",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "房子",
+          "py": "fáng zi",
+          "gloss": "house",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I still possess everything",
+        "pt": "Eu ainda possuo tudo"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "拥有",
+          "py": "yōng yǒu",
+          "gloss": "possess",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "everything",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Adults are all afraid of the silent hounds by the road",
+        "pt": "Os adultos todos têm medo dos cães silenciosos à beira da estrada"
+      },
+      "words": [
+        {
+          "hz": "大人们",
+          "py": "dà rén men",
+          "gloss": "adults",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "害怕",
+          "py": "hài pà",
+          "gloss": "afraid",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "路边",
+          "py": "lù biān",
+          "gloss": "roadside",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "沉默",
+          "py": "chén mò",
+          "gloss": "silent",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "猎狗",
+          "py": "liè gǒu",
+          "gloss": "hound",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Why don't they, after growing up, resemble their childhood selves",
+        "pt": "Por que eles, depois de crescer, não se parecem com sua infância"
+      },
+      "words": [
+        {
+          "hz": "为何",
+          "py": "wèi hé",
+          "gloss": "why",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "它们",
+          "py": "tā men",
+          "gloss": "they",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "长大",
+          "py": "zhǎng dà",
+          "gloss": "grow up",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "resemble",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "小时候",
+          "py": "xiǎo shí hou",
+          "gloss": "childhood",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "My playmate always says he wants to see a universe full of stars",
+        "pt": "Meu companheiro de brincadeiras sempre diz que quer ver um universo cheio de estrelas"
+      },
+      "words": [
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "玩伴",
+          "py": "wán bàn",
+          "gloss": "playmate",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "总",
+          "py": "zǒng",
+          "gloss": "always",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "装满",
+          "py": "zhuāng mǎn",
+          "gloss": "filled with",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "星星",
+          "py": "xīng xing",
+          "gloss": "stars",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "宇宙",
+          "py": "yǔ zhòu",
+          "gloss": "universe",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The tireless bird — can you please not take everything away",
+        "pt": "O pássaro incansável — pode por favor não levar tudo embora"
+      },
+      "words": [
+        {
+          "hz": "不知疲倦",
+          "py": "bù zhī pí juàn",
+          "gloss": "tireless",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "鸟",
+          "py": "niǎo",
+          "gloss": "bird",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "能不能",
+          "py": "néng bù néng",
+          "gloss": "can or cannot",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "一切",
+          "py": "yī qiè",
+          "gloss": "everything",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "带走",
+          "py": "dài zǒu",
+          "gloss": "take away",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ahh — forgot, slept, for how long",
+        "pt": "Ahh — esqueci, dormi, por quanto tempo"
+      },
+      "words": [
+        {
+          "hz": "Ahh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "忘了",
+          "py": "wàng le",
+          "gloss": "forgot",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "睡了",
+          "py": "shuì le",
+          "gloss": "slept",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多久",
+          "py": "duō jiǔ",
+          "gloss": "how long",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ahh — waking up, full of sorrow",
+        "pt": "Ahh — acordando, cheio de tristeza"
+      },
+      "words": [
+        {
+          "hz": "Ahh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "醒来",
+          "py": "xǐng lái",
+          "gloss": "wake up",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "满是",
+          "py": "mǎn shì",
+          "gloss": "full of",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "忧愁",
+          "py": "yōu chóu",
+          "gloss": "sorrow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mom and Dad — can you hold my hand",
+        "pt": "Mamãe e papai — vocês podem segurar minha mão"
+      },
+      "words": [
+        {
+          "hz": "爸爸",
+          "py": "bà ba",
+          "gloss": "dad",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "可不可以",
+          "py": "kě bù kě yǐ",
+          "gloss": "may I",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "牵",
+          "py": "qiān",
+          "gloss": "hold",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "手",
+          "py": "shǒu",
+          "gloss": "hand",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I will absolutely not run away",
+        "pt": "Eu absolutamente não vou fugir"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "绝",
+          "py": "jué",
+          "gloss": "absolutely",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不会",
+          "py": "bù huì",
+          "gloss": "will not",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "逃走",
+          "py": "táo zǒu",
+          "gloss": "run away",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Woo — forgot, slept, for how long",
+        "pt": "Woo — esqueci, dormi, por quanto tempo"
+      },
+      "words": [
+        {
+          "hz": "Woo",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "忘了",
+          "py": "wàng le",
+          "gloss": "forgot",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "睡了",
+          "py": "shuì le",
+          "gloss": "slept",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多久",
+          "py": "duō jiǔ",
+          "gloss": "how long",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ahh — long since accustomed to sorrow",
+        "pt": "Ahh — há muito acostumado com a tristeza"
+      },
+      "words": [
+        {
+          "hz": "Ahh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "早就",
+          "py": "zǎo jiù",
+          "gloss": "long since",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "习惯",
+          "py": "xí guàn",
+          "gloss": "accustomed",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "忧愁",
+          "py": "yōu chóu",
+          "gloss": "sorrow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "And I have already left that warm house for too long",
+        "pt": "E eu já deixei aquela casa quente por tempo demais"
+      },
+      "words": [
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "离开",
+          "py": "lí kāi",
+          "gloss": "leave",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "温暖",
+          "py": "wēn nuǎn",
+          "gloss": "warm",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "房子",
+          "py": "fáng zi",
+          "gloss": "house",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "太久",
+          "py": "tài jiǔ",
+          "gloss": "too long",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Deep in my heart, after some rumble, I still remember",
+        "pt": "No fundo do meu coração, depois de algum estrondo, ainda me lembro"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "心底",
+          "py": "xīn dǐ",
+          "gloss": "bottom of heart",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "某个",
+          "py": "mǒu gè",
+          "gloss": "a certain",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "轰鸣",
+          "py": "hōng míng",
+          "gloss": "rumble",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "记得",
+          "py": "jì de",
+          "gloss": "remember",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The small notch carved into the bedhead",
+        "pt": "O pequeno entalhe gravado na cabeceira"
+      },
+      "words": [
+        {
+          "hz": "刻在",
+          "py": "kè zài",
+          "gloss": "carved on",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "床头",
+          "py": "chuáng tóu",
+          "gloss": "bedhead",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "小小",
+          "py": "xiǎo xiǎo",
+          "gloss": "small",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "缺口",
+          "py": "quē kǒu",
+          "gloss": "notch",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "And I also remember Mom and Dad kissing my forehead",
+        "pt": "E também me lembro de mamãe e papai beijando minha testa"
+      },
+      "words": [
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "记得",
+          "py": "jì de",
+          "gloss": "remember",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "爸爸",
+          "py": "bà ba",
+          "gloss": "dad",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "亲吻",
+          "py": "qīn wěn",
+          "gloss": "kiss",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "额头",
+          "py": "é tóu",
+          "gloss": "forehead",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Perhaps now it's nothing but a dream",
+        "pt": "Talvez agora não seja nada além de um sonho"
+      },
+      "words": [
+        {
+          "hz": "也许",
+          "py": "yě xǔ",
+          "gloss": "perhaps",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "现在",
+          "py": "xiàn zài",
+          "gloss": "now",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不过",
+          "py": "bù guò",
+          "gloss": "nothing but",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Darling, we will very soon, very soon be able to be together again",
+        "pt": "Querido, muito em breve, muito em breve poderemos estar juntos novamente"
+      },
+      "words": [
+        {
+          "hz": "宝贝",
+          "py": "bǎo bèi",
+          "gloss": "darling",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "很快",
+          "py": "hěn kuài",
+          "gloss": "very soon",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "很快",
+          "py": "hěn kuài",
+          "gloss": "very soon",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "相守",
+          "py": "xiāng shǒu",
+          "gloss": "stay together",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only after losing the warm house",
+        "pt": "Só depois de perder a casa quente"
+      },
+      "words": [
+        {
+          "hz": "只是",
+          "py": "zhǐ shì",
+          "gloss": "only",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "失去",
+          "py": "shī qù",
+          "gloss": "lose",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "温暖",
+          "py": "wēn nuǎn",
+          "gloss": "warm",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "房子",
+          "py": "fáng zi",
+          "gloss": "house",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I lost my pillow",
+        "pt": "Eu perdi meu travesseiro"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "弄丢",
+          "py": "nòng diū",
+          "gloss": "lose",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "枕头",
+          "py": "zhěn tou",
+          "gloss": "pillow",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}

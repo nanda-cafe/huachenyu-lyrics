@@ -1,0 +1,568 @@
+{
+  "id": "for-forever",
+  "title": "For Forever",
+  "titlePinyin": "For Forever",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2017 · Album \"H\" · Track 5",
+  "lines": [
+    {
+      "translation": {
+        "en": "I told him",
+        "pt": "Eu disse a ele"
+      },
+      "words": [
+        {
+          "hz": "I told him",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I told him some things never last forever",
+        "pt": "Eu disse a ele que algumas coisas nunca duram para sempre"
+      },
+      "words": [
+        {
+          "hz": "I told him",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "some things",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "never last forever",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sometimes they do — but not forever",
+        "pt": "Às vezes elas duram — mas não para sempre"
+      },
+      "words": [
+        {
+          "hz": "Sometimes they do",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "but not forever",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "And now I see for real",
+        "pt": "E agora eu vejo de verdade"
+      },
+      "words": [
+        {
+          "hz": "And now",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "I see for real",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I think I really do — but never for forever",
+        "pt": "Acho que realmente vejo — mas nunca para sempre"
+      },
+      "words": [
+        {
+          "hz": "I think I really do",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "but never for forever",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "As I can see the world around me",
+        "pt": "Como eu posso ver o mundo ao meu redor"
+      },
+      "words": [
+        {
+          "hz": "As I can see",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "the world around me",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I feel it deep within my bones",
+        "pt": "Eu sinto isso profundamente nos meus ossos"
+      },
+      "words": [
+        {
+          "hz": "I feel it deep",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "within my bones",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I feel it here within my soul",
+        "pt": "Eu sinto isso aqui dentro da minha alma"
+      },
+      "words": [
+        {
+          "hz": "I feel it here",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "within my soul",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "My poor lost soul",
+        "pt": "Minha pobre alma perdida"
+      },
+      "words": [
+        {
+          "hz": "My poor lost soul",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It makes me so hysterical — the way things go",
+        "pt": "Isso me deixa tão histérico — o jeito que as coisas vão"
+      },
+      "words": [
+        {
+          "hz": "It makes me so hysterical",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "the way things go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But if forever lasts till now — alright",
+        "pt": "Mas se para sempre durar até agora — tudo bem"
+      },
+      "words": [
+        {
+          "hz": "But if forever",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "lasts till now",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "alright",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Oh oh oh oh oh",
+        "pt": "Oh oh oh oh oh"
+      },
+      "words": [
+        {
+          "hz": "Oh oh oh oh oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Oh oh oh oh oh",
+        "pt": "Oh oh oh oh oh"
+      },
+      "words": [
+        {
+          "hz": "Oh oh oh oh oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Up in the morning light — the break of dawn",
+        "pt": "Na luz da manhã — o raiar do dia"
+      },
+      "words": [
+        {
+          "hz": "Up in the morning light",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "the break of dawn",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A never ending memory",
+        "pt": "Uma memória sem fim"
+      },
+      "words": [
+        {
+          "hz": "A never ending memory",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Rays of the sun flow down — like always",
+        "pt": "Raios de sol fluem para baixo — como sempre"
+      },
+      "words": [
+        {
+          "hz": "Rays of the sun flow down",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "like always",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If you could change the world",
+        "pt": "Se você pudesse mudar o mundo"
+      },
+      "words": [
+        {
+          "hz": "If you could change the world",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Would you make all the things that stay here for forever?",
+        "pt": "Você faria todas as coisas que ficam aqui para sempre?"
+      },
+      "words": [
+        {
+          "hz": "Would you make all the things",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "that stay here for forever?",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That might just be the way I'm feeling",
+        "pt": "Esse pode ser exatamente o jeito que estou sentindo"
+      },
+      "words": [
+        {
+          "hz": "That might just be",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "the way I'm feeling",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I feel it deep — deep in my bones",
+        "pt": "Eu sinto profundamente — no fundo dos meus ossos"
+      },
+      "words": [
+        {
+          "hz": "I feel it deep",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "deep in my bones",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I feel it shake throughout my soul",
+        "pt": "Eu sinto tremer por toda a minha alma"
+      },
+      "words": [
+        {
+          "hz": "I feel it shake",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "throughout my soul",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This poor lost soul",
+        "pt": "Esta pobre alma perdida"
+      },
+      "words": [
+        {
+          "hz": "This poor lost soul",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It makes me so hysterical — the way things go",
+        "pt": "Isso me deixa tão histérico — o jeito que as coisas vão"
+      },
+      "words": [
+        {
+          "hz": "It makes me so hysterical",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "the way things go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But if forever lasts till now — alright",
+        "pt": "Mas se para sempre durar até agora — tudo bem"
+      },
+      "words": [
+        {
+          "hz": "But if forever",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "lasts till now",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "alright",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Oh oh oh oh oh",
+        "pt": "Oh oh oh oh oh"
+      },
+      "words": [
+        {
+          "hz": "Oh oh oh oh oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Oh oh oh oh oh",
+        "pt": "Oh oh oh oh oh"
+      },
+      "words": [
+        {
+          "hz": "Oh oh oh oh oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "And if forever lasts till now — alright",
+        "pt": "E se para sempre durar até agora — tudo bem"
+      },
+      "words": [
+        {
+          "hz": "And if forever",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "lasts till now",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "alright",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    }
+  ]
+}

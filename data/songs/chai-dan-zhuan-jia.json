@@ -1,0 +1,1155 @@
+{
+  "id": "chai-dan-zhuan-jia",
+  "title": "拆弹专家",
+  "titlePinyin": "Chāi Dàn Zhuān Jiā",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2014 · Album \"卡西莫多的礼物\" · Track 5",
+  "lines": [
+    {
+      "translation": {
+        "en": "Hell No — the air is about to explode",
+        "pt": "Hell No — o ar está prestes a explodir"
+      },
+      "words": [
+        {
+          "hz": "Hell",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "空气",
+          "py": "kōng qì",
+          "gloss": "air",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "about to",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快要",
+          "py": "kuài yào",
+          "gloss": "about to",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爆炸",
+          "py": "bào zhà",
+          "gloss": "explode",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hell No — time is about to explode",
+        "pt": "Hell No — o tempo está prestes a explodir"
+      },
+      "words": [
+        {
+          "hz": "Hell",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "about to",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快要",
+          "py": "kuài yào",
+          "gloss": "about to",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爆炸",
+          "py": "bào zhà",
+          "gloss": "explode",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hell No — the body is about to explode",
+        "pt": "Hell No — o corpo está prestes a explodir"
+      },
+      "words": [
+        {
+          "hz": "Hell",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "身体",
+          "py": "shēn tǐ",
+          "gloss": "body",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "about to",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快要",
+          "py": "kuài yào",
+          "gloss": "about to",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爆炸",
+          "py": "bào zhà",
+          "gloss": "explode",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hell No — quickly give me a bomb disposal expert",
+        "pt": "Hell No — rápido, me dê um especialista em desarmar bombas"
+      },
+      "words": [
+        {
+          "hz": "Hell",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "快",
+          "py": "kuài",
+          "gloss": "quickly",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拆弹",
+          "py": "chāi dàn",
+          "gloss": "bomb disposal",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "专家",
+          "py": "zhuān jiā",
+          "gloss": "expert",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Life is a bomb — installed in my head",
+        "pt": "A vida é uma bomba — instalada na minha cabeça"
+      },
+      "words": [
+        {
+          "hz": "生活",
+          "py": "shēng huó",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一颗",
+          "py": "yī kē",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "炸弹",
+          "py": "zhà dàn",
+          "gloss": "bomb",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "装在",
+          "py": "zhuāng zài",
+          "gloss": "installed in",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "脑袋",
+          "py": "nǎo dai",
+          "gloss": "head",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I haven't figured it out yet — how to dismantle it",
+        "pt": "Ainda não descobri — como desarmá-la"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "还没",
+          "py": "hái méi",
+          "gloss": "not yet",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "think",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "明白",
+          "py": "míng bái",
+          "gloss": "understand",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "该",
+          "py": "gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "怎么",
+          "py": "zěn me",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "拆开",
+          "py": "chāi kāi",
+          "gloss": "dismantle",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Every day my heart is anxious — better to let it explode quickly",
+        "pt": "Todos os dias meu coração está ansioso — melhor deixá-la explodir logo"
+      },
+      "words": [
+        {
+          "hz": "每一天",
+          "py": "měi yī tiān",
+          "gloss": "every day",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "心里",
+          "py": "xīn lǐ",
+          "gloss": "in heart",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "七上八下",
+          "py": "qī shàng bā xià",
+          "gloss": "anxious",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "不如",
+          "py": "bù rú",
+          "gloss": "better to",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "it",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "赶快",
+          "py": "gǎn kuài",
+          "gloss": "quickly",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爆炸",
+          "py": "bào zhà",
+          "gloss": "explode",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "WOW WOW WOW WOW — please come a spark",
+        "pt": "WOW WOW WOW WOW — por favor, venha uma faísca"
+      },
+      "words": [
+        {
+          "hz": "WOW",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "WOW",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "WOW",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "WOW",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "拜托",
+          "py": "bài tuō",
+          "gloss": "please",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "来",
+          "py": "lái",
+          "gloss": "come",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一束",
+          "py": "yī shù",
+          "gloss": "a",
+          "hsk": 4,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "火花",
+          "py": "huǒ huā",
+          "gloss": "spark",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hell No — the air is about to explode",
+        "pt": "Hell No — o ar está prestes a explodir"
+      },
+      "words": [
+        {
+          "hz": "Hell",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "空气",
+          "py": "kōng qì",
+          "gloss": "air",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "about to",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快要",
+          "py": "kuài yào",
+          "gloss": "about to",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爆炸",
+          "py": "bào zhà",
+          "gloss": "explode",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hell No — time is about to explode",
+        "pt": "Hell No — o tempo está prestes a explodir"
+      },
+      "words": [
+        {
+          "hz": "Hell",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "about to",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快要",
+          "py": "kuài yào",
+          "gloss": "about to",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爆炸",
+          "py": "bào zhà",
+          "gloss": "explode",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hell No — the body is about to explode",
+        "pt": "Hell No — o corpo está prestes a explodir"
+      },
+      "words": [
+        {
+          "hz": "Hell",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "身体",
+          "py": "shēn tǐ",
+          "gloss": "body",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "about to",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快要",
+          "py": "kuài yào",
+          "gloss": "about to",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爆炸",
+          "py": "bào zhà",
+          "gloss": "explode",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hell No — quickly give me a bomb disposal expert",
+        "pt": "Hell No — rápido, me dê um especialista em desarmar bombas"
+      },
+      "words": [
+        {
+          "hz": "Hell",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "快",
+          "py": "kuài",
+          "gloss": "quickly",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拆弹",
+          "py": "chāi dàn",
+          "gloss": "bomb disposal",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "专家",
+          "py": "zhuān jiā",
+          "gloss": "expert",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "GUCCI PRADA — dressing must be exaggerated enough",
+        "pt": "GUCCI PRADA — o vestuário precisa ser exagerado o suficiente"
+      },
+      "words": [
+        {
+          "hz": "GUCCI",
+          "py": "",
+          "gloss": "",
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "PRADA",
+          "py": "",
+          "gloss": "",
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "穿着",
+          "py": "chuān zhuó",
+          "gloss": "dressing",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "足够",
+          "py": "zú gòu",
+          "gloss": "enough",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "浮夸",
+          "py": "fú kuā",
+          "gloss": "exaggerated",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only then can one display their worth",
+        "pt": "Só assim se pode exibir seu valor"
+      },
+      "words": [
+        {
+          "hz": "才能",
+          "py": "cái néng",
+          "gloss": "only then can",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "够",
+          "py": "gòu",
+          "gloss": "enough",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "表现",
+          "py": "biǎo xiàn",
+          "gloss": "display",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "自己",
+          "py": "zì jǐ",
+          "gloss": "oneself",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "身价",
+          "py": "shēn jià",
+          "gloss": "worth",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Forget it — watching you entertain everyone with a hoarse voice",
+        "pt": "Deixa pra lá — vendo você entreter a todos com uma voz rouca"
+      },
+      "words": [
+        {
+          "hz": "算了",
+          "py": "suàn le",
+          "gloss": "forget it",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吧",
+          "py": "ba",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "看着",
+          "py": "kàn zhe",
+          "gloss": "watching",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "声音",
+          "py": "shēng yīn",
+          "gloss": "voice",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "沙哑",
+          "py": "shā yǎ",
+          "gloss": "hoarse",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "娱乐",
+          "py": "yú lè",
+          "gloss": "entertain",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But the bomb in my heart is about to explode",
+        "pt": "Mas a bomba no meu coração está prestes a explodir"
+      },
+      "words": [
+        {
+          "hz": "但",
+          "py": "dàn",
+          "gloss": "but",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "心中",
+          "py": "xīn zhōng",
+          "gloss": "in heart",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "炸弹",
+          "py": "zhà dàn",
+          "gloss": "bomb",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "快要",
+          "py": "kuài yào",
+          "gloss": "about to",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爆炸",
+          "py": "bào zhà",
+          "gloss": "explode",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "WOW WOW WOW WOW — please come a spark",
+        "pt": "WOW WOW WOW WOW — por favor, venha uma faísca"
+      },
+      "words": [
+        {
+          "hz": "WOW",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "WOW",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "WOW",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "WOW",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "拜托",
+          "py": "bài tuō",
+          "gloss": "please",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "来",
+          "py": "lái",
+          "gloss": "come",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一束",
+          "py": "yī shù",
+          "gloss": "a",
+          "hsk": 4,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "火花",
+          "py": "huǒ huā",
+          "gloss": "spark",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hell No — the air is about to explode",
+        "pt": "Hell No — o ar está prestes a explodir"
+      },
+      "words": [
+        {
+          "hz": "Hell",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "空气",
+          "py": "kōng qì",
+          "gloss": "air",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "about to",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快要",
+          "py": "kuài yào",
+          "gloss": "about to",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爆炸",
+          "py": "bào zhà",
+          "gloss": "explode",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hell No — quickly give me a bomb disposal expert",
+        "pt": "Hell No — rápido, me dê um especialista em desarmar bombas"
+      },
+      "words": [
+        {
+          "hz": "Hell",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "快",
+          "py": "kuài",
+          "gloss": "quickly",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拆弹",
+          "py": "chāi dàn",
+          "gloss": "bomb disposal",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "专家",
+          "py": "zhuān jiā",
+          "gloss": "expert",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}

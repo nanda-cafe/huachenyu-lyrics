@@ -1,0 +1,2591 @@
+{
+  "id": "feng-ren-yuan",
+  "title": "疯人院",
+  "titlePinyin": "Fēng Rén Yuàn",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2020 · Album \"新世界NEW WORLD\" · Track 3",
+  "lines": [
+    {
+      "translation": {
+        "en": "When I am destroyed again, everything becomes pure",
+        "pt": "Quando sou destruído novamente, tudo se torna puro"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "再度",
+          "py": "zài dù",
+          "gloss": "again",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "毁灭",
+          "py": "huǐ miè",
+          "gloss": "destroy",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一切",
+          "py": "yī qiè",
+          "gloss": "everything",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "变更",
+          "py": "biàn gēng",
+          "gloss": "change",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "纯净",
+          "py": "chún jìng",
+          "gloss": "pure",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That shattered feeling, I know",
+        "pt": "Aquela sensação despedaçada, I know"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "破碎",
+          "py": "pò suì",
+          "gloss": "shattered",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "感受",
+          "py": "gǎn shòu",
+          "gloss": "feeling",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "I know",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When I escape again, escape the soul prison",
+        "pt": "Quando escapo novamente, escapo da prisão da alma"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "再度",
+          "py": "zài dù",
+          "gloss": "again",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "逃离",
+          "py": "táo lí",
+          "gloss": "escape",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "逃离",
+          "py": "táo lí",
+          "gloss": "escape",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "监狱",
+          "py": "jiān yù",
+          "gloss": "prison",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That feeling of liberation, I know",
+        "pt": "Aquela sensação de libertação, I know"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "解脱",
+          "py": "jiě tuō",
+          "gloss": "liberation",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "感受",
+          "py": "gǎn shòu",
+          "gloss": "feeling",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "I know",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Silently enjoying, even if only that moment of freedom",
+        "pt": "Silenciosamente desfrutando, mesmo que apenas aquele momento de liberdade"
+      },
+      "words": [
+        {
+          "hz": "默默",
+          "py": "mò mò",
+          "gloss": "silently",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "享受",
+          "py": "xiǎng shòu",
+          "gloss": "enjoy",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "就算",
+          "py": "jiù suàn",
+          "gloss": "even if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "只有",
+          "py": "zhǐ yǒu",
+          "gloss": "only",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "片刻",
+          "py": "piàn kè",
+          "gloss": "moment",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "自由",
+          "py": "zì yóu",
+          "gloss": "freedom",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In a bound room, time is 2:30 AM",
+        "pt": "Numa sala amarrada, a hora é 2:30 da manhã"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "束缚",
+          "py": "shù fù",
+          "gloss": "bound",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "房间",
+          "py": "fáng jiān",
+          "gloss": "room",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "凌晨",
+          "py": "líng chén",
+          "gloss": "early morning",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "两点半",
+          "py": "liǎng diǎn bàn",
+          "gloss": "2:30",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Summoning Don Quixote's courage, loudly declaring war on the air before me",
+        "pt": "Invocando a coragem de Dom Quixote, declarando guerra em voz alta ao ar à minha frente"
+      },
+      "words": [
+        {
+          "hz": "鼓起",
+          "py": "gǔ qǐ",
+          "gloss": "summon",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "堂吉诃德",
+          "py": "táng jí hē dé",
+          "gloss": "Don Quixote",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "勇敢",
+          "py": "yǒng gǎn",
+          "gloss": "courage",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "对着",
+          "py": "duì zhe",
+          "gloss": "toward",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "身前",
+          "py": "shēn qián",
+          "gloss": "before me",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "空气",
+          "py": "kōng qì",
+          "gloss": "air",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "大声",
+          "py": "dà shēng",
+          "gloss": "loudly",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "宣战",
+          "py": "xuān zhàn",
+          "gloss": "declare war",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When suppression is exposed, welcome to join this carnival",
+        "pt": "Quando a repressão é exposta, bem-vindo para se juntar a este carnaval"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "压抑",
+          "py": "yā yì",
+          "gloss": "suppression",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "揭穿",
+          "py": "jiē chuān",
+          "gloss": "expose",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "欢迎",
+          "py": "huān yíng",
+          "gloss": "welcome",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "加入",
+          "py": "jiā rù",
+          "gloss": "join",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "狂欢",
+          "py": "kuáng huān",
+          "gloss": "carnival",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Crazy emotions need no praise, all hypocrisy left for doomsday reckoning",
+        "pt": "Emoções loucas não precisam de elogios, toda hipocrisia deixada para o acerto de contas do juízo final"
+      },
+      "words": [
+        {
+          "hz": "疯狂",
+          "py": "fēng kuáng",
+          "gloss": "crazy",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "情绪",
+          "py": "qíng xù",
+          "gloss": "emotions",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不需要",
+          "py": "bù xū yào",
+          "gloss": "don't need",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "礼赞",
+          "py": "lǐ zàn",
+          "gloss": "praise",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "虚伪",
+          "py": "xū wěi",
+          "gloss": "hypocrisy",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "留到",
+          "py": "liú dào",
+          "gloss": "leave until",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "末日",
+          "py": "mò rì",
+          "gloss": "doomsday",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "清算",
+          "py": "qīng suàn",
+          "gloss": "reckoning",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Like the most baroque rhythm in old-fashioned art",
+        "pt": "Como o ritmo mais barroco na arte antiquada"
+      },
+      "words": [
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "古板",
+          "py": "gǔ bǎn",
+          "gloss": "old-fashioned",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "艺术",
+          "py": "yì shù",
+          "gloss": "art",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "巴洛克",
+          "py": "bā luò kè",
+          "gloss": "baroque",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "节奏",
+          "py": "jié zòu",
+          "gloss": "rhythm",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I wanna know Wohh, I wanna know Wohh oh",
+        "pt": "I wanna know Wohh, I wanna know Wohh oh"
+      },
+      "words": [
+        {
+          "hz": "I wanna know Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "I wanna know Wohh oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "After being infected by frenzy, how can my extremes be saved",
+        "pt": "Depois de ser infectado pelo frenesi, como meus extremos podem ser salvos"
+      },
+      "words": [
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "狂热",
+          "py": "kuáng rè",
+          "gloss": "frenzy",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "感染",
+          "py": "gǎn rǎn",
+          "gloss": "infect",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "极端",
+          "py": "jí duān",
+          "gloss": "extreme",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "如何",
+          "py": "rú hé",
+          "gloss": "how",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "拯救",
+          "py": "zhěng jiù",
+          "gloss": "save",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I wanna know Wohh, I wanna know Wohh oh",
+        "pt": "I wanna know Wohh, I wanna know Wohh oh"
+      },
+      "words": [
+        {
+          "hz": "I wanna know Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "I wanna know Wohh oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "On the lunch plate, two flies dressed very elegantly",
+        "pt": "No prato do almoço, duas moscas vestidas com muita elegância"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "on",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "午饭",
+          "py": "wǔ fàn",
+          "gloss": "lunch",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "餐盘",
+          "py": "cān pán",
+          "gloss": "plate",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "穿着",
+          "py": "chuān zhe",
+          "gloss": "wearing",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "考究",
+          "py": "kǎo jiū",
+          "gloss": "elegant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "两只",
+          "py": "liǎng zhī",
+          "gloss": "two",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "苍蝇",
+          "py": "cāng ying",
+          "gloss": "flies",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "With a particularly noisy voice, arguing to prove existence",
+        "pt": "Com uma voz particularmente barulhenta, argumentando para provar a existência"
+      },
+      "words": [
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "特别",
+          "py": "tè bié",
+          "gloss": "particularly",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "聒噪",
+          "py": "guō zào",
+          "gloss": "noisy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "声音",
+          "py": "shēng yīn",
+          "gloss": "voice",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "争辩",
+          "py": "zhēng biàn",
+          "gloss": "argue",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "存在",
+          "py": "cún zài",
+          "gloss": "existence",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "证明",
+          "py": "zhèng míng",
+          "gloss": "proof",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "White space-time background, endlessly looping statements",
+        "pt": "Fundo espaço-temporal branco, declarações em loop infinito"
+      },
+      "words": [
+        {
+          "hz": "白色",
+          "py": "bái sè",
+          "gloss": "white",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "时空",
+          "py": "shí kōng",
+          "gloss": "space-time",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "背景",
+          "py": "bèi jǐng",
+          "gloss": "background",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不断",
+          "py": "bù duàn",
+          "gloss": "endlessly",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "循环",
+          "py": "xún huán",
+          "gloss": "loop",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "语句",
+          "py": "yǔ jù",
+          "gloss": "statements",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This instant scene, especially familiar",
+        "pt": "Esta cena instantânea, especialmente familiar"
+      },
+      "words": [
+        {
+          "hz": "这个",
+          "py": "zhè gè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "瞬间",
+          "py": "shùn jiān",
+          "gloss": "instant",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "场景",
+          "py": "chǎng jǐng",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "特别",
+          "py": "tè bié",
+          "gloss": "especially",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "熟悉",
+          "py": "shú xī",
+          "gloss": "familiar",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Maybe everything before my eyes is just an illusion",
+        "pt": "Talvez tudo diante dos meus olhos seja apenas uma ilusão"
+      },
+      "words": [
+        {
+          "hz": "也许",
+          "py": "yě xǔ",
+          "gloss": "maybe",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "眼前",
+          "py": "yǎn qián",
+          "gloss": "before one's eyes",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一切",
+          "py": "yī qiè",
+          "gloss": "everything",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "只是",
+          "py": "zhǐ shì",
+          "gloss": "just",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "幻影",
+          "py": "huàn yǐng",
+          "gloss": "illusion",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In chaotic thoughts, the most unreasonable idea",
+        "pt": "Em pensamentos caóticos, a ideia mais irracional"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "混沌",
+          "py": "hùn dùn",
+          "gloss": "chaotic",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "想法",
+          "py": "xiǎng fǎ",
+          "gloss": "thoughts",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不可理喻",
+          "py": "bù kě lǐ yù",
+          "gloss": "unreasonable",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "念头",
+          "py": "niàn tóu",
+          "gloss": "idea",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I wanna know Wohh, I wanna know Wohh oh",
+        "pt": "I wanna know Wohh, I wanna know Wohh oh"
+      },
+      "words": [
+        {
+          "hz": "I wanna know Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "I wanna know Wohh oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In a crazy world, how to integrate into the mainstream",
+        "pt": "Num mundo louco, como se integrar ao mainstream"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "疯狂",
+          "py": "fēng kuáng",
+          "gloss": "crazy",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "怎么",
+          "py": "zěn me",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "融入",
+          "py": "róng rù",
+          "gloss": "integrate",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "主流",
+          "py": "zhǔ liú",
+          "gloss": "mainstream",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I wanna know Wohh, I wanna know Wohh oh",
+        "pt": "I wanna know Wohh, I wanna know Wohh oh"
+      },
+      "words": [
+        {
+          "hz": "I wanna know Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "I wanna know Wohh oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When the noise becomes a mime show, this picture is somewhat eerie",
+        "pt": "Quando o barulho se torna uma pantomima, esta imagem é um tanto assustadora"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "喧哗",
+          "py": "xuān huá",
+          "gloss": "noise",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "变",
+          "py": "biàn",
+          "gloss": "become",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "默剧",
+          "py": "mò jù",
+          "gloss": "mime",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "幅",
+          "py": "fú",
+          "gloss": "(m.w. for paintings)",
+          "hsk": 5,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "画面",
+          "py": "huà miàn",
+          "gloss": "picture",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一些",
+          "py": "yī xiē",
+          "gloss": "somewhat",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "诡异",
+          "py": "guǐ yì",
+          "gloss": "eerie",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Like the dangerous silence in the jungle, highlighting uneasy limbs",
+        "pt": "Como o silêncio perigoso na selva, destacando membros inquietos"
+      },
+      "words": [
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "丛林",
+          "py": "cóng lín",
+          "gloss": "jungle",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "危险",
+          "py": "wēi xiǎn",
+          "gloss": "dangerous",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "静谧",
+          "py": "jìng mì",
+          "gloss": "silence",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "凸显",
+          "py": "tū xiǎn",
+          "gloss": "highlight",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "不安",
+          "py": "bù ān",
+          "gloss": "uneasy",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "肢体",
+          "py": "zhī tǐ",
+          "gloss": "limbs",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I follow the trajectory of time, trying to decode myself",
+        "pt": "Sigo a trajetória do tempo, tentando decifrar a mim mesmo"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "沿",
+          "py": "yán",
+          "gloss": "follow",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "轨迹",
+          "py": "guǐ jì",
+          "gloss": "trajectory",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "试图",
+          "py": "shì tú",
+          "gloss": "try",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "自己",
+          "py": "zì jǐ",
+          "gloss": "oneself",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "解密",
+          "py": "jiě mì",
+          "gloss": "decode",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Those ignored, missed pieces of evidence",
+        "pt": "Aquelas evidências ignoradas, perdidas"
+      },
+      "words": [
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "忽略",
+          "py": "hū lüè",
+          "gloss": "ignore",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "错过",
+          "py": "cuò guò",
+          "gloss": "miss",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "证据",
+          "py": "zhèng jù",
+          "gloss": "evidence",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "All point to the trap of ignorant words",
+        "pt": "Todos apontam para a armadilha das palavras ignorantes"
+      },
+      "words": [
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "指向",
+          "py": "zhǐ xiàng",
+          "gloss": "point to",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "无知",
+          "py": "wú zhī",
+          "gloss": "ignorant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "言辞",
+          "py": "yán cí",
+          "gloss": "words",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "陷阱",
+          "py": "xiàn jǐng",
+          "gloss": "trap",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In a subjective world, how fierce a beast can there be",
+        "pt": "Num mundo subjetivo, quão feroz pode ser uma fera"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "主观",
+          "py": "zhǔ guān",
+          "gloss": "subjective",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "凶狠",
+          "py": "xiōng hěn",
+          "gloss": "fierce",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "野兽",
+          "py": "yě shòu",
+          "gloss": "beast",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I wanna know Wohh, I wanna know Wohh oh",
+        "pt": "I wanna know Wohh, I wanna know Wohh oh"
+      },
+      "words": [
+        {
+          "hz": "I wanna know Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "I wanna know Wohh oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "After being hunted, how can one escape",
+        "pt": "Depois de ser caçado, como se pode escapar"
+      },
+      "words": [
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "狩猎",
+          "py": "shòu liè",
+          "gloss": "hunt",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "到底",
+          "py": "dào dǐ",
+          "gloss": "on earth",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "怎样",
+          "py": "zěn yàng",
+          "gloss": "how",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "才能",
+          "py": "cái néng",
+          "gloss": "be able to",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "逃走",
+          "py": "táo zǒu",
+          "gloss": "escape",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I wanna know Wohh, I wanna know Wohh oh",
+        "pt": "I wanna know Wohh, I wanna know Wohh oh"
+      },
+      "words": [
+        {
+          "hz": "I wanna know Wohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "I wanna know Wohh oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If I could take a potion to prolong madness",
+        "pt": "Se eu pudesse tomar uma poção para prolongar a loucura"
+      },
+      "words": [
+        {
+          "hz": "如果",
+          "py": "rú guǒ",
+          "gloss": "if",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "可以",
+          "py": "kě yǐ",
+          "gloss": "could",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "服下",
+          "py": "fú xià",
+          "gloss": "take",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "延续",
+          "py": "yán xù",
+          "gloss": "prolong",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "疯狂",
+          "py": "fēng kuáng",
+          "gloss": "madness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "药剂",
+          "py": "yào jì",
+          "gloss": "potion",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Those cold-eyed attacks, all ignored",
+        "pt": "Aqueles ataques de olhos frios, todos ignorados"
+      },
+      "words": [
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "冷眼",
+          "py": "lěng yǎn",
+          "gloss": "cold-eyed",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "攻击",
+          "py": "gōng jī",
+          "gloss": "attacks",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不理",
+          "py": "bù lǐ",
+          "gloss": "ignore",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Fascinated by pure mad words and mad talk",
+        "pt": "Fascinado por puras palavras loucas e conversas loucas"
+      },
+      "words": [
+        {
+          "hz": "着迷",
+          "py": "zháo mí",
+          "gloss": "fascinated",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "于",
+          "py": "yú",
+          "gloss": "by",
+          "hsk": 5,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "纯粹",
+          "py": "chún cuì",
+          "gloss": "pure",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "疯言",
+          "py": "fēng yán",
+          "gloss": "mad words",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "疯语",
+          "py": "fēng yǔ",
+          "gloss": "mad talk",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This relative problem, following Einstein's logic",
+        "pt": "Este problema relativo, seguindo a lógica de Einstein"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "相对",
+          "py": "xiāng duì",
+          "gloss": "relative",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "问题",
+          "py": "wèn tí",
+          "gloss": "problem",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "遵循",
+          "py": "zūn xún",
+          "gloss": "follow",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "爱因斯坦",
+          "py": "ài yīn sī tǎn",
+          "gloss": "Einstein",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "逻辑",
+          "py": "luó jí",
+          "gloss": "logic",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In a half-dreaming, half-awake night",
+        "pt": "Numa noite meio sonhando, meio acordado"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "半梦",
+          "py": "bàn mèng",
+          "gloss": "half-dreaming",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "半醒",
+          "py": "bàn xǐng",
+          "gloss": "half-awake",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "夜里",
+          "py": "yè lǐ",
+          "gloss": "night",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Contradictory, about to suffocate",
+        "pt": "Contraditório, prestes a sufocar"
+      },
+      "words": [
+        {
+          "hz": "矛盾",
+          "py": "máo dùn",
+          "gloss": "contradictory",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快要",
+          "py": "kuài yào",
+          "gloss": "about to",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "窒息",
+          "py": "zhì xī",
+          "gloss": "suffocate",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "After all unknowns, keep me clear-headed",
+        "pt": "Depois de todas as incógnitas, mantenha-me lúcido"
+      },
+      "words": [
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "未知",
+          "py": "wèi zhī",
+          "gloss": "unknown",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "保持",
+          "py": "bǎo chí",
+          "gloss": "keep",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "清醒",
+          "py": "qīng xǐng",
+          "gloss": "clear-headed",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This feeling, I don't want to know",
+        "pt": "Esta sensação, I don't want to know"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "感",
+          "py": "gǎn",
+          "gloss": "feeling",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "受",
+          "py": "shòu",
+          "gloss": "receive",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "I don't want to know",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I don't want to know, No No",
+        "pt": "I don't want to know, No No"
+      },
+      "words": [
+        {
+          "hz": "I don't want to know",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "No No",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "To me, so unfamiliar, too many constraints",
+        "pt": "Para mim, tão desconhecido, muitas restrições"
+      },
+      "words": [
+        {
+          "hz": "对",
+          "py": "duì",
+          "gloss": "to",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "来说",
+          "py": "lái shuō",
+          "gloss": "speaking of",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "如此",
+          "py": "rú cǐ",
+          "gloss": "so",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "陌生",
+          "py": "mò shēng",
+          "gloss": "unfamiliar",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "too many",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "拘束",
+          "py": "jū shù",
+          "gloss": "constraints",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "可能",
+          "py": "kě néng",
+          "gloss": "possibly",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Enduring the process of breaking, let me be reborn",
+        "pt": "Suportando o processo de quebra, deixe-me renascer"
+      },
+      "words": [
+        {
+          "hz": "捱过",
+          "py": "ái guò",
+          "gloss": "endure",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "破碎",
+          "py": "pò suì",
+          "gloss": "breaking",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "过程",
+          "py": "guò chéng",
+          "gloss": "process",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "重获新生",
+          "py": "chóng huò xīn shēng",
+          "gloss": "be reborn",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "After escaping madness, Ohh from beginning to forever",
+        "pt": "Depois de escapar da loucura, Ohh do começo ao eterno"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "逃离",
+          "py": "táo lí",
+          "gloss": "escape",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "疯狂",
+          "py": "fēng kuáng",
+          "gloss": "madness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "Ohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "开始",
+          "py": "kāi shǐ",
+          "gloss": "beginning",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "到",
+          "py": "dào",
+          "gloss": "to",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "永久",
+          "py": "yǒng jiǔ",
+          "gloss": "forever",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    }
+  ]
+}

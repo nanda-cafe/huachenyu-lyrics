@@ -1,0 +1,1929 @@
+{
+  "id": "chen-guang-li-you-ni",
+  "title": "晨光里有你",
+  "titlePinyin": "Chén Guāng Lǐ Yǒu Nǐ",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2025 · Album \"量变临界点\" · Track 10",
+  "lines": [
+    {
+      "translation": {
+        "en": "When the dawn embraces this city",
+        "pt": "Quando o amanhecer abraça esta cidade"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "晨曦",
+          "py": "chén xī",
+          "gloss": "dawn",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "拥抱",
+          "py": "yōng bào",
+          "gloss": "embrace",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "座",
+          "py": "zuò",
+          "gloss": "(m.w.)",
+          "hsk": 3,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "城",
+          "py": "chéng",
+          "gloss": "city",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Guiding the travelers on the road",
+        "pt": "Guiando os viajantes na estrada"
+      },
+      "words": [
+        {
+          "hz": "指引",
+          "py": "zhǐ yǐn",
+          "gloss": "guide",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "赶路",
+          "py": "gǎn lù",
+          "gloss": "hurry on the road",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "旅人",
+          "py": "lǚ rén",
+          "gloss": "traveler",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Leaving the world a touch of warmth",
+        "pt": "Deixando ao mundo um toque de calor"
+      },
+      "words": [
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "留下",
+          "py": "liú xià",
+          "gloss": "leave behind",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一抹",
+          "py": "yī mǒ",
+          "gloss": "a touch of",
+          "hsk": 6,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "温存",
+          "py": "wēn cún",
+          "gloss": "warmth",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Happiness just happens to decide to recognize itself",
+        "pt": "A felicidade por acaso decide se reconhecer"
+      },
+      "words": [
+        {
+          "hz": "幸福",
+          "py": "xìng fú",
+          "gloss": "happiness",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "恰好",
+          "py": "qià hǎo",
+          "gloss": "just happens to",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "决定",
+          "py": "jué dìng",
+          "gloss": "decide",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "自己",
+          "py": "zì jǐ",
+          "gloss": "self",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "相认",
+          "py": "xiāng rèn",
+          "gloss": "recognize each other",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Listen — the river softly hums a tune",
+        "pt": "Escute — o rio suavemente canta uma melodia"
+      },
+      "words": [
+        {
+          "hz": "听",
+          "py": "tīng",
+          "gloss": "listen",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "河流",
+          "py": "hé liú",
+          "gloss": "river",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "轻声",
+          "py": "qīng shēng",
+          "gloss": "softly",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "哼唱",
+          "py": "hēng chàng",
+          "gloss": "hum a tune",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sleepy stars also long to pass by this most ordinary daily life",
+        "pt": "Estrelas sonolentas também anseiam passar por esta vida cotidiana mais comum"
+      },
+      "words": [
+        {
+          "hz": "贪睡",
+          "py": "tān shuì",
+          "gloss": "sleepy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "繁星",
+          "py": "fán xīng",
+          "gloss": "stars",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "渴望",
+          "py": "kě wàng",
+          "gloss": "long for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "路过",
+          "py": "lù guò",
+          "gloss": "pass by",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "平凡",
+          "py": "píng fán",
+          "gloss": "ordinary",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "日常",
+          "py": "rì cháng",
+          "gloss": "daily life",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Pass love from palm to palm, blooming with life",
+        "pt": "Passar o amor de palma em palma, florescendo com a vida"
+      },
+      "words": [
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "掌心",
+          "py": "zhǎng xīn",
+          "gloss": "palm",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "传递",
+          "py": "chuán dì",
+          "gloss": "pass on",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "随",
+          "py": "suí",
+          "gloss": "along with",
+          "hsk": 5,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "生命",
+          "py": "shēng mìng",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "绽放",
+          "py": "zhàn fàng",
+          "gloss": "bloom",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to become a cloud — guarding the sky, scattering hurricanes",
+        "pt": "Eu quero me transformar numa nuvem — guardando o céu, dispersando furacões"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "化",
+          "py": "huà",
+          "gloss": "transform into",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "作",
+          "py": "zuò",
+          "gloss": "as",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一朵",
+          "py": "yī duǒ",
+          "gloss": "a (m.w. for flowers/clouds)",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "云",
+          "py": "yún",
+          "gloss": "cloud",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "守护",
+          "py": "shǒu hù",
+          "gloss": "guard",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "吹散",
+          "py": "chuī sàn",
+          "gloss": "scatter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "飓风",
+          "py": "jù fēng",
+          "gloss": "hurricane",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sleepwalking in this colorful world",
+        "pt": "Sonâmbulo neste mundo colorido"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "缤纷",
+          "py": "bīn fēn",
+          "gloss": "colorful",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "梦游",
+          "py": "mèng yóu",
+          "gloss": "sleepwalk",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to become a tree — accompanying the mountain peaks",
+        "pt": "Eu quero me transformar numa árvore — acompanhando os picos das montanhas"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "化",
+          "py": "huà",
+          "gloss": "transform into",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "作",
+          "py": "zuò",
+          "gloss": "as",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一棵",
+          "py": "yī kē",
+          "gloss": "a (m.w. for trees)",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "树",
+          "py": "shù",
+          "gloss": "tree",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "陪伴",
+          "py": "péi bàn",
+          "gloss": "accompany",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "山峰",
+          "py": "shān fēng",
+          "gloss": "mountain peak",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How vast the future is — fresh flowers will never wither",
+        "pt": "Quão vasto é o futuro — flores frescas nunca murcharão"
+      },
+      "words": [
+        {
+          "hz": "未来",
+          "py": "wèi lái",
+          "gloss": "future",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "辽阔",
+          "py": "liáo kuò",
+          "gloss": "vast",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "鲜花",
+          "py": "xiān huā",
+          "gloss": "fresh flowers",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "永不",
+          "py": "yǒng bù",
+          "gloss": "never",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "凋落",
+          "py": "diāo luò",
+          "gloss": "wither",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When reunion becomes too unfamiliar",
+        "pt": "Quando o reencontro se torna demasiado estranho"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "相聚",
+          "py": "xiāng jù",
+          "gloss": "reunion",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "变得",
+          "py": "biàn de",
+          "gloss": "become",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "太",
+          "py": "tài",
+          "gloss": "too",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "陌生",
+          "py": "mò shēng",
+          "gloss": "unfamiliar",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only then does this moment appear touching",
+        "pt": "Só então este momento parece comovente"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一刻",
+          "py": "yī kè",
+          "gloss": "a moment",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "显得",
+          "py": "xiǎn de",
+          "gloss": "appear",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "动人",
+          "py": "dòng rén",
+          "gloss": "touching",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Promising the most romantic moment",
+        "pt": "Prometendo o momento mais romântico"
+      },
+      "words": [
+        {
+          "hz": "约定",
+          "py": "yuē dìng",
+          "gloss": "promise",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "浪漫",
+          "py": "làng màn",
+          "gloss": "romantic",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "时分",
+          "py": "shí fēn",
+          "gloss": "moment",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "No matter where we are, we run wildly toward each other",
+        "pt": "Não importa onde estejamos, corremos selvagemente um em direção ao outro"
+      },
+      "words": [
+        {
+          "hz": "无论",
+          "py": "wú lùn",
+          "gloss": "no matter",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "置身",
+          "py": "zhì shēn",
+          "gloss": "place oneself",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "何处",
+          "py": "hé chù",
+          "gloss": "where",
+          "hsk": 6,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "朝",
+          "py": "cháo",
+          "gloss": "toward",
+          "hsk": 5,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "彼此",
+          "py": "bǐ cǐ",
+          "gloss": "each other",
+          "hsk": 6,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "狂奔",
+          "py": "kuáng bēn",
+          "gloss": "run wildly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to become a cloud — guarding the sky, scattering hurricanes",
+        "pt": "Eu quero me transformar numa nuvem — guardando o céu, dispersando furacões"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "化",
+          "py": "huà",
+          "gloss": "transform into",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "作",
+          "py": "zuò",
+          "gloss": "as",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一朵",
+          "py": "yī duǒ",
+          "gloss": "a (m.w. for flowers/clouds)",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "云",
+          "py": "yún",
+          "gloss": "cloud",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "守护",
+          "py": "shǒu hù",
+          "gloss": "guard",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "吹散",
+          "py": "chuī sàn",
+          "gloss": "scatter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "飓风",
+          "py": "jù fēng",
+          "gloss": "hurricane",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sleepwalking in this colorful world",
+        "pt": "Sonâmbulo neste mundo colorido"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "缤纷",
+          "py": "bīn fēn",
+          "gloss": "colorful",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "梦游",
+          "py": "mèng yóu",
+          "gloss": "sleepwalk",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to become a tree — accompanying the mountain peaks",
+        "pt": "Eu quero me transformar numa árvore — acompanhando os picos das montanhas"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "化",
+          "py": "huà",
+          "gloss": "transform into",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "作",
+          "py": "zuò",
+          "gloss": "as",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一棵",
+          "py": "yī kē",
+          "gloss": "a (m.w. for trees)",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "树",
+          "py": "shù",
+          "gloss": "tree",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "陪伴",
+          "py": "péi bàn",
+          "gloss": "accompany",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "山峰",
+          "py": "shān fēng",
+          "gloss": "mountain peak",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How vast the future is — fresh flowers will never wither",
+        "pt": "Quão vasto é o futuro — flores frescas nunca murcharão"
+      },
+      "words": [
+        {
+          "hz": "未来",
+          "py": "wèi lái",
+          "gloss": "future",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "辽阔",
+          "py": "liáo kuò",
+          "gloss": "vast",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "鲜花",
+          "py": "xiān huā",
+          "gloss": "fresh flowers",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "永不",
+          "py": "yǒng bù",
+          "gloss": "never",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "凋落",
+          "py": "diāo luò",
+          "gloss": "wither",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Breaking free from life's shackles — even if fate plays tricks on us",
+        "pt": "Libertando-se das algemas da vida — mesmo que o destino zombe de nós"
+      },
+      "words": [
+        {
+          "hz": "摆脱",
+          "py": "bǎi tuō",
+          "gloss": "break free from",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "生活",
+          "py": "shēng huó",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "枷锁",
+          "py": "jiā suǒ",
+          "gloss": "shackles",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就算",
+          "py": "jiù suàn",
+          "gloss": "even if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "捉弄",
+          "py": "zhuō nòng",
+          "gloss": "play tricks on",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In this dawn light, make the softest beautiful dream",
+        "pt": "Nesta luz do amanhecer, faça o mais suave e belo sonho"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "晨光",
+          "py": "chén guāng",
+          "gloss": "dawn light",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "做",
+          "py": "zuò",
+          "gloss": "make",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一场",
+          "py": "yī chǎng",
+          "gloss": "a (m.w. for events)",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "柔软",
+          "py": "róu ruǎn",
+          "gloss": "soft",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "美梦",
+          "py": "měi mèng",
+          "gloss": "beautiful dream",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Let every encounter be remembered forever",
+        "pt": "Deixe cada encontro ser lembrado para sempre"
+      },
+      "words": [
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "每",
+          "py": "měi",
+          "gloss": "every",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一段",
+          "py": "yī duàn",
+          "gloss": "a (m.w. for segments)",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "相遇",
+          "py": "xiāng yù",
+          "gloss": "encounter",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "能够",
+          "py": "néng gòu",
+          "gloss": "be able to",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "铭记",
+          "py": "míng jì",
+          "gloss": "remember",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "到",
+          "py": "dào",
+          "gloss": "until",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "永久",
+          "py": "yǒng jiǔ",
+          "gloss": "forever",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to become a cloud — guarding the sky, scattering hurricanes",
+        "pt": "Eu quero me transformar numa nuvem — guardando o céu, dispersando furacões"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "化",
+          "py": "huà",
+          "gloss": "transform into",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "作",
+          "py": "zuò",
+          "gloss": "as",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一朵",
+          "py": "yī duǒ",
+          "gloss": "a (m.w. for flowers/clouds)",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "云",
+          "py": "yún",
+          "gloss": "cloud",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "守护",
+          "py": "shǒu hù",
+          "gloss": "guard",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "吹散",
+          "py": "chuī sàn",
+          "gloss": "scatter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "飓风",
+          "py": "jù fēng",
+          "gloss": "hurricane",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sleepwalking in this colorful world",
+        "pt": "Sonâmbulo neste mundo colorido"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "缤纷",
+          "py": "bīn fēn",
+          "gloss": "colorful",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "梦游",
+          "py": "mèng yóu",
+          "gloss": "sleepwalk",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to become a tree — accompanying the mountain peaks",
+        "pt": "Eu quero me transformar numa árvore — acompanhando os picos das montanhas"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "化",
+          "py": "huà",
+          "gloss": "transform into",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "作",
+          "py": "zuò",
+          "gloss": "as",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一棵",
+          "py": "yī kē",
+          "gloss": "a (m.w. for trees)",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "树",
+          "py": "shù",
+          "gloss": "tree",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "陪伴",
+          "py": "péi bàn",
+          "gloss": "accompany",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "山峰",
+          "py": "shān fēng",
+          "gloss": "mountain peak",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How vast the future is — fresh flowers will never wither",
+        "pt": "Quão vasto é o futuro — flores frescas nunca murcharão"
+      },
+      "words": [
+        {
+          "hz": "未来",
+          "py": "wèi lái",
+          "gloss": "future",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "辽阔",
+          "py": "liáo kuò",
+          "gloss": "vast",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "鲜花",
+          "py": "xiān huā",
+          "gloss": "fresh flowers",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "永不",
+          "py": "yǒng bù",
+          "gloss": "never",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "凋落",
+          "py": "diāo luò",
+          "gloss": "wither",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Breaking free from life's shackles — even if fate plays tricks on us",
+        "pt": "Libertando-se das algemas da vida — mesmo que o destino zombe de nós"
+      },
+      "words": [
+        {
+          "hz": "摆脱",
+          "py": "bǎi tuō",
+          "gloss": "break free from",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "生活",
+          "py": "shēng huó",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "枷锁",
+          "py": "jiā suǒ",
+          "gloss": "shackles",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就算",
+          "py": "jiù suàn",
+          "gloss": "even if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "捉弄",
+          "py": "zhuō nòng",
+          "gloss": "play tricks on",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In this dawn light, make an unfailing beautiful dream",
+        "pt": "Nesta luz do amanhecer, faça um belo sonho que não termina"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "晨光",
+          "py": "chén guāng",
+          "gloss": "dawn light",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "做",
+          "py": "zuò",
+          "gloss": "make",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一场",
+          "py": "yī chǎng",
+          "gloss": "a (m.w. for events)",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "不落幕",
+          "py": "bù luò mù",
+          "gloss": "unfailing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "美梦",
+          "py": "měi mèng",
+          "gloss": "beautiful dream",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Let that beam of light reflected in your eyes accompany me",
+        "pt": "Deixe aquele feixe de luz refletido em seus olhos me acompanhar"
+      },
+      "words": [
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "倒映",
+          "py": "dào yìng",
+          "gloss": "reflect",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "眼底",
+          "py": "yǎn dǐ",
+          "gloss": "eyes",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "束",
+          "py": "shù",
+          "gloss": "beam of",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "光",
+          "py": "guāng",
+          "gloss": "light",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "陪着",
+          "py": "péi zhe",
+          "gloss": "accompany",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "吧",
+          "py": "ba",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    }
+  ]
+}

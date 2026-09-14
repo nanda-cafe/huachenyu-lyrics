@@ -1,0 +1,19 @@
+{
+  "name": "hua-chenyu-lyrics",
+  "version": "1.0.0",
+  "description": "华晨宇歌词库 · Annotated Hua Chenyu lyrics for Chinese learners",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "predev": "node scripts/build-song-index.cjs && node scripts/copy-data.cjs",
+    "dev": "vite",
+    "prebuild": "npm run lint:data && node scripts/build-song-index.cjs && node scripts/copy-data.cjs",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint:data": "node scripts/lint-data.cjs"
+  },
+  "devDependencies": {
+    "ajv": "^8.20.0",
+    "vite": "^7.0.0"
+  }
+}

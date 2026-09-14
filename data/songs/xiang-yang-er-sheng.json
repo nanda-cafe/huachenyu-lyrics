@@ -1,0 +1,1639 @@
+{
+  "id": "xiang-yang-er-sheng",
+  "title": "向阳而生",
+  "titlePinyin": "Xiàng Yáng Ér Shēng",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2022 · Album \"希忘Hope\" · Track 1",
+  "lines": [
+    {
+      "translation": {
+        "en": "Born to be brilliant — born to hope",
+        "pt": "Nascido para ser brilhante — nascido para esperança"
+      },
+      "words": [
+        {
+          "hz": "生",
+          "py": "shēng",
+          "gloss": "born",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "予",
+          "py": "yǔ",
+          "gloss": "give",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "绚烂",
+          "py": "xuàn làn",
+          "gloss": "brilliant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "生",
+          "py": "shēng",
+          "gloss": "born",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "予",
+          "py": "yǔ",
+          "gloss": "give",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "希望",
+          "py": "xī wàng",
+          "gloss": "hope",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Born to give everything impermanent",
+        "pt": "Nascido para dar tudo impermanente"
+      },
+      "words": [
+        {
+          "hz": "生",
+          "py": "shēng",
+          "gloss": "born",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "予",
+          "py": "yǔ",
+          "gloss": "give",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一切",
+          "py": "yī qiè",
+          "gloss": "everything",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "无常",
+          "py": "wú cháng",
+          "gloss": "impermanent",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Believe in bonds — believe in faint light",
+        "pt": "Acredite em laços — acredite em luz fraca"
+      },
+      "words": [
+        {
+          "hz": "相",
+          "py": "xiāng",
+          "gloss": "mutually",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "信",
+          "py": "xìn",
+          "gloss": "believe",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "羁绊",
+          "py": "jī bàn",
+          "gloss": "bonds",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "相",
+          "py": "xiāng",
+          "gloss": "mutually",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "信",
+          "py": "xìn",
+          "gloss": "believe",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "微光",
+          "py": "wēi guāng",
+          "gloss": "faint light",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Believe everything is as usual",
+        "pt": "Acredite que tudo está como sempre"
+      },
+      "words": [
+        {
+          "hz": "相",
+          "py": "xiāng",
+          "gloss": "mutually",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "信",
+          "py": "xìn",
+          "gloss": "believe",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一切",
+          "py": "yī qiè",
+          "gloss": "everything",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "如常",
+          "py": "rú cháng",
+          "gloss": "as usual",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Daylight will grow longer — illuminating the heart",
+        "pt": "A luz do dia vai crescer mais — iluminando o coração"
+      },
+      "words": [
+        {
+          "hz": "白昼",
+          "py": "bái zhòu",
+          "gloss": "daylight",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "变长",
+          "py": "biàn cháng",
+          "gloss": "grow longer",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "照亮",
+          "py": "zhào liàng",
+          "gloss": "illuminate",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "心脏",
+          "py": "xīn zàng",
+          "gloss": "heart",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Let all things grow — thus we face the sun",
+        "pt": "Deixe todas as coisas crescerem — assim nós enfrentamos o sol"
+      },
+      "words": [
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "万物",
+          "py": "wàn wù",
+          "gloss": "all things",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "生长",
+          "py": "shēng zhǎng",
+          "gloss": "grow",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "如",
+          "py": "rú",
+          "gloss": "like",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "向阳",
+          "py": "xiàng yáng",
+          "gloss": "face the sun",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Drunk on the fragrance of soil",
+        "pt": "Embriagado com a fragrância do solo"
+      },
+      "words": [
+        {
+          "hz": "沉醉",
+          "py": "chén zuì",
+          "gloss": "drunk",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "过",
+          "py": "guò",
+          "gloss": "(experiential)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "泥土",
+          "py": "ní tǔ",
+          "gloss": "soil",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "芬芳",
+          "py": "fēn fāng",
+          "gloss": "fragrance",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Using the tenderest moss to exchange for a touch of sunlight",
+        "pt": "Usando o musgo mais tenro para trocar por um toque de luz solar"
+      },
+      "words": [
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "柔嫩",
+          "py": "róu nèn",
+          "gloss": "tender",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "青苔",
+          "py": "qīng tái",
+          "gloss": "moss",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "换取",
+          "py": "huàn qǔ",
+          "gloss": "exchange for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一抹",
+          "py": "yī mǒ",
+          "gloss": "a touch of",
+          "hsk": 6,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "阳光",
+          "py": "yáng guāng",
+          "gloss": "sunlight",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Then naturally grow old — don't be reluctant to part",
+        "pt": "Então envelheça naturalmente — não relute em se separar"
+      },
+      "words": [
+        {
+          "hz": "然后",
+          "py": "rán hòu",
+          "gloss": "then",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "自然",
+          "py": "zì rán",
+          "gloss": "naturally",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "老去",
+          "py": "lǎo qù",
+          "gloss": "grow old",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吧",
+          "py": "ba",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "依依惜别",
+          "py": "yī yī xī bié",
+          "gloss": "reluctant to part",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "\"But I still love that sunset glow\"",
+        "pt": "\"Mas eu ainda amo aquele brilho do pôr do sol\""
+      },
+      "words": [
+        {
+          "hz": "可",
+          "py": "kě",
+          "gloss": "but",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "仍",
+          "py": "réng",
+          "gloss": "still",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爱着",
+          "py": "ài zhe",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "那道",
+          "py": "nà dào",
+          "gloss": "that",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "晚霞",
+          "py": "wǎn xiá",
+          "gloss": "sunset glow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I've seen his green vines — hastily growing in the sea of people, blown by the wind and wandering",
+        "pt": "Eu vi suas vinhas verdes — crescendo apressadamente no mar de pessoas, sopradas pelo vento e vagando"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看过",
+          "py": "kàn guò",
+          "gloss": "seen",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "his",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "青涩",
+          "py": "qīng sè",
+          "gloss": "green",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "藤",
+          "py": "téng",
+          "gloss": "vine",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "匆匆",
+          "py": "cōng cōng",
+          "gloss": "hastily",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "长在",
+          "py": "zhǎng zài",
+          "gloss": "grow in",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "人海",
+          "py": "rén hǎi",
+          "gloss": "sea of people",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "吹着",
+          "py": "chuī zhe",
+          "gloss": "blown",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "流浪",
+          "py": "liú làng",
+          "gloss": "wander",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "More unpredictable weather — or is it sunny brilliance?",
+        "pt": "Mais tempo imprevisível — ou é brilho ensolarado?"
+      },
+      "words": [
+        {
+          "hz": "更多",
+          "py": "gèng duō",
+          "gloss": "more",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "阴晴不定",
+          "py": "yīn qíng bù dìng",
+          "gloss": "unpredictable",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "还是",
+          "py": "hái shì",
+          "gloss": "or",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "阳光",
+          "py": "yáng guāng",
+          "gloss": "sunlight",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "灿烂",
+          "py": "càn làn",
+          "gloss": "brilliant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "呢",
+          "py": "ne",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's just that he always smiles without answering",
+        "pt": "É que ele sempre sorri sem responder"
+      },
+      "words": [
+        {
+          "hz": "只是",
+          "py": "zhǐ shì",
+          "gloss": "just",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "总是",
+          "py": "zǒng shì",
+          "gloss": "always",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "笑而",
+          "py": "xiào ér",
+          "gloss": "smile and",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不答",
+          "py": "bù dá",
+          "gloss": "not answer",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Let warmth disperse the mist — give the mortal world a storm",
+        "pt": "Deixe o calor dispersar a névoa — dê ao mundo mortal uma tempestade"
+      },
+      "words": [
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "温暖",
+          "py": "wēn nuǎn",
+          "gloss": "warmth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "驱散",
+          "py": "qū sàn",
+          "gloss": "disperse",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "迷雾",
+          "py": "mí wù",
+          "gloss": "mist",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "尘世",
+          "py": "chén shì",
+          "gloss": "mortal world",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一场",
+          "py": "yī chǎng",
+          "gloss": "a (m.w.)",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "风暴",
+          "py": "fēng bào",
+          "gloss": "storm",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Look into the distance — that sun rising amid the expectations of all",
+        "pt": "Olhe ao longe — aquele sol que se ergue em meio às expectativas de todos"
+      },
+      "words": [
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "look",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "远方",
+          "py": "yuǎn fāng",
+          "gloss": "distance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "万众",
+          "py": "wàn zhòng",
+          "gloss": "all the people",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "期冀",
+          "py": "qī jì",
+          "gloss": "expectations",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "跃起",
+          "py": "yuè qǐ",
+          "gloss": "rise",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一颗",
+          "py": "yī kē",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "太阳",
+          "py": "tài yáng",
+          "gloss": "sun",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ohh～ how it shines",
+        "pt": "Ohh～ como brilha"
+      },
+      "words": [
+        {
+          "hz": "Ohh～",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "闪耀",
+          "py": "shǎn yào",
+          "gloss": "shine",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I see the long-lost clear weather — waking again at dawn",
+        "pt": "Eu vejo o tempo claro há muito perdido — despertando novamente ao amanhecer"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看到",
+          "py": "kàn dào",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "久违",
+          "py": "jiǔ wéi",
+          "gloss": "long-lost",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "晴朗",
+          "py": "qíng lǎng",
+          "gloss": "clear",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "黎明",
+          "py": "lí míng",
+          "gloss": "dawn",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "醒来",
+          "py": "xǐng lái",
+          "gloss": "wake up",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Growing amid trillions of love — growing light clouds",
+        "pt": "Crescendo em meio a trilhões de amor — crescendo nuvens leves"
+      },
+      "words": [
+        {
+          "hz": "万亿",
+          "py": "wàn yì",
+          "gloss": "trillions",
+          "hsk": 6,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "生长",
+          "py": "shēng zhǎng",
+          "gloss": "grow",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "长出",
+          "py": "zhǎng chū",
+          "gloss": "grow out",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "轻盈",
+          "py": "qīng yíng",
+          "gloss": "light",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "云朵",
+          "py": "yún duǒ",
+          "gloss": "clouds",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Growing soft mountain colors — growing the world's original clamor",
+        "pt": "Crescendo cores suaves de montanhas — crescendo o clamor original do mundo"
+      },
+      "words": [
+        {
+          "hz": "长出",
+          "py": "zhǎng chū",
+          "gloss": "grow out",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "柔美",
+          "py": "róu měi",
+          "gloss": "soft and beautiful",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "山色",
+          "py": "shān sè",
+          "gloss": "mountain colors",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "长出",
+          "py": "zhǎng chū",
+          "gloss": "grow out",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "本来",
+          "py": "běn lái",
+          "gloss": "original",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "喧哗",
+          "py": "xuān huá",
+          "gloss": "clamor",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Seek an unopened smallness — rising into the vast clouds with the green future",
+        "pt": "Busque uma pequenez não aberta — subindo para as nuvens vastas com o futuro verde"
+      },
+      "words": [
+        {
+          "hz": "寻",
+          "py": "xún",
+          "gloss": "seek",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一颗",
+          "py": "yī kē",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "未萌",
+          "py": "wèi méng",
+          "gloss": "unopened",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "渺小",
+          "py": "miǎo xiǎo",
+          "gloss": "smallness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "随着",
+          "py": "suí zhe",
+          "gloss": "along with",
+          "hsk": 5,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "青翠",
+          "py": "qīng cuì",
+          "gloss": "green",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "未来",
+          "py": "wèi lái",
+          "gloss": "future",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "升入",
+          "py": "shēng rù",
+          "gloss": "rise into",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "辽阔",
+          "py": "liáo kuò",
+          "gloss": "vast",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "云霄",
+          "py": "yún xiāo",
+          "gloss": "clouds",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Those shrouded in darkness — will ultimately be born facing the sun",
+        "pt": "Aqueles envoltos em escuridão — serão finalmente nascidos voltados para o sol"
+      },
+      "words": [
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "黑暗",
+          "py": "hēi àn",
+          "gloss": "darkness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "笼罩",
+          "py": "lǒng zhào",
+          "gloss": "shroud",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "终将",
+          "py": "zhōng jiāng",
+          "gloss": "ultimately",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "向阳而生",
+          "py": "xiàng yáng ér shēng",
+          "gloss": "born facing the sun",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "呢",
+          "py": "ne",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Perhaps life already gave me the answer",
+        "pt": "Talvez a vida já me deu a resposta"
+      },
+      "words": [
+        {
+          "hz": "也许",
+          "py": "yě xǔ",
+          "gloss": "perhaps",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "生命",
+          "py": "shēng mìng",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "早",
+          "py": "zǎo",
+          "gloss": "already",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "解答",
+          "py": "jiě dá",
+          "gloss": "answer",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Let warmth redeem me — give the soul a storm",
+        "pt": "Deixe o calor me redimir — dê à alma uma tempestade"
+      },
+      "words": [
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "温暖",
+          "py": "wēn nuǎn",
+          "gloss": "warmth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "救赎",
+          "py": "jiù shú",
+          "gloss": "redeem",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "心灵",
+          "py": "xīn líng",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一场",
+          "py": "yī chǎng",
+          "gloss": "a (m.w.)",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "风暴",
+          "py": "fēng bào",
+          "gloss": "storm",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When we use all our strength to chase that sun",
+        "pt": "Quando usamos toda a nossa força para perseguir aquele sol"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拼尽全力",
+          "py": "pīn jìn quán lì",
+          "gloss": "use all strength",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "追逐",
+          "py": "zhuī zhú",
+          "gloss": "chase",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "过",
+          "py": "guò",
+          "gloss": "(experiential)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一颗",
+          "py": "yī kē",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "太阳",
+          "py": "tài yáng",
+          "gloss": "sun",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ohh～ ultimately shining",
+        "pt": "Ohh～ finalmente brilhando"
+      },
+      "words": [
+        {
+          "hz": "Ohh～",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "终",
+          "py": "zhōng",
+          "gloss": "ultimately",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "闪耀",
+          "py": "shǎn yào",
+          "gloss": "shine",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

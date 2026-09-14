@@ -1,0 +1,2393 @@
+{
+  "id": "bu-chong-feng",
+  "title": "不重逢",
+  "titlePinyin": "Bù Chóng Féng",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2025 · Album \"量变临界点\" · Track 8",
+  "lines": [
+    {
+      "translation": {
+        "en": "He — he departed without a trace",
+        "pt": "Ele — ele partiu sem deixar rastro"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "下落不明",
+          "py": "xià luò bù míng",
+          "gloss": "missing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "出发",
+          "py": "chū fā",
+          "gloss": "depart",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In the brightly sunlit world — there are no walls anywhere, right",
+        "pt": "No mundo brilhantemente iluminado pelo sol — não há paredes em lugar nenhum, certo"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "阳光",
+          "py": "yáng guāng",
+          "gloss": "sunlight",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "灿烂",
+          "py": "càn làn",
+          "gloss": "bright",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "四下",
+          "py": "sì xià",
+          "gloss": "all around",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "no",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "墙",
+          "py": "qiáng",
+          "gloss": "wall",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "对",
+          "py": "duì",
+          "gloss": "right",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But he doesn't know where he can go",
+        "pt": "Mas ele não sabe para onde pode ir"
+      },
+      "words": [
+        {
+          "hz": "可",
+          "py": "kě",
+          "gloss": "but",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不知",
+          "py": "bù zhī",
+          "gloss": "not know",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "去",
+          "py": "qù",
+          "gloss": "go",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "哪",
+          "py": "nǎ",
+          "gloss": "where",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He — he departed without a trace",
+        "pt": "Ele — ele partiu sem deixar rastro"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "下落不明",
+          "py": "xià luò bù míng",
+          "gloss": "missing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "出发",
+          "py": "chū fā",
+          "gloss": "depart",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Like an invisible firework collapsing in calm winds and quiet waves",
+        "pt": "Como um fogo de artifício invisível colapsando em ventos calmos e ondas quietas"
+      },
+      "words": [
+        {
+          "hz": "好像",
+          "py": "hǎo xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一场",
+          "py": "yī chǎng",
+          "gloss": "a (m.w.)",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "隐形",
+          "py": "yǐn xíng",
+          "gloss": "invisible",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "烟火",
+          "py": "yān huǒ",
+          "gloss": "firework",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "风平浪静",
+          "py": "fēng píng làng jìng",
+          "gloss": "calm",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "坍塌",
+          "py": "tān tā",
+          "gloss": "collapse",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "With one sentence after another of \"forget it\"",
+        "pt": "Com uma frase após outra de \"deixa pra lá\""
+      },
+      "words": [
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一句",
+          "py": "yī jù",
+          "gloss": "one sentence",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "一句",
+          "py": "yī jù",
+          "gloss": "one sentence",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "算了",
+          "py": "suàn le",
+          "gloss": "forget it",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "吧",
+          "py": "ba",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He — he departed without a trace",
+        "pt": "Ele — ele partiu sem deixar rastro"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "下落不明",
+          "py": "xià luò bù míng",
+          "gloss": "missing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "出发",
+          "py": "chū fā",
+          "gloss": "depart",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Which stop he got off wrong, he doesn't understand — he can't go back and can't move on",
+        "pt": "Em qual parada ele desceu errado, ele não entende — não pode voltar e não pode seguir"
+      },
+      "words": [
+        {
+          "hz": "哪个",
+          "py": "nǎ gè",
+          "gloss": "which",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "站",
+          "py": "zhàn",
+          "gloss": "station",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "下错",
+          "py": "xià cuò",
+          "gloss": "get off wrong",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没懂",
+          "py": "méi dǒng",
+          "gloss": "doesn't understand",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "回不去",
+          "py": "huí bù qù",
+          "gloss": "cannot go back",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "走不动",
+          "py": "zǒu bù dòng",
+          "gloss": "cannot move on",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He can't die and can't live for love",
+        "pt": "Ele não pode morrer e não pode viver por amor"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "死不得",
+          "py": "sǐ bù dé",
+          "gloss": "can't die",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爱不活",
+          "py": "ài bù huó",
+          "gloss": "can't live for love",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ah — is it like this for everyone?",
+        "pt": "Ah — é assim para todo mundo?"
+      },
+      "words": [
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "ah",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "每个人",
+          "py": "měi gè rén",
+          "gloss": "everyone",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "这样",
+          "py": "zhè yàng",
+          "gloss": "like this",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Supreme fate",
+        "pt": "Destino supremo"
+      },
+      "words": [
+        {
+          "hz": "至高无上",
+          "py": "zhì gāo wú shàng",
+          "gloss": "supreme",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Supreme fate",
+        "pt": "Destino supremo"
+      },
+      "words": [
+        {
+          "hz": "至高无上",
+          "py": "zhì gāo wú shàng",
+          "gloss": "supreme",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Look at me, look at me — I didn't say goodbye",
+        "pt": "Olhe para mim, olhe para mim — eu não disse adeus"
+      },
+      "words": [
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "look",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "look",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "告别",
+          "py": "gào bié",
+          "gloss": "goodbye",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Watching him, watching him hurriedly walking in the wind",
+        "pt": "Vendo ele, vendo ele apressadamente andando no vento"
+      },
+      "words": [
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "仓惶",
+          "py": "cāng huáng",
+          "gloss": "hurried",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "走",
+          "py": "zǒu",
+          "gloss": "walk",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "inside",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I didn't say goodbye — watching him, watching him",
+        "pt": "Eu não disse adeus — vendo ele, vendo ele"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "告别",
+          "py": "gào bié",
+          "gloss": "goodbye",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Never to reunite with me",
+        "pt": "Nunca mais se reunir comigo"
+      },
+      "words": [
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "永不",
+          "py": "yǒng bù",
+          "gloss": "never",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "重逢",
+          "py": "chóng féng",
+          "gloss": "reunite",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He — he departed without a trace",
+        "pt": "Ele — ele partiu sem deixar rastro"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "下落不明",
+          "py": "xià luò bù míng",
+          "gloss": "missing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "出发",
+          "py": "chū fā",
+          "gloss": "depart",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Becoming the price of some kind of freedom",
+        "pt": "Tornando-se o preço de algum tipo de liberdade"
+      },
+      "words": [
+        {
+          "hz": "成为",
+          "py": "chéng wéi",
+          "gloss": "become",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "某种",
+          "py": "mǒu zhǒng",
+          "gloss": "some kind",
+          "hsk": 5,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "自由",
+          "py": "zì yóu",
+          "gloss": "freedom",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "代价",
+          "py": "dài jià",
+          "gloss": "price",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He is my extravagant wish",
+        "pt": "Ele é meu desejo extravagante"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "奢侈",
+          "py": "shē chǐ",
+          "gloss": "extravagant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "愿望",
+          "py": "yuàn wàng",
+          "gloss": "wish",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "And also the fairy tale I erased",
+        "pt": "E também o conto de fadas que apaguei"
+      },
+      "words": [
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "抹杀",
+          "py": "mǒ shā",
+          "gloss": "erase",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "童话",
+          "py": "tóng huà",
+          "gloss": "fairy tale",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ah — did I do something wrong?",
+        "pt": "Ah — eu fiz algo errado?"
+      },
+      "words": [
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "ah",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "做错",
+          "py": "zuò cuò",
+          "gloss": "do wrong",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Supreme fate",
+        "pt": "Destino supremo"
+      },
+      "words": [
+        {
+          "hz": "至高无上",
+          "py": "zhì gāo wú shàng",
+          "gloss": "supreme",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Supreme fate",
+        "pt": "Destino supremo"
+      },
+      "words": [
+        {
+          "hz": "至高无上",
+          "py": "zhì gāo wú shàng",
+          "gloss": "supreme",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "(particle)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Look at me, look at me — I didn't say goodbye",
+        "pt": "Olhe para mim, olhe para mim — eu não disse adeus"
+      },
+      "words": [
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "look",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "look",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "告别",
+          "py": "gào bié",
+          "gloss": "goodbye",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Watching him, watching him hurriedly walking in the wind",
+        "pt": "Vendo ele, vendo ele apressadamente andando no vento"
+      },
+      "words": [
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "仓惶",
+          "py": "cāng huáng",
+          "gloss": "hurried",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "走",
+          "py": "zǒu",
+          "gloss": "walk",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "inside",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I didn't say goodbye — watching him, watching him",
+        "pt": "Eu não disse adeus — vendo ele, vendo ele"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "告别",
+          "py": "gào bié",
+          "gloss": "goodbye",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Never to reunite with me",
+        "pt": "Nunca mais se reunir comigo"
+      },
+      "words": [
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "永不",
+          "py": "yǒng bù",
+          "gloss": "never",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "重逢",
+          "py": "chóng féng",
+          "gloss": "reunite",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Good lamps, one square at a time",
+        "pt": "Boas lâmpadas, um quadrado de cada vez"
+      },
+      "words": [
+        {
+          "hz": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "hsk": 1,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "灯火",
+          "py": "dēng huǒ",
+          "gloss": "lamps",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一格",
+          "py": "yī gé",
+          "gloss": "one square",
+          "hsk": 5,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "一格",
+          "py": "yī gé",
+          "gloss": "one square",
+          "hsk": 5,
+          "pos": "mw",
+          "posName": "m.w."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Good children, one by one, can all live well",
+        "pt": "Boas crianças, uma a uma, todas podem viver bem"
+      },
+      "words": [
+        {
+          "hz": "好孩子",
+          "py": "hǎo hái zi",
+          "gloss": "good children",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "好好地",
+          "py": "hǎo hǎo de",
+          "gloss": "well",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "生活",
+          "py": "shēng huó",
+          "gloss": "live",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Stop asking — don't understand whether it's right or wrong",
+        "pt": "Pare de perguntar — não entenda se está certo ou errado"
+      },
+      "words": [
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "问",
+          "py": "wèn",
+          "gloss": "ask",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "不要",
+          "py": "bù yào",
+          "gloss": "don't",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "懂",
+          "py": "dǒng",
+          "gloss": "understand",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "错",
+          "py": "cuò",
+          "gloss": "wrong",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "没错",
+          "py": "méi cuò",
+          "gloss": "not wrong",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only understand — useful or useless",
+        "pt": "Apenas entenda — útil ou inútil"
+      },
+      "words": [
+        {
+          "hz": "只要",
+          "py": "zhǐ yào",
+          "gloss": "only need",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "懂",
+          "py": "dǒng",
+          "gloss": "understand",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "有用",
+          "py": "yǒu yòng",
+          "gloss": "useful",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "没用",
+          "py": "méi yòng",
+          "gloss": "useless",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He turned his head and said to me: if that's the case, what am I?",
+        "pt": "Ele virou a cabeça e disse a mim: se é assim, o que sou eu?"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "回头",
+          "py": "huí tóu",
+          "gloss": "turn head",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "对着",
+          "py": "duì zhe",
+          "gloss": "toward",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "若是",
+          "py": "ruò shì",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "这样",
+          "py": "zhè yàng",
+          "gloss": "like this",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "算",
+          "py": "suàn",
+          "gloss": "count as",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I didn't say goodbye — watching him",
+        "pt": "Eu não disse adeus — vendo ele"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "告别",
+          "py": "gào bié",
+          "gloss": "goodbye",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Watching him hurriedly walking in the wind",
+        "pt": "Vendo ele apressadamente andando no vento"
+      },
+      "words": [
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "仓惶",
+          "py": "cāng huáng",
+          "gloss": "hurried",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "走",
+          "py": "zǒu",
+          "gloss": "walk",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "inside",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I didn't say goodbye — watching him, watching him",
+        "pt": "Eu não disse adeus — vendo ele, vendo ele"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "告别",
+          "py": "gào bié",
+          "gloss": "goodbye",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Never to reunite with me",
+        "pt": "Nunca mais se reunir comigo"
+      },
+      "words": [
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "永不",
+          "py": "yǒng bù",
+          "gloss": "never",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "重逢",
+          "py": "chóng féng",
+          "gloss": "reunite",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I didn't say goodbye — watching him, watching him",
+        "pt": "Eu não disse adeus — vendo ele, vendo ele"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "告别",
+          "py": "gào bié",
+          "gloss": "goodbye",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hurriedly walking in the wind",
+        "pt": "Apressadamente andando no vento"
+      },
+      "words": [
+        {
+          "hz": "仓惶",
+          "py": "cāng huáng",
+          "gloss": "hurried",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "走",
+          "py": "zǒu",
+          "gloss": "walk",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "inside",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I didn't say goodbye — watching him, watching him",
+        "pt": "Eu não disse adeus — vendo ele, vendo ele"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "告别",
+          "py": "gào bié",
+          "gloss": "goodbye",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "眼看",
+          "py": "yǎn kàn",
+          "gloss": "watching",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "him",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Never to reunite with me",
+        "pt": "Nunca mais se reunir comigo"
+      },
+      "words": [
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "永不",
+          "py": "yǒng bù",
+          "gloss": "never",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "重逢",
+          "py": "chóng féng",
+          "gloss": "reunite",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Never to reunite",
+        "pt": "Nunca mais se reunir"
+      },
+      "words": [
+        {
+          "hz": "永不",
+          "py": "yǒng bù",
+          "gloss": "never",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "重逢",
+          "py": "chóng féng",
+          "gloss": "reunite",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1661 @@
+{
+  "id": "fei-xing-mo-shi",
+  "title": "飞行模式",
+  "titlePinyin": "Fēi Xíng Mó Shì",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2022 · Album \"希忘Hope\" · Track 2",
+  "lines": [
+    {
+      "translation": {
+        "en": "Troubles vanish without a trace — throw them into the universe",
+        "pt": "Problemas desaparecem sem deixar rastro — jogue-os no universo"
+      },
+      "words": [
+        {
+          "hz": "烦恼",
+          "py": "fán nǎo",
+          "gloss": "troubles",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无影踪",
+          "py": "wú yǐng zōng",
+          "gloss": "vanish without a trace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "丢",
+          "py": "diū",
+          "gloss": "throw",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "宇宙",
+          "py": "yǔ zhòu",
+          "gloss": "universe",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hello (Cantonese) — let me go, let me go",
+        "pt": "Olá (cantonês) — deixe-me ir, deixe-me ir"
+      },
+      "words": [
+        {
+          "hz": "雷猴",
+          "py": "léi hóu",
+          "gloss": "hello (Cantonese)",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Soil turns into high-rises — how many square meters does success need",
+        "pt": "Solo se transforma em arranha-céus — quantos metros quadrados o sucesso precisa"
+      },
+      "words": [
+        {
+          "hz": "泥土",
+          "py": "ní tǔ",
+          "gloss": "soil",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "变",
+          "py": "biàn",
+          "gloss": "turn into",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "高楼",
+          "py": "gāo lóu",
+          "gloss": "high-rise",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "成功",
+          "py": "chéng gōng",
+          "gloss": "success",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "该",
+          "py": "gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "几平米",
+          "py": "jǐ píng mǐ",
+          "gloss": "how many square meters",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't scrutinize life — who suffers, who's on top",
+        "pt": "Não examine a vida — quem sofre, quem está por cima"
+      },
+      "words": [
+        {
+          "hz": "生活",
+          "py": "shēng huó",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "考究",
+          "py": "kǎo jiū",
+          "gloss": "scrutinize",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "苦",
+          "py": "kǔ",
+          "gloss": "suffer",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "上头",
+          "py": "shàng tóu",
+          "gloss": "on top",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Aunts and uncles — chattering nonstop",
+        "pt": "Tias e tios — tagarelando sem parar"
+      },
+      "words": [
+        {
+          "hz": "七姑八姨",
+          "py": "qī gū bā yí",
+          "gloss": "aunts and uncles",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "唠叨",
+          "py": "láo dao",
+          "gloss": "chatter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不停",
+          "py": "bù tíng",
+          "gloss": "nonstop",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Age kept secret — glamorous and beautiful",
+        "pt": "Idade mantida em segredo — glamourosa e bela"
+      },
+      "words": [
+        {
+          "hz": "年方",
+          "py": "nián fāng",
+          "gloss": "age",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "保密",
+          "py": "bǎo mì",
+          "gloss": "kept secret",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "光鲜亮丽",
+          "py": "guāng xiān liàng lì",
+          "gloss": "glamorous",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ring like a bomb like a bomb — \"Where, so annoying, you tell me\"",
+        "pt": "Ring like a bomb like a bomb — \"Onde, tão irritante, você me diz\""
+      },
+      "words": [
+        {
+          "hz": "Ring like a bomb",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "like a bomb",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "哪有",
+          "py": "nǎ yǒu",
+          "gloss": "where",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不烦",
+          "py": "bù fán",
+          "gloss": "so annoying",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "您说",
+          "py": "nín shuō",
+          "gloss": "you tell me",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mars collides with Earth — remember to pay off loans",
+        "pt": "Marte colide com a Terra — lembre-se de pagar os empréstimos"
+      },
+      "words": [
+        {
+          "hz": "火星",
+          "py": "huǒ xīng",
+          "gloss": "Mars",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "撞",
+          "py": "zhuàng",
+          "gloss": "collide",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "地球",
+          "py": "dì qiú",
+          "gloss": "Earth",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "贷款",
+          "py": "dài kuǎn",
+          "gloss": "loan",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "记得",
+          "py": "jì de",
+          "gloss": "remember",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "缴清",
+          "py": "jiǎo qīng",
+          "gloss": "pay off",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Miracles are too rare — survival relies on improvisation",
+        "pt": "Milagres são muito raros — a sobrevivência depende da improvisação"
+      },
+      "words": [
+        {
+          "hz": "奇迹",
+          "py": "qí jì",
+          "gloss": "miracle",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "太",
+          "py": "tài",
+          "gloss": "too",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "稀有",
+          "py": "xī yǒu",
+          "gloss": "rare",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "生存",
+          "py": "shēng cún",
+          "gloss": "survival",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "靠",
+          "py": "kào",
+          "gloss": "rely on",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "即兴",
+          "py": "jí xìng",
+          "gloss": "improvisation",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Bus freedom — half a lifetime commuting",
+        "pt": "Liberdade de ônibus — metade da vida se deslocando"
+      },
+      "words": [
+        {
+          "hz": "公交",
+          "py": "gōng jiāo",
+          "gloss": "bus",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "自由",
+          "py": "zì yóu",
+          "gloss": "freedom",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "半生",
+          "py": "bàn shēng",
+          "gloss": "half a lifetime",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "通勤",
+          "py": "tōng qín",
+          "gloss": "commuting",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Savings — reduced to zero",
+        "pt": "Poupança — reduzida a zero"
+      },
+      "words": [
+        {
+          "hz": "存款",
+          "py": "cún kuǎn",
+          "gloss": "savings",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "积蓄",
+          "py": "jī xù",
+          "gloss": "savings",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "化整为零",
+          "py": "huà zhěng wéi líng",
+          "gloss": "reduce to zero",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ring like a bomb like a bomb — \"This month no clubbing for me\"",
+        "pt": "Ring like a bomb like a bomb — \"Este mês sem balada para mim\""
+      },
+      "words": [
+        {
+          "hz": "Ring like a bomb",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "like a bomb",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "这月",
+          "py": "zhè yuè",
+          "gloss": "this month",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "蹦迪",
+          "py": "bèng dí",
+          "gloss": "clubbing",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "没我",
+          "py": "méi wǒ",
+          "gloss": "no me",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Troubles vanish without a trace — throw them into the universe",
+        "pt": "Problemas desaparecem sem deixar rastro — jogue-os no universo"
+      },
+      "words": [
+        {
+          "hz": "烦恼",
+          "py": "fán nǎo",
+          "gloss": "troubles",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无影踪",
+          "py": "wú yǐng zōng",
+          "gloss": "vanish without a trace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "丢",
+          "py": "diū",
+          "gloss": "throw",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "宇宙",
+          "py": "yǔ zhòu",
+          "gloss": "universe",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hello — let me go, let me go",
+        "pt": "Olá — deixe-me ir, deixe-me ir"
+      },
+      "words": [
+        {
+          "hz": "雷猴",
+          "py": "léi hóu",
+          "gloss": "hello (Cantonese)",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Dream talk and wild thoughts — all ignored, go",
+        "pt": "Conversa de sonho e pensamentos selvagens — tudo ignorado, vá"
+      },
+      "words": [
+        {
+          "hz": "梦话",
+          "py": "mèng huà",
+          "gloss": "dream talk",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "狂想",
+          "py": "kuáng xiǎng",
+          "gloss": "wild thoughts",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不听",
+          "py": "bù tīng",
+          "gloss": "not listen",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hello — let me go, let me go",
+        "pt": "Olá — deixe-me ir, deixe-me ir"
+      },
+      "words": [
+        {
+          "hz": "雷猴",
+          "py": "léi hóu",
+          "gloss": "hello (Cantonese)",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Working overtime until white hair — lying flat is indefinitely postponed",
+        "pt": "Trabalhando horas extras até cabelos brancos — deitar-se é adiado indefinidamente"
+      },
+      "words": [
+        {
+          "hz": "加班",
+          "py": "jiā bān",
+          "gloss": "work overtime",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "到",
+          "py": "dào",
+          "gloss": "until",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "白头",
+          "py": "bái tóu",
+          "gloss": "white hair",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "躺平",
+          "py": "tǎng píng",
+          "gloss": "lie flat",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "遥遥无期",
+          "py": "yáo yáo wú qī",
+          "gloss": "indefinitely postponed",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "PPT concerto — nobody becomes a singer",
+        "pt": "Concerto de PPT — ninguém se torna cantor"
+      },
+      "words": [
+        {
+          "hz": "PPT",
+          "py": "",
+          "gloss": "",
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "协奏",
+          "py": "xié zòu",
+          "gloss": "concerto",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "没人",
+          "py": "méi rén",
+          "gloss": "nobody",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "become",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "歌手",
+          "py": "gē shǒu",
+          "gloss": "singer",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "All the same — the master is lonely",
+        "pt": "Tudo igual — o mestre está solitário"
+      },
+      "words": [
+        {
+          "hz": "千篇一律",
+          "py": "qiān piān yī lǜ",
+          "gloss": "all the same",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "高手",
+          "py": "gāo shǒu",
+          "gloss": "master",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "寂寞",
+          "py": "jì mò",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Decades without confusion — all nonsense",
+        "pt": "Décadas sem confusão — tudo bobagem"
+      },
+      "words": [
+        {
+          "hz": "几十",
+          "py": "jǐ shí",
+          "gloss": "decades",
+          "hsk": 5,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "不惑",
+          "py": "bù huò",
+          "gloss": "without confusion",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "白扯",
+          "py": "bái chě",
+          "gloss": "nonsense",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ring like a bomb like a bomb — \"Yes sir, brilliant, you're right\"",
+        "pt": "Ring like a bomb like a bomb — \"Sim senhor, brilhante, você está certo\""
+      },
+      "words": [
+        {
+          "hz": "Ring like a bomb",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "like a bomb",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Yes sir",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "精辟",
+          "py": "jīng pì",
+          "gloss": "brilliant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "你说",
+          "py": "nǐ shuō",
+          "gloss": "you say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Social storms are sudden — heavy sleep doesn't dispel beer",
+        "pt": "Tempestades sociais são repentinas — sono pesado não dissipa cerveja"
+      },
+      "words": [
+        {
+          "hz": "交际",
+          "py": "jiāo jì",
+          "gloss": "socializing",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "风雨",
+          "py": "fēng yǔ",
+          "gloss": "storms",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "骤",
+          "py": "zhòu",
+          "gloss": "sudden",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "浓睡",
+          "py": "nóng shuì",
+          "gloss": "heavy sleep",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不消",
+          "py": "bù xiāo",
+          "gloss": "not dispel",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "啤酒",
+          "py": "pí jiǔ",
+          "gloss": "beer",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Weekly reports have no end — slacking off half-permanently",
+        "pt": "Relatórios semanais não têm fim — vadiagem meio permanente"
+      },
+      "words": [
+        {
+          "hz": "周报",
+          "py": "zhōu bào",
+          "gloss": "weekly report",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "没尽头",
+          "py": "méi jìn tóu",
+          "gloss": "no end",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "摸鱼",
+          "py": "mō yú",
+          "gloss": "slack off",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "半永久",
+          "py": "bàn yǒng jiǔ",
+          "gloss": "half-permanent",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Career frustration — social aloofness",
+        "pt": "Frustração profissional — alheamento social"
+      },
+      "words": [
+        {
+          "hz": "职场",
+          "py": "zhí chǎng",
+          "gloss": "career",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "失意",
+          "py": "shī yì",
+          "gloss": "frustration",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "酒场",
+          "py": "jiǔ chǎng",
+          "gloss": "drinking scene",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "孤僻",
+          "py": "gū pì",
+          "gloss": "aloofness",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Two nights and three days — staying up to binge-watch dramas",
+        "pt": "Duas noites e três dias — ficar acordado para maratonar dramas"
+      },
+      "words": [
+        {
+          "hz": "三天两夜",
+          "py": "sān tiān liǎng yè",
+          "gloss": "two nights and three days",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "熬鹰",
+          "py": "áo yīng",
+          "gloss": "stay up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "追剧",
+          "py": "zhuī jù",
+          "gloss": "binge-watch dramas",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ring like a bomb like a bomb — \"The boss seems to have left\"",
+        "pt": "Ring like a bomb like a bomb — \"O chefe parece ter saído\""
+      },
+      "words": [
+        {
+          "hz": "Ring like a bomb",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "like a bomb",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "老板",
+          "py": "lǎo bǎn",
+          "gloss": "boss",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "好像",
+          "py": "hǎo xiàng",
+          "gloss": "seems",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "走了",
+          "py": "zǒu le",
+          "gloss": "left",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Troubles vanish without a trace — throw them into the universe",
+        "pt": "Problemas desaparecem sem deixar rastro — jogue-os no universo"
+      },
+      "words": [
+        {
+          "hz": "烦恼",
+          "py": "fán nǎo",
+          "gloss": "troubles",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无影踪",
+          "py": "wú yǐng zōng",
+          "gloss": "vanish without a trace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "丢",
+          "py": "diū",
+          "gloss": "throw",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "宇宙",
+          "py": "yǔ zhòu",
+          "gloss": "universe",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hello — let me go, let me go",
+        "pt": "Olá — deixe-me ir, deixe-me ir"
+      },
+      "words": [
+        {
+          "hz": "雷猴",
+          "py": "léi hóu",
+          "gloss": "hello (Cantonese)",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Dream talk and wild thoughts — all ignored, go",
+        "pt": "Conversa de sonho e pensamentos selvagens — tudo ignorado, vá"
+      },
+      "words": [
+        {
+          "hz": "梦话",
+          "py": "mèng huà",
+          "gloss": "dream talk",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "狂想",
+          "py": "kuáng xiǎng",
+          "gloss": "wild thoughts",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不听",
+          "py": "bù tīng",
+          "gloss": "not listen",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hello — let me go, let me go",
+        "pt": "Olá — deixe-me ir, deixe-me ir"
+      },
+      "words": [
+        {
+          "hz": "雷猴",
+          "py": "léi hóu",
+          "gloss": "hello (Cantonese)",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Troubles vanish without a trace — throw them into the universe",
+        "pt": "Problemas desaparecem sem deixar rastro — jogue-os no universo"
+      },
+      "words": [
+        {
+          "hz": "烦恼",
+          "py": "fán nǎo",
+          "gloss": "troubles",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无影踪",
+          "py": "wú yǐng zōng",
+          "gloss": "vanish without a trace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "丢",
+          "py": "diū",
+          "gloss": "throw",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "宇宙",
+          "py": "yǔ zhòu",
+          "gloss": "universe",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hello — let me go — don't care about white clouds or grey dogs",
+        "pt": "Olá — deixe-me ir — não se importe com nuvens brancas ou cães cinzentos"
+      },
+      "words": [
+        {
+          "hz": "雷猴",
+          "py": "léi hóu",
+          "gloss": "hello (Cantonese)",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "别管",
+          "py": "bié guǎn",
+          "gloss": "don't care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "白云",
+          "py": "bái yún",
+          "gloss": "white clouds",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "或",
+          "py": "huò",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "苍狗",
+          "py": "cāng gǒu",
+          "gloss": "grey dogs",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Dream talk and wild thoughts — all ignored, go",
+        "pt": "Conversa de sonho e pensamentos selvagens — tudo ignorado, vá"
+      },
+      "words": [
+        {
+          "hz": "梦话",
+          "py": "mèng huà",
+          "gloss": "dream talk",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "狂想",
+          "py": "kuáng xiǎng",
+          "gloss": "wild thoughts",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不听",
+          "py": "bù tīng",
+          "gloss": "not listen",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hello — let me go — fly away now",
+        "pt": "Olá — deixe-me ir — voe agora"
+      },
+      "words": [
+        {
+          "hz": "雷猴",
+          "py": "léi hóu",
+          "gloss": "hello (Cantonese)",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "现在",
+          "py": "xiàn zài",
+          "gloss": "now",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "飞走",
+          "py": "fēi zǒu",
+          "gloss": "fly away",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Troubles vanish without a trace — throw them into the universe",
+        "pt": "Problemas desaparecem sem deixar rastro — jogue-os no universo"
+      },
+      "words": [
+        {
+          "hz": "烦恼",
+          "py": "fán nǎo",
+          "gloss": "troubles",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "无影踪",
+          "py": "wú yǐng zōng",
+          "gloss": "vanish without a trace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "丢",
+          "py": "diū",
+          "gloss": "throw",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "宇宙",
+          "py": "yǔ zhòu",
+          "gloss": "universe",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hello — let me go — don't care about white clouds or grey dogs",
+        "pt": "Olá — deixe-me ir — não se importe com nuvens brancas ou cães cinzentos"
+      },
+      "words": [
+        {
+          "hz": "雷猴",
+          "py": "léi hóu",
+          "gloss": "hello (Cantonese)",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "别管",
+          "py": "bié guǎn",
+          "gloss": "don't care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "白云",
+          "py": "bái yún",
+          "gloss": "white clouds",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "或",
+          "py": "huò",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "苍狗",
+          "py": "cāng gǒu",
+          "gloss": "grey dogs",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Dream talk and wild thoughts — all ignored, go",
+        "pt": "Conversa de sonho e pensamentos selvagens — tudo ignorado, vá"
+      },
+      "words": [
+        {
+          "hz": "梦话",
+          "py": "mèng huà",
+          "gloss": "dream talk",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "狂想",
+          "py": "kuáng xiǎng",
+          "gloss": "wild thoughts",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不听",
+          "py": "bù tīng",
+          "gloss": "not listen",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hello — let me go — fly away now",
+        "pt": "Olá — deixe-me ir — voe agora"
+      },
+      "words": [
+        {
+          "hz": "雷猴",
+          "py": "léi hóu",
+          "gloss": "hello (Cantonese)",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Let me go",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "现在",
+          "py": "xiàn zài",
+          "gloss": "now",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "飞走",
+          "py": "fēi zǒu",
+          "gloss": "fly away",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In a dream",
+        "pt": "Num sonho"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "梦里头",
+          "py": "mèng lǐ tou",
+          "gloss": "in a dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}

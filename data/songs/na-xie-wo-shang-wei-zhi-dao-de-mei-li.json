@@ -1,0 +1,2545 @@
+{
+  "id": "na-xie-wo-shang-wei-zhi-dao-de-mei-li",
+  "title": "那些我尚未知道的美丽",
+  "titlePinyin": "Nà Xiē Wǒ Shàng Wèi Zhī Dào De Měi Lì",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2025 · Album \"量变临界点\" · Track 3",
+  "lines": [
+    {
+      "translation": {
+        "en": "How beautiful the future is, I don't yet know — that's why I look forward to every monsoon of this colorful world",
+        "pt": "Quão belo é o futuro, ainda não sei — por isso aguardo cada monção deste mundo colorido"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "未来",
+          "py": "wèi lái",
+          "gloss": "future",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "美丽",
+          "py": "měi lì",
+          "gloss": "beautiful",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "尚未",
+          "py": "shàng wèi",
+          "gloss": "not yet",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "知道",
+          "py": "zhī dào",
+          "gloss": "know",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "期待",
+          "py": "qī dài",
+          "gloss": "look forward to",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "花花世界",
+          "py": "huā huā shì jiè",
+          "gloss": "colorful world",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "每",
+          "py": "měi",
+          "gloss": "every",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一场",
+          "py": "yī chǎng",
+          "gloss": "a (m.w.)",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "季风",
+          "py": "jì fēng",
+          "gloss": "monsoon",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Those scattered in the wind, how should they pray to have the same mark",
+        "pt": "Aqueles dispersos no vento, como devem rezar para ter a mesma marca"
+      },
+      "words": [
+        {
+          "hz": "散落",
+          "py": "sàn luò",
+          "gloss": "scattered",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "该",
+          "py": "gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "如何",
+          "py": "rú hé",
+          "gloss": "how",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "祈祷",
+          "py": "qí dǎo",
+          "gloss": "pray",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "拥有",
+          "py": "yōng yǒu",
+          "gloss": "possess",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "相同",
+          "py": "xiāng tóng",
+          "gloss": "same",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "记号",
+          "py": "jì hào",
+          "gloss": "mark",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Perhaps dusk, the accidental length, the golden fantasy of sunset, are all the limited light of this moment",
+        "pt": "Talvez o crepúsculo, o comprimento acidental, a fantasia dourada do pôr do sol, sejam toda a luz limitada deste momento"
+      },
+      "words": [
+        {
+          "hz": "也许",
+          "py": "yě xǔ",
+          "gloss": "perhaps",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "黄昏",
+          "py": "huáng hūn",
+          "gloss": "dusk",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "偶然",
+          "py": "ǒu rán",
+          "gloss": "accidental",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "漫长",
+          "py": "màn cháng",
+          "gloss": "long",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "落日",
+          "py": "luò rì",
+          "gloss": "setting sun",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "金色",
+          "py": "jīn sè",
+          "gloss": "golden",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "幻想",
+          "py": "huàn xiǎng",
+          "gloss": "fantasy",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "此刻",
+          "py": "cǐ kè",
+          "gloss": "this moment",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "限定",
+          "py": "xiàn dìng",
+          "gloss": "limited",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "光",
+          "py": "guāng",
+          "gloss": "light",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Every heart, from the moment of birth, invisibly wanders together — lonely people already live a fate that is not lonely",
+        "pt": "Cada coração, desde o nascimento, invisivelmente vagueia junto — pessoas solitárias já vivem um destino que não é solitário"
+      },
+      "words": [
+        {
+          "hz": "每",
+          "py": "měi",
+          "gloss": "every",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "颗",
+          "py": "kē",
+          "gloss": "(m.w.)",
+          "hsk": 5,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "心",
+          "py": "xīn",
+          "gloss": "heart",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "呱呱坠地",
+          "py": "gū gū zhuì dì",
+          "gloss": "be born",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "冥冥",
+          "py": "míng míng",
+          "gloss": "invisibly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "相伴",
+          "py": "xiāng bàn",
+          "gloss": "accompany",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "流浪",
+          "py": "liú làng",
+          "gloss": "wander",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "孤独",
+          "py": "gū dú",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "早已",
+          "py": "zǎo yǐ",
+          "gloss": "long ago",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "活",
+          "py": "huó",
+          "gloss": "live",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "不孤独",
+          "py": "bù gū dú",
+          "gloss": "not lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Scene by scene, letting time sway — scene by scene, I stubbornly search",
+        "pt": "Cena por cena, deixando o tempo balançar — cena por cena, eu procuro obstinadamente"
+      },
+      "words": [
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "任",
+          "py": "rèn",
+          "gloss": "let",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "飘摇",
+          "py": "piāo yáo",
+          "gloss": "sway",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "固执",
+          "py": "gù zhí",
+          "gloss": "stubbornly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "寻找",
+          "py": "xún zhǎo",
+          "gloss": "search",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Scene by scene, this stumbling life — does it look like dancing?",
+        "pt": "Cena por cena, esta vida tropeçante — parece dança?"
+      },
+      "words": [
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "跌跌撞撞",
+          "py": "diē diē zhuàng zhuàng",
+          "gloss": "stumbling",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人生",
+          "py": "rén shēng",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "像不像",
+          "py": "xiàng bù xiàng",
+          "gloss": "is it like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "舞蹈",
+          "py": "wǔ dǎo",
+          "gloss": "dance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How beautiful the future is, I don't yet know — that's why I look forward to every monsoon of this colorful world",
+        "pt": "Quão belo é o futuro, ainda não sei — por isso aguardo cada monção deste mundo colorido"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "未来",
+          "py": "wèi lái",
+          "gloss": "future",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "美丽",
+          "py": "měi lì",
+          "gloss": "beautiful",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "尚未",
+          "py": "shàng wèi",
+          "gloss": "not yet",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "知道",
+          "py": "zhī dào",
+          "gloss": "know",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "期待",
+          "py": "qī dài",
+          "gloss": "look forward to",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "花花世界",
+          "py": "huā huā shì jiè",
+          "gloss": "colorful world",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "每",
+          "py": "měi",
+          "gloss": "every",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一场",
+          "py": "yī chǎng",
+          "gloss": "a (m.w.)",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "季风",
+          "py": "jì fēng",
+          "gloss": "monsoon",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Those scattered in the wind, how should they pray — for a lonely yet brilliant life",
+        "pt": "Aqueles dispersos no vento, como devem rezar — por uma vida solitária mas brilhante"
+      },
+      "words": [
+        {
+          "hz": "散落",
+          "py": "sàn luò",
+          "gloss": "scattered",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "该",
+          "py": "gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "如何",
+          "py": "rú hé",
+          "gloss": "how",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "祈祷",
+          "py": "qí dǎo",
+          "gloss": "pray",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "某个",
+          "py": "mǒu gè",
+          "gloss": "a certain",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "孤单",
+          "py": "gū dān",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "灿烂",
+          "py": "càn làn",
+          "gloss": "brilliant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人生",
+          "py": "rén shēng",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "All who are born lonely, keep your innocence — give the world a hug",
+        "pt": "Todos que nascem sós, conservem sua inocência — deem ao mundo um abraço"
+      },
+      "words": [
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "生而",
+          "py": "shēng ér",
+          "gloss": "born",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "孤独",
+          "py": "gū dú",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "葆有",
+          "py": "bǎo yǒu",
+          "gloss": "keep",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你的",
+          "py": "nǐ de",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "天真",
+          "py": "tiān zhēn",
+          "gloss": "innocence",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "拥抱",
+          "py": "yōng bào",
+          "gloss": "hug",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "No longer defining the unknown distance — the journey was always meant to be different, just like we've always been different",
+        "pt": "Não mais definir a distância desconhecida — a jornada sempre foi feita para ser diferente, assim como sempre fomos diferentes"
+      },
+      "words": [
+        {
+          "hz": "不再",
+          "py": "bù zài",
+          "gloss": "no longer",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "定义",
+          "py": "dìng yì",
+          "gloss": "define",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "未知",
+          "py": "wèi zhī",
+          "gloss": "unknown",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "远方",
+          "py": "yuǎn fāng",
+          "gloss": "distance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "旅程",
+          "py": "lǚ chéng",
+          "gloss": "journey",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "本该",
+          "py": "běn gāi",
+          "gloss": "should have been",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不一样",
+          "py": "bù yī yàng",
+          "gloss": "different",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "不一样",
+          "py": "bù yī yàng",
+          "gloss": "different",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In the chaotic, noisy center, or in a place no one knows — beautiful me will forever grow into an ordinary shape",
+        "pt": "No centro caótico e barulhento, ou num lugar que ninguém conhece — a bela eu sempre crescerá numa forma comum"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "纷乱",
+          "py": "fēn luàn",
+          "gloss": "chaotic",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "嘈杂",
+          "py": "cáo zá",
+          "gloss": "noisy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "中央",
+          "py": "zhōng yāng",
+          "gloss": "center",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "或",
+          "py": "huò",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "无人",
+          "py": "wú rén",
+          "gloss": "no one",
+          "hsk": 5,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "知晓",
+          "py": "zhī xiǎo",
+          "gloss": "know",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "地方",
+          "py": "dì fāng",
+          "gloss": "place",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "美丽",
+          "py": "měi lì",
+          "gloss": "beautiful",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "永远",
+          "py": "yǒng yuǎn",
+          "gloss": "forever",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "长成",
+          "py": "zhǎng chéng",
+          "gloss": "grow into",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "平凡",
+          "py": "píng fán",
+          "gloss": "ordinary",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "模样",
+          "py": "mú yàng",
+          "gloss": "appearance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Scene by scene, letting time sway — scene by scene, I stubbornly search",
+        "pt": "Cena por cena, deixando o tempo balançar — cena por cena, eu procuro obstinadamente"
+      },
+      "words": [
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "任",
+          "py": "rèn",
+          "gloss": "let",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "飘摇",
+          "py": "piāo yáo",
+          "gloss": "sway",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "固执",
+          "py": "gù zhí",
+          "gloss": "stubbornly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "寻找",
+          "py": "xún zhǎo",
+          "gloss": "search",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Scene by scene — even if some wounds and some pain are destined, still run wildly",
+        "pt": "Cena por cena — mesmo que algumas feridas e dores sejam destinadas, ainda correr selvagemente"
+      },
+      "words": [
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "幕",
+          "py": "mù",
+          "gloss": "scene",
+          "hsk": 6,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "就算",
+          "py": "jiù suàn",
+          "gloss": "even if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "注定",
+          "py": "zhù dìng",
+          "gloss": "destined",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "有些",
+          "py": "yǒu xiē",
+          "gloss": "some",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "伤",
+          "py": "shāng",
+          "gloss": "wound",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有些",
+          "py": "yǒu xiē",
+          "gloss": "some",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "痛",
+          "py": "tòng",
+          "gloss": "pain",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "放肆",
+          "py": "fàng sì",
+          "gloss": "wildly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "跑",
+          "py": "pǎo",
+          "gloss": "run",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How beautiful the future is, I don't yet know — that's why I look forward to every monsoon of this colorful world",
+        "pt": "Quão belo é o futuro, ainda não sei — por isso aguardo cada monção deste mundo colorido"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "未来",
+          "py": "wèi lái",
+          "gloss": "future",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "美丽",
+          "py": "měi lì",
+          "gloss": "beautiful",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "尚未",
+          "py": "shàng wèi",
+          "gloss": "not yet",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "知道",
+          "py": "zhī dào",
+          "gloss": "know",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "期待",
+          "py": "qī dài",
+          "gloss": "look forward to",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "花花世界",
+          "py": "huā huā shì jiè",
+          "gloss": "colorful world",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "每",
+          "py": "měi",
+          "gloss": "every",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一场",
+          "py": "yī chǎng",
+          "gloss": "a (m.w.)",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "季风",
+          "py": "jì fēng",
+          "gloss": "monsoon",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Those scattered in the wind, how should they pray — for a lonely yet brilliant life",
+        "pt": "Aqueles dispersos no vento, como devem rezar — por uma vida solitária mas brilhante"
+      },
+      "words": [
+        {
+          "hz": "散落",
+          "py": "sàn luò",
+          "gloss": "scattered",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "该",
+          "py": "gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "如何",
+          "py": "rú hé",
+          "gloss": "how",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "祈祷",
+          "py": "qí dǎo",
+          "gloss": "pray",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "某个",
+          "py": "mǒu gè",
+          "gloss": "a certain",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "孤单",
+          "py": "gū dān",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "灿烂",
+          "py": "càn làn",
+          "gloss": "brilliant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人生",
+          "py": "rén shēng",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "All who are born lonely, keep your innocence — give the world a hug",
+        "pt": "Todos que nascem sós, conservem sua inocência — deem ao mundo um abraço"
+      },
+      "words": [
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "生而",
+          "py": "shēng ér",
+          "gloss": "born",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "孤独",
+          "py": "gū dú",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "葆有",
+          "py": "bǎo yǒu",
+          "gloss": "keep",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你的",
+          "py": "nǐ de",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "天真",
+          "py": "tiān zhēn",
+          "gloss": "innocence",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "拥抱",
+          "py": "yōng bào",
+          "gloss": "hug",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I may be a tiny drifting fish, the most mediocre poem",
+        "pt": "Eu talvez seja um peixinho à deriva, o poema mais medíocre"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "也许",
+          "py": "yě xǔ",
+          "gloss": "perhaps",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "am",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "渺小",
+          "py": "miǎo xiǎo",
+          "gloss": "tiny",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "漂流",
+          "py": "piāo liú",
+          "gloss": "drifting",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "鱼",
+          "py": "yú",
+          "gloss": "fish",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "am",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "平庸",
+          "py": "píng yōng",
+          "gloss": "mediocre",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "一首",
+          "py": "yī shǒu",
+          "gloss": "a (m.w.)",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "诗",
+          "py": "shī",
+          "gloss": "poem",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But I deeply love sunlight, soil, air — I want to breathe freely with big gulps",
+        "pt": "Mas eu amo profundamente a luz do sol, o solo, o ar — quero respirar livremente em grandes bocadas"
+      },
+      "words": [
+        {
+          "hz": "但",
+          "py": "dàn",
+          "gloss": "but",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "深爱",
+          "py": "shēn ài",
+          "gloss": "deeply love",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "阳光",
+          "py": "yáng guāng",
+          "gloss": "sunlight",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "泥土",
+          "py": "ní tǔ",
+          "gloss": "soil",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "空气",
+          "py": "kōng qì",
+          "gloss": "air",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "用力",
+          "py": "yòng lì",
+          "gloss": "with force",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "自在",
+          "py": "zì zài",
+          "gloss": "freely",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "大口",
+          "py": "dà kǒu",
+          "gloss": "big gulps",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "呼吸",
+          "py": "hū xī",
+          "gloss": "breathe",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "To go see the vastness not yet seen",
+        "pt": "Para ir ver a vastidão ainda não vista"
+      },
+      "words": [
+        {
+          "hz": "去",
+          "py": "qù",
+          "gloss": "go",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "看看",
+          "py": "kàn kan",
+          "gloss": "take a look",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "未见",
+          "py": "wèi jiàn",
+          "gloss": "unseen",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "广袤",
+          "py": "guǎng mào",
+          "gloss": "vastness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How beautiful the future is, I don't yet know — that's why I look forward to this colorful world",
+        "pt": "Quão belo é o futuro, ainda não sei — por isso aguardo este mundo colorido"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "未来",
+          "py": "wèi lái",
+          "gloss": "future",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "美丽",
+          "py": "měi lì",
+          "gloss": "beautiful",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "尚未",
+          "py": "shàng wèi",
+          "gloss": "not yet",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "知道",
+          "py": "zhī dào",
+          "gloss": "know",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "期待",
+          "py": "qī dài",
+          "gloss": "look forward to",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "花花世界",
+          "py": "huā huā shì jiè",
+          "gloss": "colorful world",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Every monsoon — those scattered in the wind, how should they pray",
+        "pt": "Cada monção — aqueles dispersos no vento, como devem rezar"
+      },
+      "words": [
+        {
+          "hz": "每",
+          "py": "měi",
+          "gloss": "every",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一场",
+          "py": "yī chǎng",
+          "gloss": "a (m.w.)",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "季风",
+          "py": "jì fēng",
+          "gloss": "monsoon",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "散落",
+          "py": "sàn luò",
+          "gloss": "scattered",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "in",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "该",
+          "py": "gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "如何",
+          "py": "rú hé",
+          "gloss": "how",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "祈祷",
+          "py": "qí dǎo",
+          "gloss": "pray",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "For a lonely yet brilliant life",
+        "pt": "Por uma vida solitária mas brilhante"
+      },
+      "words": [
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "某个",
+          "py": "mǒu gè",
+          "gloss": "a certain",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "孤单",
+          "py": "gū dān",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "灿烂",
+          "py": "càn làn",
+          "gloss": "brilliant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人生",
+          "py": "rén shēng",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "All who are born lonely, keep your innocence — embrace the distance just like this",
+        "pt": "Todos que nascem sós, conservem sua inocência — abracem a distância assim mesmo"
+      },
+      "words": [
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "生而",
+          "py": "shēng ér",
+          "gloss": "born",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "孤独",
+          "py": "gū dú",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "葆有",
+          "py": "bǎo yǒu",
+          "gloss": "keep",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你的",
+          "py": "nǐ de",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "天真",
+          "py": "tiān zhēn",
+          "gloss": "innocence",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "这样",
+          "py": "zhè yàng",
+          "gloss": "like this",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拥抱",
+          "py": "yōng bào",
+          "gloss": "embrace",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "远方",
+          "py": "yuǎn fāng",
+          "gloss": "distance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}

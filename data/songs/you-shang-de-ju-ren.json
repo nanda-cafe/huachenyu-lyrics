@@ -1,0 +1,863 @@
+{
+  "id": "you-shang-de-ju-ren",
+  "title": "忧伤的巨人",
+  "titlePinyin": "Yōu Shāng De Jù Rén",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2015 · Album \"異類\" · Track 11",
+  "lines": [
+    {
+      "translation": {
+        "en": "I drift in a small boat — twelve days at sea, the weather is clear",
+        "pt": "Eu à deriva num pequeno barco — doze dias no mar, o tempo está claro"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "乘着",
+          "py": "chéng zhe",
+          "gloss": "drift in",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "小船",
+          "py": "xiǎo chuán",
+          "gloss": "small boat",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "漂",
+          "py": "piāo",
+          "gloss": "drift",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "海上",
+          "py": "hǎi shàng",
+          "gloss": "at sea",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "十二",
+          "py": "shí èr",
+          "gloss": "twelve",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "日",
+          "py": "rì",
+          "gloss": "days",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "天气",
+          "py": "tiān qì",
+          "gloss": "weather",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "晴",
+          "py": "qíng",
+          "gloss": "clear",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Then the wind rose — it started to rain — I encountered... uh?",
+        "pt": "Então o vento levantou — começou a chover — eu encontrei... uh?"
+      },
+      "words": [
+        {
+          "hz": "后来",
+          "py": "hòu lái",
+          "gloss": "then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "起",
+          "py": "qǐ",
+          "gloss": "rose",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "风",
+          "py": "fēng",
+          "gloss": "wind",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "下起",
+          "py": "xià qǐ",
+          "gloss": "started to fall",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "雨",
+          "py": "yǔ",
+          "gloss": "rain",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "遭遇",
+          "py": "zāo yù",
+          "gloss": "encountered",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "uh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "He took me away — didn't harm me — by my ear, I heard the sound of seawater... uh",
+        "pt": "Ele me levou — não me machucou — no meu ouvido, ouvi o som da água do mar... uh"
+      },
+      "words": [
+        {
+          "hz": "他",
+          "py": "tā",
+          "gloss": "he",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "带走",
+          "py": "dài zǒu",
+          "gloss": "took away",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "didn't",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "伤害",
+          "py": "shāng hài",
+          "gloss": "harm",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "耳边",
+          "py": "ěr biān",
+          "gloss": "by my ear",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "听到",
+          "py": "tīng dào",
+          "gloss": "heard",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "海水",
+          "py": "hǎi shuǐ",
+          "gloss": "seawater",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "声音",
+          "py": "shēng yīn",
+          "gloss": "sound",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "uh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "There is a giant named Makelie — living in seclusion outside the dwarf kingdom, happy life",
+        "pt": "Há um gigante chamado Makelie — vivendo em reclusão fora do reino dos anões, vida feliz"
+      },
+      "words": [
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "巨人",
+          "py": "jù rén",
+          "gloss": "giant",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "名叫",
+          "py": "míng jiào",
+          "gloss": "named",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "麦克列",
+          "py": "Mài kè liè",
+          "gloss": "Makelie",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "矮人",
+          "py": "ǎi rén",
+          "gloss": "dwarf",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "国外",
+          "py": "guó wài",
+          "gloss": "outside the kingdom",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "隐居",
+          "py": "yǐn jū",
+          "gloss": "living in seclusion",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "快乐",
+          "py": "kuài lè",
+          "gloss": "happy",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "生活",
+          "py": "shēng huó",
+          "gloss": "life",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "His wife hid the identity of a mermaid — until one day she was taken back to the sea",
+        "pt": "Sua esposa escondia a identidade de uma sereia — até que um dia ela foi levada de volta ao mar"
+      },
+      "words": [
+        {
+          "hz": "妻子",
+          "py": "qī zi",
+          "gloss": "wife",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "藏着",
+          "py": "cáng zhe",
+          "gloss": "hid",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "美人鱼",
+          "py": "měi rén yú",
+          "gloss": "mermaid",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "身份",
+          "py": "shēn fèn",
+          "gloss": "identity",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "直到",
+          "py": "zhí dào",
+          "gloss": "until",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一天",
+          "py": "yī tiān",
+          "gloss": "one day",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "她",
+          "py": "tā",
+          "gloss": "she",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "带回",
+          "py": "dài huí",
+          "gloss": "taken back",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "大海",
+          "py": "dà hǎi",
+          "gloss": "sea",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The giant waited every day for her to return — but she never came back",
+        "pt": "O gigante esperava todos os dias que ela voltasse — mas ela nunca voltou"
+      },
+      "words": [
+        {
+          "hz": "巨人",
+          "py": "jù rén",
+          "gloss": "giant",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "每天",
+          "py": "měi tiān",
+          "gloss": "every day",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "等着",
+          "py": "děng zhe",
+          "gloss": "waited",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "她",
+          "py": "tā",
+          "gloss": "her",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "回来",
+          "py": "huí lái",
+          "gloss": "return",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "but",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "她",
+          "py": "tā",
+          "gloss": "she",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "始终",
+          "py": "shǐ zhōng",
+          "gloss": "always",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "回来",
+          "py": "huí lái",
+          "gloss": "come back",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The happy giant grew sadder day by day — every time he grieved, rain fell from the sky",
+        "pt": "O gigante feliz ficou mais triste dia a dia — cada vez que ele sofria, a chuva caía do céu"
+      },
+      "words": [
+        {
+          "hz": "快乐",
+          "py": "kuài lè",
+          "gloss": "happy",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "巨人",
+          "py": "jù rén",
+          "gloss": "giant",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一天天",
+          "py": "yī tiān tiān",
+          "gloss": "day by day",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "失落",
+          "py": "shī luò",
+          "gloss": "sad",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "每次",
+          "py": "měi cì",
+          "gloss": "every time",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "伤心",
+          "py": "shāng xīn",
+          "gloss": "grieved",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "下起",
+          "py": "xià qǐ",
+          "gloss": "start to fall",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "雨",
+          "py": "yǔ",
+          "gloss": "rain",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who knew he stood like this for many years — his body petrified into islands",
+        "pt": "Quem diria que ele ficou assim por muitos anos — seu corpo petrificou-se em ilhas"
+      },
+      "words": [
+        {
+          "hz": "谁知",
+          "py": "shéi zhī",
+          "gloss": "who knew",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "这样",
+          "py": "zhè yàng",
+          "gloss": "like this",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "矗立",
+          "py": "chù lì",
+          "gloss": "stood",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "许多",
+          "py": "xǔ duō",
+          "gloss": "many",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "年",
+          "py": "nián",
+          "gloss": "years",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "身躯",
+          "py": "shēn qū",
+          "gloss": "body",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "石化",
+          "py": "shí huà",
+          "gloss": "petrified",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "成",
+          "py": "chéng",
+          "gloss": "into",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "岛屿",
+          "py": "dǎo yǔ",
+          "gloss": "islands",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Tears merged into the ocean — oh oh — oh oh",
+        "pt": "Lágrimas se fundiram no oceano — oh oh — oh oh"
+      },
+      "words": [
+        {
+          "hz": "眼泪",
+          "py": "yǎn lèi",
+          "gloss": "tears",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "汇成",
+          "py": "huì chéng",
+          "gloss": "merged into",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "海洋",
+          "py": "hǎi yáng",
+          "gloss": "ocean",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "喔",
+          "py": "ō",
+          "gloss": "oh",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "喔",
+          "py": "ō",
+          "gloss": "oh",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "喔",
+          "py": "ō",
+          "gloss": "oh",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "喔",
+          "py": "ō",
+          "gloss": "oh",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "id": "xiao-shi-de-zuo-tian",
+  "title": "消失的昨天",
+  "titlePinyin": "Xiāo Shī De Zuó Tiān",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2017 · Album \"H\" · Track 6",
+  "lines": [
+    {
+      "translation": {
+        "en": "In the pitch-black room — the feeling of missing you",
+        "pt": "No quarto escuro como breu — a sensação de sentir sua falta"
+      },
+      "words": [
+        {
+          "hz": "漆黑",
+          "py": "qī hēi",
+          "gloss": "pitch-black",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "房间",
+          "py": "fáng jiān",
+          "gloss": "room",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "想你",
+          "py": "xiǎng nǐ",
+          "gloss": "missing you",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "感觉",
+          "py": "gǎn jué",
+          "gloss": "feeling",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Blocking out the sun and moon — only then can I relive everything we deeply had",
+        "pt": "Bloqueando o sol e a lua — só assim posso reviver tudo o que profundamente tivemos"
+      },
+      "words": [
+        {
+          "hz": "挡住",
+          "py": "dǎng zhù",
+          "gloss": "block",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "日月",
+          "py": "rì yuè",
+          "gloss": "sun and moon",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "才能",
+          "py": "cái néng",
+          "gloss": "only then can",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "温习",
+          "py": "wēn xí",
+          "gloss": "relive",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "with",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "深情",
+          "py": "shēn qíng",
+          "gloss": "deeply",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "拥有",
+          "py": "yōng yǒu",
+          "gloss": "had",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "一切",
+          "py": "yī qiè",
+          "gloss": "everything",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The closer we once were — the more torn apart when separated",
+        "pt": "Quanto mais próximos estávamos — mais dilacerados quando separados"
+      },
+      "words": [
+        {
+          "hz": "曾经",
+          "py": "céng jīng",
+          "gloss": "once",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "越",
+          "py": "yuè",
+          "gloss": "the more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "密切",
+          "py": "mì qiè",
+          "gloss": "close",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "一",
+          "py": "yī",
+          "gloss": "once",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "分开",
+          "py": "fēn kāi",
+          "gloss": "separate",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "越",
+          "py": "yuè",
+          "gloss": "the more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "撕裂",
+          "py": "sī liè",
+          "gloss": "torn apart",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "My world — not just anyone can push open the door and see",
+        "pt": "Meu mundo — não é qualquer um que pode abrir a porta e ver"
+      },
+      "words": [
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不是",
+          "py": "bù shì",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "anyone",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "推门",
+          "py": "tuī mén",
+          "gloss": "push the door",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "看见",
+          "py": "kàn jiàn",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That childlike side",
+        "pt": "Aquele lado infantil"
+      },
+      "words": [
+        {
+          "hz": "孩子",
+          "py": "hái zi",
+          "gloss": "child",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一面",
+          "py": "yī miàn",
+          "gloss": "side",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I don't understand your decision — thought about being selfish, but ultimately was considerate",
+        "pt": "Eu não entendo sua decisão — pensei em ser egoísta, mas no fim fui compreensivo"
+      },
+      "words": [
+        {
+          "hz": "你的",
+          "py": "nǐ de",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "决定",
+          "py": "jué dìng",
+          "gloss": "decision",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "理解",
+          "py": "lǐ jiě",
+          "gloss": "understand",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "想过",
+          "py": "xiǎng guò",
+          "gloss": "thought about",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "自私",
+          "py": "zì sī",
+          "gloss": "selfish",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "终究",
+          "py": "zhōng jiū",
+          "gloss": "ultimately",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "体贴",
+          "py": "tǐ tiē",
+          "gloss": "considerate",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How regrettable you never noticed — the changes made for you",
+        "pt": "Quão lamentável você nunca percebeu — as mudanças feitas por você"
+      },
+      "words": [
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "遗憾",
+          "py": "yí hàn",
+          "gloss": "regrettable",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "发现",
+          "py": "fā xiàn",
+          "gloss": "notice",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "做",
+          "py": "zuò",
+          "gloss": "made",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "改变",
+          "py": "gǎi biàn",
+          "gloss": "changes",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Full of touching memories — making the heart feel empty",
+        "pt": "Cheio de memórias comoventes — fazendo o coração se sentir vazio"
+      },
+      "words": [
+        {
+          "hz": "满满的",
+          "py": "mǎn mǎn de",
+          "gloss": "full of",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "感动",
+          "py": "gǎn dòng",
+          "gloss": "touching",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "回忆",
+          "py": "huí yì",
+          "gloss": "memories",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "make",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "心情",
+          "py": "xīn qíng",
+          "gloss": "mood",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "空空的",
+          "py": "kōng kōng de",
+          "gloss": "empty",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Reaching out — but unable to hold back the departing silhouette",
+        "pt": "Estendendo a mão — mas incapaz de segurar a silhueta que parte"
+      },
+      "words": [
+        {
+          "hz": "伸手",
+          "py": "shēn shǒu",
+          "gloss": "reach out",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "挽不住",
+          "py": "wǎn bù zhù",
+          "gloss": "unable to hold back",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "远走",
+          "py": "yuǎn zǒu",
+          "gloss": "departing",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "背影",
+          "py": "bèi yǐng",
+          "gloss": "silhouette",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How desolate",
+        "pt": "Quão desolado"
+      },
+      "words": [
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "萧瑟",
+          "py": "xiāo sè",
+          "gloss": "desolate",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Lowered my head — endured all the blame I didn't agree with",
+        "pt": "Abaixei a cabeça — suportei todas as censuras com que não concordava"
+      },
+      "words": [
+        {
+          "hz": "低头",
+          "py": "dī tóu",
+          "gloss": "lower head",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "忍受",
+          "py": "rěn shòu",
+          "gloss": "endure",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "并不",
+          "py": "bìng bù",
+          "gloss": "not at all",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "认同",
+          "py": "rèn tóng",
+          "gloss": "agree with",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "苛责",
+          "py": "kē zé",
+          "gloss": "blame",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only thinking — I love you too much to care about anything else",
+        "pt": "Só pensando — eu te amo demais para me importar com qualquer outra coisa"
+      },
+      "words": [
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想着",
+          "py": "xiǎng zhe",
+          "gloss": "thinking",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "太",
+          "py": "tài",
+          "gloss": "too",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不管",
+          "py": "bù guǎn",
+          "gloss": "no matter",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "别的",
+          "py": "bié de",
+          "gloss": "anything else",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I don't understand your decision — thought about being selfish, but ultimately was considerate",
+        "pt": "Eu não entendo sua decisão — pensei em ser egoísta, mas no fim fui compreensivo"
+      },
+      "words": [
+        {
+          "hz": "你的",
+          "py": "nǐ de",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "决定",
+          "py": "jué dìng",
+          "gloss": "decision",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "理解",
+          "py": "lǐ jiě",
+          "gloss": "understand",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "想过",
+          "py": "xiǎng guò",
+          "gloss": "thought about",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "自私",
+          "py": "zì sī",
+          "gloss": "selfish",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "终究",
+          "py": "zhōng jiū",
+          "gloss": "ultimately",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "体贴",
+          "py": "tǐ tiē",
+          "gloss": "considerate",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How regrettable you never noticed — the changes made for you",
+        "pt": "Quão lamentável você nunca percebeu — as mudanças feitas por você"
+      },
+      "words": [
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "遗憾",
+          "py": "yí hàn",
+          "gloss": "regrettable",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "发现",
+          "py": "fā xiàn",
+          "gloss": "notice",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "做",
+          "py": "zuò",
+          "gloss": "made",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "改变",
+          "py": "gǎi biàn",
+          "gloss": "changes",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Full of longing and unwillingness — making the mind go blank",
+        "pt": "Cheio de anseio e relutância — fazendo a mente ficar em branco"
+      },
+      "words": [
+        {
+          "hz": "满满的",
+          "py": "mǎn mǎn de",
+          "gloss": "full of",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "渴望",
+          "py": "kě wàng",
+          "gloss": "longing",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "不舍",
+          "py": "bù shě",
+          "gloss": "unwillingness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "make",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "脑海",
+          "py": "nǎo hǎi",
+          "gloss": "mind",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "空白",
+          "py": "kòng bái",
+          "gloss": "blank",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Reaching out — superstitiously believing love absolutely cannot resist my fervor",
+        "pt": "Estendendo a mão — acreditando supersticiosamente que o amor absolutamente não pode resistir ao meu fervor"
+      },
+      "words": [
+        {
+          "hz": "伸手",
+          "py": "shēn shǒu",
+          "gloss": "reach out",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "迷信",
+          "py": "mí xìn",
+          "gloss": "superstitiously",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "绝",
+          "py": "jué",
+          "gloss": "absolutely",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "抵挡不了",
+          "py": "dǐ dǎng bù liǎo",
+          "gloss": "cannot resist",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "狂热",
+          "py": "kuáng rè",
+          "gloss": "fervor",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who knew love — after lighting up, drifts and falls",
+        "pt": "Quem diria que o amor — depois de acender, flutua e cai"
+      },
+      "words": [
+        {
+          "hz": "哪知道",
+          "py": "nǎ zhī dào",
+          "gloss": "who knew",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "点亮",
+          "py": "diǎn liàng",
+          "gloss": "light up",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "飘散",
+          "py": "piāo sàn",
+          "gloss": "drift",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "坠落",
+          "py": "zhuì luò",
+          "gloss": "fall",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "All over the sky is bitterness",
+        "pt": "Por todo o céu é amargura"
+      },
+      "words": [
+        {
+          "hz": "漫天",
+          "py": "màn tiān",
+          "gloss": "all over the sky",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "苦涩",
+          "py": "kǔ sè",
+          "gloss": "bitterness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Unwilling to bury the past — buried by longing",
+        "pt": "Não querendo enterrar o passado — enterrado pela saudade"
+      },
+      "words": [
+        {
+          "hz": "不肯",
+          "py": "bù kěn",
+          "gloss": "unwilling",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "埋葬",
+          "py": "mái zàng",
+          "gloss": "bury",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "往事",
+          "py": "wǎng shì",
+          "gloss": "past",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "思念",
+          "py": "sī niàn",
+          "gloss": "longing",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "埋",
+          "py": "mái",
+          "gloss": "buried",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

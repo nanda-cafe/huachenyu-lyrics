@@ -1,0 +1,747 @@
+{
+  "id": "ju-lu",
+  "title": "巨鹿",
+  "titlePinyin": "Jù Lù",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2017 · Album \"H\" · Track 1",
+  "lines": [
+    {
+      "translation": {
+        "en": "Did I exceed the speed of light in the universe?",
+        "pt": "Eu ultrapassei a velocidade da luz no universo?"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "宇宙",
+          "py": "yǔ zhòu",
+          "gloss": "universe",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "inside",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "超光速",
+          "py": "chāo guāng sù",
+          "gloss": "exceed light speed",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hiding behind the Milky Way — who would find me",
+        "pt": "Escondido atrás da Via Láctea — quem me encontraria"
+      },
+      "words": [
+        {
+          "hz": "躲在",
+          "py": "duǒ zài",
+          "gloss": "hide behind",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "银河",
+          "py": "yín hé",
+          "gloss": "Milky Way",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "后",
+          "py": "hòu",
+          "gloss": "behind",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "would",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "发现",
+          "py": "fā xiàn",
+          "gloss": "find",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A strange dream sprints out from the night sky",
+        "pt": "Um sonho estranho dispara do céu noturno"
+      },
+      "words": [
+        {
+          "hz": "奇怪",
+          "py": "qí guài",
+          "gloss": "strange",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "梦",
+          "py": "mèng",
+          "gloss": "dream",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "夜空",
+          "py": "yè kōng",
+          "gloss": "night sky",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "飞奔",
+          "py": "fēi bēn",
+          "gloss": "sprint",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "出",
+          "py": "chū",
+          "gloss": "out",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Like a giant deer — in the blackness",
+        "pt": "Como um cervo gigante — na escuridão"
+      },
+      "words": [
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一只",
+          "py": "yī zhī",
+          "gloss": "a (m.w.)",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "巨鹿",
+          "py": "jù lù",
+          "gloss": "giant deer",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "黑色",
+          "py": "hēi sè",
+          "gloss": "blackness",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "中",
+          "py": "zhōng",
+          "gloss": "inside",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "RUN — chasing the sunlight, racing to the distance",
+        "pt": "RUN — perseguindo a luz do sol, correndo para longe"
+      },
+      "words": [
+        {
+          "hz": "RUN",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "追着",
+          "py": "zhuī zhe",
+          "gloss": "chasing",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "阳光",
+          "py": "yáng guāng",
+          "gloss": "sunlight",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "奔向",
+          "py": "bēn xiàng",
+          "gloss": "race toward",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "远方",
+          "py": "yuǎn fāng",
+          "gloss": "distance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "FLY — wave both hands, turn them into wings",
+        "pt": "FLY — agite ambas as mãos, transforme-as em asas"
+      },
+      "words": [
+        {
+          "hz": "FLY",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "挥动",
+          "py": "huī dòng",
+          "gloss": "wave",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "双手",
+          "py": "shuāng shǒu",
+          "gloss": "both hands",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "变成",
+          "py": "biàn chéng",
+          "gloss": "turn into",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "翅膀",
+          "py": "chì bǎng",
+          "gloss": "wings",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ah — I try to cross the infinite void",
+        "pt": "Ah — eu tento atravessar o vazio infinito"
+      },
+      "words": [
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "ah",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "试图",
+          "py": "shì tú",
+          "gloss": "try",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "穿越",
+          "py": "chuān yuè",
+          "gloss": "cross",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "无限",
+          "py": "wú xiàn",
+          "gloss": "infinite",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "虚空",
+          "py": "xū kōng",
+          "gloss": "void",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Not bound by reality",
+        "pt": "Não limitado pela realidade"
+      },
+      "words": [
+        {
+          "hz": "不受",
+          "py": "bù shòu",
+          "gloss": "not bound by",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "现实",
+          "py": "xiàn shí",
+          "gloss": "reality",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "约束",
+          "py": "yuē shù",
+          "gloss": "constraint",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I long to go to another nation",
+        "pt": "Anseio ir para outra nação"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "渴望",
+          "py": "kě wàng",
+          "gloss": "long for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "前往",
+          "py": "qián wǎng",
+          "gloss": "go to",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "另一个",
+          "py": "lìng yī gè",
+          "gloss": "another",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "国度",
+          "py": "guó dù",
+          "gloss": "nation",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "And also want to dance with shooting stars",
+        "pt": "E também quero dançar com estrelas cadentes"
+      },
+      "words": [
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "流星",
+          "py": "liú xīng",
+          "gloss": "shooting star",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "共舞",
+          "py": "gòng wǔ",
+          "gloss": "dance together",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Woh — RUN, chasing the sunlight, racing to the distance",
+        "pt": "Woh — RUN, perseguindo a luz do sol, correndo para longe"
+      },
+      "words": [
+        {
+          "hz": "喔",
+          "py": "wō",
+          "gloss": "woh",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "RUN",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "追着",
+          "py": "zhuī zhe",
+          "gloss": "chasing",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "阳光",
+          "py": "yáng guāng",
+          "gloss": "sunlight",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "奔向",
+          "py": "bēn xiàng",
+          "gloss": "race toward",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "远方",
+          "py": "yuǎn fāng",
+          "gloss": "distance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "FLY — wave both hands, turn them into wings",
+        "pt": "FLY — agite ambas as mãos, transforme-as em asas"
+      },
+      "words": [
+        {
+          "hz": "FLY",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "挥动",
+          "py": "huī dòng",
+          "gloss": "wave",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "双手",
+          "py": "shuāng shǒu",
+          "gloss": "both hands",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "变成",
+          "py": "biàn chéng",
+          "gloss": "turn into",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "翅膀",
+          "py": "chì bǎng",
+          "gloss": "wings",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ah — RUN, chasing the sunlight, racing to the distance",
+        "pt": "Ah — RUN, perseguindo a luz do sol, correndo para longe"
+      },
+      "words": [
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "ah",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "RUN",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "追着",
+          "py": "zhuī zhe",
+          "gloss": "chasing",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "阳光",
+          "py": "yáng guāng",
+          "gloss": "sunlight",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "奔向",
+          "py": "bēn xiàng",
+          "gloss": "race toward",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "远方",
+          "py": "yuǎn fāng",
+          "gloss": "distance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "FLY — wave both hands, turn them into wings",
+        "pt": "FLY — agite ambas as mãos, transforme-as em asas"
+      },
+      "words": [
+        {
+          "hz": "FLY",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "挥动",
+          "py": "huī dòng",
+          "gloss": "wave",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "双手",
+          "py": "shuāng shǒu",
+          "gloss": "both hands",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "变成",
+          "py": "biàn chéng",
+          "gloss": "turn into",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "翅膀",
+          "py": "chì bǎng",
+          "gloss": "wings",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ah",
+        "pt": "Ah"
+      },
+      "words": [
+        {
+          "hz": "啊",
+          "py": "a",
+          "gloss": "ah",
+          "hsk": 1,
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    }
+  ]
+}

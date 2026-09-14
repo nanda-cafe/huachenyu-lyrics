@@ -1,0 +1,872 @@
+{
+  "id": "bian-xiang-guai-jie",
+  "title": "变相怪杰",
+  "titlePinyin": "Biàn Xiàng Guài Jié",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2015 · Album \"異類\" · Track 8",
+  "lines": [
+    {
+      "translation": {
+        "en": "Wipe out the plain makeup — the whole performance is drawing to a close",
+        "pt": "Limpe a maquiagem simples — toda a apresentação está chegando ao fim"
+      },
+      "words": [
+        {
+          "hz": "丢掉",
+          "py": "diū diào",
+          "gloss": "wipe out",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "无奇",
+          "py": "wú qí",
+          "gloss": "plain",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "妆容",
+          "py": "zhuāng róng",
+          "gloss": "makeup",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "整场",
+          "py": "zhěng chǎng",
+          "gloss": "whole",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "演出",
+          "py": "yǎn chū",
+          "gloss": "performance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就要",
+          "py": "jiù yào",
+          "gloss": "about to",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "落幕",
+          "py": "luò mù",
+          "gloss": "draw to a close",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Please give me a few more minutes — to bask in the thunderous applause Encore",
+        "pt": "Por favor me dê mais alguns minutos — para me banhar nos aplausos estrondosos Encore"
+      },
+      "words": [
+        {
+          "hz": "请",
+          "py": "qǐng",
+          "gloss": "please",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "more",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "more",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "几分钟",
+          "py": "jǐ fēn zhōng",
+          "gloss": "a few minutes",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "享受",
+          "py": "xiǎng shòu",
+          "gloss": "bask in",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "掌声雷动",
+          "py": "zhǎng shēng léi dòng",
+          "gloss": "thunderous applause",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "Encore",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mocking me for seeking attention — so what? I'm not gonna care",
+        "pt": "Zombando de mim por buscar atenção — e daí? Não vou me importar"
+      },
+      "words": [
+        {
+          "hz": "笑",
+          "py": "xiào",
+          "gloss": "mocking",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "哗众取宠",
+          "py": "huá zhòng qǔ chǒng",
+          "gloss": "seeking attention",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "so",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "what",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "怎样",
+          "py": "zěn yàng",
+          "gloss": "what",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "追究",
+          "py": "zhuī jiū",
+          "gloss": "care",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Put on another mask to play the clown — the next second I turn into a monster",
+        "pt": "Coloque outra máscara para interpretar o palhaço — no segundo seguinte me transformo em um monstro"
+      },
+      "words": [
+        {
+          "hz": "换",
+          "py": "huàn",
+          "gloss": "change",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "张",
+          "py": "zhāng",
+          "gloss": "(m.w.)",
+          "hsk": 3,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "脸",
+          "py": "liǎn",
+          "gloss": "face",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "扮",
+          "py": "bàn",
+          "gloss": "play",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "小丑",
+          "py": "xiǎo chǒu",
+          "gloss": "clown",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "下",
+          "py": "xià",
+          "gloss": "next",
+          "hsk": 1,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "一秒钟",
+          "py": "yī miǎo zhōng",
+          "gloss": "next second",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "变成",
+          "py": "biàn chéng",
+          "gloss": "turn into",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "野兽",
+          "py": "yě shòu",
+          "gloss": "monster",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Peddling extravagantly — pouring in my all — indulge to the max, gentle to the max",
+        "pt": "Vendendo extravagantemente — dando tudo de mim — indulgente ao máximo, gentil ao máximo"
+      },
+      "words": [
+        {
+          "hz": "华丽",
+          "py": "huá lì",
+          "gloss": "extravagantly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "兜售",
+          "py": "dōu shòu",
+          "gloss": "peddling",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "倾尽所有",
+          "py": "qīng jìn suǒ yǒu",
+          "gloss": "pouring in my all",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "极度",
+          "py": "jí dù",
+          "gloss": "to the max",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "放纵",
+          "py": "fàng zòng",
+          "gloss": "indulge",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "极度",
+          "py": "jí dù",
+          "gloss": "to the max",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "温柔",
+          "py": "wēn róu",
+          "gloss": "gentle",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Oh, it's time to leave — Woah-woah — Growl growl growl growl growl",
+        "pt": "Oh, é hora de partir — Woah-woah — Growl growl growl growl growl"
+      },
+      "words": [
+        {
+          "hz": "Oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "it's",
+          "py": "",
+          "gloss": "",
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "time",
+          "py": "",
+          "gloss": "",
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "to",
+          "py": "",
+          "gloss": "",
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "leave",
+          "py": "",
+          "gloss": "",
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "Woah",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "woah",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Growl",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "growl",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "growl",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "growl",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "growl",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Mocking me for seeking attention — so what? I'm not gonna care",
+        "pt": "Zombando de mim por buscar atenção — e daí? Não vou me importar"
+      },
+      "words": [
+        {
+          "hz": "笑",
+          "py": "xiào",
+          "gloss": "mocking",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "哗众取宠",
+          "py": "huá zhòng qǔ chǒng",
+          "gloss": "seeking attention",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "so",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "what",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "怎样",
+          "py": "zěn yàng",
+          "gloss": "what",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "追究",
+          "py": "zhuī jiū",
+          "gloss": "care",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Put on another mask to play the clown — the next second I turn into a monster",
+        "pt": "Coloque outra máscara para interpretar o palhaço — no segundo seguinte me transformo em um monstro"
+      },
+      "words": [
+        {
+          "hz": "换",
+          "py": "huàn",
+          "gloss": "change",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "张",
+          "py": "zhāng",
+          "gloss": "(m.w.)",
+          "hsk": 3,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "脸",
+          "py": "liǎn",
+          "gloss": "face",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "扮",
+          "py": "bàn",
+          "gloss": "play",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "小丑",
+          "py": "xiǎo chǒu",
+          "gloss": "clown",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "下",
+          "py": "xià",
+          "gloss": "next",
+          "hsk": 1,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "一秒钟",
+          "py": "yī miǎo zhōng",
+          "gloss": "next second",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "变成",
+          "py": "biàn chéng",
+          "gloss": "turn into",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "野兽",
+          "py": "yě shòu",
+          "gloss": "monster",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Switching characters is my trade — using my absurdity to vie for your second glance",
+        "pt": "Trocar personagens é meu ofício — usando meu absurdo para disputar seu segundo olhar"
+      },
+      "words": [
+        {
+          "hz": "角色",
+          "py": "jué sè",
+          "gloss": "characters",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "切换",
+          "py": "qiē huàn",
+          "gloss": "switching",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "得心应手",
+          "py": "dé xīn yìng shǒu",
+          "gloss": "is my trade",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "using",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "荒谬",
+          "py": "huāng miù",
+          "gloss": "absurdity",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "博",
+          "py": "bó",
+          "gloss": "vie for",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "回眸",
+          "py": "huí móu",
+          "gloss": "second glance",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Woah-woah — Growl growl growl growl growl",
+        "pt": "Woah-woah — Growl growl growl growl growl"
+      },
+      "words": [
+        {
+          "hz": "Woah",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "woah",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "Growl",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "growl",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "growl",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "growl",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "growl",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "My heart is stirring up — I have been conspiring all along",
+        "pt": "Meu coração está se agitando — eu venho conspirando desde sempre"
+      },
+      "words": [
+        {
+          "hz": "蠢蠢欲动",
+          "py": "chǔn chǔn yù dòng",
+          "gloss": "stirring up",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "蓄谋已久",
+          "py": "xù móu yǐ jiǔ",
+          "gloss": "conspiring all along",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "To present you — my alluring appearance — Oh, it's time to leave",
+        "pt": "Para te apresentar — minha aparência sedutora — Oh, é hora de partir"
+      },
+      "words": [
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "to",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "献上",
+          "py": "xiàn shàng",
+          "gloss": "present",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "迷人",
+          "py": "mí rén",
+          "gloss": "alluring",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "面孔",
+          "py": "miàn kǒng",
+          "gloss": "appearance",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "Oh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "it's",
+          "py": "",
+          "gloss": "",
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "time",
+          "py": "",
+          "gloss": "",
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "to",
+          "py": "",
+          "gloss": "",
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "leave",
+          "py": "",
+          "gloss": "",
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

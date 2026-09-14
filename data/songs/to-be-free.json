@@ -1,0 +1,1709 @@
+{
+  "id": "to-be-free",
+  "title": "To Be Free",
+  "titlePinyin": "To Be Free",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2017 · Album \"H\" · Track 4",
+  "lines": [
+    {
+      "translation": {
+        "en": "High walls built on all four sides",
+        "pt": "Muros altos construídos nos quatro lados"
+      },
+      "words": [
+        {
+          "hz": "四面",
+          "py": "sì miàn",
+          "gloss": "all four sides",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "筑起",
+          "py": "zhù qǐ",
+          "gloss": "build",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "高墙",
+          "py": "gāo qiáng",
+          "gloss": "high walls",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "A space drawn as a prison",
+        "pt": "Um espaço desenhado como uma prisão"
+      },
+      "words": [
+        {
+          "hz": "画地为牢",
+          "py": "huà dì wéi láo",
+          "gloss": "draw a prison",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "空间",
+          "py": "kōng jiān",
+          "gloss": "space",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Narrow safety",
+        "pt": "Segurança estreita"
+      },
+      "words": [
+        {
+          "hz": "狭窄",
+          "py": "xiá zhǎi",
+          "gloss": "narrow",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "安全",
+          "py": "ān quán",
+          "gloss": "safety",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Why laugh at us for taking risks",
+        "pt": "Por que riem de nós por assumir riscos"
+      },
+      "words": [
+        {
+          "hz": "为什么",
+          "py": "wèi shén me",
+          "gloss": "why",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "嘲笑",
+          "py": "cháo xiào",
+          "gloss": "laugh at",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "us",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "冒险",
+          "py": "mào xiǎn",
+          "gloss": "take risks",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only then can they feel a second of superiority",
+        "pt": "Só assim eles podem sentir um segundo de superioridade"
+      },
+      "words": [
+        {
+          "hz": "才能",
+          "py": "cái néng",
+          "gloss": "only then can",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "make",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "them",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "感到",
+          "py": "gǎn dào",
+          "gloss": "feel",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一秒钟",
+          "py": "yī miǎo zhōng",
+          "gloss": "one second",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "优越",
+          "py": "yōu yuè",
+          "gloss": "superiority",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who exactly invented time",
+        "pt": "Quem exatamente inventou o tempo"
+      },
+      "words": [
+        {
+          "hz": "究竟",
+          "py": "jiū jìng",
+          "gloss": "exactly",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "发明",
+          "py": "fā míng",
+          "gloss": "invent",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Invented space",
+        "pt": "Inventou o espaço"
+      },
+      "words": [
+        {
+          "hz": "发明",
+          "py": "fā míng",
+          "gloss": "invent",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "空间",
+          "py": "kōng jiān",
+          "gloss": "space",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Invented every moment around us",
+        "pt": "Inventou cada momento ao nosso redor"
+      },
+      "words": [
+        {
+          "hz": "发明",
+          "py": "fā míng",
+          "gloss": "invent",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "身边",
+          "py": "shēn biān",
+          "gloss": "around us",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "每个",
+          "py": "měi gè",
+          "gloss": "every",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "瞬间",
+          "py": "shùn jiān",
+          "gloss": "moment",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Invented arrogance and prejudice",
+        "pt": "Inventou a arrogância e o preconceito"
+      },
+      "words": [
+        {
+          "hz": "发明",
+          "py": "fā míng",
+          "gloss": "invent",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "傲慢",
+          "py": "ào màn",
+          "gloss": "arrogance",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "偏见",
+          "py": "piān jiàn",
+          "gloss": "prejudice",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Even if we are trapped in place",
+        "pt": "Mesmo se estivermos presos no lugar"
+      },
+      "words": [
+        {
+          "hz": "哪怕",
+          "py": "nǎ pà",
+          "gloss": "even if",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "困",
+          "py": "kùn",
+          "gloss": "trapped",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "原地",
+          "py": "yuán dì",
+          "gloss": "original place",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Black cloth covering our eyes",
+        "pt": "Pano preto cobrindo nossos olhos"
+      },
+      "words": [
+        {
+          "hz": "黑布",
+          "py": "hēi bù",
+          "gloss": "black cloth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "蒙住",
+          "py": "méng zhù",
+          "gloss": "cover",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "眼睛",
+          "py": "yǎn jīng",
+          "gloss": "eyes",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Reaching out, we can still touch the dawn",
+        "pt": "Estendendo a mão, ainda podemos tocar o amanhecer"
+      },
+      "words": [
+        {
+          "hz": "伸手",
+          "py": "shēn shǒu",
+          "gloss": "reach out",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "触碰",
+          "py": "chù pèng",
+          "gloss": "touch",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "黎明",
+          "py": "lí míng",
+          "gloss": "dawn",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The gate of warriors seals a miracle",
+        "pt": "O portão dos guerreiros sela um milagre"
+      },
+      "words": [
+        {
+          "hz": "勇士",
+          "py": "yǒng shì",
+          "gloss": "warrior",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之门",
+          "py": "zhī mén",
+          "gloss": "gate",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "尘封",
+          "py": "chén fēng",
+          "gloss": "seal",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "奇迹",
+          "py": "qí jì",
+          "gloss": "miracle",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Faith rises from the ground — come on",
+        "pt": "A fé se ergue do chão — come on"
+      },
+      "words": [
+        {
+          "hz": "信念",
+          "py": "xìn niàn",
+          "gloss": "faith",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "拔地而起",
+          "py": "bá dì ér qǐ",
+          "gloss": "rise from the ground",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "come on",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "We are bound to be free",
+        "pt": "We are bound to be free"
+      },
+      "words": [
+        {
+          "hz": "We are bound to be free",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How sharp the truth is",
+        "pt": "Quão afiada é a verdade"
+      },
+      "words": [
+        {
+          "hz": "真相",
+          "py": "zhēn xiàng",
+          "gloss": "truth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "has",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "锋利",
+          "py": "fēng lì",
+          "gloss": "sharp",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The more delicately woven the lies are",
+        "pt": "Quanto mais delicadamente tecidas as mentiras são"
+      },
+      "words": [
+        {
+          "hz": "精心",
+          "py": "jīng xīn",
+          "gloss": "delicately",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "编织",
+          "py": "biān zhī",
+          "gloss": "woven",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "谎言",
+          "py": "huǎng yán",
+          "gloss": "lies",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "细腻",
+          "py": "xì nì",
+          "gloss": "delicate",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Living ignobly in the center of the tornado",
+        "pt": "Vivendo ignobilmente no centro do tornado"
+      },
+      "words": [
+        {
+          "hz": "苟活",
+          "py": "gǒu huó",
+          "gloss": "live ignobly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "龙卷风",
+          "py": "lóng juǎn fēng",
+          "gloss": "tornado",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "中心",
+          "py": "zhōng xīn",
+          "gloss": "center",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only then can they see",
+        "pt": "Só assim eles podem ver"
+      },
+      "words": [
+        {
+          "hz": "才能",
+          "py": "cái néng",
+          "gloss": "only then can",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "make",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "them",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看到",
+          "py": "kàn dào",
+          "gloss": "see",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "How amazing this is",
+        "pt": "Quão incrível isso é"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "神奇",
+          "py": "shén qí",
+          "gloss": "amazing",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "We must stay away from brainwashing",
+        "pt": "Devemos nos afastar da lavagem cerebral"
+      },
+      "words": [
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "远离",
+          "py": "yuǎn lí",
+          "gloss": "stay away from",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "洗脑",
+          "py": "xǐ nǎo",
+          "gloss": "brainwashing",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Stay away from vanity",
+        "pt": "Afastar-se da vaidade"
+      },
+      "words": [
+        {
+          "hz": "远离",
+          "py": "yuǎn lí",
+          "gloss": "stay away from",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "虚荣",
+          "py": "xū róng",
+          "gloss": "vanity",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Stay away from incitement",
+        "pt": "Afastar-se da incitação"
+      },
+      "words": [
+        {
+          "hz": "远离",
+          "py": "yuǎn lí",
+          "gloss": "stay away from",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "煽动",
+          "py": "shān dòng",
+          "gloss": "incitement",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Stay away from blindly following",
+        "pt": "Afastar-se de seguir cegamente"
+      },
+      "words": [
+        {
+          "hz": "远离",
+          "py": "yuǎn lí",
+          "gloss": "stay away from",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "盲从",
+          "py": "máng cóng",
+          "gloss": "blindly follow",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Youth doesn't need buffering",
+        "pt": "A juventude não precisa de buffering"
+      },
+      "words": [
+        {
+          "hz": "年轻",
+          "py": "nián qīng",
+          "gloss": "youth",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "不需要",
+          "py": "bù xū yào",
+          "gloss": "doesn't need",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "缓冲",
+          "py": "huǎn chōng",
+          "gloss": "buffering",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Even if we are trapped in place",
+        "pt": "Mesmo se estivermos presos no lugar"
+      },
+      "words": [
+        {
+          "hz": "哪怕",
+          "py": "nǎ pà",
+          "gloss": "even if",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "困",
+          "py": "kùn",
+          "gloss": "trapped",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "原地",
+          "py": "yuán dì",
+          "gloss": "original place",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Black cloth covering our eyes",
+        "pt": "Pano preto cobrindo nossos olhos"
+      },
+      "words": [
+        {
+          "hz": "黑布",
+          "py": "hēi bù",
+          "gloss": "black cloth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "蒙住",
+          "py": "méng zhù",
+          "gloss": "cover",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "眼睛",
+          "py": "yǎn jīng",
+          "gloss": "eyes",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Reaching out, we can still touch the dawn",
+        "pt": "Estendendo a mão, ainda podemos tocar o amanhecer"
+      },
+      "words": [
+        {
+          "hz": "伸手",
+          "py": "shēn shǒu",
+          "gloss": "reach out",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "触碰",
+          "py": "chù pèng",
+          "gloss": "touch",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "黎明",
+          "py": "lí míng",
+          "gloss": "dawn",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The gate of warriors seals a miracle",
+        "pt": "O portão dos guerreiros sela um milagre"
+      },
+      "words": [
+        {
+          "hz": "勇士",
+          "py": "yǒng shì",
+          "gloss": "warrior",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之门",
+          "py": "zhī mén",
+          "gloss": "gate",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "尘封",
+          "py": "chén fēng",
+          "gloss": "seal",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "奇迹",
+          "py": "qí jì",
+          "gloss": "miracle",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Faith rises from the ground",
+        "pt": "A fé se ergue do chão"
+      },
+      "words": [
+        {
+          "hz": "信念",
+          "py": "xìn niàn",
+          "gloss": "faith",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "拔地而起",
+          "py": "bá dì ér qǐ",
+          "gloss": "rise from the ground",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Come on we are bound to be free",
+        "pt": "Come on we are bound to be free"
+      },
+      "words": [
+        {
+          "hz": "Come on we are bound to be free",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who is trapped in place",
+        "pt": "Quem está preso no lugar"
+      },
+      "words": [
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "困",
+          "py": "kùn",
+          "gloss": "trapped",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "原地",
+          "py": "yuán dì",
+          "gloss": "original place",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who is trapped in place",
+        "pt": "Quem está preso no lugar"
+      },
+      "words": [
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "困",
+          "py": "kùn",
+          "gloss": "trapped",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "原地",
+          "py": "yuán dì",
+          "gloss": "original place",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who is blindfolded",
+        "pt": "Quem está com os olhos vendados"
+      },
+      "words": [
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "蒙住",
+          "py": "méng zhù",
+          "gloss": "cover",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "眼睛",
+          "py": "yǎn jīng",
+          "gloss": "eyes",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who is blindfolded",
+        "pt": "Quem está com os olhos vendados"
+      },
+      "words": [
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "蒙住",
+          "py": "méng zhù",
+          "gloss": "cover",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "眼睛",
+          "py": "yǎn jīng",
+          "gloss": "eyes",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who raises both hands high",
+        "pt": "Quem ergue ambas as mãos bem alto"
+      },
+      "words": [
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "双手",
+          "py": "shuāng shǒu",
+          "gloss": "both hands",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "高举",
+          "py": "gāo jǔ",
+          "gloss": "raise high",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who raises both hands high",
+        "pt": "Quem ergue ambas as mãos bem alto"
+      },
+      "words": [
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "双手",
+          "py": "shuāng shǒu",
+          "gloss": "both hands",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "高举",
+          "py": "gāo jǔ",
+          "gloss": "raise high",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Recklessly touching the light — light",
+        "pt": "Tocando imprudentemente a luz — luz"
+      },
+      "words": [
+        {
+          "hz": "不顾一切",
+          "py": "bù gù yī qiè",
+          "gloss": "recklessly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "hsk": 3,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "碰触",
+          "py": "pèng chù",
+          "gloss": "touch",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "光明",
+          "py": "guāng míng",
+          "gloss": "light",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "光明",
+          "py": "guāng míng",
+          "gloss": "light",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Even if we are trapped in place",
+        "pt": "Mesmo se estivermos presos no lugar"
+      },
+      "words": [
+        {
+          "hz": "哪怕",
+          "py": "nǎ pà",
+          "gloss": "even if",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "困",
+          "py": "kùn",
+          "gloss": "trapped",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "原地",
+          "py": "yuán dì",
+          "gloss": "original place",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Black cloth covering our eyes",
+        "pt": "Pano preto cobrindo nossos olhos"
+      },
+      "words": [
+        {
+          "hz": "黑布",
+          "py": "hēi bù",
+          "gloss": "black cloth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "蒙住",
+          "py": "méng zhù",
+          "gloss": "cover",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "眼睛",
+          "py": "yǎn jīng",
+          "gloss": "eyes",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Reaching out, we can still touch the dawn",
+        "pt": "Estendendo a mão, ainda podemos tocar o amanhecer"
+      },
+      "words": [
+        {
+          "hz": "伸手",
+          "py": "shēn shǒu",
+          "gloss": "reach out",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "触碰",
+          "py": "chù pèng",
+          "gloss": "touch",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "黎明",
+          "py": "lí míng",
+          "gloss": "dawn",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The gate of warriors seals a miracle",
+        "pt": "O portão dos guerreiros sela um milagre"
+      },
+      "words": [
+        {
+          "hz": "勇士",
+          "py": "yǒng shì",
+          "gloss": "warrior",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之门",
+          "py": "zhī mén",
+          "gloss": "gate",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "尘封",
+          "py": "chén fēng",
+          "gloss": "seal",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "奇迹",
+          "py": "qí jì",
+          "gloss": "miracle",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Faith rises from the ground",
+        "pt": "A fé se ergue do chão"
+      },
+      "words": [
+        {
+          "hz": "信念",
+          "py": "xìn niàn",
+          "gloss": "faith",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "拔地而起",
+          "py": "bá dì ér qǐ",
+          "gloss": "rise from the ground",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Come on we are bound to be free",
+        "pt": "Come on we are bound to be free"
+      },
+      "words": [
+        {
+          "hz": "Come on we are bound to be free",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    }
+  ]
+}

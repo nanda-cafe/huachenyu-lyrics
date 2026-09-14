@@ -1,0 +1,1977 @@
+{
+  "id": "qi-zhong-ren-ge",
+  "title": "七重人格",
+  "titlePinyin": "Qī Chóng Rén Gé",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2020 · Album \"新世界NEW WORLD\" · Track 8",
+  "lines": [
+    {
+      "translation": {
+        "en": "Night falls low — insects cry out",
+        "pt": "A noite cai baixo — insetos gritam"
+      },
+      "words": [
+        {
+          "hz": "夜幕",
+          "py": "yè mù",
+          "gloss": "nightfall",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "低垂",
+          "py": "dī chuí",
+          "gloss": "hang low",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "虫鸣",
+          "py": "chóng míng",
+          "gloss": "insect chirp",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "叫",
+          "py": "jiào",
+          "gloss": "cry out",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Watch the robin fly across the sky",
+        "pt": "Veja o tordo cruzar o céu"
+      },
+      "words": [
+        {
+          "hz": "看",
+          "py": "kàn",
+          "gloss": "watch",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "飞过",
+          "py": "fēi guò",
+          "gloss": "fly across",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "知更鸟",
+          "py": "zhī gēng niǎo",
+          "gloss": "robin",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "The sparrow by the window — for whom is it mourning?",
+        "pt": "O pardal junto à janela — por quem está de luto?"
+      },
+      "words": [
+        {
+          "hz": "窗边",
+          "py": "chuāng biān",
+          "gloss": "by the window",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "麻雀",
+          "py": "má què",
+          "gloss": "sparrow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "whom",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "哀悼",
+          "py": "āi dào",
+          "gloss": "mourn",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Shut up!",
+        "pt": "Shut up!"
+      },
+      "words": [
+        {
+          "hz": "Shut up!",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If time leaves no record, no trace",
+        "pt": "Se o tempo não deixa registro, sem vestígio"
+      },
+      "words": [
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "光阴",
+          "py": "guāng yīn",
+          "gloss": "time",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "记载",
+          "py": "jì zǎi",
+          "gloss": "record",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不留痕迹",
+          "py": "bù liú hén jì",
+          "gloss": "leave no trace",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If all classics turn blank, how to depict the past?",
+        "pt": "Se todos os clássicos ficarem em branco, como retratar o passado?"
+      },
+      "words": [
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "典籍",
+          "py": "diǎn jí",
+          "gloss": "classics",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "变",
+          "py": "biàn",
+          "gloss": "become",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "空白",
+          "py": "kòng bái",
+          "gloss": "blank",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "如何",
+          "py": "rú hé",
+          "gloss": "how",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "描摹",
+          "py": "miáo mó",
+          "gloss": "depict",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "过去",
+          "py": "guò qù",
+          "gloss": "past",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "♪ (instrumental)",
+        "pt": "♪ (instrumental)"
+      },
+      "words": [
+        {
+          "hz": "♪",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If numbness is uncovered, bleeding and raw",
+        "pt": "Se a dormência for revelada, sangrando e crua"
+      },
+      "words": [
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "麻木",
+          "py": "má mù",
+          "gloss": "numbness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "揭开",
+          "py": "jiē kāi",
+          "gloss": "uncover",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "鲜血淋漓",
+          "py": "xiān xuè lín lí",
+          "gloss": "bleeding",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If people could alter their inborn, sunken cruel fate",
+        "pt": "Se as pessoas pudessem alterar seu destino cruel e inato"
+      },
+      "words": [
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "能够",
+          "py": "néng gòu",
+          "gloss": "be able to",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "篡改",
+          "py": "cuàn gǎi",
+          "gloss": "alter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "天生",
+          "py": "tiān shēng",
+          "gloss": "inborn",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "沉沦",
+          "py": "chén lún",
+          "gloss": "sink",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "残忍",
+          "py": "cán rěn",
+          "gloss": "cruel",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "命运",
+          "py": "mìng yùn",
+          "gloss": "fate",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh",
+        "pt": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh"
+      },
+      "words": [
+        {
+          "hz": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "(Om mani padme hum — chant)",
+        "pt": "(Om mani padme hum — canto)"
+      },
+      "words": [
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh",
+        "pt": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh"
+      },
+      "words": [
+        {
+          "hz": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "(Om mani padme hum — chant)",
+        "pt": "(Om mani padme hum — canto)"
+      },
+      "words": [
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "(Ancient, modern, heaven, earth)",
+        "pt": "(Antigo, moderno, céu, terra)"
+      },
+      "words": [
+        {
+          "hz": "古",
+          "py": "gǔ",
+          "gloss": "ancient",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "今",
+          "py": "jīn",
+          "gloss": "modern",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "天",
+          "py": "tiān",
+          "gloss": "heaven",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "地",
+          "py": "dì",
+          "gloss": "earth",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Chaos begins — clear and turbid, black and white",
+        "pt": "O caos começa — claro e turvo, preto e branco"
+      },
+      "words": [
+        {
+          "hz": "混沌",
+          "py": "hùn dùn",
+          "gloss": "chaos",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "初开",
+          "py": "chū kāi",
+          "gloss": "begin",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "清浊",
+          "py": "qīng zhuó",
+          "gloss": "clear and turbid",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "黑白",
+          "py": "hēi bái",
+          "gloss": "black and white",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In the vast heaven and earth, dust is born",
+        "pt": "No vasto céu e terra, a poeira nasce"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "浩渺",
+          "py": "hào miǎo",
+          "gloss": "vast",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "天地",
+          "py": "tiān dì",
+          "gloss": "heaven and earth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "间",
+          "py": "jiān",
+          "gloss": "between",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "萌生",
+          "py": "méng shēng",
+          "gloss": "bud",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "尘埃",
+          "py": "chén āi",
+          "gloss": "dust",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "(Joy, anger, happiness, sorrow)",
+        "pt": "(Alegria, raiva, felicidade, tristeza)"
+      },
+      "words": [
+        {
+          "hz": "欣喜",
+          "py": "xīn xǐ",
+          "gloss": "joy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "愤怒",
+          "py": "fèn nù",
+          "gloss": "anger",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "欢乐",
+          "py": "huān lè",
+          "gloss": "happiness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "悲哀",
+          "py": "bēi āi",
+          "gloss": "sorrow",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Alternating rise and fall — right and wrong, success and failure",
+        "pt": "Alternando ascensão e queda — certo e errado, sucesso e fracasso"
+      },
+      "words": [
+        {
+          "hz": "更迭",
+          "py": "gēng dié",
+          "gloss": "alternate",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "兴衰",
+          "py": "xīng shuāi",
+          "gloss": "rise and fall",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是非",
+          "py": "shì fēi",
+          "gloss": "right and wrong",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "成败",
+          "py": "chéng bài",
+          "gloss": "success and failure",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Tens of millions of years reincarnating the myriad forms of life",
+        "pt": "Dezenas de milhões de anos reencarnando as miríades de formas de vida"
+      },
+      "words": [
+        {
+          "hz": "千万",
+          "py": "qiān wàn",
+          "gloss": "tens of millions",
+          "hsk": 4,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "年",
+          "py": "nián",
+          "gloss": "year",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "轮回",
+          "py": "lún huí",
+          "gloss": "reincarnate",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "浮生",
+          "py": "fú shēng",
+          "gloss": "life",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "百态",
+          "py": "bǎi tài",
+          "gloss": "various forms",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "(The eternal, the fading, the existing, the unknown)",
+        "pt": "(O eterno, o desvanecido, o existente, o desconhecido)"
+      },
+      "words": [
+        {
+          "hz": "永恒",
+          "py": "yǒng héng",
+          "gloss": "eternal",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "消逝",
+          "py": "xiāo shì",
+          "gloss": "fade",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "存在",
+          "py": "cún zài",
+          "gloss": "exist",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "未知",
+          "py": "wèi zhī",
+          "gloss": "unknown",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "From ancient times to the future, prosperity no more",
+        "pt": "Dos tempos antigos ao futuro, prosperidade não mais"
+      },
+      "words": [
+        {
+          "hz": "亘古",
+          "py": "gèn gǔ",
+          "gloss": "ancient times",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "未来",
+          "py": "wèi lái",
+          "gloss": "future",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "繁华",
+          "py": "fán huá",
+          "gloss": "prosperity",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不在",
+          "py": "bù zài",
+          "gloss": "no more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "All things exist only because of me — one thought blooms a flower",
+        "pt": "Todas as coisas existem apenas por minha causa — um pensamento floresce uma flor"
+      },
+      "words": [
+        {
+          "hz": "万物",
+          "py": "wàn wù",
+          "gloss": "all things",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "皆",
+          "py": "jiē",
+          "gloss": "all",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "因",
+          "py": "yīn",
+          "gloss": "because of",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一念",
+          "py": "yī niàn",
+          "gloss": "one thought",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "花开",
+          "py": "huā kāi",
+          "gloss": "flower blooms",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "(Primordial universe, ever-changing)",
+        "pt": "(Universo primordial, em constante mudança)"
+      },
+      "words": [
+        {
+          "hz": "洪荒",
+          "py": "hóng huāng",
+          "gloss": "primordial",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "宇宙",
+          "py": "yǔ zhòu",
+          "gloss": "universe",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "千变万化",
+          "py": "qiān biàn wàn huà",
+          "gloss": "ever-changing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "(Nothing more than this, nothing more than this)",
+        "pt": "(Nada mais que isso, nada mais que isso)"
+      },
+      "words": [
+        {
+          "hz": "不外如是",
+          "py": "bù wài rú shì",
+          "gloss": "nothing more than this",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不外如是",
+          "py": "bù wài rú shì",
+          "gloss": "nothing more than this",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ruled by me — let me rule",
+        "pt": "Governado por mim — deixe-me governar"
+      },
+      "words": [
+        {
+          "hz": "由",
+          "py": "yóu",
+          "gloss": "by",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "主宰",
+          "py": "zhǔ zǎi",
+          "gloss": "rule",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "任",
+          "py": "rèn",
+          "gloss": "let",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "主宰",
+          "py": "zhǔ zǎi",
+          "gloss": "rule",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Let everything hide away — only leaving behind",
+        "pt": "Deixe tudo se esconder — apenas deixando para trás"
+      },
+      "words": [
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一切",
+          "py": "yī qiè",
+          "gloss": "everything",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "隐去",
+          "py": "yǐn qù",
+          "gloss": "hide away",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "留下",
+          "py": "liú xià",
+          "gloss": "leave behind",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That unconventional self",
+        "pt": "Aquele eu não convencional"
+      },
+      "words": [
+        {
+          "hz": "那个",
+          "py": "nà gè",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不拘一格",
+          "py": "bù jū yī gé",
+          "gloss": "unconventional",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "自我",
+          "py": "zì wǒ",
+          "gloss": "self",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In the raging storm all over the sky — not dodging",
+        "pt": "Na tempestade furiosa por todo o céu — sem esquivar"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "漫天",
+          "py": "màn tiān",
+          "gloss": "all over the sky",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "狂风暴雨",
+          "py": "kuáng fēng bào yǔ",
+          "gloss": "raging storm",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之中",
+          "py": "zhī zhōng",
+          "gloss": "in the midst of",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "闪躲",
+          "py": "shǎn duǒ",
+          "gloss": "dodge",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I, carrying wounds not yet scabbed over",
+        "pt": "Eu, carregando feridas ainda não cicatrizadas"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "带着",
+          "py": "dài zhe",
+          "gloss": "carrying",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "还未",
+          "py": "hái wèi",
+          "gloss": "not yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "结痂",
+          "py": "jié jiā",
+          "gloss": "scab",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "伤口",
+          "py": "shāng kǒu",
+          "gloss": "wound",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "At the edge of losing control, charging and killing — for final liberation",
+        "pt": "Na beira de perder o controle, atacando e matando — pela libertação final"
+      },
+      "words": [
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "失控",
+          "py": "shī kòng",
+          "gloss": "out of control",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "边缘",
+          "py": "biān yuán",
+          "gloss": "edge",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "冲杀",
+          "py": "chōng shā",
+          "gloss": "charge and kill",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "最终",
+          "py": "zuì zhōng",
+          "gloss": "final",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "解脱",
+          "py": "jiě tuō",
+          "gloss": "liberation",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "In order to reclaim lost freedom — willing to transform, become a wild beast",
+        "pt": "A fim de recuperar a liberdade perdida — disposto a me transformar, tornar-me uma fera selvagem"
+      },
+      "words": [
+        {
+          "hz": "为了",
+          "py": "wèi le",
+          "gloss": "in order to",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "夺回",
+          "py": "duó huí",
+          "gloss": "reclaim",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "失落",
+          "py": "shī luò",
+          "gloss": "lost",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "自由",
+          "py": "zì yóu",
+          "gloss": "freedom",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "甘愿",
+          "py": "gān yuàn",
+          "gloss": "willing",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "化身",
+          "py": "huà shēn",
+          "gloss": "transform",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "成为",
+          "py": "chéng wéi",
+          "gloss": "become",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "野兽",
+          "py": "yě shòu",
+          "gloss": "wild beast",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If the truth is buried — silent and wordless",
+        "pt": "Se a verdade for enterrada — silenciosa e sem palavras"
+      },
+      "words": [
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "真相",
+          "py": "zhēn xiàng",
+          "gloss": "truth",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "掩埋",
+          "py": "yǎn mái",
+          "gloss": "bury",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不言不语",
+          "py": "bù yán bù yǔ",
+          "gloss": "silent",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "If people can accept being destined to sink — those fates",
+        "pt": "Se as pessoas puderem aceitar estarem destinadas a afundar — aqueles destinos"
+      },
+      "words": [
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "people",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "能够",
+          "py": "néng gòu",
+          "gloss": "be able to",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "接受",
+          "py": "jiē shòu",
+          "gloss": "accept",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "注定",
+          "py": "zhù dìng",
+          "gloss": "destined",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "沉沦",
+          "py": "chén lún",
+          "gloss": "sink",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "宿命",
+          "py": "sù mìng",
+          "gloss": "fate",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh",
+        "pt": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh"
+      },
+      "words": [
+        {
+          "hz": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "(Om mani padme hum — chant)",
+        "pt": "(Om mani padme hum — canto)"
+      },
+      "words": [
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh",
+        "pt": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh"
+      },
+      "words": [
+        {
+          "hz": "Ooh, ooh-ooh-ooh-ooh-ooh, ooh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "(Om mani padme hum — chant)",
+        "pt": "(Om mani padme hum — canto)"
+      },
+      "words": [
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "嘛呢叭咪吽",
+          "py": "ma ni bā mī hōng",
+          "gloss": "mantra",
+          "hsk": 6,
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh",
+        "pt": "Ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh"
+      },
+      "words": [
+        {
+          "hz": "Ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "♪ (instrumental)",
+        "pt": "♪ (instrumental)"
+      },
+      "words": [
+        {
+          "hz": "♪",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When it becomes quiet again — how beautiful all this is",
+        "pt": "Quando fica quieto novamente — quão belo é tudo isso"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "变得",
+          "py": "biàn de",
+          "gloss": "become",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "安静",
+          "py": "ān jìng",
+          "gloss": "quiet",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一切",
+          "py": "yī qiè",
+          "gloss": "everything",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "多么",
+          "py": "duō me",
+          "gloss": "how",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "美",
+          "py": "měi",
+          "gloss": "beautiful",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Stars all crash — pitch black",
+        "pt": "Estrelas todas caem — breu total"
+      },
+      "words": [
+        {
+          "hz": "星星",
+          "py": "xīng xing",
+          "gloss": "stars",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "坠毁",
+          "py": "zhuì huǐ",
+          "gloss": "crash",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "漆黑",
+          "py": "qī hēi",
+          "gloss": "pitch black",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I'm like a puzzle missing one piece — how glaring the blank",
+        "pt": "Sou como um quebra-cabeça faltando uma peça — quão gritante o espaço em branco"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "副",
+          "py": "fú",
+          "gloss": "(m.w. for paintings)",
+          "hsk": 5,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "拼图",
+          "py": "pīn tú",
+          "gloss": "puzzle",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "丢",
+          "py": "diū",
+          "gloss": "lose",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了",
+          "py": "le",
+          "gloss": "(perfective)",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "一块",
+          "py": "yī kuài",
+          "gloss": "one piece",
+          "hsk": 2,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "刺眼",
+          "py": "cì yǎn",
+          "gloss": "glaring",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "空白",
+          "py": "kòng bái",
+          "gloss": "blank",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Endlessly regretting — until I lose myself",
+        "pt": "Arrependendo-me sem parar — até eu me perder"
+      },
+      "words": [
+        {
+          "hz": "不停地",
+          "py": "bù tíng de",
+          "gloss": "endlessly",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "懊悔",
+          "py": "ào huǐ",
+          "gloss": "regret",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "直到",
+          "py": "zhí dào",
+          "gloss": "until",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "迷失",
+          "py": "mí shī",
+          "gloss": "lose",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "自己",
+          "py": "zì jǐ",
+          "gloss": "oneself",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    }
+  ]
+}

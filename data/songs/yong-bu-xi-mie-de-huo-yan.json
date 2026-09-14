@@ -1,0 +1,2849 @@
+{
+  "id": "yong-bu-xi-mie-de-huo-yan",
+  "title": "永不熄灭的火焰",
+  "titlePinyin": "Yǒng Bù Xī Miè De Huǒ Yàn",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2025 · Album \"量变临界点\" · Track 4",
+  "lines": [
+    {
+      "translation": {
+        "en": "When I face all beings, using transformation to complete a one-man war",
+        "pt": "Quando enfrento todos os seres, usando a transformação para completar uma guerra de um só homem"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "面向",
+          "py": "miàn xiàng",
+          "gloss": "face",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "众生",
+          "py": "zhòng shēng",
+          "gloss": "all beings",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "蜕变",
+          "py": "tuì biàn",
+          "gloss": "transformation",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "来",
+          "py": "lái",
+          "gloss": "to",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "完成",
+          "py": "wán chéng",
+          "gloss": "complete",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "a",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "person",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "战争",
+          "py": "zhàn zhēng",
+          "gloss": "war",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Burning away the intricate skin — the self is light as a silkworm chrysalis, or as heavy as mountains and seas",
+        "pt": "Queimando a pele intricada — o eu é leve como um casulo de bicho-da-seda, ou pesado como montanhas e mares"
+      },
+      "words": [
+        {
+          "hz": "烧去",
+          "py": "shāo qù",
+          "gloss": "burn away",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "皮囊",
+          "py": "pí náng",
+          "gloss": "skin bag",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "错综",
+          "py": "cuò zōng",
+          "gloss": "intricate",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "自我",
+          "py": "zì wǒ",
+          "gloss": "self",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "轻",
+          "py": "qīng",
+          "gloss": "light",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "如",
+          "py": "rú",
+          "gloss": "like",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "蚕蛹",
+          "py": "cán yǒng",
+          "gloss": "silkworm chrysalis",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "还是",
+          "py": "hái shì",
+          "gloss": "or",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "山海",
+          "py": "shān hǎi",
+          "gloss": "mountains and seas",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之",
+          "py": "zhī",
+          "gloss": "of",
+          "hsk": 6,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "重",
+          "py": "zhòng",
+          "gloss": "heavy",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I will fight Private side",
+        "pt": "I will fight Private side"
+      },
+      "words": [
+        {
+          "hz": "I will fight Private side",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I just want to defeat the cowardly villain in my heart",
+        "pt": "Eu só quero derrotar o vilão covarde em meu coração"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "击溃",
+          "py": "jī kuì",
+          "gloss": "defeat",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "心中",
+          "py": "xīn zhōng",
+          "gloss": "in heart",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "怯懦",
+          "py": "qiè nuò",
+          "gloss": "cowardly",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "反派",
+          "py": "fǎn pài",
+          "gloss": "villain",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't lose your way, don't change your mind",
+        "pt": "Don't lose your way, don't change your mind"
+      },
+      "words": [
+        {
+          "hz": "Don't lose your way / Don't change your mind",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "To survive, how many ethnic groups are eliminated",
+        "pt": "Para sobreviver, quantos grupos étnicos são eliminados"
+      },
+      "words": [
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "生存",
+          "py": "shēng cún",
+          "gloss": "survive",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多少",
+          "py": "duō shǎo",
+          "gloss": "how many",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "族裔",
+          "py": "zú yì",
+          "gloss": "ethnic group",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "淘汰",
+          "py": "táo tài",
+          "gloss": "eliminated",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ahh — if the ending is doomed to fail, Ahh — break through the chaos",
+        "pt": "Ahh — se o final está fadado ao fracasso, Ahh — atravesse o caos"
+      },
+      "words": [
+        {
+          "hz": "Ahh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "结局",
+          "py": "jié jú",
+          "gloss": "ending",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "注定",
+          "py": "zhù dìng",
+          "gloss": "destined",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "失败",
+          "py": "shī bài",
+          "gloss": "fail",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "Ahh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "冲破",
+          "py": "chōng pò",
+          "gloss": "break through",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "乱象",
+          "py": "luàn xiàng",
+          "gloss": "chaos",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who cares about cruelty and absurdity — don't surrender to reality in this battlefield",
+        "pt": "Quem se importa com crueldade e absurdo — não se renda à realidade neste campo de batalha"
+      },
+      "words": [
+        {
+          "hz": "管他",
+          "py": "guǎn tā",
+          "gloss": "who cares",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "残忍",
+          "py": "cán rěn",
+          "gloss": "cruel",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "荒唐",
+          "py": "huāng táng",
+          "gloss": "absurd",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "向",
+          "py": "xiàng",
+          "gloss": "toward",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "现实",
+          "py": "xiàn shí",
+          "gloss": "reality",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "投降",
+          "py": "tóu xiáng",
+          "gloss": "surrender",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "这个",
+          "py": "zhè gè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "战场",
+          "py": "zhàn chǎng",
+          "gloss": "battlefield",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who cares about charging wildly — all living beings are the same, crazy for an instant",
+        "pt": "Quem se importa em atacar selvagemente — todos os seres vivos são iguais, loucos por um instante"
+      },
+      "words": [
+        {
+          "hz": "管他",
+          "py": "guǎn tā",
+          "gloss": "who cares",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "横冲直撞",
+          "py": "héng chōng zhí zhuàng",
+          "gloss": "charge wildly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "生灵",
+          "py": "shēng líng",
+          "gloss": "living beings",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "一样",
+          "py": "yī yàng",
+          "gloss": "same",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "一瞬",
+          "py": "yī shùn",
+          "gloss": "an instant",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "疯狂",
+          "py": "fēng kuáng",
+          "gloss": "crazy",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I single-mindedly yearn — somewhere there is an unextinguished light",
+        "pt": "Eu de todo coração anseio — em algum lugar há uma luz inextinguível"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一心",
+          "py": "yī xīn",
+          "gloss": "single-mindedly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "向往",
+          "py": "xiàng wǎng",
+          "gloss": "yearn for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "某个",
+          "py": "mǒu gè",
+          "gloss": "a certain",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "地方",
+          "py": "dì fāng",
+          "gloss": "place",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "未熄",
+          "py": "wèi xī",
+          "gloss": "unextinguished",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "光",
+          "py": "guāng",
+          "gloss": "light",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Stop superstitious totems — only by bleeding can one understand the war between people",
+        "pt": "Pare com totens supersticiosos — só sangrando se entende a guerra entre as pessoas"
+      },
+      "words": [
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "迷信",
+          "py": "mí xìn",
+          "gloss": "superstition",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "图腾",
+          "py": "tú téng",
+          "gloss": "totem",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "只有",
+          "py": "zhǐ yǒu",
+          "gloss": "only",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "流血",
+          "py": "liú xuè",
+          "gloss": "bleed",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "懂",
+          "py": "dǒng",
+          "gloss": "understand",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "person",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "person",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "战争",
+          "py": "zhàn zhēng",
+          "gloss": "war",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When I leap down from the heights, passing through chaotic clouds, I can rival the mountain peaks",
+        "pt": "Quando salto das alturas, atravessando nuvens caóticas, posso rivalizar com os picos das montanhas"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "跃下",
+          "py": "yuè xià",
+          "gloss": "jump down",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "高空",
+          "py": "gāo kōng",
+          "gloss": "high altitude",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "穿过",
+          "py": "chuān guò",
+          "gloss": "pass through",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "纷乱",
+          "py": "fēn luàn",
+          "gloss": "chaotic",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "云层",
+          "py": "yún céng",
+          "gloss": "cloud layer",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "比肩",
+          "py": "bǐ jiān",
+          "gloss": "rival",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "山峰",
+          "py": "shān fēng",
+          "gloss": "mountain peak",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I will fight Private side",
+        "pt": "I will fight Private side"
+      },
+      "words": [
+        {
+          "hz": "I will fight Private side",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I long ago defeated the cowardly villain in my heart",
+        "pt": "Eu há muito derrotei o vilão covarde em meu coração"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "早已",
+          "py": "zǎo yǐ",
+          "gloss": "long ago",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "击溃",
+          "py": "jī kuì",
+          "gloss": "defeat",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "心中",
+          "py": "xīn zhōng",
+          "gloss": "in heart",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "怯懦",
+          "py": "qiè nuò",
+          "gloss": "cowardly",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "反派",
+          "py": "fǎn pài",
+          "gloss": "villain",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't lose your way, don't change your mind",
+        "pt": "Don't lose your way, don't change your mind"
+      },
+      "words": [
+        {
+          "hz": "Don't lose your way / Don't change your mind",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "To survive, how many ethnic groups are eliminated",
+        "pt": "Para sobreviver, quantos grupos étnicos são eliminados"
+      },
+      "words": [
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "生存",
+          "py": "shēng cún",
+          "gloss": "survive",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多少",
+          "py": "duō shǎo",
+          "gloss": "how many",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "族裔",
+          "py": "zú yì",
+          "gloss": "ethnic group",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "淘汰",
+          "py": "táo tài",
+          "gloss": "eliminated",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ahh — if the ending is doomed to fail, Ahh — (I will exhaust everything)",
+        "pt": "Ahh — se o final está fadado ao fracasso, Ahh — (esgotarei tudo)"
+      },
+      "words": [
+        {
+          "hz": "Ahh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "若",
+          "py": "ruò",
+          "gloss": "if",
+          "hsk": 6,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "结局",
+          "py": "jié jú",
+          "gloss": "ending",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "注定",
+          "py": "zhù dìng",
+          "gloss": "destined",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "失败",
+          "py": "shī bài",
+          "gloss": "fail",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "Ahh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "拼尽",
+          "py": "pīn jìn",
+          "gloss": "exhaust",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I want to witness the heaviest black — don't give me brilliance",
+        "pt": "Quero testemunhar o preto mais pesado — não me dê brilho"
+      },
+      "words": [
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "见识",
+          "py": "jiàn shí",
+          "gloss": "witness",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "沉重",
+          "py": "chén zhòng",
+          "gloss": "heavy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "黑",
+          "py": "hēi",
+          "gloss": "black",
+          "hsk": 2,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "予",
+          "py": "yǔ",
+          "gloss": "give",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "光辉",
+          "py": "guāng huī",
+          "gloss": "brilliance",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Resistance is an unpardonable crime — then destroy me",
+        "pt": "A resistência é um crime imperdoável — então me destrua"
+      },
+      "words": [
+        {
+          "hz": "反抗",
+          "py": "fǎn kàng",
+          "gloss": "resistance",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不可赦",
+          "py": "bù kě shè",
+          "gloss": "unpardonable",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "罪",
+          "py": "zuì",
+          "gloss": "crime",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "摧毁",
+          "py": "cuī huǐ",
+          "gloss": "destroy",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Fighting alone without retreating, shattering hypocrisy",
+        "pt": "Lutando sozinho sem recuar, estilhaçando a hipocrisia"
+      },
+      "words": [
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "person",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "战斗",
+          "py": "zhàn dòu",
+          "gloss": "fight",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "退",
+          "py": "tuì",
+          "gloss": "retreat",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "虚伪",
+          "py": "xū wěi",
+          "gloss": "hypocrisy",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "粉碎",
+          "py": "fěn suì",
+          "gloss": "shatter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Let me, with the fearlessness of my soul, break through the tight encirclement",
+        "pt": "Deixe-me, com a destemor da minha alma, romper o cerco apertado"
+      },
+      "words": [
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "以",
+          "py": "yǐ",
+          "gloss": "with",
+          "hsk": 5,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "无畏",
+          "py": "wú wèi",
+          "gloss": "fearless",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "去",
+          "py": "qù",
+          "gloss": "go",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "突破",
+          "py": "tū pò",
+          "gloss": "break through",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "重围",
+          "py": "chóng wéi",
+          "gloss": "tight encirclement",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I sing — I wanna say that I can defeat",
+        "pt": "Eu canto — I wanna say that I can defeat"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "唱",
+          "py": "chàng",
+          "gloss": "sing",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "着",
+          "py": "zhe",
+          "gloss": "(continuous)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "I wanna say that I can defeat",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "That war fire can wake me up",
+        "pt": "Aquele fogo de guerra pode me wake up"
+      },
+      "words": [
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "战火",
+          "py": "zhàn huǒ",
+          "gloss": "flames of war",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "将",
+          "py": "jiāng",
+          "gloss": "will",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "wake up",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who cares about cruelty and absurdity — don't surrender to reality in this battlefield",
+        "pt": "Quem se importa com crueldade e absurdo — não se renda à realidade neste campo de batalha"
+      },
+      "words": [
+        {
+          "hz": "管他",
+          "py": "guǎn tā",
+          "gloss": "who cares",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "残忍",
+          "py": "cán rěn",
+          "gloss": "cruel",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "荒唐",
+          "py": "huāng táng",
+          "gloss": "absurd",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "向",
+          "py": "xiàng",
+          "gloss": "toward",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "现实",
+          "py": "xiàn shí",
+          "gloss": "reality",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "投降",
+          "py": "tóu xiáng",
+          "gloss": "surrender",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "这个",
+          "py": "zhè gè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "战场",
+          "py": "zhàn chǎng",
+          "gloss": "battlefield",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Who cares about charging wildly — all living beings are the same, crazy for an instant",
+        "pt": "Quem se importa em atacar selvagemente — todos os seres vivos são iguais, loucos por um instante"
+      },
+      "words": [
+        {
+          "hz": "管他",
+          "py": "guǎn tā",
+          "gloss": "who cares",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "横冲直撞",
+          "py": "héng chōng zhí zhuàng",
+          "gloss": "charge wildly",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "生灵",
+          "py": "shēng líng",
+          "gloss": "living beings",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "一样",
+          "py": "yī yàng",
+          "gloss": "same",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "一瞬",
+          "py": "yī shùn",
+          "gloss": "an instant",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "疯狂",
+          "py": "fēng kuáng",
+          "gloss": "crazy",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I single-mindedly yearn",
+        "pt": "Eu de todo coração anseio"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一心",
+          "py": "yī xīn",
+          "gloss": "single-mindedly",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "向往",
+          "py": "xiàng wǎng",
+          "gloss": "yearn for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — I think I'm born not knowing how",
+        "pt": "It's ok — acho que nasci sem saber como"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "think",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "天生",
+          "py": "tiān shēng",
+          "gloss": "innately",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不会",
+          "py": "bù huì",
+          "gloss": "cannot",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — no need to guide my advance and retreat",
+        "pt": "It's ok — não preciso que guiem meu avanço e recuo"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "需要",
+          "py": "xū yào",
+          "gloss": "need",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "指点",
+          "py": "zhǐ diǎn",
+          "gloss": "guide",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "进退",
+          "py": "jìn tuì",
+          "gloss": "advance and retreat",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — let me be surrounded by evil thoughts, let war fires swirl, repent for cowardice",
+        "pt": "It's ok — deixe-me cercado por maus pensamentos, deixe os fogos da guerra girarem, arrepender-me pela covardia"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "恶念",
+          "py": "è niàn",
+          "gloss": "evil thoughts",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "包围",
+          "py": "bāo wéi",
+          "gloss": "surround",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "任",
+          "py": "rèn",
+          "gloss": "let",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "战火",
+          "py": "zhàn huǒ",
+          "gloss": "war fires",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "纷飞",
+          "py": "fēn fēi",
+          "gloss": "swirl",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "懦弱",
+          "py": "nuò ruò",
+          "gloss": "cowardice",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "忏悔",
+          "py": "chàn huǐ",
+          "gloss": "repent",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — to make rushing water in the desert",
+        "pt": "It's ok — fazer água corrente no deserto"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "沙漠",
+          "py": "shā mò",
+          "gloss": "desert",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "make",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "奔流",
+          "py": "bēn liú",
+          "gloss": "rushing stream",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "水",
+          "py": "shuǐ",
+          "gloss": "water",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — to find blazing kindred spirits in the snow",
+        "pt": "It's ok — encontrar espíritos afins ardentes na neve"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "雪地",
+          "py": "xuě dì",
+          "gloss": "snowy ground",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "找",
+          "py": "zhǎo",
+          "gloss": "find",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "炽热",
+          "py": "chì rè",
+          "gloss": "blazing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "同类",
+          "py": "tóng lèi",
+          "gloss": "kindred spirit",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — alone against the world, ignore the noise, don't waste words on them",
+        "pt": "It's ok — sozinho contra o mundo, ignore o barulho, não perca palavras com eles"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "孤身",
+          "py": "gū shēn",
+          "gloss": "alone",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "with",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "对垒",
+          "py": "duì lěi",
+          "gloss": "confront",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "聒噪",
+          "py": "guō zào",
+          "gloss": "noisy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "理会",
+          "py": "lǐ huì",
+          "gloss": "pay attention to",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "跟",
+          "py": "gēn",
+          "gloss": "with",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "他们",
+          "py": "tā men",
+          "gloss": "them",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "废话",
+          "py": "fèi huà",
+          "gloss": "waste words",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ohh — this bravery was always priceless, it doesn't need victory to be great",
+        "pt": "Ohh — essa bravura sempre foi inestimável, não precisa de vitória para ser grandiosa"
+      },
+      "words": [
+        {
+          "hz": "Ohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "勇敢",
+          "py": "yǒng gǎn",
+          "gloss": "bravery",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "从来",
+          "py": "cóng lái",
+          "gloss": "always",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "无价",
+          "py": "wú jià",
+          "gloss": "priceless",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "并",
+          "py": "bìng",
+          "gloss": "and",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "非要",
+          "py": "fēi yào",
+          "gloss": "insist on",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "胜利",
+          "py": "shèng lì",
+          "gloss": "victory",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "伟大",
+          "py": "wěi dà",
+          "gloss": "great",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Ohh — this one battle will be the final blow, no matter how many tens of thousands of times it repeats",
+        "pt": "Ohh — esta única batalha será o golpe final, não importa quantas dezenas de milhares de vezes se repita"
+      },
+      "words": [
+        {
+          "hz": "Ohh",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一战",
+          "py": "yī zhàn",
+          "gloss": "one battle",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "be",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "绝杀",
+          "py": "jué shā",
+          "gloss": "final blow",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "重来",
+          "py": "chóng lái",
+          "gloss": "redo",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多少",
+          "py": "duō shǎo",
+          "gloss": "how many",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "万",
+          "py": "wàn",
+          "gloss": "ten thousand",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "次",
+          "py": "cì",
+          "gloss": "times",
+          "hsk": 2,
+          "pos": "mw",
+          "posName": "m.w."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — I think I'm born not knowing how",
+        "pt": "It's ok — acho que nasci sem saber como"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "think",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "天生",
+          "py": "tiān shēng",
+          "gloss": "innately",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "just",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不会",
+          "py": "bù huì",
+          "gloss": "cannot",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — no need to guide my advance and retreat",
+        "pt": "It's ok — não preciso que guiem meu avanço e recuo"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "需要",
+          "py": "xū yào",
+          "gloss": "need",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "指点",
+          "py": "zhǐ diǎn",
+          "gloss": "guide",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "进退",
+          "py": "jìn tuì",
+          "gloss": "advance and retreat",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — let me be surrounded by evil thoughts, let war fires swirl, repent for cowardice",
+        "pt": "It's ok — deixe-me cercado por maus pensamentos, deixe os fogos da guerra girarem, arrepender-me pela covardia"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "let",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "恶念",
+          "py": "è niàn",
+          "gloss": "evil thoughts",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "包围",
+          "py": "bāo wéi",
+          "gloss": "surround",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "任",
+          "py": "rèn",
+          "gloss": "let",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "战火",
+          "py": "zhàn huǒ",
+          "gloss": "war fires",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "纷飞",
+          "py": "fēn fēi",
+          "gloss": "swirl",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "为",
+          "py": "wèi",
+          "gloss": "for",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "懦弱",
+          "py": "nuò ruò",
+          "gloss": "cowardice",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "忏悔",
+          "py": "chàn huǐ",
+          "gloss": "repent",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — to make rushing water in the desert",
+        "pt": "It's ok — fazer água corrente no deserto"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "沙漠",
+          "py": "shā mò",
+          "gloss": "desert",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "造",
+          "py": "zào",
+          "gloss": "make",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "奔流",
+          "py": "bēn liú",
+          "gloss": "rushing stream",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "水",
+          "py": "shuǐ",
+          "gloss": "water",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — to find blazing kindred spirits in the snow",
+        "pt": "It's ok — encontrar espíritos afins ardentes na neve"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "雪地",
+          "py": "xuě dì",
+          "gloss": "snowy ground",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "找",
+          "py": "zhǎo",
+          "gloss": "find",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "炽热",
+          "py": "chì rè",
+          "gloss": "blazing",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "同类",
+          "py": "tóng lèi",
+          "gloss": "kindred spirit",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's ok — alone against the world, ignore the noise, cast all dejection behind",
+        "pt": "It's ok — sozinho contra o mundo, ignore o barulho, jogue toda a prostração para trás"
+      },
+      "words": [
+        {
+          "hz": "It's ok",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "孤身",
+          "py": "gū shēn",
+          "gloss": "alone",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "with",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "对垒",
+          "py": "duì lěi",
+          "gloss": "confront",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "聒噪",
+          "py": "guō zào",
+          "gloss": "noisy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "理会",
+          "py": "lǐ huì",
+          "gloss": "pay attention to",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "颓丧",
+          "py": "tuí sàng",
+          "gloss": "dejection",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "全",
+          "py": "quán",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "丢",
+          "py": "diū",
+          "gloss": "throw",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "身后",
+          "py": "shēn hòu",
+          "gloss": "behind",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}

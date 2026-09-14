@@ -1,0 +1,1215 @@
+{
+  "id": "hao-xiang-wo-hui-lai-a",
+  "title": "好想我回来啊",
+  "titlePinyin": "Hǎo Xiǎng Wǒ Huí Lái A",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2022 · Album \"希忘Hope\" · Track 5",
+  "lines": [
+    {
+      "translation": {
+        "en": "I want to speak — yet fall silent when I open my mouth",
+        "pt": "Quero falar — mas fico em silêncio quando abro a boca"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "speak",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "开口",
+          "py": "kāi kǒu",
+          "gloss": "open mouth",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "时候",
+          "py": "shí hou",
+          "gloss": "when",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "变",
+          "py": "biàn",
+          "gloss": "become",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "沉默",
+          "py": "chén mò",
+          "gloss": "silent",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "This world — mysterious and naked",
+        "pt": "Este mundo — misterioso e nu"
+      },
+      "words": [
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "神秘",
+          "py": "shén mì",
+          "gloss": "mysterious",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "赤裸",
+          "py": "chì luǒ",
+          "gloss": "naked",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "What should I do — for a new future to fulfill its promise",
+        "pt": "O que devo fazer — para um novo futuro cumprir sua promessa"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "该",
+          "py": "gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "怎么",
+          "py": "zěn me",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "做",
+          "py": "zuò",
+          "gloss": "do",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "新的",
+          "py": "xīn de",
+          "gloss": "new",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "未来",
+          "py": "wèi lái",
+          "gloss": "future",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "兑现",
+          "py": "duì xiàn",
+          "gloss": "fulfill",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "承诺",
+          "py": "chéng nuò",
+          "gloss": "promise",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hiding in a corner — only makes one more anxious",
+        "pt": "Esconder-se num canto — só deixa a pessoa mais ansiosa"
+      },
+      "words": [
+        {
+          "hz": "躲在",
+          "py": "duǒ zài",
+          "gloss": "hide in",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "角落",
+          "py": "jiǎo luò",
+          "gloss": "corner",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "make",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "person",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "焦灼",
+          "py": "jiāo zhuó",
+          "gloss": "anxious",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Too much love in name rushes into my territory",
+        "pt": "Demasiado amor em nome invade meu território"
+      },
+      "words": [
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "too much",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "名义",
+          "py": "míng yì",
+          "gloss": "name",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "奔赴",
+          "py": "bēn fù",
+          "gloss": "rush to",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "领地",
+          "py": "lǐng dì",
+          "gloss": "territory",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Those few words pierce my heart — Ha～",
+        "pt": "Aquelas poucas palavras perfuram meu coração — Ha～"
+      },
+      "words": [
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "只言片语",
+          "py": "zhī yán piàn yǔ",
+          "gloss": "few words",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "戳中",
+          "py": "chuō zhòng",
+          "gloss": "pierce",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "心",
+          "py": "xīn",
+          "gloss": "heart",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "Ha～",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Too many fairy-tale dreams appear in my memory",
+        "pt": "Demasiados sonhos de conto de fadas aparecem na minha memória"
+      },
+      "words": [
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "too many",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "童话",
+          "py": "tóng huà",
+          "gloss": "fairy tale",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "梦境",
+          "py": "mèng jìng",
+          "gloss": "dream",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "出现",
+          "py": "chū xiàn",
+          "gloss": "appear",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "回忆",
+          "py": "huí yì",
+          "gloss": "memory",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Like the only straw strangling my heart — Ha～",
+        "pt": "Como a única palha estrangulando meu coração — Ha～"
+      },
+      "words": [
+        {
+          "hz": "就像",
+          "py": "jiù xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "唯一",
+          "py": "wéi yī",
+          "gloss": "only",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "稻草",
+          "py": "dào cǎo",
+          "gloss": "straw",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "勒住",
+          "py": "lēi zhù",
+          "gloss": "strangle",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "心",
+          "py": "xīn",
+          "gloss": "heart",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "Ha～",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Once I — pessimistic, lonely, regretful, unbearable",
+        "pt": "Uma vez eu — pessimista, solitário, arrependido, insuportável"
+      },
+      "words": [
+        {
+          "hz": "曾经",
+          "py": "céng jīng",
+          "gloss": "once",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "悲观",
+          "py": "bēi guān",
+          "gloss": "pessimistic",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "孤单",
+          "py": "gū dān",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "遗憾",
+          "py": "yí hàn",
+          "gloss": "regretful",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "不堪",
+          "py": "bù kān",
+          "gloss": "unbearable",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Sighing, weary, tossing, uneasy",
+        "pt": "Suspirando, cansado, revirando, inquieto"
+      },
+      "words": [
+        {
+          "hz": "感叹",
+          "py": "gǎn tàn",
+          "gloss": "sigh",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "疲倦",
+          "py": "pí juàn",
+          "gloss": "weary",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "辗转",
+          "py": "zhǎn zhuǎn",
+          "gloss": "toss",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "难安",
+          "py": "nán ān",
+          "gloss": "uneasy",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Letting go, relieved, slowing down, talking at length",
+        "pt": "Deixando ir, aliviado, desacelerando, conversando longamente"
+      },
+      "words": [
+        {
+          "hz": "看淡",
+          "py": "kàn dàn",
+          "gloss": "let go",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "释然",
+          "py": "shì rán",
+          "gloss": "relieved",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "放慢",
+          "py": "fàng màn",
+          "gloss": "slow down",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "长谈",
+          "py": "cháng tán",
+          "gloss": "talk at length",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Looking forward, watching from afar, cutting off, brave",
+        "pt": "Esperando, olhando de longe, cortando, corajoso"
+      },
+      "words": [
+        {
+          "hz": "期盼",
+          "py": "qī pàn",
+          "gloss": "look forward",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "远看",
+          "py": "yuǎn kàn",
+          "gloss": "watch from afar",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "了断",
+          "py": "liǎo duàn",
+          "gloss": "cut off",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "勇敢",
+          "py": "yǒng gǎn",
+          "gloss": "brave",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Half — understanding, half — chaos",
+        "pt": "Metade — compreensão, metade — caos"
+      },
+      "words": [
+        {
+          "hz": "一半",
+          "py": "yī bàn",
+          "gloss": "half",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "明白",
+          "py": "míng bái",
+          "gloss": "understanding",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "一半",
+          "py": "yī bàn",
+          "gloss": "half",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "混乱",
+          "py": "hùn luàn",
+          "gloss": "chaos",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Half — simple, half — very difficult",
+        "pt": "Metade — simples, metade — muito difícil"
+      },
+      "words": [
+        {
+          "hz": "一半",
+          "py": "yī bàn",
+          "gloss": "half",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "简单",
+          "py": "jiǎn dān",
+          "gloss": "simple",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "一半",
+          "py": "yī bàn",
+          "gloss": "half",
+          "hsk": 3,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "很难",
+          "py": "hěn nán",
+          "gloss": "very difficult",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "All of it — all of it — has nothing to do with you",
+        "pt": "Tudo — tudo — não tem nada a ver com você"
+      },
+      "words": [
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "全都",
+          "py": "quán dōu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "无关",
+          "py": "wú guān",
+          "gloss": "have nothing to do",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Thinking too much — standing in the crowd, at a loss",
+        "pt": "Pensando demais — parado na multidão, perdido"
+      },
+      "words": [
+        {
+          "hz": "想太多",
+          "py": "xiǎng tài duō",
+          "gloss": "think too much",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "站在",
+          "py": "zhàn zài",
+          "gloss": "standing",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "人群",
+          "py": "rén qún",
+          "gloss": "crowd",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "之中",
+          "py": "zhī zhōng",
+          "gloss": "among",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "茫然",
+          "py": "máng rán",
+          "gloss": "at a loss",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "失措",
+          "py": "shī cuò",
+          "gloss": "confused",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's nothing — under the mask, everyone is lonely",
+        "pt": "Não é nada — sob a máscara, todos estão solitários"
+      },
+      "words": [
+        {
+          "hz": "没什么",
+          "py": "méi shén me",
+          "gloss": "it's nothing",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "面具",
+          "py": "miàn jù",
+          "gloss": "mask",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "下",
+          "py": "xià",
+          "gloss": "under",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "寂寞",
+          "py": "jì mò",
+          "gloss": "lonely",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I have my own rhythm — treating all with kindness, even if they don't belong to me",
+        "pt": "Eu tenho meu próprio ritmo — tratando todos com bondade, mesmo que não me pertençam"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我的",
+          "py": "wǒ de",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "节奏",
+          "py": "jié zòu",
+          "gloss": "rhythm",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "善待",
+          "py": "shàn dài",
+          "gloss": "treat with kindness",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "哪怕",
+          "py": "nǎ pà",
+          "gloss": "even if",
+          "hsk": 5,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "不属于",
+          "py": "bù shǔ yú",
+          "gloss": "not belong to",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Please don't say anymore — \"why do you have to live like this\"",
+        "pt": "Por favor não diga mais — \"por que você tem que viver assim\""
+      },
+      "words": [
+        {
+          "hz": "请",
+          "py": "qǐng",
+          "gloss": "please",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "何必",
+          "py": "hé bì",
+          "gloss": "why must",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "这样",
+          "py": "zhè yàng",
+          "gloss": "like this",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "活",
+          "py": "huó",
+          "gloss": "live",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Even if — even if — it has to do with you",
+        "pt": "Mesmo se — mesmo se — tiver a ver com você"
+      },
+      "words": [
+        {
+          "hz": "就算",
+          "py": "jiù suàn",
+          "gloss": "even if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "就算",
+          "py": "jiù suàn",
+          "gloss": "even if",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "与",
+          "py": "yǔ",
+          "gloss": "with",
+          "hsk": 4,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "有关",
+          "py": "yǒu guān",
+          "gloss": "have to do with",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "But I — will look forward",
+        "pt": "Mas eu — olharei para frente"
+      },
+      "words": [
+        {
+          "hz": "但",
+          "py": "dàn",
+          "gloss": "but",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "向前看",
+          "py": "xiàng qián kàn",
+          "gloss": "look forward",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    }
+  ]
+}

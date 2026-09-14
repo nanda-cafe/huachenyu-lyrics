@@ -1,0 +1,1257 @@
+{
+  "id": "wo-guan-ni",
+  "title": "我管你",
+  "titlePinyin": "Wǒ Guǎn Nǐ",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2015 · Album \"異類\" · Track 1",
+  "lines": [
+    {
+      "translation": {
+        "en": "I don't quite accept — not fighting back when wronged",
+        "pt": "Eu não aceito bem — não revidar quando injustiçado"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "大",
+          "py": "dà",
+          "gloss": "quite",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "接受",
+          "py": "jiē shòu",
+          "gloss": "accept",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "(passive)",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "委屈",
+          "py": "wěi qū",
+          "gloss": "wronged",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "还手",
+          "py": "huán shǒu",
+          "gloss": "fight back",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I can't quite conform — to the so-called 'mainstream'",
+        "pt": "Não consigo me conformar — com o chamado 'mainstream'"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "太",
+          "py": "tài",
+          "gloss": "quite",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "能够",
+          "py": "néng gòu",
+          "gloss": "can",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "顺应",
+          "py": "shùn yìng",
+          "gloss": "conform to",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "所谓",
+          "py": "suǒ wèi",
+          "gloss": "so-called",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "大潮流",
+          "py": "dà cháo liú",
+          "gloss": "mainstream",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Tattooed arms or spiked-up hair — don't tell you all that I am",
+        "pt": "Braços tatuados ou cabelo espetado — não te dizem tudo o que sou"
+      },
+      "words": [
+        {
+          "hz": "花臂",
+          "py": "huā bì",
+          "gloss": "tattooed arms",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "或",
+          "py": "huò",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "刺头",
+          "py": "cì tóu",
+          "gloss": "spiked-up hair",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "应该",
+          "py": "yīng gāi",
+          "gloss": "should",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "说明",
+          "py": "shuō míng",
+          "gloss": "explain",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I don't seek excuses — those who understand will understand",
+        "pt": "Não procuro desculpas — quem entende vai entender"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "找",
+          "py": "zhǎo",
+          "gloss": "seek",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "借口",
+          "py": "jiè kǒu",
+          "gloss": "excuse",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "懂",
+          "py": "dǒng",
+          "gloss": "understand",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "人",
+          "py": "rén",
+          "gloss": "person",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "自然",
+          "py": "zì rán",
+          "gloss": "naturally",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "能",
+          "py": "néng",
+          "gloss": "can",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "看透",
+          "py": "kàn tòu",
+          "gloss": "see through",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't want to explain much — don't judge me by how I look",
+        "pt": "Não quero explicar muito — não me julgue pela aparência"
+      },
+      "words": [
+        {
+          "hz": "没想",
+          "py": "méi xiǎng",
+          "gloss": "don't want",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "辩解",
+          "py": "biàn jiě",
+          "gloss": "explain",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "much",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "外表",
+          "py": "wài biǎo",
+          "gloss": "appearance",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "解说",
+          "py": "jiě shuō",
+          "gloss": "judge",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Don't want to explain the misunderstandings — I refuse to talk about 'what-ifs'",
+        "pt": "Não quero explicar os mal-entendidos — recuso falar sobre 'e se'"
+      },
+      "words": [
+        {
+          "hz": "误解",
+          "py": "wù jiě",
+          "gloss": "misunderstanding",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "不愿",
+          "py": "bù yuàn",
+          "gloss": "don't want",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "反驳",
+          "py": "fǎn bó",
+          "gloss": "refute",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拒绝",
+          "py": "jù jué",
+          "gloss": "refuse",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "谈",
+          "py": "tán",
+          "gloss": "talk about",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "如果",
+          "py": "rú guǒ",
+          "gloss": "what-if",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I Don't Care how you feel — I Don't Care how you feel",
+        "pt": "Não me importo como você se sente — Não me importo como você se sente"
+      },
+      "words": [
+        {
+          "hz": "我管你",
+          "py": "wǒ guǎn nǐ",
+          "gloss": "I Don't Care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "感受",
+          "py": "gǎn shòu",
+          "gloss": "how you feel",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我管你",
+          "py": "wǒ guǎn nǐ",
+          "gloss": "I Don't Care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "感受",
+          "py": "gǎn shòu",
+          "gloss": "how you feel",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I Don't Care what you think — I am my own expression",
+        "pt": "Não me importo com o que você pensa — eu sou minha própria expressão"
+      },
+      "words": [
+        {
+          "hz": "管你",
+          "py": "guǎn nǐ",
+          "gloss": "I Don't Care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "想法",
+          "py": "xiǎng fǎ",
+          "gloss": "think",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "am",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "自己",
+          "py": "zì jǐ",
+          "gloss": "own",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "表达",
+          "py": "biǎo dá",
+          "gloss": "expression",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I Don't Care about your opinion — my world, I decide how flamboyant it is",
+        "pt": "Não me importo com sua opinião — meu mundo, eu decido quão extravagante é"
+      },
+      "words": [
+        {
+          "hz": "管你",
+          "py": "guǎn nǐ",
+          "gloss": "I Don't Care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看法",
+          "py": "kàn fǎ",
+          "gloss": "opinion",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "来",
+          "py": "lái",
+          "gloss": "(future marker)",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "浮夸",
+          "py": "fú kuā",
+          "gloss": "flamboyant",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I Don't Care how fancy you talk — I don't need to be preached by you",
+        "pt": "Não me importo quão chique você fala — não preciso ser pregado por você"
+      },
+      "words": [
+        {
+          "hz": "我管你",
+          "py": "wǒ guǎn nǐ",
+          "gloss": "I Don't Care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "说",
+          "py": "shuō",
+          "gloss": "talk",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "得",
+          "py": "de",
+          "gloss": "(complement)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "复杂",
+          "py": "fù zá",
+          "gloss": "fancy",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不要",
+          "py": "bù yào",
+          "gloss": "don't need",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "给",
+          "py": "gěi",
+          "gloss": "(passive marker)",
+          "hsk": 2,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "教化",
+          "py": "jiào huà",
+          "gloss": "preach",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I Don't Care what you say — take me as a fool or a joke",
+        "pt": "Não me importo com o que você diz — me tome como um tolo ou uma piada"
+      },
+      "words": [
+        {
+          "hz": "管你",
+          "py": "guǎn nǐ",
+          "gloss": "I Don't Care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "说法",
+          "py": "shuō fǎ",
+          "gloss": "what you say",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "take as",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "傻",
+          "py": "shǎ",
+          "gloss": "fool",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "或是",
+          "py": "huò shì",
+          "gloss": "or",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "笑话",
+          "py": "xiào huà",
+          "gloss": "joke",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I Don't Care what you do — don't even dream of knocking me down",
+        "pt": "Não me importo com o que você faz — nem sonhe em me derrubar"
+      },
+      "words": [
+        {
+          "hz": "管你",
+          "py": "guǎn nǐ",
+          "gloss": "I Don't Care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "办法",
+          "py": "bàn fǎ",
+          "gloss": "what you do",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "幻想",
+          "py": "huàn xiǎng",
+          "gloss": "dream",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "沦落",
+          "py": "lún luò",
+          "gloss": "sink",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "倒下",
+          "py": "dǎo xià",
+          "gloss": "fall down",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Behind so many choices — despair seems to have no exit",
+        "pt": "Por trás de tantas escolhas — o desespero parece não ter saída"
+      },
+      "words": [
+        {
+          "hz": "太多",
+          "py": "tài duō",
+          "gloss": "too many",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "选择",
+          "py": "xuǎn zé",
+          "gloss": "choices",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "背后",
+          "py": "bèi hòu",
+          "gloss": "behind",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "绝望",
+          "py": "jué wàng",
+          "gloss": "despair",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "没有",
+          "py": "méi yǒu",
+          "gloss": "no",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "出口",
+          "py": "chū kǒu",
+          "gloss": "exit",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I'd rather clench my fist — because this is all I have left",
+        "pt": "Prefiro cerrar o punho — porque é tudo o que me resta"
+      },
+      "words": [
+        {
+          "hz": "不如",
+          "py": "bù rú",
+          "gloss": "rather",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "握紧",
+          "py": "wò jǐn",
+          "gloss": "clench",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "拳头",
+          "py": "quán tóu",
+          "gloss": "fist",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "就是",
+          "py": "jiù shì",
+          "gloss": "is exactly",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I Don't Care how much you criticize — you are not qualified to judge",
+        "pt": "Não me importo com o quanto você critica — você não tem qualificação para julgar"
+      },
+      "words": [
+        {
+          "hz": "管你",
+          "py": "guǎn nǐ",
+          "gloss": "I Don't Care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "多",
+          "py": "duō",
+          "gloss": "how much",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "怪罪",
+          "py": "guài zuì",
+          "gloss": "criticize",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "资格",
+          "py": "zī gé",
+          "gloss": "qualified",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "评头论足",
+          "py": "píng tóu lùn zú",
+          "gloss": "judge",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "You think you know everything — that's your opinion, I really don't care",
+        "pt": "Você acha que sabe tudo — essa é sua opinião, eu realmente não me importo"
+      },
+      "words": [
+        {
+          "hz": "管你",
+          "py": "guǎn nǐ",
+          "gloss": "you think",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "自以为",
+          "py": "zì yǐ wéi",
+          "gloss": "think oneself",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "意见",
+          "py": "yì jiàn",
+          "gloss": "opinion",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "真",
+          "py": "zhēn",
+          "gloss": "really",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在乎",
+          "py": "zài hu",
+          "gloss": "care",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Everybody, raise your hands",
+        "pt": "Todos, levantem as mãos"
+      },
+      "words": [
+        {
+          "hz": "所有人",
+          "py": "suǒ yǒu rén",
+          "gloss": "everybody",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "举起",
+          "py": "jǔ qǐ",
+          "gloss": "raise",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你们",
+          "py": "nǐ men",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "双手",
+          "py": "shuāng shǒu",
+          "gloss": "hands",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}

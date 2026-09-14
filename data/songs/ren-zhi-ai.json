@@ -1,0 +1,1137 @@
+{
+  "id": "ren-zhi-ai",
+  "title": "人之爱",
+  "titlePinyin": "Rén Zhī Ài",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2025 · Album \"量变临界点\" · Track 9",
+  "lines": [
+    {
+      "translation": {
+        "en": "We relive it once more — we compete to admit that love is actually happiness",
+        "pt": "Nós revivemos mais uma vez — competimos para admitir que o amor é na verdade felicidade"
+      },
+      "words": [
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "重温",
+          "py": "chóng wēn",
+          "gloss": "relive",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "争相",
+          "py": "zhēng xiāng",
+          "gloss": "compete to",
+          "hsk": 6,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "承认",
+          "py": "chéng rèn",
+          "gloss": "admit",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "其实",
+          "py": "qí shí",
+          "gloss": "actually",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "快乐",
+          "py": "kuài lè",
+          "gloss": "happy",
+          "hsk": 2,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Give up my outline — I'm willing to give it all",
+        "pt": "Abandonar meu contorno — estou disposto a dar tudo"
+      },
+      "words": [
+        {
+          "hz": "放弃",
+          "py": "fàng qì",
+          "gloss": "give up",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "轮廓",
+          "py": "lún kuò",
+          "gloss": "outline",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "舍得",
+          "py": "shě de",
+          "gloss": "willing to part with",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Wanting to match you — bones, pulse, mind and spirit",
+        "pt": "Querendo combinar com você — ossos, pulso, mente e espírito"
+      },
+      "words": [
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "want",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "with",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "相称",
+          "py": "xiāng chèn",
+          "gloss": "match",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "骨骼",
+          "py": "gǔ gé",
+          "gloss": "bones",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "脉搏",
+          "py": "mài bó",
+          "gloss": "pulse",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "心神",
+          "py": "xīn shén",
+          "gloss": "mind",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "It's us who failed to see through the reason of human love",
+        "pt": "Somos nós que não conseguimos ver através da razão do amor humano"
+      },
+      "words": [
+        {
+          "hz": "是",
+          "py": "shì",
+          "gloss": "is",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "us",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "看透",
+          "py": "kàn tòu",
+          "gloss": "see through",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "人之爱",
+          "py": "rén zhī ài",
+          "gloss": "human love",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "因由",
+          "py": "yīn yóu",
+          "gloss": "reason",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Be sincere, be tender, be — don't ask about the future",
+        "pt": "Seja sincero, seja terno, seja — não pergunte sobre o futuro"
+      },
+      "words": [
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "诚恳",
+          "py": "chéng kěn",
+          "gloss": "sincere",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "温柔",
+          "py": "wēn róu",
+          "gloss": "tender",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "问",
+          "py": "wèn",
+          "gloss": "ask",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "以后",
+          "py": "yǐ hòu",
+          "gloss": "future",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When we both no longer have reservations",
+        "pt": "Quando nós dois já não temos reservas"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "both",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "无",
+          "py": "wú",
+          "gloss": "no",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "保留",
+          "py": "bǎo liú",
+          "gloss": "reservation",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "I only have one me — is that enough",
+        "pt": "Eu só tenho um eu — isso é suficiente"
+      },
+      "words": [
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "只有",
+          "py": "zhǐ yǒu",
+          "gloss": "only have",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "一个",
+          "py": "yī gè",
+          "gloss": "one",
+          "hsk": 1,
+          "pos": "num",
+          "posName": "num."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "够不够",
+          "py": "gòu bù gòu",
+          "gloss": "enough or not",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "You perform your \"perfect ten\" — and I can only wait to be chosen by you",
+        "pt": "Você interpreta seu \"dez perfeito\" — e eu só posso esperar ser escolhido por você"
+      },
+      "words": [
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "出演",
+          "py": "chū yǎn",
+          "gloss": "perform",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你的",
+          "py": "nǐ de",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "十分",
+          "py": "shí fēn",
+          "gloss": "perfect ten",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "而",
+          "py": "ér",
+          "gloss": "and",
+          "hsk": 4,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "只能",
+          "py": "zhǐ néng",
+          "gloss": "can only",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "等",
+          "py": "děng",
+          "gloss": "wait",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "被",
+          "py": "bèi",
+          "gloss": "by",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "选择",
+          "py": "xuǎn zé",
+          "gloss": "choose",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Take away my body — or my soul",
+        "pt": "Leve meu corpo — ou minha alma"
+      },
+      "words": [
+        {
+          "hz": "拿走",
+          "py": "ná zǒu",
+          "gloss": "take away",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "肉身",
+          "py": "ròu shēn",
+          "gloss": "body",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "还是",
+          "py": "hái shì",
+          "gloss": "or",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "灵魂",
+          "py": "líng hún",
+          "gloss": "soul",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Do you love me completely — or just that copy of me",
+        "pt": "Você me ama por completo — ou só aquela cópia de mim"
+      },
+      "words": [
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "完整",
+          "py": "wán zhěng",
+          "gloss": "complete",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "还是",
+          "py": "hái shì",
+          "gloss": "or",
+          "hsk": 3,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "那",
+          "py": "nà",
+          "gloss": "that",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "具",
+          "py": "jù",
+          "gloss": "(m.w. for bodies)",
+          "hsk": 5,
+          "pos": "mw",
+          "posName": "m.w."
+        },
+        {
+          "hz": "分身",
+          "py": "fēn shēn",
+          "gloss": "double",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only I failed to see through the achievement of human love",
+        "pt": "Só eu não consegui ver através da realização do amor humano"
+      },
+      "words": [
+        {
+          "hz": "只有",
+          "py": "zhǐ yǒu",
+          "gloss": "only",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "没",
+          "py": "méi",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "看透",
+          "py": "kàn tòu",
+          "gloss": "see through",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "人之爱",
+          "py": "rén zhī ài",
+          "gloss": "human love",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "成就",
+          "py": "chéng jiù",
+          "gloss": "achievement",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Be it farewell, be it freedom, be it mutual guilt",
+        "pt": "Seja despedida, seja liberdade, seja culpa mútua"
+      },
+      "words": [
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "诀别",
+          "py": "jué bié",
+          "gloss": "farewell",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "自由",
+          "py": "zì yóu",
+          "gloss": "freedom",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "要",
+          "py": "yào",
+          "gloss": "must",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "相互",
+          "py": "xiāng hù",
+          "gloss": "mutual",
+          "hsk": 5,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "愧疚",
+          "py": "kuì jiù",
+          "gloss": "guilt",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Once shattered, who still wants to hold on",
+        "pt": "Uma vez despedaçado, quem ainda quer se agarrar"
+      },
+      "words": [
+        {
+          "hz": "摔碎",
+          "py": "shuāi suì",
+          "gloss": "shatter",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "过",
+          "py": "guò",
+          "gloss": "(experiential)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "还要",
+          "py": "hái yào",
+          "gloss": "still want",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "挽留",
+          "py": "wǎn liú",
+          "gloss": "hold on",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "We only learn to love after having regretted",
+        "pt": "Só aprendemos a amar depois de termos nos arrependido"
+      },
+      "words": [
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "遗憾",
+          "py": "yí hàn",
+          "gloss": "regret",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "过",
+          "py": "guò",
+          "gloss": "(experiential)",
+          "hsk": 2,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "才",
+          "py": "cái",
+          "gloss": "only then",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Perhaps too bare, and we cannot stay together",
+        "pt": "Talvez demasiado nus, e não podemos ficar juntos"
+      },
+      "words": [
+        {
+          "hz": "也许",
+          "py": "yě xǔ",
+          "gloss": "perhaps",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "太",
+          "py": "tài",
+          "gloss": "too",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "赤裸",
+          "py": "chì luǒ",
+          "gloss": "bare",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "无法",
+          "py": "wú fǎ",
+          "gloss": "cannot",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "相守",
+          "py": "xiāng shǒu",
+          "gloss": "stay together",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Brief, yet it takes all of me",
+        "pt": "Breve, mas leva tudo de mim"
+      },
+      "words": [
+        {
+          "hz": "短暂",
+          "py": "duǎn zàn",
+          "gloss": "brief",
+          "hsk": 6,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "换",
+          "py": "huàn",
+          "gloss": "exchange for",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "hsk": 4,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "When we both no longer ask for anything",
+        "pt": "Quando nós dois já não pedimos nada"
+      },
+      "words": [
+        {
+          "hz": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "hsk": 3,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "都",
+          "py": "dōu",
+          "gloss": "both",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "再",
+          "py": "zài",
+          "gloss": "again",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "无",
+          "py": "wú",
+          "gloss": "no",
+          "hsk": 4,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "所求",
+          "py": "suǒ qiú",
+          "gloss": "ask for",
+          "hsk": 6,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Only love, without thinking — is it enough",
+        "pt": "Apenas amar, sem pensar — é suficiente"
+      },
+      "words": [
+        {
+          "hz": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "去",
+          "py": "qù",
+          "gloss": "go",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "去",
+          "py": "qù",
+          "gloss": "go",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "想",
+          "py": "xiǎng",
+          "gloss": "think",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "够不够",
+          "py": "gòu bù gòu",
+          "gloss": "enough or not",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    }
+  ]
+}

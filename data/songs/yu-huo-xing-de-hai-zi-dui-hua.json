@@ -1,0 +1,1138 @@
+{
+  "id": "yu-huo-xing-de-hai-zi-dui-hua",
+  "title": "与火星的孩子对话",
+  "titlePinyin": "Yǔ Huǒ Xīng De Háizi Duìhuà",
+  "artist": "华晨宇 · Hua Chenyu",
+  "meta": "2020 · Album \"新世界NEW WORLD\" · Track 4",
+  "lines": [
+    {
+      "translation": {
+        "en": "Hua: I look like I love to laugh, yet still have some loss and sadness",
+        "pt": "Hua: Eu pareço gostar de rir, mas ainda tenho alguma perda e tristeza"
+      },
+      "words": [
+        {
+          "hz": "华",
+          "py": "huá",
+          "gloss": "Hua",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看着",
+          "py": "kàn zhe",
+          "gloss": "look like",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "爱笑",
+          "py": "ài xiào",
+          "gloss": "love to laugh",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "有些",
+          "py": "yǒu xiē",
+          "gloss": "some",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "失落",
+          "py": "shī luò",
+          "gloss": "loss",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "悲伤",
+          "py": "bēi shāng",
+          "gloss": "sadness",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "ET: Those losses, those sorrows, are also in my heart",
+        "pt": "ET: Essas perdas, essas tristezas, também estão no meu coração"
+      },
+      "words": [
+        {
+          "hz": "ET",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "失落",
+          "py": "shī luò",
+          "gloss": "losses",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "悲伤",
+          "py": "bēi shāng",
+          "gloss": "sorrows",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "in",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "心里",
+          "py": "xīn lǐ",
+          "gloss": "heart",
+          "hsk": 3,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hua: I look confident, yet still have some withdrawal and avoidance",
+        "pt": "Hua: Eu pareço confiante, mas ainda tenho alguma retirada e evitação"
+      },
+      "words": [
+        {
+          "hz": "华",
+          "py": "huá",
+          "gloss": "Hua",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看着",
+          "py": "kàn zhe",
+          "gloss": "look like",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "自信",
+          "py": "zì xìn",
+          "gloss": "confident",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "有些",
+          "py": "yǒu xiē",
+          "gloss": "some",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "退缩",
+          "py": "tuì suō",
+          "gloss": "withdrawal",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "逃避",
+          "py": "táo bì",
+          "gloss": "avoidance",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "ET: Those withdrawals, those avoidances, please don't mind",
+        "pt": "ET: Essas retiradas, essas evitações, por favor não se importe"
+      },
+      "words": [
+        {
+          "hz": "ET",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "退缩",
+          "py": "tuì suō",
+          "gloss": "withdrawals",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "逃避",
+          "py": "táo bì",
+          "gloss": "avoidances",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "请",
+          "py": "qǐng",
+          "gloss": "please",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在意",
+          "py": "zài yì",
+          "gloss": "mind",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hua: I look like I'm working hard, yet still have some refusal and laziness",
+        "pt": "Hua: Eu pareço estar me esforçando, mas ainda tenho alguma recusa e preguiça"
+      },
+      "words": [
+        {
+          "hz": "华",
+          "py": "huá",
+          "gloss": "Hua",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看着",
+          "py": "kàn zhe",
+          "gloss": "look like",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "努力",
+          "py": "nǔ lì",
+          "gloss": "working hard",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "有些",
+          "py": "yǒu xiē",
+          "gloss": "some",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拒绝",
+          "py": "jù jué",
+          "gloss": "refusal",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "懒惰",
+          "py": "lǎn duò",
+          "gloss": "laziness",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "ET: Those refusals, those lazinesses, I actually don't mind",
+        "pt": "ET: Essas recusas, essas preguiças, na verdade não me importo"
+      },
+      "words": [
+        {
+          "hz": "ET",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "拒绝",
+          "py": "jù jué",
+          "gloss": "refusals",
+          "hsk": 4,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "懒惰",
+          "py": "lǎn duò",
+          "gloss": "lazinesses",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "其实",
+          "py": "qí shí",
+          "gloss": "actually",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不",
+          "py": "bù",
+          "gloss": "not",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在意",
+          "py": "zài yì",
+          "gloss": "mind",
+          "hsk": 5,
+          "pos": "verb",
+          "posName": "v."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hua: I look strong, yet still have some fragility and doubt",
+        "pt": "Hua: Eu pareço forte, mas ainda tenho alguma fragilidade e dúvida"
+      },
+      "words": [
+        {
+          "hz": "华",
+          "py": "huá",
+          "gloss": "Hua",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "看着",
+          "py": "kàn zhe",
+          "gloss": "look like",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "坚强",
+          "py": "jiān qiáng",
+          "gloss": "strong",
+          "hsk": 5,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "还",
+          "py": "hái",
+          "gloss": "still",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "有些",
+          "py": "yǒu xiē",
+          "gloss": "some",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "脆弱",
+          "py": "cuì ruò",
+          "gloss": "fragility",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "和",
+          "py": "hé",
+          "gloss": "and",
+          "hsk": 1,
+          "pos": "conj",
+          "posName": "conj."
+        },
+        {
+          "hz": "疑惑",
+          "py": "yí huò",
+          "gloss": "doubt",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "ET: Those fragilities, those doubts, have their meaning",
+        "pt": "ET: Essas fragilidades, essas dúvidas, têm seu significado"
+      },
+      "words": [
+        {
+          "hz": "ET",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "脆弱",
+          "py": "cuì ruò",
+          "gloss": "fragilities",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "疑惑",
+          "py": "yí huò",
+          "gloss": "doubts",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "hsk": 1,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "它",
+          "py": "tā",
+          "gloss": "its",
+          "hsk": 2,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "的",
+          "py": "de",
+          "gloss": "of",
+          "hsk": 1,
+          "pos": "part",
+          "posName": "part."
+        },
+        {
+          "hz": "意义",
+          "py": "yì yì",
+          "gloss": "meaning",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hua: Those feelings slowly make me more like myself",
+        "pt": "Hua: Esses sentimentos lentamente me tornam mais parecido comigo mesmo"
+      },
+      "words": [
+        {
+          "hz": "华",
+          "py": "huá",
+          "gloss": "Hua",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "感受",
+          "py": "gǎn shòu",
+          "gloss": "feelings",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "慢慢",
+          "py": "màn màn",
+          "gloss": "slowly",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "make",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "变得",
+          "py": "biàn de",
+          "gloss": "become",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "自己",
+          "py": "zì jǐ",
+          "gloss": "myself",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "ET: Those feelings slowly make me more like you",
+        "pt": "ET: Esses sentimentos lentamente me tornam mais parecido com você"
+      },
+      "words": [
+        {
+          "hz": "ET",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "那些",
+          "py": "nà xiē",
+          "gloss": "those",
+          "hsk": 3,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "感受",
+          "py": "gǎn shòu",
+          "gloss": "feelings",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "慢慢",
+          "py": "màn màn",
+          "gloss": "slowly",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "让",
+          "py": "ràng",
+          "gloss": "make",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "变得",
+          "py": "biàn de",
+          "gloss": "become",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hua: You are you, I am I",
+        "pt": "Hua: Você é você, eu sou eu"
+      },
+      "words": [
+        {
+          "hz": "华",
+          "py": "huá",
+          "gloss": "Hua",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "就是",
+          "py": "jiù shì",
+          "gloss": "is exactly",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "就是",
+          "py": "jiù shì",
+          "gloss": "is exactly",
+          "hsk": 2,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "ET: We are different, yet the same",
+        "pt": "ET: Somos diferentes, mas iguais"
+      },
+      "words": [
+        {
+          "hz": "ET",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "不一样",
+          "py": "bù yī yàng",
+          "gloss": "different",
+          "hsk": 4,
+          "pos": "adj",
+          "posName": "adj."
+        },
+        {
+          "hz": "却",
+          "py": "què",
+          "gloss": "yet",
+          "hsk": 4,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "一样",
+          "py": "yī yàng",
+          "gloss": "the same",
+          "hsk": 3,
+          "pos": "adj",
+          "posName": "adj."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "Hua: Please remember, I am always by your side",
+        "pt": "Hua: Por favor lembre-se, estou sempre ao seu lado"
+      },
+      "words": [
+        {
+          "hz": "华",
+          "py": "huá",
+          "gloss": "Hua",
+          "hsk": 6,
+          "pos": "noun",
+          "posName": "n."
+        },
+        {
+          "hz": "请",
+          "py": "qǐng",
+          "gloss": "please",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "记得",
+          "py": "jì de",
+          "gloss": "remember",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "一直",
+          "py": "yī zhí",
+          "gloss": "always",
+          "hsk": 3,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "身旁",
+          "py": "shēn páng",
+          "gloss": "side",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    },
+    {
+      "translation": {
+        "en": "ET: Please remember, I will also be by your side",
+        "pt": "ET: Por favor lembre-se, eu também estarei ao seu lado"
+      },
+      "words": [
+        {
+          "hz": "ET",
+          "py": "",
+          "gloss": "",
+          "pos": "intj",
+          "posName": "intj."
+        },
+        {
+          "hz": "请",
+          "py": "qǐng",
+          "gloss": "please",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "记得",
+          "py": "jì de",
+          "gloss": "remember",
+          "hsk": 3,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "也",
+          "py": "yě",
+          "gloss": "also",
+          "hsk": 1,
+          "pos": "adv",
+          "posName": "adv."
+        },
+        {
+          "hz": "会",
+          "py": "huì",
+          "gloss": "will",
+          "hsk": 2,
+          "pos": "verb",
+          "posName": "v."
+        },
+        {
+          "hz": "在",
+          "py": "zài",
+          "gloss": "at",
+          "hsk": 1,
+          "pos": "prep",
+          "posName": "prep."
+        },
+        {
+          "hz": "你",
+          "py": "nǐ",
+          "gloss": "your",
+          "hsk": 1,
+          "pos": "pron",
+          "posName": "pron."
+        },
+        {
+          "hz": "身旁",
+          "py": "shēn páng",
+          "gloss": "side",
+          "hsk": 5,
+          "pos": "noun",
+          "posName": "n."
+        }
+      ]
+    }
+  ]
+}
