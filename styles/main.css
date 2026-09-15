@@ -145,6 +145,7 @@
   .track-info{flex:1;min-width:0;}
   .track-hz{font-size:1rem;font-weight:600;color:#111;letter-spacing:0.5px;}
   .track-py{font-size:0.75rem;color:#888;margin-top:1px;}
+  .track-context{font-size:0.72rem;color:#999;margin-top:2px;font-style:italic;}
   .track-badge{
     font-size:0.65rem;font-weight:700;padding:3px 8px;border-radius:8px;
     background:#f0f0f0;color:#999;flex-shrink:0;

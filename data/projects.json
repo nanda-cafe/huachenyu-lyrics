@@ -1,0 +1,142 @@
+[
+  {
+    "id": "kuaile-nansheng-2013",
+    "title": "快乐男声 2013",
+    "pinyin": "Kuài Lè Nán Shēng 2013",
+    "english": "Super Boy 2013",
+    "cover": "https://placehold.co/500x500/F4511E/fff?font=noto-sans-sc&text=快乐男声+2013",
+    "context": {
+      "en": "The competition that launched Hua Chenyu's career. His original audition piece \"无字歌\" (Wordless Song) and his genre-hopping rearrangements — from Lady Gaga's \"Poker Face\" to Cui Jian's \"假行僧\" — made him the season's most talked-about contestant and ultimately the champion. Notable collab performances include \"小星星 The Star\" with 尚雯婕 and \"忘忧草\" with 欧豪 at the finals."
+    },
+    "tracks": [
+      { "title": "无字歌", "year": 2013, "context": "长沙赛区海选 · 原创" },
+      { "title": "The Kill", "year": 2013, "context": "66进20强" },
+      { "title": "Somebody That I Used to Know", "year": 2013, "context": "20进10强" },
+      { "title": "追梦赤子心", "year": 2013, "context": "全国总决赛 · 主题曲" },
+      { "title": "我", "year": 2013, "context": "10进9 · 原唱：张国荣" },
+      { "title": "We Are Young", "year": 2013, "context": "9进8" },
+      { "title": "亲爱的小孩", "year": 2013, "context": "8进7 · 原唱：苏芮" },
+      { "title": "假行僧", "year": 2013, "context": "7进6 · 原唱：崔健" },
+      { "title": "Poker Face", "year": 2013, "context": "热血复活赛" },
+      { "title": "小星星 The Star", "year": 2013, "context": "6进5 · 与尚雯婕合唱" },
+      { "title": "白色秋天", "year": 2013, "context": "5进3 · 与曾轶可合唱" },
+      { "title": "红豆", "year": 2013, "context": "总决赛 · 原唱：王菲" },
+      { "title": "寂寞先生", "year": 2013, "context": "总决赛 · 与曹格合唱" },
+      { "title": "I Will Always Love You", "year": 2013, "context": "总决赛 · 原唱：Whitney Houston" },
+      { "title": "海阔天空", "year": 2013, "context": "总决赛 · 原唱：Beyond" }
+    ]
+  },
+  {
+    "id": "singer-2018",
+    "title": "歌手 2018",
+    "pinyin": "Gē Shǒu 2018",
+    "english": "Singer 2018",
+    "cover": "https://placehold.co/500x500/1E88E5/fff?font=noto-sans-sc&text=歌手+2018",
+    "context": {
+      "en": "Hua Chenyu joined the sixth season of Hunan TV's 《歌手》 as a challenging singer and became a defining highlight of the run. His rearrangements of \"山海\" (originally by 草东没有派对) and \"假行僧\" (originally by 崔健) are among the most-viewed performances of the season, and his finals duet of \"光年之外\" with G.E.M. remains a fan favorite."
+    },
+    "tracks": [
+      { "title": "齐天", "year": 2018, "context": "第四期 · 2018.02.02" },
+      { "title": "孩子", "year": 2018, "context": "第五期 · 2018.02.09" },
+      { "title": "双截棍", "year": 2018, "context": "第六期 · 原唱：周杰伦" },
+      { "title": "我管你", "year": 2018, "context": "第七期 · 2018.02.23" },
+      { "title": "易燃易爆炸", "year": 2018, "context": "第八期 · 原唱：陈粒" },
+      { "title": "山海", "year": 2018, "context": "第九期 · 原唱：草东没有派对" },
+      { "title": "假行僧", "year": 2018, "context": "第十期 · 原唱：崔健" },
+      { "title": "平凡之路", "year": 2018, "context": "第十一期 · 原唱：朴树" },
+      { "title": "我", "year": 2018, "context": "第十二期 · 突围赛" },
+      { "title": "光年之外", "year": 2018, "context": "总决赛 · 与邓紫棋合唱" },
+      { "title": "呐喊", "year": 2018, "context": "总决赛 · 原唱：张韶涵" }
+    ]
+  },
+  {
+    "id": "singer-2020",
+    "title": "歌手·当打之年 2020",
+    "pinyin": "Gē Shǒu · Dāng Dǎ Zhī Nián 2020",
+    "english": "Singer: Year of the Hit",
+    "cover": "https://placehold.co/500x500/3949AB/fff?font=noto-sans-sc&text=歌手+2020",
+    "context": {
+      "en": "Hua Chenyu returned to the 《歌手》 stage in 2020 for the season titled 当打之年 (\"Year of the Hit\") and won the title of 歌王 (King of Singers). This run introduced several songs from his then-forthcoming album 新世界 NEW WORLD — including \"斗牛\", \"神树\", \"降临\", and the eventual title track — alongside the debut of \"好想爱这个世界啊\", which became one of the biggest Chinese singles of the year."
+    },
+    "tracks": [
+      { "title": "寒鸦少年", "year": 2020, "context": "第一期 · 2020.02.07" },
+      { "title": "斗牛", "year": 2020, "context": "第二期 · 2020.02.14" },
+      { "title": "你要相信这不是最后一天", "year": 2020, "context": "第三期 · 2020.02.21 · 原创" },
+      { "title": "代号魂斗罗", "year": 2020, "context": "第四期 · 与左立合作" },
+      { "title": "我们", "year": 2020, "context": "第五期 · 翻唱" },
+      { "title": "神树", "year": 2020, "context": "第六期 · 2020.03.13" },
+      { "title": "降临", "year": 2020, "context": "第七期 · 2020.03.20" },
+      { "title": "新世界", "year": 2020, "context": "第八期 · 2020.03.27" },
+      { "title": "好想爱这个世界啊", "year": 2020, "context": "第九期 · 2020.04.03" },
+      { "title": "疯人院", "year": 2020, "context": "第十期 · 2020.04.10" },
+      { "title": "西门少年", "year": 2020, "context": "总决赛 · 与李宇春合唱" }
+    ]
+  },
+  {
+    "id": "movies",
+    "title": "影视原声",
+    "pinyin": "Yǐng Shì Yuán Shēng",
+    "english": "Films & TV Soundtracks",
+    "cover": "https://placehold.co/500x500/8E24AA/fff?font=noto-sans-sc&text=影视原声",
+    "context": {
+      "en": "Hua Chenyu's contributions to film and television — main themes, insert songs, and promotional tracks. Several were composed by him personally, including the Wu Kong anthem \"齐天\" (2017, for the film 悟空传) and the Doupo Cangqiong theme \"寒鸦少年\" (2018). The range here moves from his earliest promotional single \"趁你还年轻\" (2013, for 等风来) through to major studio collaborations like \"Here We Are\" (2016, for 使徒行者)."
+    },
+    "tracks": [
+      { "title": "青春再见", "year": 2013, "context": "《怒放之青春再见》主题曲" },
+      { "title": "Hi！自由", "year": 2013, "context": "《怒放之青春再见》插曲" },
+      { "title": "趁你还年轻", "year": 2013, "context": "《等风来》推广曲" },
+      { "title": "微光", "year": 2015, "context": "《何以笙箫默》插曲" },
+      { "title": "横冲直撞", "year": 2016, "context": "《睡在我上铺的兄弟》插曲" },
+      { "title": "Here We Are", "year": 2016, "context": "《使徒行者》主题曲 · 作曲+演唱" },
+      { "title": "To Be Free", "year": 2016, "context": "《勇士之门》宣传曲" },
+      { "title": "穿心", "year": 2016, "context": "《相爱穿梭千年2》主题曲" },
+      { "title": "齐天", "year": 2017, "context": "《悟空传》主题曲 · 作曲+演唱" },
+      { "title": "寒鸦少年", "year": 2018, "context": "《斗破苍穹》主题曲 · 作曲+演唱" }
+    ]
+  },
+  {
+    "id": "games",
+    "title": "游戏主题曲",
+    "pinyin": "Yóu Xì Zhǔ Tí Qǔ",
+    "english": "Video Game Themes",
+    "cover": "https://placehold.co/500x500/00897B/fff?font=noto-sans-sc&text=游戏主题曲",
+    "context": {
+      "en": "Hua Chenyu's collaborations with major Chinese game publishers. The bulk of these are theme songs for Tencent's battle royale hit 《和平精英》 (Peacekeeper Elite), including the annual anniversary and esports anthems — \"永不熄灭的火焰\" for the 5th anniversary and \"千万次奔向\" for the 7th. Earlier game work includes \"智商二五零,\" the hero theme for 鲁班七号 in 王者荣耀 (2017), and \"代号魂斗罗\" for the 魂斗罗 reboot."
+    },
+    "tracks": [
+      { "title": "智商二五零", "year": 2017, "context": "《王者荣耀》鲁班七号英雄主打歌 · 作曲+演唱" },
+      { "title": "代号魂斗罗", "year": 2017, "context": "《魂斗罗》主题曲" },
+      { "title": "飞行指挥家", "year": 2021, "context": "《和平精英》2周年起飞主题曲" },
+      { "title": "名场面", "year": 2022, "context": "《和平精英》2022 PEL年度主题曲" },
+      { "title": "绝境战神", "year": 2023, "context": "《和平精英》2023电竞年度主题曲" },
+      { "title": "永不熄灭的火焰", "year": 2024, "context": "《和平精英》5周年主题曲 · 作曲+演唱" },
+      { "title": "火花Flame", "year": 2024, "context": "《和平精英》时空协奏·火花协奏曲" },
+      { "title": "千万次奔向", "year": 2026, "context": "《和平精英》7周年主题曲" }
+    ]
+  },
+  {
+    "id": "other-singles",
+    "title": "其他单曲",
+    "pinyin": "Qí Tā Dān Qǔ",
+    "english": "Other Singles & Promos",
+    "cover": "https://placehold.co/500x500/F9A825/fff?font=noto-sans-sc&text=其他单曲",
+    "context": {
+      "en": "Standalone singles, brand campaigns, charity songs, and one-off releases outside the six studio albums. Includes his first solo single \"我和我\" (2013), the experimental \"癌\" (2015), and recent standalone tracks such as \"风之海\" and \"那些我尚未知道的美丽\" (both later collected on 量变临界点). This section also gathers his long-running commercial partnerships with brands like 雪碧 (Sprite) and 六神."
+    },
+    "tracks": [
+      { "title": "我和我", "year": 2013, "context": "首支个人单曲" },
+      { "title": "癌", "year": 2015, "context": "实验性音乐作品" },
+      { "title": "火星情报局", "year": 2016, "context": "网综《火星情报局》主题曲" },
+      { "title": "寻", "year": 2017, "context": "《花儿与少年3·冒险季》主题曲" },
+      { "title": "嗨夏", "year": 2017, "context": "六神广告曲" },
+      { "title": "夏之旅", "year": 2018, "context": "六神广告曲" },
+      { "title": "造物者", "year": 2018, "context": "淘宝造物节主题曲" },
+      { "title": "渴不停", "year": 2020, "context": "雪碧2020主题曲" },
+      { "title": "你要相信这不是最后一天", "year": 2020, "context": "抗疫公益歌曲" },
+      { "title": "无渴不爽", "year": 2021, "context": "雪碧主题曲" },
+      { "title": "肆无惧燥", "year": 2022, "context": "雪碧2022品牌单曲" },
+      { "title": "风之海", "year": 2023, "context": "收录于《量变临界点》" },
+      { "title": "那些我尚未知道的美丽", "year": 2024, "context": "收录于《量变临界点》" }
+    ]
+  }
+]

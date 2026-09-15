@@ -19,6 +19,8 @@ const ROOT = path.join(__dirname, '..');
 const SONGS_DIR = path.join(ROOT, 'data', 'songs');
 const SCHEMA_PATH = path.join(ROOT, 'data', 'song.schema.json');
 const ALBUMS_PATH = path.join(ROOT, 'data', 'albums.json');
+const PROJECTS_PATH = path.join(ROOT, 'data', 'projects.json');
+const PROJECT_SCHEMA_PATH = path.join(ROOT, 'data', 'project.schema.json');
 
 const POS_NAMES = {
   pron: 'pron.', verb: 'v.', noun: 'n.', adj: 'adj.', adv: 'adv.',
@@ -94,6 +96,33 @@ if (fs.existsSync(ALBUMS_PATH)) {
       }
     });
   });
+}
+
+// --- validate projects.json against its schema, cross-check tracks ---
+if (fs.existsSync(PROJECTS_PATH) && fs.existsSync(PROJECT_SCHEMA_PATH)) {
+  const projectSchema = JSON.parse(fs.readFileSync(PROJECT_SCHEMA_PATH, 'utf8'));
+  const validateProjects = ajv.compile(projectSchema);
+  const projects = JSON.parse(fs.readFileSync(PROJECTS_PATH, 'utf8'));
+
+  if (!validateProjects(projects)) {
+    for (const err of validateProjects.errors) {
+      fail(`projects.json: ${err.instancePath || '(root)'} ${err.message}`);
+    }
+  } else {
+    const seenProjectIds = new Set();
+    projects.forEach(project => {
+      if (seenProjectIds.has(project.id)) {
+        fail(`projects.json: duplicate project id "${project.id}"`);
+      }
+      seenProjectIds.add(project.id);
+
+      project.tracks.forEach(track => {
+        if (!songIds.has(track.title)) {
+          warn(`project "${project.id}": track "${track.title}" has no matching transcribed song yet`);
+        }
+      });
+    });
+  }
 }
 
 console.log(`\nChecked ${files.length} song files.`);

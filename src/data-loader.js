@@ -18,6 +18,14 @@ export async function loadAlbums() {
   return albumsCache;
 }
 
+let projectsCache = null;
+export async function loadProjects() {
+  if (projectsCache) return projectsCache;
+  const res = await fetch('data/projects.json');
+  projectsCache = await res.json();
+  return projectsCache;
+}
+
 export async function loadSongIndex() {
   if (songIndexCache) return songIndexCache;
   const res = await fetch('data/songs/_index.json');
