@@ -80,34 +80,58 @@
       <button data-lang="pt">🇧🇷 Português (BR)</button>
     </div>
 
-    <div class="legend">
-      <div class="legend-group">
-        <h4>HSK</h4>
-        <span class="legend-swatch hsk1">HSK 1</span>
-        <span class="legend-swatch hsk2">HSK 2</span>
-        <span class="legend-swatch hsk3">HSK 3</span>
-        <span class="legend-swatch hsk4">HSK 4</span>
-        <span class="legend-swatch hsk5">HSK 5</span>
-        <span class="legend-swatch hsk6">HSK 6</span>
-      </div>
+    <div class="mark-toggle" id="mark-toggle">
+      <button id="toggle-hsk" class="active" data-mark="hsk">
+        <span class="icon">📊</span>HSK colours
+      </button>
+      <button id="toggle-grammar" class="active" data-mark="grammar">
+        <span class="icon">📖</span>Grammar tags
+      </button>
+      <button id="toggle-translation" class="active" data-mark="translation">
+        <span class="icon">🌐</span>Translation
+      </button>
+      <button id="toggle-pinyin" class="active" data-mark="pinyin">
+        <span class="icon">🔤</span>Pinyin
+      </button>
     </div>
 
-    <div class="grammar-glossary">
-      <h3>📖 Grammar Glossary · click POS tags below words</h3>
-      <div class="glossary-grid">
-        <div class="glossary-item" id="gram-pron"><span class="glossary-tag pos-pron">pron.</span><div class="glossary-desc"><strong>Pronoun</strong> — replaces a noun. Ex.: 我 · 你 · 他 · 我的 · 几.</div></div>
-        <div class="glossary-item" id="gram-verb"><span class="glossary-tag pos-verb">v.</span><div class="glossary-desc"><strong>Verb</strong> — action or state. No conjugation. Ex.: 爱 · 问 · 有 · 想 · 看.</div></div>
-        <div class="glossary-item" id="gram-noun"><span class="glossary-tag pos-noun">n.</span><div class="glossary-desc"><strong>Noun</strong> — names beings and things. Ex.: 心 · 情 · 吻 · 月亮.</div></div>
-        <div class="glossary-item" id="gram-adj"><span class="glossary-tag pos-adj">adj.</span><div class="glossary-desc"><strong>Adjective</strong> — predicative without 是. Ex.: 深 · 真 · 轻 · 大.</div></div>
-        <div class="glossary-item" id="gram-adv"><span class="glossary-tag pos-adv">adv.</span><div class="glossary-desc"><strong>Adverb</strong> — before verb/adjective. Ex.: 也 · 不 · 很 · 都 · 已经.</div></div>
-        <div class="glossary-item" id="gram-part"><span class="glossary-tag pos-part">part.</span><div class="glossary-desc"><strong>Particle</strong> — grammatical function. Ex.: 的 · 地 · 得 · 了 · 吗.</div></div>
-        <div class="glossary-item" id="gram-mw"><span class="glossary-tag pos-mw">m.w.</span><div class="glossary-desc"><strong>Measure word</strong> — counts things. Ex.: 个 · 段 · 分 · 只 · 条.</div></div>
-        <div class="glossary-item" id="gram-num"><span class="glossary-tag pos-num">num.</span><div class="glossary-desc"><strong>Numeral</strong> — number. Ex.: 一 · 两 · 三 · 一个 · 一段.</div></div>
-        <div class="glossary-item" id="gram-prep"><span class="glossary-tag pos-prep">prep.</span><div class="glossary-desc"><strong>Preposition</strong> — links terms. Ex.: 在 · 从 · 到 · 给 · 对.</div></div>
-        <div class="glossary-item" id="gram-conj"><span class="glossary-tag pos-conj">conj.</span><div class="glossary-desc"><strong>Conjunction</strong> — links clauses. Ex.: 和 · 但是 · 因为 · 所以.</div></div>
-        <div class="glossary-item" id="gram-intj"><span class="glossary-tag pos-intj">intj.</span><div class="glossary-desc"><strong>Interjection</strong> — emotional expression. Ex.: 啊 · 呢 · 吧 · 哦.</div></div>
+    <details class="collapsible legend-panel">
+      <summary>📊 HSK Colour Legend</summary>
+      <div class="content">
+        <div class="legend">
+          <div class="legend-group">
+            <h4>HSK</h4>
+            <span class="legend-swatch hsk1">HSK 1</span>
+            <span class="legend-swatch hsk2">HSK 2</span>
+            <span class="legend-swatch hsk3">HSK 3</span>
+            <span class="legend-swatch hsk4">HSK 4</span>
+            <span class="legend-swatch hsk5">HSK 5</span>
+            <span class="legend-swatch hsk6">HSK 6</span>
+          </div>
+        </div>
       </div>
-    </div>
+    </details>
+
+    <details class="collapsible grammar-panel">
+      <summary>📖 Grammar Glossary · click POS tags below words</summary>
+      <div class="content">
+        <div class="grammar-glossary">
+          <div class="glossary-grid">
+            <div class="glossary-item" id="gram-pron"><span class="glossary-tag pos-pron">pron.</span><div class="glossary-desc"><strong>Pronoun</strong> — replaces a noun. Ex.: 我 · 你 · 他 · 我的 · 几.</div></div>
+            <div class="glossary-item" id="gram-verb"><span class="glossary-tag pos-verb">v.</span><div class="glossary-desc"><strong>Verb</strong> — action or state. No conjugation. Ex.: 爱 · 问 · 有 · 想 · 看.</div></div>
+            <div class="glossary-item" id="gram-noun"><span class="glossary-tag pos-noun">n.</span><div class="glossary-desc"><strong>Noun</strong> — names beings and things. Ex.: 心 · 情 · 吻 · 月亮.</div></div>
+            <div class="glossary-item" id="gram-adj"><span class="glossary-tag pos-adj">adj.</span><div class="glossary-desc"><strong>Adjective</strong> — predicative without 是. Ex.: 深 · 真 · 轻 · 大.</div></div>
+            <div class="glossary-item" id="gram-adv"><span class="glossary-tag pos-adv">adv.</span><div class="glossary-desc"><strong>Adverb</strong> — before verb/adjective. Ex.: 也 · 不 · 很 · 都 · 已经.</div></div>
+            <div class="glossary-item" id="gram-part"><span class="glossary-tag pos-part">part.</span><div class="glossary-desc"><strong>Particle</strong> — grammatical function. Ex.: 的 · 地 · 得 · 了 · 吗.</div></div>
+            <div class="glossary-item" id="gram-mw"><span class="glossary-tag pos-mw">m.w.</span><div class="glossary-desc"><strong>Measure word</strong> — counts things. Ex.: 个 · 段 · 分 · 只 · 条.</div></div>
+            <div class="glossary-item" id="gram-num"><span class="glossary-tag pos-num">num.</span><div class="glossary-desc"><strong>Numeral</strong> — number. Ex.: 一 · 两 · 三 · 一个 · 一段.</div></div>
+            <div class="glossary-item" id="gram-prep"><span class="glossary-tag pos-prep">prep.</span><div class="glossary-desc"><strong>Preposition</strong> — links terms. Ex.: 在 · 从 · 到 · 给 · 对.</div></div>
+            <div class="glossary-item" id="gram-conj"><span class="glossary-tag pos-conj">conj.</span><div class="glossary-desc"><strong>Conjunction</strong> — links clauses. Ex.: 和 · 但是 · 因为 · 所以.</div></div>
+            <div class="glossary-item" id="gram-intj"><span class="glossary-tag pos-intj">intj.</span><div class="glossary-desc"><strong>Interjection</strong> — emotional expression. Ex.: 啊 · 呢 · 吧 · 哦.</div></div>
+          </div>
+        </div>
+      </div>
+    </details>
 
     <div id="lyrics-container"></div>
   </div>
