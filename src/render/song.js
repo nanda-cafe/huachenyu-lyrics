@@ -38,10 +38,23 @@ export function renderSong(song) {
       const wordTiming = w.startMs != null
         ? ` data-start="${w.startMs}" data-end="${w.endMs ?? ''}"`
         : '';
+      // Only real Hanzi tokens link out to MDBG — non-Hanzi tokens like
+      // "Follow follow" or "Mer" render as plain (non-clickable) spans.
+      const isHanzi = /[\u4e00-\u9fff]/.test(w.hz);
+      // Same fallback pattern as line-level translation: use the
+      // Portuguese gloss if this word has one, otherwise fall back to
+      // English. Most words don't have glossPt yet (see data audit).
+      const glossKey = state.currentLang === 'pt' ? 'glossPt' : 'gloss';
+      const gloss = w[glossKey] || w.gloss;
+      const hzTag = isHanzi
+        ? `<a href="https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=${encodeURIComponent(w.hz)}"
+              target="_blank" rel="noopener noreferrer"
+              class="hz-link ${hskClass}" title="${gloss}">
+             <ruby>${w.hz}<rt>${gloss}</rt></ruby></a>`
+        : `<span class="hz-link ${hskClass}" title="${gloss}">
+             <ruby>${w.hz}<rt>${gloss}</rt></ruby></span>`;
       html += `<div class="word" data-line="${li}" data-word="${wi}"${wordTiming}>
-        <span class="hz-link ${hskClass}" title="${w.gloss}">
-          <ruby>${w.hz}<rt>${w.gloss}</rt></ruby>
-        </span>
+        ${hzTag}
         <div class="py">${w.py}</div>`;
       if (w.pos && w.posName) {
         html += `<a href="#gram-${w.pos}" class="pos pos-${w.pos}">${w.posName}</a>`;
@@ -60,6 +73,10 @@ export function renderSong(song) {
       e.preventDefault();
       const target = document.querySelector(this.getAttribute('href'));
       if (!target) return;
+      // The glossary is now inside a collapsible <details> panel — open it
+      // if collapsed, otherwise the scroll-to below would land on a hidden element.
+      const parentDetails = target.closest('details.collapsible');
+      if (parentDetails && !parentDetails.open) parentDetails.open = true;
       target.style.background = '#fff7d6';
       setTimeout(() => { target.style.background = ''; }, 1400);
       target.scrollIntoView({ behavior: 'smooth', block: 'center' });

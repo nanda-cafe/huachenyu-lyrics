@@ -218,6 +218,59 @@
   .lang-toggle button.active{background:var(--accent);color:#fff;border-color:var(--accent);}
   .lang-toggle button:hover:not(.active){border-color:#999;}
 
+  /* ═══ Mark toggles: HSK colours / Grammar tags / Translation / Pinyin ═══ */
+  .mark-toggle{display:flex;justify-content:center;flex-wrap:wrap;gap:8px;margin-bottom:16px;}
+  .mark-toggle button{
+    padding:6px 14px;border-radius:20px;border:1.5px solid #ccc;
+    background:var(--card);cursor:pointer;font-size:0.78rem;font-family:inherit;
+    font-weight:600;color:#999;transition:all 0.2s;
+    display:inline-flex;align-items:center;gap:6px;
+  }
+  .mark-toggle button .icon{font-size:0.9rem;line-height:1;}
+  .mark-toggle button.active{color:#444;border-color:#999;}
+  .mark-toggle button:hover:not(.active){border-color:#aaa;}
+
+  /* ═══ Body-class driven visibility for the mark toggles above ═══ */
+  /* HSK off: remove the coloured underline (character stays), hide the legend */
+  body.hide-hsk .hz-link{border-bottom-color:transparent !important;}
+
+  /* Grammar off: hide POS tags below words and the glossary panel */
+  body.hide-grammar #lyrics-container .pos{visibility:hidden;}
+
+  /* Translation off: hide the sentence translation AND the literal gloss */
+  body.hide-translation .translation{display:none;}
+  body.hide-translation .hz-link ruby rt{display:none;}
+
+  /* Pinyin off: hide the pinyin line under each character */
+  body.hide-pinyin .py{display:none;}
+
+  /* ═══ Collapsible panels (HSK legend, Grammar glossary) ═══ */
+  details.collapsible{
+    margin-bottom:20px;border:1px solid #eee;border-radius:10px;
+    background:#fafafa;overflow:hidden;
+  }
+  details.collapsible > summary{
+    padding:12px 16px;cursor:pointer;font-size:0.82rem;
+    font-weight:700;color:#555;text-transform:uppercase;
+    letter-spacing:1px;display:flex;align-items:center;
+    gap:10px;list-style:none;transition:background 0.15s;
+    user-select:none;
+  }
+  details.collapsible > summary::-webkit-details-marker{display:none;}
+  details.collapsible > summary::before{
+    content:'▸';display:inline-block;color:#999;
+    transition:transform 0.2s;font-size:0.9rem;width:12px;
+    text-align:center;
+  }
+  details.collapsible[open] > summary::before{transform:rotate(90deg);}
+  details.collapsible > summary:hover{background:#f0f0f0;}
+  details.collapsible[open] > summary{
+    border-bottom:1px solid #eee;background:#f5f5f5;
+  }
+  details.collapsible > .content{padding:14px 16px;}
+  body.hide-hsk details.legend-panel{display:none;}
+  body.hide-grammar details.grammar-panel{display:none;}
+
   .legend{
     display:flex;flex-wrap:wrap;gap:16px;margin-bottom:20px;padding:10px 14px;
     background:#fafafa;border:1px solid #eee;border-radius:8px;font-size:0.8rem;
@@ -262,7 +315,7 @@
   .line:last-child{border-bottom:none;}
   .words{display:flex;flex-wrap:wrap;gap:16px;align-items:flex-end;margin-bottom:6px;}
   .word{display:flex;flex-direction:column;align-items:center;min-width:42px;}
-  .hz-link{text-decoration:none;display:inline-block;border-bottom:2.5px solid #999;padding-bottom:1px;}
+  .hz-link{text-decoration:none;display:inline-block;border-bottom:2.5px solid #999;padding-bottom:1px;cursor:pointer;}
   .hz-link.hsk1{border-bottom-color:var(--hsk1);}
   .hz-link.hsk2{border-bottom-color:var(--hsk2);}
   .hz-link.hsk3{border-bottom-color:var(--hsk3);}
