@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Project",
+  "description": "A non-album grouping of performances: a TV show run, a film/game soundtrack collection, or a singles bucket.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "title", "pinyin", "english", "cover", "context", "tracks"],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "title": { "type": "string", "minLength": 1 },
+      "pinyin": { "type": "string" },
+      "english": { "type": "string" },
+      "cover": {
+        "type": "string",
+        "description": "Either an image URL or a CSS gradient/color string, same convention as albums.json."
+      },
+      "context": {
+        "type": "object",
+        "required": ["en"],
+        "properties": {
+          "en": { "type": "string" },
+          "pt": { "type": "string" }
+        },
+        "additionalProperties": { "type": "string" }
+      },
+      "tracks": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["title", "year", "context"],
+          "properties": {
+            "title": { "type": "string", "minLength": 1 },
+            "year": { "type": "integer", "minimum": 2000, "maximum": 2100 },
+            "context": { "type": "string", "description": "Episode number, date, original singer, or other performance-specific note." }
+          }
+        }
+      }
+    }
+  }
+}

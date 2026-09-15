@@ -1,19 +1,22 @@
-import { loadAlbums, loadSongIndex } from '../data-loader.js';
+import { loadAlbums, loadProjects, loadSongIndex } from '../data-loader.js';
 import { navigate } from '../router.js';
 import { coverStyle, isImageCover, songsInAlbum } from './helpers.js';
 
 export async function showHome() {
   document.title = '华晨宇歌词库 · Hua Chenyu Annotated Lyrics';
 
-  const [albums, songIndex] = await Promise.all([loadAlbums(), loadSongIndex()]);
+  const [albums, projects, songIndex] = await Promise.all([
+    loadAlbums(), loadProjects(), loadSongIndex()
+  ]);
   const singles = songIndex.filter(s => s.single);
 
   const statEl = document.getElementById('db-stats');
   const totalSongs = songIndex.length;
   const totalAlbums = albums.length;
+  const totalProjects = projects.length;
   statEl.textContent = totalSongs === 0
     ? 'Database empty — add songs under data/songs/'
-    : `${totalSongs} song${totalSongs === 1 ? '' : 's'} · ${totalAlbums} album${totalAlbums === 1 ? '' : 's'}` +
+    : `${totalSongs} song${totalSongs === 1 ? '' : 's'} · ${totalAlbums} album${totalAlbums === 1 ? '' : 's'} · ${totalProjects} project${totalProjects === 1 ? '' : 's'}` +
       (singles.length ? ` · ${singles.length} single${singles.length === 1 ? '' : 's'}` : '');
 
   const grid = document.getElementById('album-grid');
@@ -43,7 +46,42 @@ export async function showHome() {
     card.addEventListener('click', () => navigate('album/' + card.dataset.album));
   });
 
+  renderProjects(projects, songIndex);
   renderSingles(singles);
+}
+
+function renderProjects(projects, songIndex) {
+  const grid = document.getElementById('project-grid');
+  if (!grid) return;
+
+  const knownTitles = new Set(songIndex.map(s => s.title));
+
+  grid.innerHTML = projects.map(project => {
+    const uniqueTitles = [...new Set(project.tracks.map(t => t.title))];
+    const available = uniqueTitles.filter(t => knownTitles.has(t)).length;
+    const total = uniqueTitles.length;
+    const complete = available === total && total > 0;
+    const badge = complete
+      ? '<span class="complete-badge">✓ Complete</span>'
+      : `<span class="progress-badge">${available}/${total}</span>`;
+    const showTitle = !isImageCover(project.cover);
+    return `<div class="album-card ${complete ? '' : 'incomplete'}" data-project="${project.id}">
+      <div class="album-cover" style="${coverStyle(project.cover)}">
+        ${showTitle ? `<div class="cover-hz">${project.title}</div>` : ''}
+        ${badge}
+      </div>
+      <div class="album-info">
+        <div class="a-title">${project.title}</div>
+        <div class="a-pinyin">${project.pinyin}</div>
+        <div class="a-english">${project.english}</div>
+        <div class="a-meta">${total} tracks</div>
+      </div>
+    </div>`;
+  }).join('');
+
+  grid.querySelectorAll('.album-card').forEach(card => {
+    card.addEventListener('click', () => navigate('project/' + card.dataset.project));
+  });
 }
 
 function renderSingles(singles) {
