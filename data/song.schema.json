@@ -12,6 +12,7 @@
     },
     "title": { "type": "string", "minLength": 1 },
     "titlePinyin": { "type": "string" },
+    "english": { "type": "string", "description": "Optional English title. Omit entirely if not yet translated — the header and search suggestions simply skip this line when absent." },
     "artist": { "type": "string", "minLength": 1 },
     "meta": { "type": "string" },
     "lines": {

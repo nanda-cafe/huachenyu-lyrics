@@ -41,6 +41,7 @@ const index = files.map(file => {
     id: song.id,
     title: song.title,
     titlePinyin: song.titlePinyin,
+    english: song.english || '', // optional — '' when not yet translated
     meta: song.meta || '',
     minHsk,
     // A song with no album referencing its title is a single — it gets

@@ -5,6 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>华晨宇歌词库 · Hua Chenyu Annotated Lyrics</title>
 <link rel="stylesheet" href="/styles/main.css">
+<script>
+  // Runs before first paint so the page never flashes the wrong theme.
+  (function(){
+    var t = localStorage.getItem('hcy-theme');
+    if (!t) t = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
 </head>
 <body>
 
@@ -15,6 +23,7 @@
     <input type="text" id="search-input" placeholder="搜索华晨宇歌曲 · Search Hua Chenyu songs (拼音 or 汉字)…" autocomplete="off" spellcheck="false">
     <button class="clear-btn" id="clear-btn" title="Clear">✕</button>
   </div>
+  <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark / light mode" title="Toggle dark / light mode">☀️</button>
   <div class="suggestions" id="suggestions"></div>
 </div>
 
@@ -71,9 +80,12 @@
     <header class="song-header">
       <h1 id="song-title"></h1>
       <div class="pinyin-title" id="song-title-pinyin"></div>
+      <div class="english-title" id="song-title-english"></div>
       <div class="artist" id="song-artist"></div>
       <div class="song-meta" id="song-meta"></div>
     </header>
+
+    <div class="stream-icons" id="stream-icons"></div>
 
     <div class="lang-toggle" id="lang-toggle">
       <button data-lang="en" class="active">🇬🇧 English</button>
