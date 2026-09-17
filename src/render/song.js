@@ -1,6 +1,7 @@
 import { loadAlbums, loadSong } from '../data-loader.js';
 import { navigate } from '../router.js';
 import { state } from '../state.js';
+import { renderStreamButtons } from './streaming.js';
 
 let currentSong = null;
 
@@ -19,10 +20,14 @@ export async function showSong(songId) {
 export function renderSong(song) {
   document.getElementById('song-title').textContent = song.title;
   document.getElementById('song-title-pinyin').textContent = song.titlePinyin;
+  const englishEl = document.getElementById('song-title-english');
+  if (song.english) { englishEl.textContent = song.english; englishEl.style.display = ''; }
+  else { englishEl.style.display = 'none'; }
   document.getElementById('song-artist').textContent = song.artist;
   const metaEl = document.getElementById('song-meta');
   if (song.meta) { metaEl.textContent = song.meta; metaEl.style.display = ''; }
   else { metaEl.style.display = 'none'; }
+  document.getElementById('stream-icons').innerHTML = renderStreamButtons(song);
   document.title = `${song.title} · 华晨宇歌词库`;
 
   let html = '';

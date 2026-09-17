@@ -1,58 +1,78 @@
 import { loadSongIndex } from './data-loader.js';
 import { navigate } from './router.js';
 
-const HSK_COLORS = {
-  1: '#E53935', 2: '#FB8C00', 3: '#F9A825',
-  4: '#43A047', 5: '#1E88E5', 6: '#8E24AA'
-};
-
 let activeSuggestionIndex = -1;
 
-function normalizePinyin(str) {
-  return str.toLowerCase()
-    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-    .replace(/\s+/g, '');
+const esc = s => String(s).replace(/[&<>"]/g, c =>
+  ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+// Strips tone marks/diacritics and ignores spaces/apostrophes/middle-dots,
+// while keeping a map back to the original string's character positions —
+// so a match found in the normalized text can still be highlighted at the
+// correct spot in the real (accented) pinyin string.
+function pinyinIndex(s) {
+  let text = '', map = [];
+  for (let i = 0; i < s.length; i++) {
+    const d = s[i].normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    for (const c of d) {
+      if (c === ' ' || c === '\u2019' || c === "'" || c === '\u00b7') continue;
+      text += c;
+      map.push(i);
+    }
+  }
+  return { text, map };
+}
+
+function highlightPlain(text, q) {
+  const nq = q.trim().toLowerCase();
+  if (!nq) return esc(text);
+  const i = text.toLowerCase().indexOf(nq);
+  if (i === -1) return esc(text);
+  return esc(text.slice(0, i)) + '<mark>' + esc(text.slice(i, i + nq.length)) +
+    '</mark>' + esc(text.slice(i + nq.length));
+}
+
+function highlightPinyin(py, q) {
+  const { text, map } = pinyinIndex(py);
+  const nq = pinyinIndex(q).text;
+  if (!nq) return esc(py);
+  const i = text.indexOf(nq);
+  if (i === -1) return esc(py);
+  const s = map[i], e = map[i + nq.length - 1] + 1;
+  return esc(py.slice(0, s)) + '<mark>' + esc(py.slice(s, e)) +
+    '</mark>' + esc(py.slice(e));
+}
+
+// Hanzi + Pinyin only — English titles are intentionally display-only,
+// never matched against, per the site's search design.
+function matches(song, q) {
+  const nq = q.trim().toLowerCase();
+  if (!nq) return false;
+  if (song.title.toLowerCase().includes(nq)) return true;
+  const py = pinyinIndex(song.titlePinyin).text;
+  const query = pinyinIndex(nq).text;
+  return query.length > 0 && py.includes(query);
 }
 
 async function searchSongs(query) {
   if (!query.trim()) return [];
-  const q = query.trim().toLowerCase();
-  const qNorm = normalizePinyin(q);
-  const qHanzi = /[\u4e00-\u9fff]/.test(q);
   const songIndex = await loadSongIndex();
-
-  return songIndex.filter(song => {
-    const titleMatch = song.title.toLowerCase().includes(q);
-    const pinyinMatch = normalizePinyin(song.titlePinyin).includes(qNorm);
-    const hanziMatch = qHanzi && song.title.includes(q);
-    return titleMatch || pinyinMatch || hanziMatch;
-  }).slice(0, 8);
-}
-
-function highlightMatch(text, query) {
-  if (!query) return text;
-  const idx = text.toLowerCase().indexOf(query.toLowerCase());
-  if (idx === -1) return text;
-  return text.slice(0, idx) + '<mark style="background:#fff3cd;padding:0 2px;border-radius:2px;">' +
-    text.slice(idx, idx + query.length) + '</mark>' + text.slice(idx + query.length);
+  return songIndex.filter(song => matches(song, query)).slice(0, 8);
 }
 
 function renderSuggestions(suggestionsEl, results, query) {
   if (results.length === 0) {
-    suggestionsEl.innerHTML = '<div class="no-results">No songs found. Try another title.</div>';
+    suggestionsEl.innerHTML = '<div class="no-results">No songs found.</div>';
     suggestionsEl.classList.add('open');
     return;
   }
-  suggestionsEl.innerHTML = results.map((song, i) => {
-    const minHsk = song.minHsk || 1;
-    const hskColor = HSK_COLORS[minHsk] || HSK_COLORS[1];
-    return `<div class="suggestion-item" data-index="${i}" data-id="${song.id}">
-      <span class="sg-hz">${highlightMatch(song.title, query)}</span>
-      <span class="sg-py">${highlightMatch(song.titlePinyin, query)}</span>
-      <span class="sg-hsk" style="background:${hskColor}">HSK ${minHsk}</span>
-      <span class="sg-album">${(song.meta || '').split('·')[0].trim()}</span>
-    </div>`;
-  }).join('');
+  suggestionsEl.innerHTML = results.map((song, i) => `
+    <div class="suggestion-item" data-index="${i}" data-id="${song.id}">
+      <span class="sg-hz">${highlightPlain(song.title, query)}</span>
+      <span class="sg-py">${highlightPinyin(song.titlePinyin, query)}</span>
+      <span class="sg-english">${esc(song.english || '')}</span>
+      <span class="sg-album">${esc((song.meta || '').split('\u00b7')[0].trim())}</span>
+    </div>`).join('');
   suggestionsEl.classList.add('open');
   activeSuggestionIndex = -1;
 }

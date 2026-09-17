@@ -46,5 +46,27 @@ document.getElementById('mark-toggle').addEventListener('click', (e) => {
 });
 
 applyMarks();
+
+// ── Theme (dark/light) ──
+// The <head> inline script already set the initial data-theme attribute
+// before first paint (avoids a flash of the wrong theme). This just
+// wires up the toggle button and keeps the icon in sync.
+const THEME_KEY = 'hcy-theme';
+const themeBtn = document.getElementById('theme-toggle');
+
+function syncThemeIcon() {
+  const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  themeBtn.textContent = isDark ? '☀️' : '🌙';
+  themeBtn.title = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+}
+syncThemeIcon();
+
+themeBtn.addEventListener('click', () => {
+  const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+  document.documentElement.setAttribute('data-theme', next);
+  localStorage.setItem(THEME_KEY, next);
+  syncThemeIcon();
+});
+
 initSearch();
 initRouter();
